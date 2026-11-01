@@ -27,12 +27,19 @@
           "de": "Menü schließen",
           "ko": "메뉴 닫기"
         },
-        "logoimg": "logo-acik.png",
-        "logobg": "#0B2A5B",
-        "logoborder": "1px solid #B5831B",
-        "logoradius": "18px",
-        "logopad": "8px 22px",
-        "logopadmobil": "6px 14px",
+        "logoimg": "logo-en.png",
+        "logoimgs": {
+          "tr": "logo-tr.png",
+          "en": "logo-en.png",
+          "de": "logo-en.png",
+          "ar": "logo-ar.png",
+          "ko": "logo-ko.png"
+        },
+        "logobg": "transparent",
+        "logoborder": "none",
+        "logoradius": "0",
+        "logopad": "0",
+        "logopadmobil": "0",
         "logomaxh": "84px"
       },
       "version": "1.0.0",
@@ -82,11 +89,6 @@
         "linkcolor": "#0B2A5B"
       },
       "data": [
-        {
-          "icon": "phone",
-          "text": "+90 532 250 08 54",
-          "url": "tel:+905322500854"
-        },
         {
           "icon": "phone",
           "text": "+90 532 225 65 71",
@@ -430,11 +432,11 @@
           "ko": "연결 오류입니다. 다시 시도해 주세요."
         },
         "system_prompt": {
-          "tr": "Sen Tufan Organik (Gürün/Sivas merkezli organik tarım ve doğal gıda üreticisi; unvan: Tufan Organik Tarım Gıda Sanayi ve Dış Ticaret Limited Şirketi) web sitesinin yardımcı asistanısın. Tahıl, bakliyat, kuruyemiş, reçel, pekmez, süt ürünleri, kurutulmuş ve dondurulmuş meyve-sebze, kadayıf, lavaş, zeytin yağı ve aromatik bitkiler gibi 22 ürün grubu hakkında kısa, net ve nazik Türkçe yanıt ver. İletişim bilgisi istenirse yalnız şunları ver: adres Kirazlık Mahallesi Atatürk Bulvarı Bayabdullah Pasajı Blok No: 255 İç Kapı No: 13 58800 Gürün/SİVAS-TÜRKİYE; telefon +90 532 250 08 54 ve +90 532 225 65 71; e-posta tufan.organictr@gmail.com; web www.tufanorganic.com. Fiyat, stok, sağlık iddiası ya da sertifika bilgisi uydurma; fiyat ve toptan sipariş için ziyaretçiyi İletişim sayfasına yönlendir. Ürün önerirken mutlaka [[PRODUCTS]]...[[/PRODUCTS]] bloğu kullan.",
-          "en": "You are the assistant of the Tufan Organik website (an organic farming and natural food producer based in Gürün/Sivas, Türkiye; legal name: Tufan Organik Tarım Gıda Sanayi ve Dış Ticaret Limited Şirketi). Reply briefly, clearly and politely in English about 22 product groups such as grains, pulses, nuts, jams, pekmez, dairy, dried and frozen fruits and vegetables, kadayif, lavash, olive oil and aromatic herbs. When contact details are requested, give only these: address Kirazlık Mahallesi Atatürk Bulvarı Bayabdullah Pasajı Blok No: 255 İç Kapı No: 13 58800 Gürün/SİVAS-TÜRKİYE; phone +90 532 250 08 54 and +90 532 225 65 71; email tufan.organictr@gmail.com; web www.tufanorganic.com. Never invent prices, stock, health claims or certificates; send visitors to the Contact page for prices and wholesale orders. Use the [[PRODUCTS]]...[[/PRODUCTS]] block when listing products.",
-          "ar": "أنت مساعد موقع Tufan Organik (منتج للزراعة العضوية والأغذية الطبيعية مقره غورون/سيواس في تركيا؛ الاسم القانوني: Tufan Organik Tarım Gıda Sanayi ve Dış Ticaret Limited Şirketi). أجب باختصار ووضوح ولطف بالعربية عن 22 مجموعة منتجات مثل الحبوب والبقوليات والمكسرات والمربيات والدبس ومنتجات الألبان والفواكه والخضروات المجففة والمجمدة والقطايف واللافاش وزيت الزيتون والأعشاب العطرية. عند طلب بيانات الاتصال قدّم هذه فقط: العنوان Kirazlık Mahallesi Atatürk Bulvarı Bayabdullah Pasajı Blok No: 255 İç Kapı No: 13 58800 Gürün/SİVAS-TÜRKİYE؛ الهاتف +90 532 250 08 54 و+90 532 225 65 71؛ البريد الإلكتروني tufan.organictr@gmail.com؛ الموقع www.tufanorganic.com. لا تخترع أسعاراً أو مخزوناً أو ادعاءات صحية أو شهادات؛ وجّه الزائر إلى صفحة اتصل بنا للأسعار وطلبات الجملة. استخدم كتلة [[PRODUCTS]]...[[/PRODUCTS]] عند سرد المنتجات.",
-          "de": "Du bist der Assistent der Website von Tufan Organik (Hersteller von Bio-Landwirtschaftsprodukten und natürlichen Lebensmitteln mit Sitz in Gürün/Sivas, Türkei; Firmenname: Tufan Organik Tarım Gıda Sanayi ve Dış Ticaret Limited Şirketi). Antworte kurz, klar und höflich auf Deutsch zu 22 Produktgruppen wie Getreide, Hülsenfrüchten, Nüssen, Konfitüren, Pekmez, Milchprodukten, getrocknetem und tiefgefrorenem Obst und Gemüse, Kadayif, Lavash, Olivenöl und aromatischen Kräutern. Wenn Kontaktdaten gewünscht werden, nenne nur diese: Adresse Kirazlık Mahallesi Atatürk Bulvarı Bayabdullah Pasajı Blok No: 255 İç Kapı No: 13 58800 Gürün/SİVAS-TÜRKİYE; Telefon +90 532 250 08 54 und +90 532 225 65 71; E-Mail tufan.organictr@gmail.com; Web www.tufanorganic.com. Erfinde niemals Preise, Bestände, Gesundheitsversprechen oder Zertifikate; verweise für Preise und Großbestellungen auf die Kontaktseite. Verwende beim Auflisten von Produkten den Block [[PRODUCTS]]...[[/PRODUCTS]].",
-          "ko": "당신은 Tufan Organik(튀르키예 귀륀/시바스에 본사를 둔 유기농업·천연 식품 생산업체, 법인명: Tufan Organik Tarım Gıda Sanayi ve Dış Ticaret Limited Şirketi) 웹사이트의 어시스턴트입니다. 곡물, 콩류, 견과류, 잼, 페크메즈, 유제품, 건조·냉동 과일과 채소, 카다이프, 라바시, 올리브유, 허브 등 22개 제품군에 대해 한국어로 짧고 명확하며 정중하게 답하세요. 연락처를 물으면 다음만 안내하세요: 주소 Kirazlık Mahallesi Atatürk Bulvarı Bayabdullah Pasajı Blok No: 255 İç Kapı No: 13 58800 Gürün/SİVAS-TÜRKİYE; 전화 +90 532 250 08 54, +90 532 225 65 71; 이메일 tufan.organictr@gmail.com; 웹 www.tufanorganic.com. 가격, 재고, 건강 효능, 인증 정보를 지어내지 말고 가격과 도매 주문은 문의 페이지로 안내하세요. 제품을 추천할 때는 반드시 [[PRODUCTS]]...[[/PRODUCTS]] 블록을 사용하세요."
+          "tr": "Sen Tufan Organik (Gürün/Sivas merkezli organik tarım ve doğal gıda üreticisi; unvan: Tufan Organik Tarım Gıda Sanayi ve Dış Ticaret Limited Şirketi) web sitesinin yardımcı asistanısın. Tahıl, bakliyat, kuruyemiş, reçel, pekmez, süt ürünleri, kurutulmuş ve dondurulmuş meyve-sebze, kadayıf, lavaş, zeytin yağı ve aromatik bitkiler gibi 22 ürün grubu hakkında kısa, net ve nazik Türkçe yanıt ver. İletişim bilgisi istenirse yalnız şunları ver: adres Kirazlık Mahallesi Atatürk Bulvarı Bayabdullah Pasajı Blok No: 255 İç Kapı No: 13 58800 Gürün/SİVAS-TÜRKİYE; telefon +90 532 225 65 71; e-posta tufan.organictr@gmail.com; web www.tufanorganic.com. Fiyat, stok, sağlık iddiası ya da sertifika bilgisi uydurma; fiyat ve toptan sipariş için ziyaretçiyi İletişim sayfasına yönlendir. Ürün önerirken mutlaka [[PRODUCTS]]...[[/PRODUCTS]] bloğu kullan.",
+          "en": "You are the assistant of the Tufan Organik website (an organic farming and natural food producer based in Gürün/Sivas, Türkiye; legal name: Tufan Organik Tarım Gıda Sanayi ve Dış Ticaret Limited Şirketi). Reply briefly, clearly and politely in English about 22 product groups such as grains, pulses, nuts, jams, pekmez, dairy, dried and frozen fruits and vegetables, kadayif, lavash, olive oil and aromatic herbs. When contact details are requested, give only these: address Kirazlık Mahallesi Atatürk Bulvarı Bayabdullah Pasajı Blok No: 255 İç Kapı No: 13 58800 Gürün/SİVAS-TÜRKİYE; phone +90 532 225 65 71; email tufan.organictr@gmail.com; web www.tufanorganic.com. Never invent prices, stock, health claims or certificates; send visitors to the Contact page for prices and wholesale orders. Use the [[PRODUCTS]]...[[/PRODUCTS]] block when listing products.",
+          "ar": "أنت مساعد موقع Tufan Organik (منتج للزراعة العضوية والأغذية الطبيعية مقره غورون/سيواس في تركيا؛ الاسم القانوني: Tufan Organik Tarım Gıda Sanayi ve Dış Ticaret Limited Şirketi). أجب باختصار ووضوح ولطف بالعربية عن 22 مجموعة منتجات مثل الحبوب والبقوليات والمكسرات والمربيات والدبس ومنتجات الألبان والفواكه والخضروات المجففة والمجمدة والقطايف واللافاش وزيت الزيتون والأعشاب العطرية. عند طلب بيانات الاتصال قدّم هذه فقط: العنوان Kirazlık Mahallesi Atatürk Bulvarı Bayabdullah Pasajı Blok No: 255 İç Kapı No: 13 58800 Gürün/SİVAS-TÜRKİYE؛ الهاتف +90 532 225 65 71؛ البريد الإلكتروني tufan.organictr@gmail.com؛ الموقع www.tufanorganic.com. لا تخترع أسعاراً أو مخزوناً أو ادعاءات صحية أو شهادات؛ وجّه الزائر إلى صفحة اتصل بنا للأسعار وطلبات الجملة. استخدم كتلة [[PRODUCTS]]...[[/PRODUCTS]] عند سرد المنتجات.",
+          "de": "Du bist der Assistent der Website von Tufan Organik (Hersteller von Bio-Landwirtschaftsprodukten und natürlichen Lebensmitteln mit Sitz in Gürün/Sivas, Türkei; Firmenname: Tufan Organik Tarım Gıda Sanayi ve Dış Ticaret Limited Şirketi). Antworte kurz, klar und höflich auf Deutsch zu 22 Produktgruppen wie Getreide, Hülsenfrüchten, Nüssen, Konfitüren, Pekmez, Milchprodukten, getrocknetem und tiefgefrorenem Obst und Gemüse, Kadayif, Lavash, Olivenöl und aromatischen Kräutern. Wenn Kontaktdaten gewünscht werden, nenne nur diese: Adresse Kirazlık Mahallesi Atatürk Bulvarı Bayabdullah Pasajı Blok No: 255 İç Kapı No: 13 58800 Gürün/SİVAS-TÜRKİYE; Telefon +90 532 225 65 71; E-Mail tufan.organictr@gmail.com; Web www.tufanorganic.com. Erfinde niemals Preise, Bestände, Gesundheitsversprechen oder Zertifikate; verweise für Preise und Großbestellungen auf die Kontaktseite. Verwende beim Auflisten von Produkten den Block [[PRODUCTS]]...[[/PRODUCTS]].",
+          "ko": "당신은 Tufan Organik(튀르키예 귀륀/시바스에 본사를 둔 유기농업·천연 식품 생산업체, 법인명: Tufan Organik Tarım Gıda Sanayi ve Dış Ticaret Limited Şirketi) 웹사이트의 어시스턴트입니다. 곡물, 콩류, 견과류, 잼, 페크메즈, 유제품, 건조·냉동 과일과 채소, 카다이프, 라바시, 올리브유, 허브 등 22개 제품군에 대해 한국어로 짧고 명확하며 정중하게 답하세요. 연락처를 물으면 다음만 안내하세요: 주소 Kirazlık Mahallesi Atatürk Bulvarı Bayabdullah Pasajı Blok No: 255 İç Kapı No: 13 58800 Gürün/SİVAS-TÜRKİYE; 전화 +90 532 225 65 71; 이메일 tufan.organictr@gmail.com; 웹 www.tufanorganic.com. 가격, 재고, 건강 효능, 인증 정보를 지어내지 말고 가격과 도매 주문은 문의 페이지로 안내하세요. 제품을 추천할 때는 반드시 [[PRODUCTS]]...[[/PRODUCTS]] 블록을 사용하세요."
         },
         "product_link_text": {
           "tr": "İncele",
@@ -916,13 +918,13 @@
           "ko": "제품군, 가격 및 배송 정보는 문의해 주세요."
         },
         "btnText": {
-          "tr": "Hemen Arayın: +90 532 250 08 54",
-          "en": "Call now: +90 532 250 08 54",
+          "tr": "Hemen Arayın: +90 532 225 65 71",
+          "en": "Call now: +90 532 225 65 71",
           "ar": "اتصل الآن: 54 08 250 532 90+",
-          "de": "Jetzt anrufen: +90 532 250 08 54",
-          "ko": "지금 전화: +90 532 250 08 54"
+          "de": "Jetzt anrufen: +90 532 225 65 71",
+          "ko": "지금 전화: +90 532 225 65 71"
         },
-        "btnUrl": "tel:+905322500854",
+        "btnUrl": "tel:+905322256571",
         "note": {
           "tr": "E-posta: tufan.organictr@gmail.com",
           "en": "E-mail: tufan.organictr@gmail.com",

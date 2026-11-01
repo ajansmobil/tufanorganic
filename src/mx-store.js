@@ -709,7 +709,34 @@
     if (/[\x00-\x1f\x7f]/.test(q) || q.charAt(1) === "/" || q.charAt(1) === "\\" || q.indexOf("\\") !== -1) {
       return false;
     }
-    if (q.indexOf("://") !== -1 || /^\
+    if (q.indexOf("://") !== -1 || /^[\/]*[a-z][a-z0-9+.\-]*:/i.test(q)) {
+      return false;
+    }
+    try {
+      var origin = window.location && window.location.origin;
+      if (origin && new window.URL(q, origin).origin !== origin) {
+        return false;
+      }
+    } catch (e) {
+      return false;
+    }
+    return true;
+  }
+
+  function donusYolu(varsayilan) {
+    var q = "";
+    try {
+      q = new window.URL(window.location.href).searchParams.get("donus") || "";
+    } catch (e) {
+      q = "";
+    }
+    if (guvenliDonus(q)) {
+      return q;
+    }
+    return varsayilan || "";
+  }
+
+  
   
   
 
