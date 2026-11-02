@@ -1,11 +1,11 @@
 {
   "name": {
     "tr": "Unlu Mamulleri",
-    "en": "Bakery Products",
-    "ar": "منتجات المخبوزات",
-    "de": "Backwaren",
-    "ko": "베이커리 제품",
-    "ja": "パン・製菓製品"
+    "en": "Flour & Flour Products",
+    "ar": "الدقيق ومشتقاته",
+    "de": "Mehl & Mehlprodukte",
+    "ko": "밀가루 및 가루 제품",
+    "ja": "小麦粉・粉類製品"
   },
   "status": "play",
   "category": "",
@@ -14,19 +14,19 @@
   "path": "unlu-mamulleri",
   "keyword": {
     "tr": "Tufan Organik, Unlu Mamulleri",
-    "en": "Tufan Organik, Bakery Products",
-    "ar": "Tufan Organik, منتجات المخبوزات",
-    "de": "Tufan Organik, Backwaren",
-    "ja": "Tufan Organik, パン・製菓製品",
-    "ko": "Tufan Organik, 베이커리 제품"
+    "en": "Tufan Organik, Flour & Flour Products",
+    "ar": "Tufan Organik, الدقيق ومشتقاته",
+    "de": "Tufan Organik, Mehl & Mehlprodukte",
+    "ko": "Tufan Organik, 밀가루 및 가루 제품",
+    "ja": "Tufan Organik, 小麦粉・粉類製品"
   },
   "description": {
-    "tr": "Tufan Organik Unlu Mamulleri ürün grubu.",
-    "en": "Tufan Organik Bakery Products product group.",
-    "ar": "مجموعة منتجات منتجات المخبوزات من توفان أورغانيك.",
-    "de": "Tufan Organik Produktgruppe Backwaren.",
-    "ko": "투판 오가닉 베이커리 제품 제품군.",
-    "ja": "Tufan Organik パン・製菓製品の製品グループです。"
+    "tr": "Tufan Organik Unlu Mamulleri ürün grubu: un, irmik, nişasta ve türevleri.",
+    "en": "Tufan Organik flour and flour products: flours, semolina, starch and breadcrumbs.",
+    "ar": "مجموعة الدقيق ومشتقاته من توفان أورغانيك: دقيق وسميد ونشا وفتات الخبز.",
+    "de": "Tufan Organik Mehl und Mehlprodukte: Mehle, Grieß, Stärke und Paniermehl.",
+    "ko": "투판 오가닉 밀가루 및 가루 제품군: 각종 가루, 세몰리나, 전분, 빵가루.",
+    "ja": "Tufan Organik の小麦粉・粉類製品グループ：各種粉、セモリナ、でんぷん、パン粉。"
   },
   "index": 16,
   "icon": "category",
@@ -38,11 +38,11 @@
   "desc": {},
   "title": {
     "tr": "Unlu Mamulleri | Tufan Organik",
-    "en": "Bakery Products | Tufan Organik",
-    "ar": "منتجات المخبوزات | Tufan Organik",
-    "de": "Backwaren | Tufan Organik",
-    "ja": "パン・製菓製品 | Tufan Organik",
-    "ko": "베이커리 제품 | Tufan Organik"
+    "en": "Flour & Flour Products | Tufan Organik",
+    "ar": "الدقيق ومشتقاته | Tufan Organik",
+    "de": "Mehl & Mehlprodukte | Tufan Organik",
+    "ko": "밀가루 및 가루 제품 | Tufan Organik",
+    "ja": "小麦粉・粉類製品 | Tufan Organik"
   },
   "text": {
     "tr": "",
