@@ -1,0 +1,62 @@
+{
+  "id": "f498m1aqmx",
+  "name": {
+    "tr": "Çok Amaçlı Beyaz Un",
+    "en": "All-Purpose White Flour",
+    "ar": "دقيق أبيض متعدد الاستخدامات",
+    "de": "Universalmehl (Weizenmehl Type 550)",
+    "ko": "다목적 밀가루",
+    "ja": "万能小麦粉"
+  },
+  "description": {
+    "tr": "Tufan Organik Çok Amaçlı Beyaz Un, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik All-Purpose White Flour is a natural food from Gürün/Sivas in the Flour & Flour Products range.",
+    "ar": "Tufan Organik دقيق أبيض متعدد الاستخدامات، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Universalmehl (Weizenmehl Type 550) aus der Gruppe Mehl & Mehlprodukte ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
+    "ko": "Tufan Organik 다목적 밀가루은(는) 밀가루 및 가루 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+    "ja": "Tufan Organik 万能小麦粉は、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Çok Amaçlı Beyaz Un, Unlu Mamulleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, All-Purpose White Flour, Flour & Flour Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, دقيق أبيض متعدد الاستخدامات, الدقيق ومشتقاته",
+    "de": "Tufan Organik, Gürün/Sivas, Naturlebensmittel, Universalmehl (Weizenmehl Type 550), Mehl & Mehlprodukte",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 다목적 밀가루, 밀가루 및 가루 제품",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 万能小麦粉, 小麦粉・粉類製品"
+  },
+  "path": "cok-amacli-beyaz-un",
+  "icon": "grain",
+  "category": "c17iqfmey",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 229,
+  "url": "",
+  "text": {
+    "tr": "<h2>Çok Amaçlı Beyaz Un</h2><p>Börek, kek, kurabiye, bulamaç ve günlük mutfak ihtiyaçları için uygun, ince öğütülmüş beyaz un. Topaksız yapısıyla hamura kolay karışır.</p><h3>Kullanım Önerisi</h3><ul><li>Kullanmadan önce eleyerek hava almasını sağlayın.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
+    "en": "<h2>All-Purpose White Flour</h2><p>Finely milled white flour suited to börek, cakes, cookies, batters and everyday cooking. Its lump-free texture mixes easily into dough.</p><h3>Serving Suggestion</h3><ul><li>Sift before use to aerate it.</li></ul><p><strong>Packaging:</strong> Offered in different weights on request.</p>",
+    "ar": "<h2>دقيق أبيض متعدد الاستخدامات</h2><p>دقيق أبيض مطحون ناعماً يناسب البورك والكعك والبسكويت والعجائن السائلة والطبخ اليومي. قوامه الخالي من التكتلات يمتزج بسهولة.</p><h3>اقتراح التقديم</h3><ul><li>اغربلوه قبل الاستخدام ليتهوّى.</li></ul><p><strong>التغليف:</strong> يُقدَّم بأوزان مختلفة حسب الطلب.</p>",
+    "de": "<h2>Universalmehl (Weizenmehl Type 550)</h2><p>Fein vermahlenes Weizenmehl für Börek, Kuchen, Kekse, Teige und den täglichen Gebrauch. Dank der klumpenfreien Struktur lässt es sich leicht einarbeiten.</p><h3>Serviervorschlag</h3><ul><li>Vor Gebrauch sieben, damit es luftig wird.</li></ul><p><strong>Verpackung:</strong> Auf Anfrage in verschiedenen Gewichten erhältlich.</p>",
+    "ko": "<h2>다목적 밀가루</h2><p>뵈렉, 케이크, 쿠키, 반죽 등 일상 요리에 두루 쓰이는 곱게 빻은 밀가루입니다. 덩어리 없이 반죽에 쉽게 섞입니다.</p><h3>활용 팁</h3><ul><li>사용 전에 체에 쳐서 공기를 넣어 주세요.</li></ul><p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>",
+    "ja": "<h2>万能小麦粉</h2><p>ボレキ、ケーキ、クッキー、衣など日常の料理に使える、きめ細かく挽いた小麦粉です。ダマになりにくく、生地に混ぜやすいのが特徴です。</p><h3>おすすめの食べ方</h3><ul><li>使う前にふるいにかけて空気を含ませてください。</li></ul><p><strong>包装:</strong> ご要望に応じて、さまざまな重量でご提供します。</p>"
+  },
+  "title": {
+    "tr": "Çok Amaçlı Beyaz Un | Tufan Organik",
+    "en": "All-Purpose White Flour | Tufan Organik",
+    "ar": "دقيق أبيض متعدد الاستخدامات | Tufan Organik",
+    "de": "Universalmehl (Weizenmehl Type 550) | Tufan Organik",
+    "ko": "다목적 밀가루 | Tufan Organik",
+    "ja": "万能小麦粉 | Tufan Organik"
+  },
+  "date": "2026-11-02T10:42:45.000Z",
+  "update": "2026-11-02T10:42:45.000Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

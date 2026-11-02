@@ -1,0 +1,62 @@
+{
+  "id": "fk96b5oqmq",
+  "name": {
+    "tr": "Çavdar Unu",
+    "en": "Rye Flour",
+    "ar": "دقيق الجاودار",
+    "de": "Roggenmehl",
+    "ko": "호밀가루",
+    "ja": "ライ麦粉"
+  },
+  "description": {
+    "tr": "Tufan Organik Çavdar Unu, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Rye Flour is a natural food from Gürün/Sivas in the Flour & Flour Products range.",
+    "ar": "Tufan Organik دقيق الجاودار، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Roggenmehl aus der Gruppe Mehl & Mehlprodukte ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
+    "ko": "Tufan Organik 호밀가루은(는) 밀가루 및 가루 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+    "ja": "Tufan Organik ライ麦粉は、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Çavdar Unu, Unlu Mamulleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Rye Flour, Flour & Flour Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, دقيق الجاودار, الدقيق ومشتقاته",
+    "de": "Tufan Organik, Gürün/Sivas, Naturlebensmittel, Roggenmehl, Mehl & Mehlprodukte",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 호밀가루, 밀가루 및 가루 제품",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ライ麦粉, 小麦粉・粉類製品"
+  },
+  "path": "cavdar-unu",
+  "icon": "grain",
+  "category": "c17iqfmey",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 230,
+  "url": "",
+  "text": {
+    "tr": "<h2>Çavdar Unu</h2><p>Koyu renkli, kendine has aromalı çavdardan öğütülen, lif bakımından zengin un. Yoğun dokulu ekmek ve fırın ürünleri için tercih edilir.</p><h3>Kullanım Önerisi</h3><ul><li>Buğday unuyla karıştırarak ekmek yapımında kullanın.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
+    "en": "<h2>Rye Flour</h2><p>Fibre-rich flour milled from dark rye with a distinctive aroma. Preferred for dense breads and baked goods.</p><h3>Serving Suggestion</h3><ul><li>Blend with wheat flour when making bread.</li></ul><p><strong>Packaging:</strong> Offered in different weights on request.</p>",
+    "ar": "<h2>دقيق الجاودار</h2><p>دقيق غني بالألياف مطحون من الجاودار الداكن بنكهة مميزة. يُفضَّل للخبز الكثيف والمخبوزات.</p><h3>اقتراح التقديم</h3><ul><li>اخلطوه مع دقيق القمح عند صنع الخبز.</li></ul><p><strong>التغليف:</strong> يُقدَّم بأوزان مختلفة حسب الطلب.</p>",
+    "de": "<h2>Roggenmehl</h2><p>Ballaststoffreiches Mehl aus dunklem Roggen mit eigenem Aroma. Bevorzugt für dichte Brote und Backwaren.</p><h3>Serviervorschlag</h3><ul><li>Beim Brotbacken mit Weizenmehl mischen.</li></ul><p><strong>Verpackung:</strong> Auf Anfrage in verschiedenen Gewichten erhältlich.</p>",
+    "ko": "<h2>호밀가루</h2><p>독특한 향을 지닌 짙은 색 호밀을 빻은 식이섬유가 풍부한 가루입니다. 밀도 높은 빵과 베이킹에 잘 어울립니다.</p><h3>활용 팁</h3><ul><li>빵을 만들 때 밀가루와 섞어 사용하세요.</li></ul><p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>",
+    "ja": "<h2>ライ麦粉</h2><p>独特の香りを持つ濃い色のライ麦を挽いた、食物繊維が豊富な粉です。密度のあるパンや焼き菓子に向いています。</p><h3>おすすめの食べ方</h3><ul><li>パンを作るときは小麦粉と混ぜてお使いください。</li></ul><p><strong>包装:</strong> ご要望に応じて、さまざまな重量でご提供します。</p>"
+  },
+  "title": {
+    "tr": "Çavdar Unu | Tufan Organik",
+    "en": "Rye Flour | Tufan Organik",
+    "ar": "دقيق الجاودار | Tufan Organik",
+    "de": "Roggenmehl | Tufan Organik",
+    "ko": "호밀가루 | Tufan Organik",
+    "ja": "ライ麦粉 | Tufan Organik"
+  },
+  "date": "2026-11-02T10:42:45.000Z",
+  "update": "2026-11-02T10:42:45.000Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

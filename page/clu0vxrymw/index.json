@@ -1,0 +1,62 @@
+{
+  "id": "clu0vxrymw",
+  "name": {
+    "tr": "Mısır Nişastası",
+    "en": "Corn Starch",
+    "ar": "نشا الذرة",
+    "de": "Maisstärke",
+    "ko": "옥수수 전분",
+    "ja": "コーンスターチ"
+  },
+  "description": {
+    "tr": "Tufan Organik Mısır Nişastası, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Corn Starch is a natural food from Gürün/Sivas in the Flour & Flour Products range.",
+    "ar": "Tufan Organik نشا الذرة، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Maisstärke aus der Gruppe Mehl & Mehlprodukte ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
+    "ko": "Tufan Organik 옥수수 전분은(는) 밀가루 및 가루 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+    "ja": "Tufan Organik コーンスターチは、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Mısır Nişastası, Unlu Mamulleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Corn Starch, Flour & Flour Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, نشا الذرة, الدقيق ومشتقاته",
+    "de": "Tufan Organik, Gürün/Sivas, Naturlebensmittel, Maisstärke, Mehl & Mehlprodukte",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 옥수수 전분, 밀가루 및 가루 제품",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, コーンスターチ, 小麦粉・粉類製品"
+  },
+  "path": "misir-nisastasi",
+  "icon": "grain",
+  "category": "c17iqfmey",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 234,
+  "url": "",
+  "text": {
+    "tr": "<h2>Mısır Nişastası</h2><p>Mısırdan elde edilen, tatsız ve kokusuz ince beyaz toz. Sos, çorba ve tatlıları kıvamlandırmak ve keklere hafiflik katmak için kullanılır.</p><h3>Kullanım Önerisi</h3><ul><li>Önce soğuk suda eritip sonra sıcak sıvıya ekleyin.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
+    "en": "<h2>Corn Starch</h2><p>A fine white powder obtained from corn, tasteless and odourless. Used to thicken sauces, soups and desserts and to lighten cakes.</p><h3>Serving Suggestion</h3><ul><li>Dissolve in cold water first, then add to the hot liquid.</li></ul><p><strong>Packaging:</strong> Offered in different weights on request.</p>",
+    "ar": "<h2>نشا الذرة</h2><p>مسحوق أبيض ناعم مستخلص من الذرة، عديم الطعم والرائحة. يُستخدم لتثخين الصلصات والشوربات والحلويات وإضفاء الخفة على الكيك.</p><h3>اقتراح التقديم</h3><ul><li>ذوّبوه أولاً في ماء بارد ثم أضيفوه إلى السائل الساخن.</li></ul><p><strong>التغليف:</strong> يُقدَّم بأوزان مختلفة حسب الطلب.</p>",
+    "de": "<h2>Maisstärke</h2><p>Ein feines weißes Pulver aus Mais, geschmacks- und geruchlos. Zum Binden von Saucen, Suppen und Desserts und für lockere Kuchen.</p><h3>Serviervorschlag</h3><ul><li>Zuerst in kaltem Wasser anrühren, dann in die heiße Flüssigkeit geben.</li></ul><p><strong>Verpackung:</strong> Auf Anfrage in verschiedenen Gewichten erhältlich.</p>",
+    "ko": "<h2>옥수수 전분</h2><p>옥수수에서 얻은 맛과 냄새가 없는 고운 흰 가루입니다. 소스, 수프, 디저트를 걸쭉하게 하거나 케이크를 가볍게 만드는 데 사용합니다.</p><h3>활용 팁</h3><ul><li>먼저 찬물에 풀어서 뜨거운 국물에 넣어 주세요.</li></ul><p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>",
+    "ja": "<h2>コーンスターチ</h2><p>トウモロコシから得られる、無味無臭のきめ細かい白い粉です。ソース、スープ、デザートのとろみづけや、ケーキを軽く仕上げるのに使います。</p><h3>おすすめの食べ方</h3><ul><li>まず冷水で溶いてから、熱い液体に加えてください。</li></ul><p><strong>包装:</strong> ご要望に応じて、さまざまな重量でご提供します。</p>"
+  },
+  "title": {
+    "tr": "Mısır Nişastası | Tufan Organik",
+    "en": "Corn Starch | Tufan Organik",
+    "ar": "نشا الذرة | Tufan Organik",
+    "de": "Maisstärke | Tufan Organik",
+    "ko": "옥수수 전분 | Tufan Organik",
+    "ja": "コーンスターチ | Tufan Organik"
+  },
+  "date": "2026-11-02T10:42:45.000Z",
+  "update": "2026-11-02T10:42:45.000Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

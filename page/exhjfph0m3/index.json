@@ -1,0 +1,62 @@
+{
+  "id": "exhjfph0m3",
+  "name": {
+    "tr": "Arpa Unu",
+    "en": "Barley Flour",
+    "ar": "دقيق الشعير",
+    "de": "Gerstenmehl",
+    "ko": "보리가루",
+    "ja": "大麦粉"
+  },
+  "description": {
+    "tr": "Tufan Organik Arpa Unu, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Barley Flour is a natural food from Gürün/Sivas in the Flour & Flour Products range.",
+    "ar": "Tufan Organik دقيق الشعير، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Gerstenmehl aus der Gruppe Mehl & Mehlprodukte ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
+    "ko": "Tufan Organik 보리가루은(는) 밀가루 및 가루 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+    "ja": "Tufan Organik 大麦粉は、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Arpa Unu, Unlu Mamulleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Barley Flour, Flour & Flour Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, دقيق الشعير, الدقيق ومشتقاته",
+    "de": "Tufan Organik, Gürün/Sivas, Naturlebensmittel, Gerstenmehl, Mehl & Mehlprodukte",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 보리가루, 밀가루 및 가루 제품",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 大麦粉, 小麦粉・粉類製品"
+  },
+  "path": "arpa-unu",
+  "icon": "grain",
+  "category": "c17iqfmey",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 232,
+  "url": "",
+  "text": {
+    "tr": "<h2>Arpa Unu</h2><p>Arpanın öğütülmesiyle elde edilen, ekmeğe doyurucu ve hafif tatlı bir tat veren geleneksel un. Karışık ekmek ve çorbalarda kullanılır.</p><h3>Kullanım Önerisi</h3><ul><li>Çorbaları kıvamlandırmak için birkaç yemek kaşığı ekleyin.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
+    "en": "<h2>Barley Flour</h2><p>A traditional flour milled from barley that gives bread a filling, slightly sweet taste. Used in mixed-grain breads and soups.</p><h3>Serving Suggestion</h3><ul><li>Add a few tablespoons to thicken soups.</li></ul><p><strong>Packaging:</strong> Offered in different weights on request.</p>",
+    "ar": "<h2>دقيق الشعير</h2><p>دقيق تقليدي مطحون من الشعير يمنح الخبز طعماً مشبعاً وحلاوة خفيفة. يُستخدم في الخبز المخلوط والشوربات.</p><h3>اقتراح التقديم</h3><ul><li>أضيفوا بضع ملاعق كبيرة لتثخين الشوربات.</li></ul><p><strong>التغليف:</strong> يُقدَّم بأوزان مختلفة حسب الطلب.</p>",
+    "de": "<h2>Gerstenmehl</h2><p>Traditionelles Mehl aus gemahlener Gerste, das Brot einen sättigenden, leicht süßlichen Geschmack gibt. Für Mischbrot und Suppen.</p><h3>Serviervorschlag</h3><ul><li>Einige Esslöffel zum Andicken von Suppen hinzufügen.</li></ul><p><strong>Verpackung:</strong> Auf Anfrage in verschiedenen Gewichten erhältlich.</p>",
+    "ko": "<h2>보리가루</h2><p>보리를 빻아 만든 전통 가루로 빵에 든든하고 은은한 단맛을 더합니다. 잡곡빵과 수프에 사용합니다.</p><h3>활용 팁</h3><ul><li>수프를 걸쭉하게 하려면 몇 큰술 넣어 주세요.</li></ul><p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>",
+    "ja": "<h2>大麦粉</h2><p>大麦を挽いた伝統的な粉で、パンに食べごたえとほのかな甘みを与えます。ミックス穀物パンやスープに使われます。</p><h3>おすすめの食べ方</h3><ul><li>スープにとろみをつけるには、大さじ数杯を加えてください。</li></ul><p><strong>包装:</strong> ご要望に応じて、さまざまな重量でご提供します。</p>"
+  },
+  "title": {
+    "tr": "Arpa Unu | Tufan Organik",
+    "en": "Barley Flour | Tufan Organik",
+    "ar": "دقيق الشعير | Tufan Organik",
+    "de": "Gerstenmehl | Tufan Organik",
+    "ko": "보리가루 | Tufan Organik",
+    "ja": "大麦粉 | Tufan Organik"
+  },
+  "date": "2026-11-02T10:42:45.000Z",
+  "update": "2026-11-02T10:42:45.000Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

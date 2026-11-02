@@ -469,11 +469,11 @@
     {
       "name": {
         "tr": "Unlu Mamulleri",
-        "en": "Bakery Products",
-        "ar": "منتجات المخبوزات",
-        "de": "Backwaren",
-        "ko": "베이커리 제품",
-        "ja": "パン・製菓製品"
+        "en": "Flour & Flour Products",
+        "ar": "الدقيق ومشتقاته",
+        "de": "Mehl & Mehlprodukte",
+        "ko": "밀가루 및 가루 제품",
+        "ja": "小麦粉・粉類製品"
       },
       "id": "c17iqfmey",
       "index": 16,
@@ -487,12 +487,12 @@
         "footer": []
       },
       "description": {
-        "tr": "Tufan Organik Unlu Mamulleri ürün grubu.",
-        "en": "Tufan Organik Bakery Products product group.",
-        "ar": "مجموعة منتجات منتجات المخبوزات من توفان أورغانيك.",
-        "de": "Tufan Organik Produktgruppe Backwaren.",
-        "ko": "투판 오가닉 베이커리 제품 제품군.",
-        "ja": "Tufan Organik パン・製菓製品の製品グループです。"
+        "tr": "Tufan Organik Unlu Mamulleri ürün grubu: un, irmik, nişasta ve türevleri.",
+        "en": "Tufan Organik flour and flour products: flours, semolina, starch and breadcrumbs.",
+        "ar": "مجموعة الدقيق ومشتقاته من توفان أورغانيك: دقيق وسميد ونشا وفتات الخبز.",
+        "de": "Tufan Organik Mehl und Mehlprodukte: Mehle, Grieß, Stärke und Paniermehl.",
+        "ko": "투판 오가닉 밀가루 및 가루 제품군: 각종 가루, 세몰리나, 전분, 빵가루.",
+        "ja": "Tufan Organik の小麦粉・粉類製品グループ：各種粉、セモリナ、でんぷん、パン粉。"
       }
     },
     {

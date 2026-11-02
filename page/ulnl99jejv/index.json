@@ -1,0 +1,62 @@
+{
+  "id": "ulnl99jejv",
+  "name": {
+    "tr": "Pirinç Unu",
+    "en": "Rice Flour",
+    "ar": "دقيق الأرز",
+    "de": "Reismehl",
+    "ko": "쌀가루",
+    "ja": "米粉"
+  },
+  "description": {
+    "tr": "Tufan Organik Pirinç Unu, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Rice Flour is a natural food from Gürün/Sivas in the Flour & Flour Products range.",
+    "ar": "Tufan Organik دقيق الأرز، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Reismehl aus der Gruppe Mehl & Mehlprodukte ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
+    "ko": "Tufan Organik 쌀가루은(는) 밀가루 및 가루 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+    "ja": "Tufan Organik 米粉は、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Pirinç Unu, Unlu Mamulleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Rice Flour, Flour & Flour Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, دقيق الأرز, الدقيق ومشتقاته",
+    "de": "Tufan Organik, Gürün/Sivas, Naturlebensmittel, Reismehl, Mehl & Mehlprodukte",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 쌀가루, 밀가루 및 가루 제품",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 米粉, 小麦粉・粉類製品"
+  },
+  "path": "pirinc-unu",
+  "icon": "grain",
+  "category": "c17iqfmey",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 233,
+  "url": "",
+  "text": {
+    "tr": "<h2>Pirinç Unu</h2><p>Pirincin çok ince öğütülmesiyle hazırlanan, glütensiz ve hafif yapılı un. Muhallebi, sütlaç, kek ve kurabiye yapımında kullanılır.</p><h3>Kullanım Önerisi</h3><ul><li>Sütle ısıtıp karıştırarak kolayca muhallebi yapın.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
+    "en": "<h2>Rice Flour</h2><p>A very finely milled, gluten-free and light flour made from rice. Used in puddings, rice pudding, cakes and cookies.</p><h3>Serving Suggestion</h3><ul><li>Heat with milk, stirring, for an easy pudding.</li></ul><p><strong>Packaging:</strong> Offered in different weights on request.</p>",
+    "ar": "<h2>دقيق الأرز</h2><p>دقيق خفيف خالٍ من الغلوتين مطحون ناعماً جداً من الأرز. يُستخدم في المهلبية والأرز بالحليب والكيك والبسكويت.</p><h3>اقتراح التقديم</h3><ul><li>سخّنوه مع الحليب مع التحريك لعمل مهلبية سهلة.</li></ul><p><strong>التغليف:</strong> يُقدَّم بأوزان مختلفة حسب الطلب.</p>",
+    "de": "<h2>Reismehl</h2><p>Ein sehr fein vermahlenes, glutenfreies und leichtes Mehl aus Reis. Für Pudding, Milchreis, Kuchen und Kekse.</p><h3>Serviervorschlag</h3><ul><li>Mit Milch unter Rühren erhitzen für einen einfachen Pudding.</li></ul><p><strong>Verpackung:</strong> Auf Anfrage in verschiedenen Gewichten erhältlich.</p>",
+    "ko": "<h2>쌀가루</h2><p>쌀을 아주 곱게 빻은 글루텐 프리의 가벼운 가루입니다. 푸딩, 라이스 푸딩, 케이크, 쿠키에 사용합니다.</p><h3>활용 팁</h3><ul><li>우유와 함께 저으며 끓이면 간단한 푸딩이 됩니다.</li></ul><p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>",
+    "ja": "<h2>米粉</h2><p>米を非常に細かく挽いた、グルテンフリーで軽い粉です。プディング、ライスプディング、ケーキ、クッキーに使えます。</p><h3>おすすめの食べ方</h3><ul><li>牛乳と一緒に混ぜながら加熱すると、簡単にプディングができます。</li></ul><p><strong>包装:</strong> ご要望に応じて、さまざまな重量でご提供します。</p>"
+  },
+  "title": {
+    "tr": "Pirinç Unu | Tufan Organik",
+    "en": "Rice Flour | Tufan Organik",
+    "ar": "دقيق الأرز | Tufan Organik",
+    "de": "Reismehl | Tufan Organik",
+    "ko": "쌀가루 | Tufan Organik",
+    "ja": "米粉 | Tufan Organik"
+  },
+  "date": "2026-11-02T10:42:45.000Z",
+  "update": "2026-11-02T10:42:45.000Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

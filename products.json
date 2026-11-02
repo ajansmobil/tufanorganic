@@ -6844,16 +6844,16 @@
     },
     {
       "name": {
-        "tr": "Ekşi Mayalı Köy Ekmeği",
-        "en": "Sourdough Village Bread",
-        "ar": "خبز القرية بالعجين المخمّر",
-        "de": "Sauerteig-Dorfbrot",
-        "ko": "천연발효 시골 빵",
-        "ja": "サワードウの田舎パン"
+        "tr": "Ekmeklik Buğday Unu",
+        "en": "Bread Wheat Flour",
+        "ar": "دقيق القمح للخبز",
+        "de": "Weizenmehl für Brot",
+        "ko": "빵용 밀가루",
+        "ja": "パン用小麦粉"
       },
-      "id": "92vxqqwwtb",
-      "path": "eksi-mayali-koy-ekmegi",
-      "icon": "breakfast_dining",
+      "id": "ebzmjtxjik",
+      "path": "ekmeklik-bugday-unu",
+      "icon": "grain",
       "category": "c17iqfmey",
       "status": "play",
       "desing": {
@@ -6864,26 +6864,26 @@
       "index": 228,
       "img": "index.webp",
       "description": {
-        "tr": "Tufan Organik Ekşi Mayalı Köy Ekmeği, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
-        "en": "Tufan Organik Sourdough Village Bread is a natural food from Gürün/Sivas in the Bakery Products range.",
-        "ar": "Tufan Organik خبز القرية بالعجين المخمّر، من مجموعة منتجات المخبوزات، غذاء طبيعي أصله من غورون/سيواس.",
-        "de": "Tufan Organik Sauerteig-Dorfbrot aus der Gruppe Backwaren ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
-        "ko": "Tufan Organik 천연발효 시골 빵은(는) 베이커리 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
-        "ja": "Tufan Organik サワードウの田舎パンは、パン・製菓製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
+        "tr": "Tufan Organik Ekmeklik Buğday Unu, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+        "en": "Tufan Organik Bread Wheat Flour is a natural food from Gürün/Sivas in the Flour & Flour Products range.",
+        "ar": "Tufan Organik دقيق القمح للخبز، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+        "de": "Tufan Organik Weizenmehl für Brot aus der Gruppe Mehl & Mehlprodukte ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
+        "ko": "Tufan Organik 빵용 밀가루은(는) 밀가루 및 가루 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+        "ja": "Tufan Organik パン用小麦粉は、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
       }
     },
     {
       "name": {
-        "tr": "Tam Buğday Ekmeği",
-        "en": "Whole Wheat Bread",
-        "ar": "خبز القمح الكامل",
-        "de": "Vollkornbrot",
-        "ko": "통밀빵",
-        "ja": "全粒粉パン"
+        "tr": "Çok Amaçlı Beyaz Un",
+        "en": "All-Purpose White Flour",
+        "ar": "دقيق أبيض متعدد الاستخدامات",
+        "de": "Universalmehl (Weizenmehl Type 550)",
+        "ko": "다목적 밀가루",
+        "ja": "万能小麦粉"
       },
-      "id": "5lxdx29dvq",
-      "path": "tam-bugday-ekmegi",
-      "icon": "breakfast_dining",
+      "id": "f498m1aqmx",
+      "path": "cok-amacli-beyaz-un",
+      "icon": "grain",
       "category": "c17iqfmey",
       "status": "play",
       "desing": {
@@ -6894,26 +6894,26 @@
       "index": 229,
       "img": "index.webp",
       "description": {
-        "tr": "Tufan Organik Tam Buğday Ekmeği, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
-        "en": "Tufan Organik Whole Wheat Bread is a natural food from Gürün/Sivas in the Bakery Products range.",
-        "ar": "Tufan Organik خبز القمح الكامل، من مجموعة منتجات المخبوزات، غذاء طبيعي أصله من غورون/سيواس.",
-        "de": "Tufan Organik Vollkornbrot aus der Gruppe Backwaren ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
-        "ko": "Tufan Organik 통밀빵은(는) 베이커리 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
-        "ja": "Tufan Organik 全粒粉パンは、パン・製菓製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
+        "tr": "Tufan Organik Çok Amaçlı Beyaz Un, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+        "en": "Tufan Organik All-Purpose White Flour is a natural food from Gürün/Sivas in the Flour & Flour Products range.",
+        "ar": "Tufan Organik دقيق أبيض متعدد الاستخدامات، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+        "de": "Tufan Organik Universalmehl (Weizenmehl Type 550) aus der Gruppe Mehl & Mehlprodukte ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
+        "ko": "Tufan Organik 다목적 밀가루은(는) 밀가루 및 가루 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+        "ja": "Tufan Organik 万能小麦粉は、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
       }
     },
     {
       "name": {
-        "tr": "Çavdar Ekmeği",
-        "en": "Rye Bread",
-        "ar": "خبز الجاودار",
-        "de": "Roggenbrot",
-        "ko": "호밀빵",
-        "ja": "ライ麦パン"
+        "tr": "Çavdar Unu",
+        "en": "Rye Flour",
+        "ar": "دقيق الجاودار",
+        "de": "Roggenmehl",
+        "ko": "호밀가루",
+        "ja": "ライ麦粉"
       },
-      "id": "flffh6pu4z",
-      "path": "cavdar-ekmegi",
-      "icon": "breakfast_dining",
+      "id": "fk96b5oqmq",
+      "path": "cavdar-unu",
+      "icon": "grain",
       "category": "c17iqfmey",
       "status": "play",
       "desing": {
@@ -6924,26 +6924,26 @@
       "index": 230,
       "img": "index.webp",
       "description": {
-        "tr": "Tufan Organik Çavdar Ekmeği, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
-        "en": "Tufan Organik Rye Bread is a natural food from Gürün/Sivas in the Bakery Products range.",
-        "ar": "Tufan Organik خبز الجاودار، من مجموعة منتجات المخبوزات، غذاء طبيعي أصله من غورون/سيواس.",
-        "de": "Tufan Organik Roggenbrot aus der Gruppe Backwaren ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
-        "ko": "Tufan Organik 호밀빵은(는) 베이커리 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
-        "ja": "Tufan Organik ライ麦パンは、パン・製菓製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
+        "tr": "Tufan Organik Çavdar Unu, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+        "en": "Tufan Organik Rye Flour is a natural food from Gürün/Sivas in the Flour & Flour Products range.",
+        "ar": "Tufan Organik دقيق الجاودار، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+        "de": "Tufan Organik Roggenmehl aus der Gruppe Mehl & Mehlprodukte ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
+        "ko": "Tufan Organik 호밀가루은(는) 밀가루 및 가루 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+        "ja": "Tufan Organik ライ麦粉は、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
       }
     },
     {
       "name": {
-        "tr": "Simit",
-        "en": "Simit (Sesame Bread Ring)",
-        "ar": "السميت (حلقة الخبز بالسمسم)",
-        "de": "Simit (Sesamkringel)",
-        "ko": "시미트 (참깨 빵 링)",
-        "ja": "シミット（ごま付きリングパン）"
+        "tr": "Yulaf Unu",
+        "en": "Oat Flour",
+        "ar": "دقيق الشوفان",
+        "de": "Haferflocken-Mehl",
+        "ko": "귀리가루",
+        "ja": "オーツ麦粉"
       },
-      "id": "26ytrffqx4",
-      "path": "simit",
-      "icon": "breakfast_dining",
+      "id": "ewzcce8zqo",
+      "path": "yulaf-unu",
+      "icon": "grain",
       "category": "c17iqfmey",
       "status": "play",
       "desing": {
@@ -6954,26 +6954,26 @@
       "index": 231,
       "img": "index.webp",
       "description": {
-        "tr": "Tufan Organik Simit, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
-        "en": "Tufan Organik Simit (Sesame Bread Ring) is a natural food from Gürün/Sivas in the Bakery Products range.",
-        "ar": "Tufan Organik السميت (حلقة الخبز بالسمسم)، من مجموعة منتجات المخبوزات، غذاء طبيعي أصله من غورون/سيواس.",
-        "de": "Tufan Organik Simit (Sesamkringel) aus der Gruppe Backwaren ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
-        "ko": "Tufan Organik 시미트 (참깨 빵 링)은(는) 베이커리 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
-        "ja": "Tufan Organik シミット（ごま付きリングパン）は、パン・製菓製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
+        "tr": "Tufan Organik Yulaf Unu, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+        "en": "Tufan Organik Oat Flour is a natural food from Gürün/Sivas in the Flour & Flour Products range.",
+        "ar": "Tufan Organik دقيق الشوفان، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+        "de": "Tufan Organik Haferflocken-Mehl aus der Gruppe Mehl & Mehlprodukte ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
+        "ko": "Tufan Organik 귀리가루은(는) 밀가루 및 가루 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+        "ja": "Tufan Organik オーツ麦粉は、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
       }
     },
     {
       "name": {
-        "tr": "Poğaça",
-        "en": "Pogaca (Savory Turkish Pastry)",
-        "ar": "البوغاتشا (معجنات تركية مالحة)",
-        "de": "Poğaça (herzhaftes türkisches Gebäck)",
-        "ko": "포아차 (터키식 짭짤한 페이스트리)",
-        "ja": "ポアチャ（トルコの塩味ペストリー）"
+        "tr": "Arpa Unu",
+        "en": "Barley Flour",
+        "ar": "دقيق الشعير",
+        "de": "Gerstenmehl",
+        "ko": "보리가루",
+        "ja": "大麦粉"
       },
-      "id": "5pwurnrhlp",
-      "path": "pogaca",
-      "icon": "breakfast_dining",
+      "id": "exhjfph0m3",
+      "path": "arpa-unu",
+      "icon": "grain",
       "category": "c17iqfmey",
       "status": "play",
       "desing": {
@@ -6984,26 +6984,26 @@
       "index": 232,
       "img": "index.webp",
       "description": {
-        "tr": "Tufan Organik Poğaça, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
-        "en": "Tufan Organik Pogaca (Savory Turkish Pastry) is a natural food from Gürün/Sivas in the Bakery Products range.",
-        "ar": "Tufan Organik البوغاتشا (معجنات تركية مالحة)، من مجموعة منتجات المخبوزات، غذاء طبيعي أصله من غورون/سيواس.",
-        "de": "Tufan Organik Poğaça (herzhaftes türkisches Gebäck) aus der Gruppe Backwaren ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
-        "ko": "Tufan Organik 포아차 (터키식 짭짤한 페이스트리)은(는) 베이커리 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
-        "ja": "Tufan Organik ポアチャ（トルコの塩味ペストリー）は、パン・製菓製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
+        "tr": "Tufan Organik Arpa Unu, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+        "en": "Tufan Organik Barley Flour is a natural food from Gürün/Sivas in the Flour & Flour Products range.",
+        "ar": "Tufan Organik دقيق الشعير، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+        "de": "Tufan Organik Gerstenmehl aus der Gruppe Mehl & Mehlprodukte ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
+        "ko": "Tufan Organik 보리가루은(는) 밀가루 및 가루 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+        "ja": "Tufan Organik 大麦粉は、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
       }
     },
     {
       "name": {
-        "tr": "Tahinli Çörek",
-        "en": "Tahini Swirl Bread (Tahinli Çörek)",
-        "ar": "كعكة الطحينة (تاهينلي تشورِك)",
-        "de": "Tahini-Hefeschnecke (Tahinli Çörek)",
-        "ko": "타히니 소용돌이 빵 (타히닐리 쵸렉)",
-        "ja": "タヒニ入りチョレッキ"
+        "tr": "Pirinç Unu",
+        "en": "Rice Flour",
+        "ar": "دقيق الأرز",
+        "de": "Reismehl",
+        "ko": "쌀가루",
+        "ja": "米粉"
       },
-      "id": "mwlhkjkqp9",
-      "path": "tahinli-corek",
-      "icon": "breakfast_dining",
+      "id": "ulnl99jejv",
+      "path": "pirinc-unu",
+      "icon": "grain",
       "category": "c17iqfmey",
       "status": "play",
       "desing": {
@@ -7014,26 +7014,26 @@
       "index": 233,
       "img": "index.webp",
       "description": {
-        "tr": "Tufan Organik Tahinli Çörek, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
-        "en": "Tufan Organik Tahini Swirl Bread (Tahinli Çörek) is a natural food from Gürün/Sivas in the Bakery Products range.",
-        "ar": "Tufan Organik كعكة الطحينة (تاهينلي تشورِك)، من مجموعة منتجات المخبوزات، غذاء طبيعي أصله من غورون/سيواس.",
-        "de": "Tufan Organik Tahini-Hefeschnecke (Tahinli Çörek) aus der Gruppe Backwaren ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
-        "ko": "Tufan Organik 타히니 소용돌이 빵 (타히닐리 쵸렉)은(는) 베이커리 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
-        "ja": "Tufan Organik タヒニ入りチョレッキは、パン・製菓製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
+        "tr": "Tufan Organik Pirinç Unu, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+        "en": "Tufan Organik Rice Flour is a natural food from Gürün/Sivas in the Flour & Flour Products range.",
+        "ar": "Tufan Organik دقيق الأرز، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+        "de": "Tufan Organik Reismehl aus der Gruppe Mehl & Mehlprodukte ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
+        "ko": "Tufan Organik 쌀가루은(는) 밀가루 및 가루 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+        "ja": "Tufan Organik 米粉は、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
       }
     },
     {
       "name": {
-        "tr": "Açma",
-        "en": "Acma (Soft Turkish Bread Roll)",
-        "ar": "الأتشما (خبز تركي طري)",
-        "de": "Açma (weiches türkisches Brötchen)",
-        "ko": "아츠마 (터키식 부드러운 롤빵)",
-        "ja": "アチマ（トルコのやわらかいロールパン）"
+        "tr": "Mısır Nişastası",
+        "en": "Corn Starch",
+        "ar": "نشا الذرة",
+        "de": "Maisstärke",
+        "ko": "옥수수 전분",
+        "ja": "コーンスターチ"
       },
-      "id": "rvxxik3abg",
-      "path": "acma",
-      "icon": "breakfast_dining",
+      "id": "clu0vxrymw",
+      "path": "misir-nisastasi",
+      "icon": "grain",
       "category": "c17iqfmey",
       "status": "play",
       "desing": {
@@ -7044,26 +7044,26 @@
       "index": 234,
       "img": "index.webp",
       "description": {
-        "tr": "Tufan Organik Açma, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
-        "en": "Tufan Organik Acma (Soft Turkish Bread Roll) is a natural food from Gürün/Sivas in the Bakery Products range.",
-        "ar": "Tufan Organik الأتشما (خبز تركي طري)، من مجموعة منتجات المخبوزات، غذاء طبيعي أصله من غورون/سيواس.",
-        "de": "Tufan Organik Açma (weiches türkisches Brötchen) aus der Gruppe Backwaren ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
-        "ko": "Tufan Organik 아츠마 (터키식 부드러운 롤빵)은(는) 베이커리 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
-        "ja": "Tufan Organik アチマ（トルコのやわらかいロールパン）は、パン・製菓製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
+        "tr": "Tufan Organik Mısır Nişastası, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+        "en": "Tufan Organik Corn Starch is a natural food from Gürün/Sivas in the Flour & Flour Products range.",
+        "ar": "Tufan Organik نشا الذرة، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+        "de": "Tufan Organik Maisstärke aus der Gruppe Mehl & Mehlprodukte ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
+        "ko": "Tufan Organik 옥수수 전분은(는) 밀가루 및 가루 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+        "ja": "Tufan Organik コーンスターチは、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
       }
     },
     {
       "name": {
-        "tr": "Pekmezli Kurabiye",
-        "en": "Molasses Cookies (Pekmezli Kurabiye)",
-        "ar": "كوكيز الدبس (بكمزلي كورابيه)",
-        "de": "Melasse-Kekse (Pekmezli Kurabiye)",
-        "ko": "페크메즈 쿠키 (페크메즐리 쿠라비예)",
-        "ja": "ペクメズクッキー"
+        "tr": "Galeta Unu",
+        "en": "Breadcrumbs (Galeta Flour)",
+        "ar": "فتات الخبز (دقيق الغاليتا)",
+        "de": "Paniermehl (Galeta-Mehl)",
+        "ko": "빵가루 (갈레타 가루)",
+        "ja": "パン粉（ガレタ粉）"
       },
-      "id": "ppf6hrcn0q",
-      "path": "pekmezli-kurabiye",
-      "icon": "breakfast_dining",
+      "id": "vnfaohplhf",
+      "path": "galeta-unu",
+      "icon": "grain",
       "category": "c17iqfmey",
       "status": "play",
       "desing": {
@@ -7074,26 +7074,26 @@
       "index": 235,
       "img": "index.webp",
       "description": {
-        "tr": "Tufan Organik Pekmezli Kurabiye, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
-        "en": "Tufan Organik Molasses Cookies (Pekmezli Kurabiye) is a natural food from Gürün/Sivas in the Bakery Products range.",
-        "ar": "Tufan Organik كوكيز الدبس (بكمزلي كورابيه)، من مجموعة منتجات المخبوزات، غذاء طبيعي أصله من غورون/سيواس.",
-        "de": "Tufan Organik Melasse-Kekse (Pekmezli Kurabiye) aus der Gruppe Backwaren ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
-        "ko": "Tufan Organik 페크메즈 쿠키 (페크메즐리 쿠라비예)은(는) 베이커리 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
-        "ja": "Tufan Organik ペクメズクッキーは、パン・製菓製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
+        "tr": "Tufan Organik Galeta Unu, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+        "en": "Tufan Organik Breadcrumbs (Galeta Flour) is a natural food from Gürün/Sivas in the Flour & Flour Products range.",
+        "ar": "Tufan Organik فتات الخبز (دقيق الغاليتا)، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+        "de": "Tufan Organik Paniermehl (Galeta-Mehl) aus der Gruppe Mehl & Mehlprodukte ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
+        "ko": "Tufan Organik 빵가루 (갈레타 가루)은(는) 밀가루 및 가루 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+        "ja": "Tufan Organik パン粉（ガレタ粉）は、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
       }
     },
     {
       "name": {
-        "tr": "Tam Buğday Bisküvisi",
-        "en": "Whole Wheat Biscuits",
-        "ar": "بسكويت القمح الكامل",
-        "de": "Vollkornkekse",
-        "ko": "통밀 비스킷",
-        "ja": "全粒粉ビスケット"
+        "tr": "İrmik",
+        "en": "Semolina",
+        "ar": "السميد",
+        "de": "Grieß",
+        "ko": "세몰리나",
+        "ja": "セモリナ"
       },
-      "id": "7bea92kkcb",
-      "path": "tam-bugday-biskuvisi",
-      "icon": "breakfast_dining",
+      "id": "ujxk0j8k5y",
+      "path": "irmik",
+      "icon": "grain",
       "category": "c17iqfmey",
       "status": "play",
       "desing": {
@@ -7104,26 +7104,26 @@
       "index": 236,
       "img": "index.webp",
       "description": {
-        "tr": "Tufan Organik Tam Buğday Bisküvisi, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
-        "en": "Tufan Organik Whole Wheat Biscuits is a natural food from Gürün/Sivas in the Bakery Products range.",
-        "ar": "Tufan Organik بسكويت القمح الكامل، من مجموعة منتجات المخبوزات، غذاء طبيعي أصله من غورون/سيواس.",
-        "de": "Tufan Organik Vollkornkekse aus der Gruppe Backwaren ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
-        "ko": "Tufan Organik 통밀 비스킷은(는) 베이커리 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
-        "ja": "Tufan Organik 全粒粉ビスケットは、パン・製菓製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
+        "tr": "Tufan Organik İrmik, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+        "en": "Tufan Organik Semolina is a natural food from Gürün/Sivas in the Flour & Flour Products range.",
+        "ar": "Tufan Organik السميد، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+        "de": "Tufan Organik Grieß aus der Gruppe Mehl & Mehlprodukte ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
+        "ko": "Tufan Organik 세몰리나은(는) 밀가루 및 가루 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+        "ja": "Tufan Organik セモリナは、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
       }
     },
     {
       "name": {
-        "tr": "Galeta",
-        "en": "Galeta (Crispy Rusk)",
-        "ar": "الغاليتا (خبز مقرمش مجفف)",
-        "de": "Galeta (knuspriger Zwieback)",
-        "ko": "갈레타 (바삭한 러스크)",
-        "ja": "ガレタ（サクサクのラスク）"
+        "tr": "Tam Buğday Unu",
+        "en": "Whole Wheat Flour",
+        "ar": "دقيق القمح الكامل",
+        "de": "Weizenvollkornmehl",
+        "ko": "통밀가루",
+        "ja": "全粒粉"
       },
-      "id": "mohj68d78w",
-      "path": "galeta",
-      "icon": "breakfast_dining",
+      "id": "jaevv6tp1d",
+      "path": "tam-bugday-unu",
+      "icon": "grain",
       "category": "c17iqfmey",
       "status": "play",
       "desing": {
@@ -7134,12 +7134,12 @@
       "index": 237,
       "img": "index.webp",
       "description": {
-        "tr": "Tufan Organik Galeta, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
-        "en": "Tufan Organik Galeta (Crispy Rusk) is a natural food from Gürün/Sivas in the Bakery Products range.",
-        "ar": "Tufan Organik الغاليتا (خبز مقرمش مجفف)، من مجموعة منتجات المخبوزات، غذاء طبيعي أصله من غورون/سيواس.",
-        "de": "Tufan Organik Galeta (knuspriger Zwieback) aus der Gruppe Backwaren ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
-        "ko": "Tufan Organik 갈레타 (바삭한 러스크)은(는) 베이커리 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
-        "ja": "Tufan Organik ガレタ（サクサクのラスク）は、パン・製菓製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
+        "tr": "Tufan Organik Tam Buğday Unu, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+        "en": "Tufan Organik Whole Wheat Flour is a natural food from Gürün/Sivas in the Flour & Flour Products range.",
+        "ar": "Tufan Organik دقيق القمح الكامل، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+        "de": "Tufan Organik Weizenvollkornmehl aus der Gruppe Mehl & Mehlprodukte ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
+        "ko": "Tufan Organik 통밀가루은(는) 밀가루 및 가루 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+        "ja": "Tufan Organik 全粒粉は、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
       }
     }
   ],

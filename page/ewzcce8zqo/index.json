@@ -1,0 +1,62 @@
+{
+  "id": "ewzcce8zqo",
+  "name": {
+    "tr": "Yulaf Unu",
+    "en": "Oat Flour",
+    "ar": "دقيق الشوفان",
+    "de": "Haferflocken-Mehl",
+    "ko": "귀리가루",
+    "ja": "オーツ麦粉"
+  },
+  "description": {
+    "tr": "Tufan Organik Yulaf Unu, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Oat Flour is a natural food from Gürün/Sivas in the Flour & Flour Products range.",
+    "ar": "Tufan Organik دقيق الشوفان، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Haferflocken-Mehl aus der Gruppe Mehl & Mehlprodukte ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
+    "ko": "Tufan Organik 귀리가루은(는) 밀가루 및 가루 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+    "ja": "Tufan Organik オーツ麦粉は、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Yulaf Unu, Unlu Mamulleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Oat Flour, Flour & Flour Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, دقيق الشوفان, الدقيق ومشتقاته",
+    "de": "Tufan Organik, Gürün/Sivas, Naturlebensmittel, Haferflocken-Mehl, Mehl & Mehlprodukte",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 귀리가루, 밀가루 및 가루 제품",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, オーツ麦粉, 小麦粉・粉類製品"
+  },
+  "path": "yulaf-unu",
+  "icon": "grain",
+  "category": "c17iqfmey",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 231,
+  "url": "",
+  "text": {
+    "tr": "<h2>Yulaf Unu</h2><p>Yulaf tanelerinin ince öğütülmesiyle hazırlanan, hafif tatlımsı aromalı un. Kek, krep, pankek ve kurabiye tariflerinde kullanılır.</p><h3>Kullanım Önerisi</h3><ul><li>Süt ve muzla karıştırıp sabah pankeki yapın.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
+    "en": "<h2>Oat Flour</h2><p>A mildly sweet flour made by finely grinding oat groats. Used in cakes, crêpes, pancakes and cookies.</p><h3>Serving Suggestion</h3><ul><li>Mix with milk and banana for breakfast pancakes.</li></ul><p><strong>Packaging:</strong> Offered in different weights on request.</p>",
+    "ar": "<h2>دقيق الشوفان</h2><p>دقيق ذو نكهة حلوة خفيفة يُحضَّر بطحن حبوب الشوفان طحناً ناعماً. يُستخدم في الكيك والكريب والفطائر والبسكويت.</p><h3>اقتراح التقديم</h3><ul><li>اخلطوه مع الحليب والموز لعمل فطائر الصباح.</li></ul><p><strong>التغليف:</strong> يُقدَّم بأوزان مختلفة حسب الطلب.</p>",
+    "de": "<h2>Haferflocken-Mehl</h2><p>Ein mild süßliches Mehl aus fein gemahlenen Haferkörnern. Wird für Kuchen, Crêpes, Pfannkuchen und Kekse verwendet.</p><h3>Serviervorschlag</h3><ul><li>Mit Milch und Banane zu Frühstückspfannkuchen verrühren.</li></ul><p><strong>Verpackung:</strong> Auf Anfrage in verschiedenen Gewichten erhältlich.</p>",
+    "ko": "<h2>귀리가루</h2><p>귀리를 곱게 갈아 만든 은은한 단맛의 가루입니다. 케이크, 크레이프, 팬케이크, 쿠키 등에 사용합니다.</p><h3>활용 팁</h3><ul><li>우유와 바나나를 섞어 아침 팬케이크를 만들어 보세요.</li></ul><p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>",
+    "ja": "<h2>オーツ麦粉</h2><p>オーツ麦を細かく挽いた、ほのかに甘い粉です。ケーキ、クレープ、パンケーキ、クッキーなどに使えます。</p><h3>おすすめの食べ方</h3><ul><li>牛乳とバナナを混ぜて、朝食のパンケーキにどうぞ。</li></ul><p><strong>包装:</strong> ご要望に応じて、さまざまな重量でご提供します。</p>"
+  },
+  "title": {
+    "tr": "Yulaf Unu | Tufan Organik",
+    "en": "Oat Flour | Tufan Organik",
+    "ar": "دقيق الشوفان | Tufan Organik",
+    "de": "Haferflocken-Mehl | Tufan Organik",
+    "ko": "귀리가루 | Tufan Organik",
+    "ja": "オーツ麦粉 | Tufan Organik"
+  },
+  "date": "2026-11-02T10:42:45.000Z",
+  "update": "2026-11-02T10:42:45.000Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

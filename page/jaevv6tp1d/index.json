@@ -1,0 +1,62 @@
+{
+  "id": "jaevv6tp1d",
+  "name": {
+    "tr": "Tam Buğday Unu",
+    "en": "Whole Wheat Flour",
+    "ar": "دقيق القمح الكامل",
+    "de": "Weizenvollkornmehl",
+    "ko": "통밀가루",
+    "ja": "全粒粉"
+  },
+  "description": {
+    "tr": "Tufan Organik Tam Buğday Unu, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Whole Wheat Flour is a natural food from Gürün/Sivas in the Flour & Flour Products range.",
+    "ar": "Tufan Organik دقيق القمح الكامل، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Weizenvollkornmehl aus der Gruppe Mehl & Mehlprodukte ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
+    "ko": "Tufan Organik 통밀가루은(는) 밀가루 및 가루 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+    "ja": "Tufan Organik 全粒粉は、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Tam Buğday Unu, Unlu Mamulleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Whole Wheat Flour, Flour & Flour Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, دقيق القمح الكامل, الدقيق ومشتقاته",
+    "de": "Tufan Organik, Gürün/Sivas, Naturlebensmittel, Weizenvollkornmehl, Mehl & Mehlprodukte",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 통밀가루, 밀가루 및 가루 제품",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 全粒粉, 小麦粉・粉類製品"
+  },
+  "path": "tam-bugday-unu",
+  "icon": "grain",
+  "category": "c17iqfmey",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 237,
+  "url": "",
+  "text": {
+    "tr": "<h2>Tam Buğday Unu</h2><p>Buğdayın kepeği ve ruhuyla birlikte öğütülmesiyle elde edilen, lif ve besin değeri yüksek un. Ekmek, kek ve kurabiyelere dolgun bir tat ve koyu renk kazandırır.</p><h3>Kullanım Önerisi</h3><ul><li>Beyaz unla yarı yarıya karıştırarak daha yumuşak bir ekmek elde edin.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
+    "en": "<h2>Whole Wheat Flour</h2><p>Flour obtained by milling wheat together with its bran and germ, high in fibre and nutrients. It gives breads, cakes and cookies a full flavour and darker colour.</p><h3>Serving Suggestion</h3><ul><li>Mix half and half with white flour for a softer loaf.</li></ul><p><strong>Packaging:</strong> Offered in different weights on request.</p>",
+    "ar": "<h2>دقيق القمح الكامل</h2><p>دقيق يُحصل عليه بطحن القمح مع نخالته وجنينه، غني بالألياف والعناصر الغذائية. يمنح الخبز والكيك والبسكويت نكهة غنية ولوناً أغمق.</p><h3>اقتراح التقديم</h3><ul><li>اخلطوه بالنصف مع الدقيق الأبيض للحصول على رغيف أطرى.</li></ul><p><strong>التغليف:</strong> يُقدَّم بأوزان مختلفة حسب الطلب.</p>",
+    "de": "<h2>Weizenvollkornmehl</h2><p>Mehl aus Weizen, der samt Kleie und Keimling vermahlen wird, reich an Ballaststoffen und Nährstoffen. Verleiht Brot, Kuchen und Keksen einen vollen Geschmack und eine dunklere Farbe.</p><h3>Serviervorschlag</h3><ul><li>Halb und halb mit Weißmehl mischen für ein weicheres Brot.</li></ul><p><strong>Verpackung:</strong> Auf Anfrage in verschiedenen Gewichten erhältlich.</p>",
+    "ko": "<h2>통밀가루</h2><p>밀을 겨와 배아째 빻아 만든 식이섬유와 영양이 풍부한 밀가루입니다. 빵, 케이크, 쿠키에 깊은 맛과 짙은 색을 더해 줍니다.</p><h3>활용 팁</h3><ul><li>흰 밀가루와 반반 섞으면 더 부드러운 빵이 됩니다.</li></ul><p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>",
+    "ja": "<h2>全粒粉</h2><p>ふすまと胚芽ごと小麦を挽いた、食物繊維と栄養が豊富な粉です。パン、ケーキ、クッキーに深い味わいと濃い色合いを与えます。</p><h3>おすすめの食べ方</h3><ul><li>小麦粉と半々に混ぜると、よりやわらかいパンに仕上がります。</li></ul><p><strong>包装:</strong> ご要望に応じて、さまざまな重量でご提供します。</p>"
+  },
+  "title": {
+    "tr": "Tam Buğday Unu | Tufan Organik",
+    "en": "Whole Wheat Flour | Tufan Organik",
+    "ar": "دقيق القمح الكامل | Tufan Organik",
+    "de": "Weizenvollkornmehl | Tufan Organik",
+    "ko": "통밀가루 | Tufan Organik",
+    "ja": "全粒粉 | Tufan Organik"
+  },
+  "date": "2026-11-02T10:45:16.000Z",
+  "update": "2026-11-02T10:45:16.000Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

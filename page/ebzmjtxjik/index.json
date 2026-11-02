@@ -1,0 +1,62 @@
+{
+  "id": "ebzmjtxjik",
+  "name": {
+    "tr": "Ekmeklik Buğday Unu",
+    "en": "Bread Wheat Flour",
+    "ar": "دقيق القمح للخبز",
+    "de": "Weizenmehl für Brot",
+    "ko": "빵용 밀가루",
+    "ja": "パン用小麦粉"
+  },
+  "description": {
+    "tr": "Tufan Organik Ekmeklik Buğday Unu, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Bread Wheat Flour is a natural food from Gürün/Sivas in the Flour & Flour Products range.",
+    "ar": "Tufan Organik دقيق القمح للخبز، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Weizenmehl für Brot aus der Gruppe Mehl & Mehlprodukte ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
+    "ko": "Tufan Organik 빵용 밀가루은(는) 밀가루 및 가루 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+    "ja": "Tufan Organik パン用小麦粉は、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Ekmeklik Buğday Unu, Unlu Mamulleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Bread Wheat Flour, Flour & Flour Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, دقيق القمح للخبز, الدقيق ومشتقاته",
+    "de": "Tufan Organik, Gürün/Sivas, Naturlebensmittel, Weizenmehl für Brot, Mehl & Mehlprodukte",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 빵용 밀가루, 밀가루 및 가루 제품",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, パン用小麦粉, 小麦粉・粉類製品"
+  },
+  "path": "ekmeklik-bugday-unu",
+  "icon": "grain",
+  "category": "c17iqfmey",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 228,
+  "url": "",
+  "text": {
+    "tr": "<h2>Ekmeklik Buğday Unu</h2><p>Gluten değeri yüksek buğdaydan öğütülen, ekmek ve mayalı hamur işleri için ideal un. Hamura iyi şekil verir, kabarır ve yumuşak bir iç yapı sağlar.</p><h3>Kullanım Önerisi</h3><ul><li>Hamuru en az bir saat dinlendirerek mayalayın.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
+    "en": "<h2>Bread Wheat Flour</h2><p>Flour milled from high-gluten wheat, ideal for bread and yeast-raised doughs. It holds its shape well, rises evenly and gives a soft crumb.</p><h3>Serving Suggestion</h3><ul><li>Let the dough rest and rise for at least an hour.</li></ul><p><strong>Packaging:</strong> Offered in different weights on request.</p>",
+    "ar": "<h2>دقيق القمح للخبز</h2><p>دقيق مطحون من قمح عالي الغلوتين، مثالي للخبز والعجائن المخمّرة. يعطي العجين قواماً جيداً ويختمر بانتظام ويمنح لبّاً طرياً.</p><h3>اقتراح التقديم</h3><ul><li>اتركوا العجين يرتاح ويختمر ساعة على الأقل.</li></ul><p><strong>التغليف:</strong> يُقدَّم بأوزان مختلفة حسب الطلب.</p>",
+    "de": "<h2>Weizenmehl für Brot</h2><p>Mehl aus glutenreichem Weizen, ideal für Brot und Hefeteige. Es lässt sich gut formen, geht gleichmäßig auf und ergibt eine weiche Krume.</p><h3>Serviervorschlag</h3><ul><li>Den Teig mindestens eine Stunde ruhen und gehen lassen.</li></ul><p><strong>Verpackung:</strong> Auf Anfrage in verschiedenen Gewichten erhältlich.</p>",
+    "ko": "<h2>빵용 밀가루</h2><p>글루텐 함량이 높은 밀을 제분한 빵과 발효 반죽에 적합한 밀가루입니다. 반죽 모양이 잘 잡히고 고르게 부풀어 부드러운 속살을 만들어 줍니다.</p><h3>활용 팁</h3><ul><li>반죽을 최소 한 시간 이상 발효시키세요.</li></ul><p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>",
+    "ja": "<h2>パン用小麦粉</h2><p>グルテン量の多い小麦を挽いた、パンや発酵生地に最適な小麦粉です。生地がまとまりやすく、均一に膨らみ、やわらかな食感に仕上がります。</p><h3>おすすめの食べ方</h3><ul><li>生地は少なくとも1時間寝かせて発酵させてください。</li></ul><p><strong>包装:</strong> ご要望に応じて、さまざまな重量でご提供します。</p>"
+  },
+  "title": {
+    "tr": "Ekmeklik Buğday Unu | Tufan Organik",
+    "en": "Bread Wheat Flour | Tufan Organik",
+    "ar": "دقيق القمح للخبز | Tufan Organik",
+    "de": "Weizenmehl für Brot | Tufan Organik",
+    "ko": "빵용 밀가루 | Tufan Organik",
+    "ja": "パン用小麦粉 | Tufan Organik"
+  },
+  "date": "2026-11-02T10:42:45.000Z",
+  "update": "2026-11-02T10:42:45.000Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

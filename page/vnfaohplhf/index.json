@@ -1,0 +1,62 @@
+{
+  "id": "vnfaohplhf",
+  "name": {
+    "tr": "Galeta Unu",
+    "en": "Breadcrumbs (Galeta Flour)",
+    "ar": "فتات الخبز (دقيق الغاليتا)",
+    "de": "Paniermehl (Galeta-Mehl)",
+    "ko": "빵가루 (갈레타 가루)",
+    "ja": "パン粉（ガレタ粉）"
+  },
+  "description": {
+    "tr": "Tufan Organik Galeta Unu, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Breadcrumbs (Galeta Flour) is a natural food from Gürün/Sivas in the Flour & Flour Products range.",
+    "ar": "Tufan Organik فتات الخبز (دقيق الغاليتا)، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Paniermehl (Galeta-Mehl) aus der Gruppe Mehl & Mehlprodukte ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
+    "ko": "Tufan Organik 빵가루 (갈레타 가루)은(는) 밀가루 및 가루 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+    "ja": "Tufan Organik パン粉（ガレタ粉）は、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Galeta Unu, Unlu Mamulleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Breadcrumbs (Galeta Flour), Flour & Flour Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, فتات الخبز (دقيق الغاليتا), الدقيق ومشتقاته",
+    "de": "Tufan Organik, Gürün/Sivas, Naturlebensmittel, Paniermehl (Galeta-Mehl), Mehl & Mehlprodukte",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 빵가루 (갈레타 가루), 밀가루 및 가루 제품",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, パン粉（ガレタ粉）, 小麦粉・粉類製品"
+  },
+  "path": "galeta-unu",
+  "icon": "grain",
+  "category": "c17iqfmey",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 235,
+  "url": "",
+  "text": {
+    "tr": "<h2>Galeta Unu</h2><p>Kurutulmuş ekmeğin öğütülmesiyle hazırlanan, altın sarısı renkli galeta unu. Kızartma ve fırın yemeklerinde çıtır bir kaplama sağlar.</p><h3>Kullanım Önerisi</h3><ul><li>Önce una, sonra yumurtaya, en son galeta ununa bulayın.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
+    "en": "<h2>Breadcrumbs (Galeta Flour)</h2><p>Golden breadcrumbs made by grinding dried bread. They give a crisp coating to fried and oven-baked dishes.</p><h3>Serving Suggestion</h3><ul><li>Coat first in flour, then egg, then breadcrumbs.</li></ul><p><strong>Packaging:</strong> Offered in different weights on request.</p>",
+    "ar": "<h2>فتات الخبز (دقيق الغاليتا)</h2><p>فتات خبز ذهبي اللون يُحضَّر بطحن الخبز المجفف. يمنح الأطباق المقلية والمخبوزة طبقة مقرمشة.</p><h3>اقتراح التقديم</h3><ul><li>غطّوه أولاً بالدقيق ثم بالبيض ثم بفتات الخبز.</li></ul><p><strong>التغليف:</strong> يُقدَّم بأوزان مختلفة حسب الطلب.</p>",
+    "de": "<h2>Paniermehl (Galeta-Mehl)</h2><p>Goldgelbes Paniermehl aus gemahlenem getrocknetem Brot. Sorgt bei frittierten und im Ofen gebackenen Gerichten für eine knusprige Hülle.</p><h3>Serviervorschlag</h3><ul><li>Erst in Mehl, dann in Ei und zuletzt in Paniermehl wenden.</li></ul><p><strong>Verpackung:</strong> Auf Anfrage in verschiedenen Gewichten erhältlich.</p>",
+    "ko": "<h2>빵가루 (갈레타 가루)</h2><p>말린 빵을 갈아 만든 황금빛 빵가루입니다. 튀김과 오븐 요리에 바삭한 옷을 입혀 줍니다.</p><h3>활용 팁</h3><ul><li>밀가루, 달걀물, 빵가루 순으로 입혀 주세요.</li></ul><p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>",
+    "ja": "<h2>パン粉（ガレタ粉）</h2><p>乾燥させたパンを挽いて作った黄金色のパン粉です。揚げ物やオーブン料理にサクサクの衣をつけます。</p><h3>おすすめの食べ方</h3><ul><li>小麦粉、溶き卵、パン粉の順に衣をつけてください。</li></ul><p><strong>包装:</strong> ご要望に応じて、さまざまな重量でご提供します。</p>"
+  },
+  "title": {
+    "tr": "Galeta Unu | Tufan Organik",
+    "en": "Breadcrumbs (Galeta Flour) | Tufan Organik",
+    "ar": "فتات الخبز (دقيق الغاليتا) | Tufan Organik",
+    "de": "Paniermehl (Galeta-Mehl) | Tufan Organik",
+    "ko": "빵가루 (갈레타 가루) | Tufan Organik",
+    "ja": "パン粉（ガレタ粉） | Tufan Organik"
+  },
+  "date": "2026-11-02T10:42:45.000Z",
+  "update": "2026-11-02T10:42:45.000Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}
