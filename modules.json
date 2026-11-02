@@ -18,22 +18,25 @@
           "en": "Toggle menu",
           "ar": "تبديل القائمة",
           "de": "Menü umschalten",
-          "ko": "메뉴 열기/닫기"
+          "ko": "메뉴 열기/닫기",
+          "ja": "メニューを開く/閉じる"
         },
         "ariaClose": {
           "tr": "Menüyü kapat",
           "en": "Close menu",
           "ar": "إغلاق القائمة",
           "de": "Menü schließen",
-          "ko": "메뉴 닫기"
+          "ko": "메뉴 닫기",
+          "ja": "メニューを閉じる"
         },
         "logoimg": "logo-en.png",
         "logoimgs": {
           "tr": "logo-tr.png",
           "en": "logo-en.png",
-          "de": "logo-en.png",
+          "de": "logo-de.png",
           "ar": "logo-ar.png",
-          "ko": "logo-ko.png"
+          "ko": "logo-ko.png",
+          "ja": "logo-ja.png"
         },
         "logobg": "transparent",
         "logoborder": "none",
@@ -83,7 +86,8 @@
           "en": "Contact Us",
           "ar": "تواصل معنا",
           "de": "Kontaktieren Sie uns",
-          "ko": "문의하기"
+          "ko": "문의하기",
+          "ja": "お問い合わせ"
         },
         "margin": "30px 0px 30px 0px",
         "linkcolor": "#0B2A5B"
@@ -102,6 +106,11 @@
         {
           "icon": "map",
           "text": "Kirazlık Mahallesi Atatürk Bulvarı Bayabdullah Pasajı Blok No: 255 İç Kapı No: 13 58800 Gürün/SİVAS-TÜRKİYE"
+        },
+        {
+          "icon": "whatsapp",
+          "text": "+90 532 225 65 71",
+          "url": "https://wa.me/905322256571"
         }
       ],
       "version": "1.0.0",
@@ -350,7 +359,7 @@
         "card_shadow": "0 12px 32px rgba(14, 35, 71, 0.10)",
         "font-size": "17px",
         "contact_path": "iletisim",
-        "whatsapp": "",
+        "whatsapp": "905322256571",
         "ui": {
           "tr": {
             "quote": "Bize Ulaşın",
@@ -371,6 +380,10 @@
           "ko": {
             "quote": "문의하기",
             "whatsapp": "WhatsApp"
+          },
+          "ja": {
+            "quote": "お問い合わせ",
+            "whatsapp": "WhatsApp"
           }
         }
       }
@@ -387,63 +400,72 @@
           "en": "Tufan Organik Assistant",
           "ar": "مساعد Tufan Organik",
           "de": "Tufan Organik Assistent",
-          "ko": "Tufan Organik 어시스턴트"
+          "ko": "Tufan Organik 어시스턴트",
+          "ja": "Tufan Organik アシスタント"
         },
         "status": {
           "tr": "Çevrimiçi — size yardımcı olmaya hazır",
           "en": "Online — ready to help",
           "ar": "متصل — جاهز للمساعدة",
           "de": "Online — bereit zu helfen",
-          "ko": "온라인 — 도움을 드릴 준비가 되었습니다"
+          "ko": "온라인 — 도움을 드릴 준비가 되었습니다",
+          "ja": "オンライン — ご対応可能です"
         },
         "welcome": {
           "tr": "Merhaba! Tufan Organik ürünleri, ürün grupları ve toptan sipariş konularında size yardımcı olabilirim.",
           "en": "Hello! I can help you with Tufan Organik products, product groups and wholesale orders.",
           "ar": "مرحباً! يمكنني مساعدتك في منتجات Tufan Organik ومجموعات المنتجات وطلبات الجملة.",
           "de": "Hallo! Ich helfe Ihnen gern bei Produkten, Produktgruppen und Großbestellungen von Tufan Organik.",
-          "ko": "안녕하세요! Tufan Organik 제품, 제품군, 도매 주문에 대해 도와드리겠습니다."
+          "ko": "안녕하세요! Tufan Organik 제품, 제품군, 도매 주문에 대해 도와드리겠습니다.",
+          "ja": "こんにちは！Tufan Organikの製品、製品グループ、卸売注文についてお手伝いできます。"
         },
         "placeholder": {
           "tr": "Sorunuzu yazın...",
           "en": "Type your question...",
           "ar": "اكتب سؤالك...",
           "de": "Fragen Sie hier...",
-          "ko": "질문을 입력하세요..."
+          "ko": "질문을 입력하세요...",
+          "ja": "ご質問を入力してください..."
         },
         "send_text": {
           "tr": "Gönder",
           "en": "Send",
           "ar": "إرسال",
           "de": "Senden",
-          "ko": "보내기"
+          "ko": "보내기",
+          "ja": "送信"
         },
         "typing_text": {
           "tr": "Yazıyor",
           "en": "Typing",
           "ar": "يكتب",
           "de": "Schreibt",
-          "ko": "입력 중"
+          "ko": "입력 중",
+          "ja": "入力中"
         },
         "error_text": {
           "tr": "Bağlantı hatası. Lütfen tekrar deneyin.",
           "en": "Connection error. Please try again.",
           "ar": "خطأ في الاتصال. حاول مرة أخرى.",
           "de": "Verbindungsfehler. Bitte erneut versuchen.",
-          "ko": "연결 오류입니다. 다시 시도해 주세요."
+          "ko": "연결 오류입니다. 다시 시도해 주세요.",
+          "ja": "接続エラー。もう一度お試しください。"
         },
         "system_prompt": {
           "tr": "Sen Tufan Organik (Gürün/Sivas merkezli organik tarım ve doğal gıda üreticisi; unvan: Tufan Organik Tarım Gıda Sanayi ve Dış Ticaret Limited Şirketi) web sitesinin yardımcı asistanısın. Tahıl, bakliyat, kuruyemiş, reçel, pekmez, süt ürünleri, kurutulmuş ve dondurulmuş meyve-sebze, kadayıf, lavaş, zeytin yağı ve aromatik bitkiler gibi 22 ürün grubu hakkında kısa, net ve nazik Türkçe yanıt ver. İletişim bilgisi istenirse yalnız şunları ver: adres Kirazlık Mahallesi Atatürk Bulvarı Bayabdullah Pasajı Blok No: 255 İç Kapı No: 13 58800 Gürün/SİVAS-TÜRKİYE; telefon +90 532 225 65 71; e-posta tufan.organictr@gmail.com; web www.tufanorganic.com. Fiyat, stok, sağlık iddiası ya da sertifika bilgisi uydurma; fiyat ve toptan sipariş için ziyaretçiyi İletişim sayfasına yönlendir. Ürün önerirken mutlaka [[PRODUCTS]]...[[/PRODUCTS]] bloğu kullan.",
           "en": "You are the assistant of the Tufan Organik website (an organic farming and natural food producer based in Gürün/Sivas, Türkiye; legal name: Tufan Organik Tarım Gıda Sanayi ve Dış Ticaret Limited Şirketi). Reply briefly, clearly and politely in English about 22 product groups such as grains, pulses, nuts, jams, pekmez, dairy, dried and frozen fruits and vegetables, kadayif, lavash, olive oil and aromatic herbs. When contact details are requested, give only these: address Kirazlık Mahallesi Atatürk Bulvarı Bayabdullah Pasajı Blok No: 255 İç Kapı No: 13 58800 Gürün/SİVAS-TÜRKİYE; phone +90 532 225 65 71; email tufan.organictr@gmail.com; web www.tufanorganic.com. Never invent prices, stock, health claims or certificates; send visitors to the Contact page for prices and wholesale orders. Use the [[PRODUCTS]]...[[/PRODUCTS]] block when listing products.",
           "ar": "أنت مساعد موقع Tufan Organik (منتج للزراعة العضوية والأغذية الطبيعية مقره غورون/سيواس في تركيا؛ الاسم القانوني: Tufan Organik Tarım Gıda Sanayi ve Dış Ticaret Limited Şirketi). أجب باختصار ووضوح ولطف بالعربية عن 22 مجموعة منتجات مثل الحبوب والبقوليات والمكسرات والمربيات والدبس ومنتجات الألبان والفواكه والخضروات المجففة والمجمدة والقطايف واللافاش وزيت الزيتون والأعشاب العطرية. عند طلب بيانات الاتصال قدّم هذه فقط: العنوان Kirazlık Mahallesi Atatürk Bulvarı Bayabdullah Pasajı Blok No: 255 İç Kapı No: 13 58800 Gürün/SİVAS-TÜRKİYE؛ الهاتف +90 532 225 65 71؛ البريد الإلكتروني tufan.organictr@gmail.com؛ الموقع www.tufanorganic.com. لا تخترع أسعاراً أو مخزوناً أو ادعاءات صحية أو شهادات؛ وجّه الزائر إلى صفحة اتصل بنا للأسعار وطلبات الجملة. استخدم كتلة [[PRODUCTS]]...[[/PRODUCTS]] عند سرد المنتجات.",
           "de": "Du bist der Assistent der Website von Tufan Organik (Hersteller von Bio-Landwirtschaftsprodukten und natürlichen Lebensmitteln mit Sitz in Gürün/Sivas, Türkei; Firmenname: Tufan Organik Tarım Gıda Sanayi ve Dış Ticaret Limited Şirketi). Antworte kurz, klar und höflich auf Deutsch zu 22 Produktgruppen wie Getreide, Hülsenfrüchten, Nüssen, Konfitüren, Pekmez, Milchprodukten, getrocknetem und tiefgefrorenem Obst und Gemüse, Kadayif, Lavash, Olivenöl und aromatischen Kräutern. Wenn Kontaktdaten gewünscht werden, nenne nur diese: Adresse Kirazlık Mahallesi Atatürk Bulvarı Bayabdullah Pasajı Blok No: 255 İç Kapı No: 13 58800 Gürün/SİVAS-TÜRKİYE; Telefon +90 532 225 65 71; E-Mail tufan.organictr@gmail.com; Web www.tufanorganic.com. Erfinde niemals Preise, Bestände, Gesundheitsversprechen oder Zertifikate; verweise für Preise und Großbestellungen auf die Kontaktseite. Verwende beim Auflisten von Produkten den Block [[PRODUCTS]]...[[/PRODUCTS]].",
-          "ko": "당신은 Tufan Organik(튀르키예 귀륀/시바스에 본사를 둔 유기농업·천연 식품 생산업체, 법인명: Tufan Organik Tarım Gıda Sanayi ve Dış Ticaret Limited Şirketi) 웹사이트의 어시스턴트입니다. 곡물, 콩류, 견과류, 잼, 페크메즈, 유제품, 건조·냉동 과일과 채소, 카다이프, 라바시, 올리브유, 허브 등 22개 제품군에 대해 한국어로 짧고 명확하며 정중하게 답하세요. 연락처를 물으면 다음만 안내하세요: 주소 Kirazlık Mahallesi Atatürk Bulvarı Bayabdullah Pasajı Blok No: 255 İç Kapı No: 13 58800 Gürün/SİVAS-TÜRKİYE; 전화 +90 532 225 65 71; 이메일 tufan.organictr@gmail.com; 웹 www.tufanorganic.com. 가격, 재고, 건강 효능, 인증 정보를 지어내지 말고 가격과 도매 주문은 문의 페이지로 안내하세요. 제품을 추천할 때는 반드시 [[PRODUCTS]]...[[/PRODUCTS]] 블록을 사용하세요."
+          "ko": "당신은 Tufan Organik(튀르키예 귀륀/시바스에 본사를 둔 유기농업·천연 식품 생산업체, 법인명: Tufan Organik Tarım Gıda Sanayi ve Dış Ticaret Limited Şirketi) 웹사이트의 어시스턴트입니다. 곡물, 콩류, 견과류, 잼, 페크메즈, 유제품, 건조·냉동 과일과 채소, 카다이프, 라바시, 올리브유, 허브 등 22개 제품군에 대해 한국어로 짧고 명확하며 정중하게 답하세요. 연락처를 물으면 다음만 안내하세요: 주소 Kirazlık Mahallesi Atatürk Bulvarı Bayabdullah Pasajı Blok No: 255 İç Kapı No: 13 58800 Gürün/SİVAS-TÜRKİYE; 전화 +90 532 225 65 71; 이메일 tufan.organictr@gmail.com; 웹 www.tufanorganic.com. 가격, 재고, 건강 효능, 인증 정보를 지어내지 말고 가격과 도매 주문은 문의 페이지로 안내하세요. 제품을 추천할 때는 반드시 [[PRODUCTS]]...[[/PRODUCTS]] 블록을 사용하세요.",
+          "ja": "あなたはTufan Organik（シヴァス県ギュルンを拠点とするオーガニック農業・自然食品メーカー；正式名称: Tufan Organik Tarım Gıda Sanayi ve Dış Ticaret Limited Şirketi）のウェブサイトのアシスタントです。穀物、豆類、ナッツ、ジャム、ペクメズ、乳製品、ドライおよび冷凍の果物・野菜、カダイフ、ラヴァッシュ、オリーブオイル、ハーブなど22の製品グループについて、日本語で短く、明確で、丁寧にお答えください。連絡先を求められた場合は次の情報のみをお伝えください：住所 Kirazlık Mahallesi Atatürk Bulvarı Bayabdullah Pasajı Blok No: 255 İç Kapı No: 13 58800 Gürün/SİVAS-TÜRKİYE；電話 +90 532 225 65 71；メール tufan.organictr@gmail.com；ウェブ www.tufanorganic.com。価格、在庫、健康効果、認証情報は創作せず、価格と卸売注文はお問い合わせページへ案内してください。製品をおすすめする際は必ず [[PRODUCTS]]...[[/PRODUCTS]] ブロックを使用してください。"
         },
         "product_link_text": {
           "tr": "İncele",
           "en": "View",
           "ar": "عرض",
           "de": "Ansehen",
-          "ko": "보기"
+          "ko": "보기",
+          "ja": "見る"
         },
         "color": "#0B2A5B",
         "bgcolor": "#FFFFFF",
@@ -461,70 +483,80 @@
           "en": "Close",
           "ar": "إغلاق",
           "de": "Schließen",
-          "ko": "닫기"
+          "ko": "닫기",
+          "ja": "閉じる"
         },
         "proxy_url_missing": {
           "tr": " (proxyUrl ayarlanmadı)",
           "en": " (proxyUrl not configured)",
           "ar": " (proxyUrl غير مضبوط)",
           "de": " (proxyUrl nicht konfiguriert)",
-          "ko": " (proxyUrl 미설정)"
+          "ko": " (proxyUrl 미설정)",
+          "ja": "（proxyUrlが設定されていません）"
         },
         "product_list_rules": {
           "tr": "\n\n--- URUN LISTESI CIKTISI (ZORUNLU) ---\nBirden fazla urun onerirken duz yazi listesi YAZMA. Her urun icin asagidaki blogu kullan:\n[[PRODUCTS]]\nUrunAdi|url-slug|gramaj|kategori\n[[/PRODUCTS]]\nOrnek:\n[[PRODUCTS]]\nKuru Incir|kuru-incir|500 g|Kurutulmus Meyve Grubu\n[[/PRODUCTS]]\nurl-slug yalnizca katalogdaki path degeridir. Tek urun icin de ayni blok tek satirla.\nBloktan once 1-2 cumle aciklama, sonra blok. Blok icinde markdown veya numara kullanma.\nKatalog blogundaki urunleri kullan; uydurma.\nKategori sayfasi icin: [[PRODUCTS]]\\nKategori Adi|kategori-slug||\\n[[/PRODUCTS]] (gramaj bos birakilabilir).\n",
           "en": "\n\n--- PRODUCT LIST OUTPUT (MANDATORY) ---\nWhen recommending several products do NOT write a plain list. Use this block:\n[[PRODUCTS]]\nProductName|url-slug|weight|category\n[[/PRODUCTS]]\nurl-slug is only the catalog path value. Use the same block with one line for a single product.\nWrite 1-2 sentences before the block. No markdown or numbering inside the block.\nUse only catalog products; do not invent.\nFor a category page: [[PRODUCTS]]\\nCategory Name|category-slug||\\n[[/PRODUCTS]] (weight may be empty).\n",
           "ar": "\n\n--- مخرجات قائمة المنتجات (إلزامي) ---\nعند اقتراح عدة منتجات لا تكتب قائمة نصية. استخدم هذه الكتلة:\n[[PRODUCTS]]\nاسم المنتج|url-slug|الوزن|الفئة\n[[/PRODUCTS]]\nurl-slug هو قيمة path في الكتالوج فقط. استخدم الكتلة نفسها بسطر واحد لمنتج واحد.\nاكتب جملة أو جملتين قبل الكتلة. لا تستخدم markdown أو ترقيماً داخل الكتلة.\nاستخدم منتجات الكتالوج فقط ولا تخترع.\n",
           "de": "\n\n--- PRODUKTLISTE AUSGABE (PFLICHT) ---\nBei mehreren Produktempfehlungen KEINE einfache Textliste schreiben. Nutze diesen Block:\n[[PRODUCTS]]\nProduktname|url-slug|Gewicht|Kategorie\n[[/PRODUCTS]]\nurl-slug ist nur der path-Wert aus dem Katalog. Auch bei einem Produkt derselbe Block mit einer Zeile.\nVor dem Block 1-2 Sätze. Kein Markdown und keine Nummerierung im Block.\nNur Katalogprodukte verwenden, nichts erfinden.\n",
-          "ko": "\n\n--- 제품 목록 출력 (필수) ---\n여러 제품을 추천할 때 일반 텍스트 목록을 쓰지 마세요. 다음 블록을 사용하세요:\n[[PRODUCTS]]\n제품명|url-slug|중량|카테고리\n[[/PRODUCTS]]\nurl-slug는 카탈로그의 path 값만 사용합니다. 제품이 하나여도 같은 블록을 한 줄로 쓰세요.\n블록 앞에 1-2문장을 쓰세요. 블록 안에서는 마크다운이나 번호를 쓰지 마세요.\n카탈로그의 제품만 사용하고 지어내지 마세요.\n"
+          "ko": "\n\n--- 제품 목록 출력 (필수) ---\n여러 제품을 추천할 때 일반 텍스트 목록을 쓰지 마세요. 다음 블록을 사용하세요:\n[[PRODUCTS]]\n제품명|url-slug|중량|카테고리\n[[/PRODUCTS]]\nurl-slug는 카탈로그의 path 값만 사용합니다. 제품이 하나여도 같은 블록을 한 줄로 쓰세요.\n블록 앞에 1-2문장을 쓰세요. 블록 안에서는 마크다운이나 번호를 쓰지 마세요.\n카탈로그의 제품만 사용하고 지어내지 마세요.\n",
+          "ja": "\n\n--- 製品リスト出力（必須） ---\n複数の製品をおすすめする際は、プレーンなリストを書かないでください。各製品に以下のブロックを使用してください：\n[[PRODUCTS]]\n製品名|url-slug|グラム|カテゴリ\n[[/PRODUCTS]]\n例：\n[[PRODUCTS]]\nドライイチジク|kuru-incir|500 g|ドライフルーツ\n[[/PRODUCTS]]\nurl-slugはカタログのpath値のみ。単一製品の場合も同じブロックを1行で。\nブロックの前に1-2文の説明、その後ブロック。ブロック内ではmarkdownや番号を使用しない。\nカタログブロックの製品のみ使用；創作しない。\nカテゴリページ用： [[PRODUCTS]]\\nカテゴリ名|カテゴリ-slug||\\n[[/PRODUCTS]]（グラムは空欄可）。\n"
         },
         "site_info_header": {
           "tr": "\n\n--- SITE BILGI BANKASI (sys.text) ---\n",
           "en": "\n\n--- SITE KNOWLEDGE BASE (sys.text) ---\n",
           "ar": "\n\n--- قاعدة معلومات الموقع (sys.text) ---\n",
           "de": "\n\n--- WEBSITE-WISSENSBASIS (sys.text) ---\n",
-          "ko": "\n\n--- 사이트 지식 베이스 (sys.text) ---\n"
+          "ko": "\n\n--- 사이트 지식 베이스 (sys.text) ---\n",
+          "ja": "\n\n--- サイト情報（sys.text） ---\n"
         },
         "catalog_header": {
           "tr": "\n\n--- KATALOG ---\nAsagidaki urunleri kullan; katalogda olmayan urun uydurma.\n",
           "en": "\n\n--- CATALOG ---\nUse the products below; do not invent items missing from this list.\n",
           "ar": "\n\n--- الكتالوج ---\nاستخدم المنتجات أدناه؛ لا تخترع عناصر غير موجودة.\n",
           "de": "\n\n--- KATALOG ---\nNutze die folgenden Produkte; erfinde keine Artikel, die nicht in der Liste stehen.\n",
-          "ko": "\n\n--- 카탈로그 ---\n아래 제품만 사용하고 목록에 없는 제품은 지어내지 마세요.\n"
+          "ko": "\n\n--- 카탈로그 ---\n아래 제품만 사용하고 목록에 없는 제품은 지어내지 마세요.\n",
+          "ja": "\n\n--- カタログ ---\n以下の製品のみを使用；リストにない製品の創作は禁止。\n"
         },
         "contact_phone": {
           "tr": "Telefon",
           "en": "Phone",
           "ar": "هاتف",
           "de": "Telefon",
-          "ko": "전화"
+          "ko": "전화",
+          "ja": "電話"
         },
         "contact_whatsapp": {
           "tr": "WhatsApp",
           "en": "WhatsApp",
           "ar": "واتساب",
           "de": "WhatsApp",
-          "ko": "WhatsApp"
+          "ko": "WhatsApp",
+          "ja": "WhatsApp"
         },
         "contact_email": {
           "tr": "E-posta",
           "en": "Email",
           "ar": "البريد",
           "de": "E-Mail",
-          "ko": "이메일"
+          "ko": "이메일",
+          "ja": "メール"
         },
         "contact_address": {
           "tr": "Adres",
           "en": "Address",
           "ar": "العنوان",
           "de": "Adresse",
-          "ko": "주소"
+          "ko": "주소",
+          "ja": "住所"
         },
         "contact_rules": {
           "tr": "\n\n--- ILETISIM CIKTISI ---\nIletisim istendiginde duz yazi yerine su blogu kullan:\n[[CONTACT]]\nphone|+90...\nwhatsapp|+90...\nemail|...\naddress|...\n[[/CONTACT]]\nBos satir yazma. Telefon tel:, WhatsApp wa.me, e-posta mailto.\n",
           "en": "\n\n--- CONTACT OUTPUT ---\nWhen giving contact details use this block, not plain text:\n[[CONTACT]]\nphone|+90...\nwhatsapp|+90...\nemail|...\naddress|...\n[[/CONTACT]]\nSkip empty lines. Phone tel:, WhatsApp wa.me, email mailto.\n",
           "ar": "\n\n--- مخرجات الاتصال ---\nعند إعطاء معلومات الاتصال استخدم الكتلة:\n[[CONTACT]]\nphone|+90...\nwhatsapp|+90...\nemail|...\naddress|...\n[[/CONTACT]]\n",
           "de": "\n\n--- CONTACT OUTPUT ---\nWhen giving contact details use this block, not plain text:\n[[CONTACT]]\nphone|+90...\nwhatsapp|+90...\nemail|...\naddress|...\n[[/CONTACT]]\nSkip empty lines. Phone tel:, WhatsApp wa.me, email mailto.\n",
-          "ko": "\n\n--- CONTACT OUTPUT ---\nWhen giving contact details use this block, not plain text:\n[[CONTACT]]\nphone|+90...\nwhatsapp|+90...\nemail|...\naddress|...\n[[/CONTACT]]\nSkip empty lines. Phone tel:, WhatsApp wa.me, email mailto.\n"
+          "ko": "\n\n--- CONTACT OUTPUT ---\nWhen giving contact details use this block, not plain text:\n[[CONTACT]]\nphone|+90...\nwhatsapp|+90...\nemail|...\naddress|...\n[[/CONTACT]]\nSkip empty lines. Phone tel:, WhatsApp wa.me, email mailto.\n",
+          "ja": "\n\n--- 連絡先出力 ---\n連絡先を伝える際はプレーンテキストの代わりにこのブロックを使用：\n[[CONTACT]]\nphone|+90...\nwhatsapp|+90...\nemail|...\naddress|...\n[[/CONTACT]]\n空行を書かない。電話はtel:、WhatsAppはwa.me、メールはmailto。\n"
         }
       },
       "category": "contact",
@@ -545,28 +577,32 @@
           "en": "Natural and organic from Gürün, Sivas",
           "ar": "طبيعي وعضوي من غورون، سيواس",
           "de": "Natürlich und biologisch aus Gürün, Sivas",
-          "ko": "시바스 귀륀에서 온 천연·유기농"
+          "ko": "시바스 귀륀에서 온 천연·유기농",
+          "ja": "ギュルン/シヴァスの自然・オーガニック食材"
         },
         "title": {
           "tr": "Toprağın doğal hâli, sofranıza",
           "en": "Nature's goodness, straight to your table",
           "ar": "خير الأرض الطبيعي إلى مائدتكم",
           "de": "Die Natur der Erde, direkt auf Ihren Tisch",
-          "ko": "자연 그대로의 맛을 식탁까지"
+          "ko": "자연 그대로의 맛을 식탁까지",
+          "ja": "土の自然の恵みを、あなたの食卓へ"
         },
         "description": {
           "tr": "Tufan Organik, Gürün/Sivas merkezli organik tarım ve doğal gıda üreticisidir. Tahıldan bakliyata, reçelden pekmeze, kurutulmuş meyveden zeytinyağına 22 ürün grubunda doğal lezzetler sunuyoruz.",
           "en": "Tufan Organik is an organic farming and natural food producer based in Gürün, Sivas. From grains and pulses to jams, pekmez, dried fruit and olive oil, we offer natural flavours in 22 product groups.",
           "ar": "توفان أورغانيك منتج للزراعة العضوية والأغذية الطبيعية مقره غورون، سيواس. من الحبوب والبقوليات إلى المربيات والدبس والفواكه المجففة وزيت الزيتون، نقدم نكهات طبيعية في 22 مجموعة منتجات.",
           "de": "Tufan Organik ist ein in Gürün (Sivas) ansässiger Hersteller aus ökologischem Landbau und natürlicher Lebensmittel. Von Getreide und Hülsenfrüchten über Konfitüren, Pekmez und Trockenobst bis zu Olivenöl bieten wir natürliche Genüsse in 22 Produktgruppen.",
-          "ko": "투판 오가닉은 시바스주 귀륀에 본사를 둔 유기농 및 천연 식품 제조업체입니다. 곡물과 콩류부터 잼, 페크메즈, 건과일, 올리브 오일까지 22개 제품군의 자연 그대로의 맛을 선보입니다."
+          "ko": "투판 오가닉은 시바스주 귀륀에 본사를 둔 유기농 및 천연 식품 제조업체입니다. 곡물과 콩류부터 잼, 페크메즈, 건과일, 올리브 오일까지 22개 제품군의 자연 그대로의 맛을 선보입니다.",
+          "ja": "Tufan Organikはシヴァス県ギュルンを拠点とするオーガニック農業・自然食品メーカーです。穀物から豆類、ジャムからペクメズ、ドライフルーツからオリーブオイルまで、22の製品グループで自然の味をお届けします。"
         },
         "btn1Text": {
           "tr": "Ürünlerimiz",
           "en": "Our Products",
           "ar": "منتجاتنا",
           "de": "Unsere Produkte",
-          "ko": "제품 보기"
+          "ko": "제품 보기",
+          "ja": "私たちの製品"
         },
         "btn1Url": "urunler",
         "btn2Text": {
@@ -574,7 +610,8 @@
           "en": "Contact Us",
           "ar": "تواصل معنا",
           "de": "Kontakt",
-          "ko": "문의하기"
+          "ko": "문의하기",
+          "ja": "お問い合わせ"
         },
         "btn2Url": "iletisim",
         "stat1Value": "22",
@@ -583,15 +620,17 @@
           "en": "Product groups",
           "ar": "مجموعة منتجات",
           "de": "Produktgruppen",
-          "ko": "제품군"
+          "ko": "제품군",
+          "ja": "製品グループ"
         },
-        "stat2Value": "5",
+        "stat2Value": "6",
         "stat2Label": {
           "tr": "Dil",
           "en": "Languages",
           "ar": "لغات",
           "de": "Sprachen",
-          "ko": "언어"
+          "ko": "언어",
+          "ja": "対応言語"
         },
         "max": "1200px",
         "gradient": "linear-gradient(160deg, #FBF8F1 0%, #F3ECDD 100%)",
@@ -624,14 +663,16 @@
           "en": "Our Product Groups",
           "ar": "مجموعات منتجاتنا",
           "de": "Unsere Produktgruppen",
-          "ko": "제품군"
+          "ko": "제품군",
+          "ja": "私たちの製品グループ"
         },
         "subtitle": {
           "tr": "22 ürün grubunda doğal ve organik lezzetler",
           "en": "Natural and organic flavours in 22 product groups",
           "ar": "نكهات طبيعية وعضوية في 22 مجموعة منتجات",
           "de": "Natürliche und biologische Genüsse in 22 Produktgruppen",
-          "ko": "22개 제품군의 천연·유기농 맛"
+          "ko": "22개 제품군의 천연·유기농 맛",
+          "ja": "22の製品グループでの自然・オーガニックの味"
         },
         "max": "1200px",
         "bgcolor": "#FBF8F1",
@@ -648,7 +689,8 @@
             "en": "Cereals and Flours",
             "ar": "الحبوب والدقيق",
             "de": "Getreide und Mehle",
-            "ko": "곡물 및 밀가루"
+            "ko": "곡물 및 밀가루",
+            "ja": "穀物と粉"
           },
           "url": "tahil-grubu-ve-unlari"
         },
@@ -659,7 +701,8 @@
             "en": "Pulses and Pulse Products",
             "ar": "البقوليات ومنتجاتها",
             "de": "Hülsenfrüchte und Produkte",
-            "ko": "두류 및 두류 제품"
+            "ko": "두류 및 두류 제품",
+            "ja": "豆類とその製品"
           },
           "url": "bakliyat-grubu-ve-urunleri"
         },
@@ -670,7 +713,8 @@
             "en": "Oilseeds and Products",
             "ar": "البذور الزيتية ومنتجاتها",
             "de": "Ölsaaten und Produkte",
-            "ko": "유지종자 및 제품"
+            "ko": "유지종자 및 제품",
+            "ja": "油用種子とその製品"
           },
           "url": "yagli-tohumlar-ve-urunleri"
         },
@@ -681,7 +725,8 @@
             "en": "Pasta Group",
             "ar": "مجموعة المعكرونة",
             "de": "Nudeln und Teigwaren",
-            "ko": "파스타 그룹"
+            "ko": "파스타 그룹",
+            "ja": "パスタ"
           },
           "url": "makarna-grubu"
         },
@@ -692,7 +737,8 @@
             "en": "Pastes and Sauces",
             "ar": "المعجونات والصلصات",
             "de": "Pasten und Saucen",
-            "ko": "페이스트 및 소스"
+            "ko": "페이스트 및 소스",
+            "ja": "トマトソースと調味料"
           },
           "url": "salca-ve-soslar"
         },
@@ -703,7 +749,8 @@
             "en": "Breakfast Products",
             "ar": "منتجات الإفطار",
             "de": "Frühstücksprodukte",
-            "ko": "아침식사 제품"
+            "ko": "아침식사 제품",
+            "ja": "朝食メニュー"
           },
           "url": "kahvaltilik-urunler"
         },
@@ -714,7 +761,8 @@
             "en": "Milk and Dairy Products",
             "ar": "الحليب ومنتجات الألبان",
             "de": "Milch und Milchprodukte",
-            "ko": "우유 및 유제품"
+            "ko": "우유 및 유제품",
+            "ja": "乳製品"
           },
           "url": "sut-ve-sut-urunleri"
         },
@@ -725,7 +773,8 @@
             "en": "Nuts and Nut Products",
             "ar": "المكسرات ومنتجاتها",
             "de": "Nüsse und Nussprodukte",
-            "ko": "견과류 및 제품"
+            "ko": "견과류 및 제품",
+            "ja": "ナッツとその製品"
           },
           "url": "kuruyemis-grubu-ve-urunleri"
         },
@@ -736,7 +785,8 @@
             "en": "Jams and Marmalades",
             "ar": "المربيات ومربى الحمضيات",
             "de": "Konfitüren und Marmeladen",
-            "ko": "잼 및 마멀레이드"
+            "ko": "잼 및 마멀레이드",
+            "ja": "ジャムとマーマレード"
           },
           "url": "recel-ve-marmelatlar"
         },
@@ -747,7 +797,8 @@
             "en": "Fruit Juices",
             "ar": "عصائر الفاكهة",
             "de": "Fruchtsäfte",
-            "ko": "과일 주스"
+            "ko": "과일 주스",
+            "ja": "フルーツジュース"
           },
           "url": "meyve-suyu-cesitleri"
         },
@@ -758,7 +809,8 @@
             "en": "Fruit Extracts",
             "ar": "مستخلصات الفاكهة",
             "de": "Fruchtextrakte",
-            "ko": "과일 추출물"
+            "ko": "과일 추출물",
+            "ja": "フルーツエキス"
           },
           "url": "meyve-ozu-grubu"
         },
@@ -769,7 +821,8 @@
             "en": "Molasses, Tahini and Halva",
             "ar": "أنواع الدبس والطحينة والحلاوة",
             "de": "Pekmez, Tahin und Halva",
-            "ko": "페크메즈, 타힌 및 할바"
+            "ko": "페크메즈, 타힌 및 할바",
+            "ja": "ペクメズ、タヒニ、ハルヴァ"
           },
           "url": "pekmez-cesitleri-tahin-ve-helva"
         },
@@ -780,7 +833,8 @@
             "en": "Dried Fruits",
             "ar": "الفواكه المجففة",
             "de": "Trockenfrüchte",
-            "ko": "건조 과일"
+            "ko": "건조 과일",
+            "ja": "ドライフルーツ"
           },
           "url": "kurutulmus-meyve-grubu"
         },
@@ -791,7 +845,8 @@
             "en": "Frozen Fruits",
             "ar": "الفواكه المجمدة",
             "de": "Tiefkühl-Obst",
-            "ko": "냉동 과일"
+            "ko": "냉동 과일",
+            "ja": "凍結フルーツ"
           },
           "url": "dondurulmus-meyve-grubu"
         },
@@ -802,7 +857,8 @@
             "en": "Dried Vegetables",
             "ar": "الخضروات المجففة",
             "de": "Getrocknetes Gemüse",
-            "ko": "건조 채소"
+            "ko": "건조 채소",
+            "ja": "ドライ野菜"
           },
           "url": "kurutulmus-sebze-grubu"
         },
@@ -813,7 +869,8 @@
             "en": "Frozen Vegetables",
             "ar": "الخضروات المجمدة",
             "de": "Tiefkühl-Gemüse",
-            "ko": "냉동 채소"
+            "ko": "냉동 채소",
+            "ja": "凍結野菜"
           },
           "url": "dondurulmus-sebze-grubu"
         },
@@ -824,7 +881,8 @@
             "en": "Bakery Products",
             "ar": "منتجات المخبوزات",
             "de": "Backwaren",
-            "ko": "베이커리 제품"
+            "ko": "베이커리 제품",
+            "ja": "パン・製菓製品"
           },
           "url": "unlu-mamulleri"
         },
@@ -835,7 +893,8 @@
             "en": "Kadayıf Varieties",
             "ar": "أنواع القطايف",
             "de": "Kadayıf-Sorten",
-            "ko": "카다이프 종류"
+            "ko": "카다이프 종류",
+            "ja": "カダイフ"
           },
           "url": "kadayif-cesitleri"
         },
@@ -846,7 +905,8 @@
             "en": "Lavash and Yufka Varieties",
             "ar": "أنواع اللافاش واليوفكا",
             "de": "Lavaş und Yufka",
-            "ko": "라바시 및 유프카 종류"
+            "ko": "라바시 및 유프카 종류",
+            "ja": "ラヴァッシュ・ユフカ"
           },
           "url": "lavas-ve-yufka-cesitleri"
         },
@@ -857,7 +917,8 @@
             "en": "Olive Oil and Avocado Oil",
             "ar": "زيت الزيتون وزيت الأفوكادو",
             "de": "Olivenöl und Avocadoöl",
-            "ko": "올리브 오일 및 아보카도 오일"
+            "ko": "올리브 오일 및 아보카도 오일",
+            "ja": "オリーブオイル・アボカドオイル"
           },
           "url": "zeytin-yagi-ve-avakado-yagi"
         },
@@ -868,7 +929,8 @@
             "en": "Sour, Hot and Sweet Special Sauces, Vinegars and Beverages",
             "ar": "الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات",
             "de": "Saure, scharfe und süße Spezialsaucen, Essig und Getränke",
-            "ko": "새콤·매콤·달콤 특선 소스, 식초 및 음료"
+            "ko": "새콤·매콤·달콤 특선 소스, 식초 및 음료",
+            "ja": "酸味・辛味・甘味の特別ソース、酢、飲料"
           },
           "url": "eksi-aci-ve-tatli-ozel-soslar-sirke-ve-icecekler"
         },
@@ -879,7 +941,8 @@
             "en": "Medicinal and Aromatic Plants and Oils",
             "ar": "النباتات الطبية والعطرية وزيوتها",
             "de": "Heil- und Aromapflanzen und ihre Öle",
-            "ko": "약용·방향 식물 및 오일"
+            "ko": "약용·방향 식물 및 오일",
+            "ja": "薬用ハーブとそのオイル"
           },
           "url": "tibbi-aromatik-bitkiler-ve-yaglari"
         }
@@ -908,21 +971,24 @@
           "en": "For wholesale and export enquiries",
           "ar": "لطلبات الجملة والتصدير",
           "de": "Für Großhandels- und Exportanfragen",
-          "ko": "도매 및 수출 문의"
+          "ko": "도매 및 수출 문의",
+          "ja": "卸売・輸出のお願いについて"
         },
         "description": {
           "tr": "Ürün grupları, fiyat ve sevkiyat bilgisi için bizimle iletişime geçin.",
           "en": "Contact us for product groups, pricing and shipping information.",
           "ar": "تواصلوا معنا للحصول على معلومات عن مجموعات المنتجات والأسعار والشحن.",
           "de": "Kontaktieren Sie uns für Informationen zu Produktgruppen, Preisen und Versand.",
-          "ko": "제품군, 가격 및 배송 정보는 문의해 주세요."
+          "ko": "제품군, 가격 및 배송 정보는 문의해 주세요.",
+          "ja": "製品グループ、価格、配送情報についてはお問い合わせください。"
         },
         "btnText": {
           "tr": "Hemen Arayın: +90 532 225 65 71",
           "en": "Call now: +90 532 225 65 71",
           "ar": "اتصل الآن: 54 08 250 532 90+",
           "de": "Jetzt anrufen: +90 532 225 65 71",
-          "ko": "지금 전화: +90 532 225 65 71"
+          "ko": "지금 전화: +90 532 225 65 71",
+          "ja": "そのまま電話: +90 532 225 65 71"
         },
         "btnUrl": "tel:+905322256571",
         "note": {
@@ -930,7 +996,8 @@
           "en": "E-mail: tufan.organictr@gmail.com",
           "ar": "البريد الإلكتروني: tufan.organictr@gmail.com",
           "de": "E-Mail: tufan.organictr@gmail.com",
-          "ko": "이메일: tufan.organictr@gmail.com"
+          "ko": "이메일: tufan.organictr@gmail.com",
+          "ja": "メール: tufan.organictr@gmail.com"
         },
         "max": "1200px"
       },
@@ -952,28 +1019,32 @@
           "en": "About Us",
           "ar": "من نحن",
           "de": "Über uns",
-          "ko": "회사 소개"
+          "ko": "회사 소개",
+          "ja": "会社概要"
         },
         "title": {
           "tr": "Bizi Tanıyın",
           "en": "Get to Know Us",
           "ar": "تعرّف علينا",
           "de": "Lernen Sie uns kennen",
-          "ko": "저희를 소개합니다"
+          "ko": "저희를 소개합니다",
+          "ja": "私たちを知ってください"
         },
         "description": {
           "tr": "Tufan Organik, Gürün/Sivas'ta organik tarım ve doğal gıda alanında faaliyet gösterir. Tahıl, bakliyat, kuruyemiş, reçel, pekmez, süt ürünleri, kurutulmuş ve dondurulmuş meyve-sebze ile aromatik bitkiler dahil 22 ürün grubunu sunuyoruz.",
           "en": "Tufan Organik operates in organic farming and natural food in Gürün, Sivas. We offer 22 product groups, including grains, pulses, nuts, jams, pekmez, dairy products, dried and frozen fruits and vegetables, and aromatic herbs.",
           "ar": "تعمل توفان أورغانيك في مجال الزراعة العضوية والأغذية الطبيعية في غورون، سيواس. نقدم 22 مجموعة منتجات تشمل الحبوب والبقوليات والمكسرات والمربيات والدبس ومنتجات الألبان والفواكه والخضروات المجففة والمجمدة والأعشاب العطرية.",
           "de": "Tufan Organik ist in Gürün (Sivas) im ökologischen Landbau und bei natürlichen Lebensmitteln tätig. Wir bieten 22 Produktgruppen, darunter Getreide, Hülsenfrüchte, Nüsse, Konfitüren, Pekmez, Milchprodukte, getrocknetes und tiefgefrorenes Obst und Gemüse sowie aromatische Kräuter.",
-          "ko": "투판 오가닉은 시바스주 귀륀에서 유기농 및 천연 식품 사업을 운영합니다. 곡물, 콩류, 견과류, 잼, 페크메즈, 유제품, 건조·냉동 과일과 채소, 아로마 허브 등 22개 제품군을 제공합니다."
+          "ko": "투판 오가닉은 시바스주 귀륀에서 유기농 및 천연 식품 사업을 운영합니다. 곡물, 콩류, 견과류, 잼, 페크메즈, 유제품, 건조·냉동 과일과 채소, 아로마 허브 등 22개 제품군을 제공합니다.",
+          "ja": "Tufan Organikはシヴァス県ギュルンでオーガニック農業と自然食品の事業を展開しています。穀物、豆類、ナッツ、ジャム、ペクメズ、乳製品、ドライおよび冷凍の果物・野菜、ハーブを含む22の製品グループをお使いいただけます。"
         },
         "btn1Text": {
           "tr": "Devamını Oku",
           "en": "Read More",
           "ar": "اقرأ المزيد",
           "de": "Mehr erfahren",
-          "ko": "더 알아보기"
+          "ko": "더 알아보기",
+          "ja": "続きを読む"
         },
         "btn1Url": "hakkimizda",
         "max": "960px",

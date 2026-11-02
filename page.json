@@ -9,7 +9,8 @@
         "en": "Corporate",
         "ar": "المؤسسة",
         "de": "Unternehmen",
-        "ko": "회사 소개"
+        "ko": "회사 소개",
+        "ja": "企業情報"
       },
       "id": "yvi9dlb59o",
       "index": 0,
@@ -32,7 +33,8 @@
         "en": "Tufan Organik corporate information: about us, mission, vision and quality policy. Natural food production in Gürün/Sivas.",
         "ar": "معلومات مؤسسة Tufan Organik: من نحن، رسالتنا، رؤيتنا وسياسة الجودة. إنتاج الأغذية الطبيعية في غورون/سيواس.",
         "de": "Unternehmensinformationen von Tufan Organik: Über uns, Mission, Vision und Qualitätspolitik. Natürliche Lebensmittelproduktion in Gürün/Sivas.",
-        "ko": "Tufan Organik 회사 정보: 회사 소개, 사명, 비전, 품질 정책. 귀륀/시바스의 천연 식품 생산."
+        "ko": "Tufan Organik 회사 정보: 회사 소개, 사명, 비전, 품질 정책. 귀륀/시바스의 천연 식품 생산.",
+        "ja": "Tufan Organikの企業情報。会社概要、ミッション、ビジョン、品質方針。ギュルン/シヴァスの自然食品製造。"
       }
     },
     {
@@ -41,7 +43,7 @@
         "en": "Products",
         "ar": "المنتجات",
         "de": "Produkte",
-        "ja": "",
+        "ja": "製品",
         "ko": "제품"
       },
       "id": "hs54qzyeyo",
@@ -64,7 +66,7 @@
         "en": "Tufan Organik product catalog. More than 220 natural foods in 22 product groups: grains, pulses, nuts, jams, pekmez, dairy, dried and frozen fruits and vegetables and more.",
         "ar": "كتالوج منتجات Tufan Organik. أكثر من 220 غذاءً طبيعياً في 22 مجموعة منتجات: الحبوب والبقوليات والمكسرات والمربيات والدبس ومنتجات الألبان والفواكه والخضروات المجففة والمجمدة وغيرها.",
         "de": "Produktkatalog von Tufan Organik. Über 220 natürliche Lebensmittel in 22 Produktgruppen: Getreide, Hülsenfrüchte, Nüsse, Konfitüren, Pekmez, Milchprodukte, getrocknetes und tiefgefrorenes Obst und Gemüse und mehr.",
-        "ja": "",
+        "ja": "Tufan Organik製品カタログ。22の製品グループで220以上の自然食品：穀物、豆類、ナッツ、ジャム、ペクメズ、乳製品、ドライ・冷凍の果物・野菜など。",
         "ko": "Tufan Organik 제품 카탈로그. 22개 제품군, 220가지 이상의 천연 식품: 곡물, 콩류, 견과류, 잼, 페크메즈, 유제품, 건조·냉동 과일과 채소 등."
       }
     },
@@ -74,7 +76,8 @@
         "en": "Contact",
         "ar": "اتصل بنا",
         "de": "Kontakt",
-        "ko": "문의"
+        "ko": "문의",
+        "ja": "お問い合わせ"
       },
       "id": "xnzu5au0ag",
       "index": 2,
@@ -97,7 +100,8 @@
         "en": "Contact Tufan Organik for wholesale orders, dealership and product information. Supply from Gürün/Sivas across Turkey.",
         "ar": "تواصل مع Tufan Organik لطلبات الجملة والوكالات ومعلومات المنتجات. التوريد من غورون/سيواس إلى جميع أنحاء تركيا.",
         "de": "Kontaktieren Sie Tufan Organik für Großbestellungen, Händlerschaft und Produktinformationen. Belieferung aus Gürün/Sivas in der ganzen Türkei.",
-        "ko": "Tufan Organik에 도매 주문, 대리점 및 제품 정보를 문의하세요. 귀륀/시바스에서 터키 전역으로 공급합니다."
+        "ko": "Tufan Organik에 도매 주문, 대리점 및 제품 정보를 문의하세요. 귀륀/시바스에서 터키 전역으로 공급합니다.",
+        "ja": "Tufan Organikへのお問い合わせ。卸売注文、代理店、製品情報についてご連絡ください。ギュルン/シヴァスおよびトルコ全国での供給。"
       }
     }
   ],

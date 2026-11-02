@@ -6,6 +6,7 @@
         "en": "Pages",
         "ar": "الصفحات",
         "de": "Seiten",
+        "ja": "ページ",
         "ko": "페이지"
       },
       "path": "page",
@@ -35,6 +36,7 @@
         "en": "Products",
         "ar": "المنتجات",
         "de": "Produkte",
+        "ja": "",
         "ko": "제품"
       },
       "path": "products",
@@ -96,6 +98,7 @@
         "en": "Corporate",
         "ar": "المؤسسة",
         "de": "Unternehmen",
+        "ja": "",
         "ko": "회사 소개"
       },
       "path": "kurumsal",
@@ -127,6 +130,7 @@
         "en": "Categories",
         "ar": "الفئات",
         "de": "Kategorien",
+        "ja": "",
         "ko": "카테고리"
       },
       "path": "category",

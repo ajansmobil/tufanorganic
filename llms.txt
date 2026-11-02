@@ -2,7 +2,7 @@
 
 > Tufan Organik — Gürün/Sivas merkezli organik tarım ve doğal gıda üreticisi. 22 ürün grubunda tahıl, bakliyat, kuruyemiş, reçel, pekmez, süt ürünleri, kurutulmuş ve dondurulmuş meyve-sebze, zeytinyağı ve aromatik bitkiler.
 
-Web: https://tufanorganic.com/tr/ · Adres: Kirazlık Mahallesi Atatürk Bulvarı Bayabdullah Pasajı Blok No: 255 İç Kapı No: 13 58800 Gürün/SİVAS-TÜRKİYE · Telefon: +90 532 225 65 71 · E-posta: tufan.organictr@gmail.com · Diller: tr, en, ar, de, ko (varsayilan: tr)
+Web: https://tufanorganic.com/tr/ · Adres: Kirazlık Mahallesi Atatürk Bulvarı Bayabdullah Pasajı Blok No: 255 İç Kapı No: 13 58800 Gürün/SİVAS-TÜRKİYE · Telefon: +90 532 225 65 71 · E-posta: tufan.organictr@gmail.com · Diller: tr, en, ar, de, ja, ko (varsayilan: tr)
 
 ## Sayfalar
 - [Tufan Organik](https://tufanorganic.com/tr/): Tufan Organik — Gürün/Sivas merkezli organik tarım ve doğal gıda üreticisi.
