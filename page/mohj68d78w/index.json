@@ -1,0 +1,62 @@
+{
+  "id": "mohj68d78w",
+  "name": {
+    "tr": "Galeta",
+    "en": "Galeta (Crispy Rusk)",
+    "ar": "الغاليتا (خبز مقرمش مجفف)",
+    "de": "Galeta (knuspriger Zwieback)",
+    "ko": "갈레타 (바삭한 러스크)",
+    "ja": "ガレタ（サクサクのラスク）"
+  },
+  "description": {
+    "tr": "Tufan Organik Galeta, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Galeta (Crispy Rusk) is a natural food from Gürün/Sivas in the Bakery Products range.",
+    "ar": "Tufan Organik الغاليتا (خبز مقرمش مجفف)، من مجموعة منتجات المخبوزات، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Galeta (knuspriger Zwieback) aus der Gruppe Backwaren ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
+    "ko": "Tufan Organik 갈레타 (바삭한 러스크)은(는) 베이커리 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+    "ja": "Tufan Organik ガレタ（サクサクのラスク）は、パン・製菓製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Galeta, Unlu Mamulleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Galeta (Crispy Rusk), Bakery Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, الغاليتا (خبز مقرمش مجفف), منتجات المخبوزات",
+    "de": "Tufan Organik, Gürün/Sivas, Naturlebensmittel, Galeta (knuspriger Zwieback), Backwaren",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 갈레타 (바삭한 러스크), 베이커리 제품",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ガレタ（サクサクのラスク）, パン・製菓製品"
+  },
+  "path": "galeta",
+  "icon": "breakfast_dining",
+  "category": "c17iqfmey",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 237,
+  "url": "",
+  "text": {
+    "tr": "<h2>Galeta</h2><p>İnce dilimlenen ekmeğin fırında yavaşça kurutulmasıyla elde edilen çıtır ve uzun ömürlü ürün. Hem doğrudan atıştırmalık olarak hem de ekmek kırıntısı yerine yemeklerde kullanılabilir.</p><h3>Kullanım Önerisi</h3><ul><li>Peynir ve reçelle kahvaltıda ya da çorbaya eşlik ettirerek servis edin.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
+    "en": "<h2>Galeta (Crispy Rusk)</h2><p>A crunchy, long-lasting product made by slowly drying thin slices of bread in the oven. It can be eaten as a snack or used instead of breadcrumbs in cooking.</p><h3>Serving Suggestion</h3><ul><li>Serve at breakfast with cheese and jam, or alongside soup.</li></ul><p><strong>Packaging:</strong> Offered in different weights on request.</p>",
+    "ar": "<h2>الغاليتا (خبز مقرمش مجفف)</h2><p>منتج مقرمش وطويل الصلاحية يُحضَّر بتجفيف شرائح الخبز الرقيقة ببطء في الفرن. يؤكل كوجبة خفيفة أو يُستخدم بدل فتات الخبز في الطبخ.</p><h3>اقتراح التقديم</h3><ul><li>قدّموها على الفطور مع الجبن والمربى أو بجانب الشوربة.</li></ul><p><strong>التغليف:</strong> يُقدَّم بأوزان مختلفة حسب الطلب.</p>",
+    "de": "<h2>Galeta (knuspriger Zwieback)</h2><p>Ein knuspriges, lange haltbares Produkt aus dünn geschnittenem Brot, das im Ofen langsam getrocknet wird. Es lässt sich als Snack essen oder statt Paniermehl beim Kochen verwenden.</p><h3>Serviervorschlag</h3><ul><li>Zum Frühstück mit Käse und Konfitüre oder als Beilage zur Suppe servieren.</li></ul><p><strong>Verpackung:</strong> Auf Anfrage in verschiedenen Gewichten erhältlich.</p>",
+    "ko": "<h2>갈레타 (바삭한 러스크)</h2><p>얇게 썬 빵을 오븐에서 천천히 말려 만든 바삭하고 오래 보관되는 제품입니다. 간식으로 먹거나 요리에서 빵가루 대신 사용할 수 있습니다.</p><h3>활용 팁</h3><ul><li>치즈와 잼을 곁들여 아침 식사로, 또는 수프에 곁들여 드세요.</li></ul><p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>",
+    "ja": "<h2>ガレタ（サクサクのラスク）</h2><p>薄切りにしたパンをオーブンでゆっくり乾燥させた、サクサクで日持ちのする商品です。そのままおやつとして、また料理ではパン粉の代わりとして使えます。</p><h3>おすすめの食べ方</h3><ul><li>チーズやジャムを添えて朝食に、またはスープのお供にどうぞ。</li></ul><p><strong>包装:</strong> ご要望に応じて、さまざまな重量でご提供します。</p>"
+  },
+  "title": {
+    "tr": "Galeta | Tufan Organik",
+    "en": "Galeta (Crispy Rusk) | Tufan Organik",
+    "ar": "الغاليتا (خبز مقرمش مجفف) | Tufan Organik",
+    "de": "Galeta (knuspriger Zwieback) | Tufan Organik",
+    "ko": "갈레타 (바삭한 러스크) | Tufan Organik",
+    "ja": "ガレタ（サクサクのラスク） | Tufan Organik"
+  },
+  "date": "2026-11-02T10:16:38.000Z",
+  "update": "2026-11-02T10:16:38.000Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

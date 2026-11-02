@@ -1,0 +1,62 @@
+{
+  "id": "rvxxik3abg",
+  "name": {
+    "tr": "Açma",
+    "en": "Acma (Soft Turkish Bread Roll)",
+    "ar": "الأتشما (خبز تركي طري)",
+    "de": "Açma (weiches türkisches Brötchen)",
+    "ko": "아츠마 (터키식 부드러운 롤빵)",
+    "ja": "アチマ（トルコのやわらかいロールパン）"
+  },
+  "description": {
+    "tr": "Tufan Organik Açma, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Acma (Soft Turkish Bread Roll) is a natural food from Gürün/Sivas in the Bakery Products range.",
+    "ar": "Tufan Organik الأتشما (خبز تركي طري)، من مجموعة منتجات المخبوزات، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Açma (weiches türkisches Brötchen) aus der Gruppe Backwaren ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
+    "ko": "Tufan Organik 아츠마 (터키식 부드러운 롤빵)은(는) 베이커리 제품 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+    "ja": "Tufan Organik アチマ（トルコのやわらかいロールパン）は、パン・製菓製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Açma, Unlu Mamulleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Acma (Soft Turkish Bread Roll), Bakery Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, الأتشما (خبز تركي طري), منتجات المخبوزات",
+    "de": "Tufan Organik, Gürün/Sivas, Naturlebensmittel, Açma (weiches türkisches Brötchen), Backwaren",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 아츠마 (터키식 부드러운 롤빵), 베이커리 제품",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, アチマ（トルコのやわらかいロールパン）, パン・製菓製品"
+  },
+  "path": "acma",
+  "icon": "breakfast_dining",
+  "category": "c17iqfmey",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 234,
+  "url": "",
+  "text": {
+    "tr": "<h2>Açma</h2><p>Tereyağı ve süt katılmış hamurdan şekillendirilen, üzeri yumurtayla parlatılan yumuşak ve hafif bir hamur işi. Fırından yeni çıktığında kokusu mahalleyi sarar.</p><h3>Kullanım Önerisi</h3><ul><li>İkiye bölüp kaşar peyniri veya zeytin ezmesi sürerek servis edin.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
+    "en": "<h2>Acma (Soft Turkish Bread Roll)</h2><p>A soft, light pastry shaped from dough enriched with butter and milk and glazed with egg. Fresh from the oven, its aroma fills the whole street.</p><h3>Serving Suggestion</h3><ul><li>Split and spread with kashar cheese or olive paste.</li></ul><p><strong>Packaging:</strong> Offered in different weights on request.</p>",
+    "ar": "<h2>الأتشما (خبز تركي طري)</h2><p>معجنات طرية وخفيفة تُشكَّل من عجين مضاف إليه الزبدة والحليب وتُلمَّع بالبيض. عند خروجها من الفرن يملأ عبقها الحي بأكمله.</p><h3>اقتراح التقديم</h3><ul><li>اقطعوها نصفين وادهنوها بجبن القشقوان أو معجون الزيتون.</li></ul><p><strong>التغليف:</strong> يُقدَّم بأوزان مختلفة حسب الطلب.</p>",
+    "de": "<h2>Açma (weiches türkisches Brötchen)</h2><p>Ein weiches, leichtes Gebäck aus Teig mit Butter und Milch, mit Ei glasiert. Frisch aus dem Ofen erfüllt sein Duft die ganze Straße.</p><h3>Serviervorschlag</h3><ul><li>Halbieren und mit Kaşar-Käse oder Olivenpaste bestreichen.</li></ul><p><strong>Verpackung:</strong> Auf Anfrage in verschiedenen Gewichten erhältlich.</p>",
+    "ko": "<h2>아츠마 (터키식 부드러운 롤빵)</h2><p>버터와 우유를 넣은 반죽을 빚어 달걀물을 발라 구운 부드럽고 가벼운 빵입니다. 갓 구워 나오면 향이 온 동네에 퍼집니다.</p><h3>활용 팁</h3><ul><li>반으로 갈라 카샤르 치즈나 올리브 페이스트를 발라 드세요.</li></ul><p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>",
+    "ja": "<h2>アチマ（トルコのやわらかいロールパン）</h2><p>バターと牛乳を加えた生地を成形し、卵を塗って焼いた、やわらかく軽い焼き菓子パンです。焼きたての香りが街じゅうに広がります。</p><h3>おすすめの食べ方</h3><ul><li>半分に割って、カシャールチーズやオリーブペーストを塗ってどうぞ。</li></ul><p><strong>包装:</strong> ご要望に応じて、さまざまな重量でご提供します。</p>"
+  },
+  "title": {
+    "tr": "Açma | Tufan Organik",
+    "en": "Acma (Soft Turkish Bread Roll) | Tufan Organik",
+    "ar": "الأتشما (خبز تركي طري) | Tufan Organik",
+    "de": "Açma (weiches türkisches Brötchen) | Tufan Organik",
+    "ko": "아츠마 (터키식 부드러운 롤빵) | Tufan Organik",
+    "ja": "アチマ（トルコのやわらかいロールパン） | Tufan Organik"
+  },
+  "date": "2026-11-02T10:16:38.000Z",
+  "update": "2026-11-02T10:16:38.000Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}
