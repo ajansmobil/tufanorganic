@@ -919,14 +919,14 @@
           "url": "dondurulmus-sebze-grubu"
         },
         {
-          "img": "",
+          "img": "/img/kategori/unlu-mamulleri.webp",
           "name": {
             "tr": "Unlu Mamulleri",
-            "en": "Bakery Products",
-            "ar": "منتجات المخبوزات",
-            "de": "Backwaren",
-            "ko": "베이커리 제품",
-            "ja": "パン・製菓製品"
+            "en": "Flour & Flour Products",
+            "ar": "الدقيق ومشتقاته",
+            "de": "Mehl & Mehlprodukte",
+            "ko": "밀가루 및 가루 제품",
+            "ja": "小麦粉・粉類製品"
           },
           "url": "unlu-mamulleri"
         },
