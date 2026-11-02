@@ -4,7 +4,7 @@
     "en": "Breakfast Products",
     "ar": "منتجات الإفطار",
     "de": "Frühstücksprodukte",
-    "ja": "",
+    "ja": "朝食メニュー",
     "ko": "아침식사 제품"
   },
   "status": "play",
@@ -17,7 +17,7 @@
     "en": "Tufan Organik, Breakfast Products",
     "ar": "Tufan Organik, منتجات الإفطار",
     "de": "Tufan Organik, Frühstücksprodukte",
-    "ja": "",
+    "ja": "Tufan Organik, 朝食メニュー",
     "ko": "Tufan Organik, 아침식사 제품"
   },
   "description": {
@@ -25,7 +25,7 @@
     "en": "Tufan Organik Breakfast Products product group.",
     "ar": "مجموعة منتجات منتجات الإفطار من توفان أورغانيك.",
     "de": "Tufan Organik Produktgruppe Frühstücksprodukte.",
-    "ja": "",
+    "ja": "Tufan Organik 朝食メニューの製品グループです。",
     "ko": "투판 오가닉 아침식사 제품 제품군."
   },
   "index": 5,
@@ -41,7 +41,7 @@
     "en": "Breakfast Products | Tufan Organik",
     "ar": "منتجات الإفطار | Tufan Organik",
     "de": "Frühstücksprodukte | Tufan Organik",
-    "ja": "",
+    "ja": "朝食メニュー | Tufan Organik",
     "ko": "아침식사 제품 | Tufan Organik"
   },
   "text": {

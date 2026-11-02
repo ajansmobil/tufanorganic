@@ -4,7 +4,8 @@
     "en": "Molasses, Tahini and Halva",
     "ar": "أنواع الدبس والطحينة والحلاوة",
     "de": "Pekmez, Tahin und Halva",
-    "ko": "페크메즈, 타힌 및 할바"
+    "ko": "페크메즈, 타힌 및 할바",
+    "ja": "ペクメズ、タヒニ、ハルヴァ"
   },
   "status": "play",
   "category": "",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Molasses, Tahini and Halva",
     "ar": "Tufan Organik, أنواع الدبس والطحينة والحلاوة",
     "de": "Tufan Organik, Pekmez, Tahin und Halva",
-    "ja": "",
+    "ja": "Tufan Organik, ペクメズ、タヒニ、ハルヴァ",
     "ko": "Tufan Organik, 페크메즈, 타힌 및 할바"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Molasses, Tahini and Halva product group.",
     "ar": "مجموعة منتجات أنواع الدبس والطحينة والحلاوة من توفان أورغانيك.",
     "de": "Tufan Organik Produktgruppe Pekmez, Tahin und Halva.",
-    "ko": "투판 오가닉 페크메즈, 타힌 및 할바 제품군."
+    "ko": "투판 오가닉 페크메즈, 타힌 및 할바 제품군.",
+    "ja": "Tufan Organik ペクメズ、タヒニ、ハルヴァの製品グループです。"
   },
   "index": 11,
   "icon": "category",
@@ -39,7 +41,7 @@
     "en": "Molasses, Tahini and Halva | Tufan Organik",
     "ar": "أنواع الدبس والطحينة والحلاوة | Tufan Organik",
     "de": "Pekmez, Tahin und Halva | Tufan Organik",
-    "ja": "",
+    "ja": "ペクメズ、タヒニ、ハルヴァ | Tufan Organik",
     "ko": "페크메즈, 타힌 및 할바 | Tufan Organik"
   },
   "text": {

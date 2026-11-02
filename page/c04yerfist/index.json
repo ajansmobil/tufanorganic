@@ -4,7 +4,8 @@
     "en": "Pasta Group",
     "ar": "مجموعة المعكرونة",
     "de": "Nudeln und Teigwaren",
-    "ko": "파스타 그룹"
+    "ko": "파스타 그룹",
+    "ja": "パスタ"
   },
   "status": "play",
   "category": "",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Pasta Group",
     "ar": "Tufan Organik, مجموعة المعكرونة",
     "de": "Tufan Organik, Nudeln und Teigwaren",
-    "ja": "",
+    "ja": "Tufan Organik, パスタ",
     "ko": "Tufan Organik, 파스타 그룹"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Pasta Group product group.",
     "ar": "مجموعة منتجات مجموعة المعكرونة من توفان أورغانيك.",
     "de": "Tufan Organik Produktgruppe Nudeln und Teigwaren.",
-    "ko": "투판 오가닉 파스타 그룹 제품군."
+    "ko": "투판 오가닉 파스타 그룹 제품군.",
+    "ja": "Tufan Organik パスタの製品グループです。"
   },
   "index": 3,
   "icon": "category",
@@ -39,7 +41,7 @@
     "en": "Pasta Group | Tufan Organik",
     "ar": "مجموعة المعكرونة | Tufan Organik",
     "de": "Nudeln und Teigwaren | Tufan Organik",
-    "ja": "",
+    "ja": "パスタ | Tufan Organik",
     "ko": "파스타 그룹 | Tufan Organik"
   },
   "text": {

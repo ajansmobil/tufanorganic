@@ -5,21 +5,24 @@
     "en": "Olive Oil and Avocado Oil",
     "ar": "زيت الزيتون وزيت الأفوكادو",
     "de": "Olivenöl und Avocadoöl",
-    "ko": "올리브 오일 및 아보카도 오일"
+    "ko": "올리브 오일 및 아보카도 오일",
+    "ja": "オリーブオイル・アボカドオイル"
   },
   "description": {
     "tr": "Tufan Organik Zeytin Yağı ve Avakado Yağı ürün grubu.",
     "en": "Tufan Organik Olive Oil and Avocado Oil product group.",
     "ar": "مجموعة منتجات زيت الزيتون وزيت الأفوكادو من توفان أورغانيك.",
     "de": "Tufan Organik Produktgruppe Olivenöl und Avocadoöl.",
-    "ko": "투판 오가닉 올리브 오일 및 아보카도 오일 제품군."
+    "ko": "투판 오가닉 올리브 오일 및 아보카도 오일 제품군.",
+    "ja": "Tufan Organik オリーブオイル・アボカドオイルの製品グループです。"
   },
   "keyword": {
     "tr": "Tufan Organik, Zeytin Yağı ve Avakado Yağı",
     "en": "Tufan Organik, Olive Oil and Avocado Oil",
     "ar": "Tufan Organik, زيت الزيتون وزيت الأفوكادو",
     "de": "Tufan Organik, Olivenöl und Avocadoöl",
-    "ko": "Tufan Organik, 올리브 오일 및 아보카도 오일"
+    "ko": "Tufan Organik, 올리브 오일 및 아보카도 오일",
+    "ja": "Tufan Organik, オリーブオイル・アボカドオイル"
   },
   "path": "zeytin-yagi-ve-avakado-yagi",
   "icon": "category",
@@ -32,13 +35,16 @@
   },
   "index": 19,
   "url": "",
-  "text": {},
+  "text": {
+    "ja": ""
+  },
   "title": {
     "tr": "Zeytin Yağı ve Avakado Yağı | Tufan Organik",
     "en": "Olive Oil and Avocado Oil | Tufan Organik",
     "ar": "زيت الزيتون وزيت الأفوكادو | Tufan Organik",
     "de": "Olivenöl und Avocadoöl | Tufan Organik",
-    "ko": "올리브 오일 및 아보카도 오일 | Tufan Organik"
+    "ko": "올리브 오일 및 아보카도 오일 | Tufan Organik",
+    "ja": "オリーブオイル・アボカドオイル | Tufan Organik"
   },
   "date": "2026-10-28T08:07:44.231Z",
   "update": "2026-10-28T08:07:44.456Z"

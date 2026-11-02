@@ -4,7 +4,8 @@
     "en": "Frozen Vegetables",
     "ar": "الخضروات المجمدة",
     "de": "Tiefkühl-Gemüse",
-    "ko": "냉동 채소"
+    "ko": "냉동 채소",
+    "ja": "凍結野菜"
   },
   "status": "play",
   "category": "",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Frozen Vegetables",
     "ar": "Tufan Organik, الخضروات المجمدة",
     "de": "Tufan Organik, Tiefkühl-Gemüse",
-    "ja": "",
+    "ja": "Tufan Organik, 凍結野菜",
     "ko": "Tufan Organik, 냉동 채소"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Frozen Vegetables product group.",
     "ar": "مجموعة منتجات الخضروات المجمدة من توفان أورغانيك.",
     "de": "Tufan Organik Produktgruppe Tiefkühl-Gemüse.",
-    "ko": "투판 오가닉 냉동 채소 제품군."
+    "ko": "투판 오가닉 냉동 채소 제품군.",
+    "ja": "Tufan Organik 凍結野菜の製品グループです。"
   },
   "index": 15,
   "icon": "category",
@@ -39,7 +41,7 @@
     "en": "Frozen Vegetables | Tufan Organik",
     "ar": "الخضروات المجمدة | Tufan Organik",
     "de": "Tiefkühl-Gemüse | Tufan Organik",
-    "ja": "",
+    "ja": "凍結野菜 | Tufan Organik",
     "ko": "냉동 채소 | Tufan Organik"
   },
   "text": {

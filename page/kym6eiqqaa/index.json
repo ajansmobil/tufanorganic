@@ -4,7 +4,8 @@
     "en": "Grape Pestil (Fruit Leather)",
     "ar": "بستيل العنب (رقائق فاكهة مجففة)",
     "de": "Trauben-Pestil (Fruchtleder)",
-    "ko": "포도 페스틸 (과일 레더)"
+    "ko": "포도 페스틸 (과일 레더)",
+    "ja": "ブドウ・ペスティル"
   },
   "status": "play",
   "category": "c13konserve",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, Grape Pestil, Lokum, Pestil and Traditional Sweets, lokum, pestil, köme, tahini halva",
     "ar": "Tufan Organik, غورون/سيواس, أغذية طبيعية, بستيل العنب, الحلقوم, البستيل والحلويات التقليدية, راحة الحلقوم, بستيل, كومه, حلاوة طحينية",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Trauben-Pestil, Lokum, Pestil und traditionelle Süßwaren, Lokum, Pestil, Köme, Tahin-Halva",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ブドウ・ペスティル, ドライフルーツ",
     "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 포도 페스틸, 로쿰, 페스틸 및 전통 과자, 로쿰, 페스틸, 쾨메, 타히니 할바"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Grape Pestil, a traditional grape pestil, is part of the Lokum, Pestil and Traditional Sweets range, offered in 300 g as a natural food from Gürün/Sivas.",
     "ar": "Tufan Organik: بستيل العنب التقليدي، ضمن فئة الحلقوم والبستيل والحلويات التقليدية، بوزن 300 g، غذاء طبيعي من غورون/سيواس.",
     "de": "Tufan Organik Trauben-Pestil, ein traditionelles Pestil aus Trauben, gehört zur Kategorie Lokum, Pestil und traditionelle Süßwaren und ist als natürliches Lebensmittel aus Gürün/Sivas in 300 g erhältlich.",
-    "ko": "Tufan Organik 포도 페스틸은 전통 방식의 로쿰·페스틸·전통 과자 제품으로, 300 g 용량으로 제공되는 귀륀/시바스의 천연 식품입니다."
+    "ko": "Tufan Organik 포도 페스틸은 전통 방식의 로쿰·페스틸·전통 과자 제품으로, 300 g 용량으로 제공되는 귀륀/시바스의 천연 식품입니다.",
+    "ja": "Tufan Organik ブドウ・ペスティルは、ドライフルーツカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "index": 139,
   "icon": "cake",
@@ -43,7 +45,7 @@
     "en": "Grape Pestil (Fruit Leather) | Tufan Organik",
     "ar": "بستيل العنب (رقائق فاكهة مجففة) | Tufan Organik",
     "de": "Trauben-Pestil (Fruchtleder) | Tufan Organik",
-    "ja": "",
+    "ja": "ブドウ・ペスティル | Tufan Organik",
     "ko": "포도 페스틸 (과일 레더) | Tufan Organik"
   },
   "text": {
@@ -51,7 +53,7 @@
     "en": "<h2>Traditional Grape Pestil</h2>\n<p>Grape Pestil is a traditional treat that turns the sweetness of grapes into a form rolled out like a thin sheet and easily folded. It is known for its slightly glossy surface and pliable structure; as you chew, it softens and reveals the ripe, almost caramel-like taste of grapes. It is a simple snack you can easily reach for when you crave something sweet.</p>\n<p>Pestil and fruit sucuk prepared after the grape harvest are a familiar part of Gaziantep's culture of preparing for winter. Tufan Organik packages this familiar taste so it can be enjoyed easily at home, at work or on the go. A bowl of walnuts or a glass of milk on the side is enough to complete an old-fashioned afternoon snack.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Unroll the pestil, sprinkle crushed walnuts on top, roll it up and slice.</li>\n<li>Serve in small pieces with tahini at breakfast.</li>\n<li>On winter evenings, add a few layers next to tea and a plate of nuts.</li>\n</ul>\n<p><strong>Net Weight:</strong> 300 g</p>",
     "ar": "<h2>بستيل العنب التقليدي</h2>\n<p>بستيل العنب مذاق تقليدي ينقل حلاوة العنب إلى شكل مفرود كورقة رقيقة يسهل طيّه. يُعرف بسطحه اللامع قليلًا وبنيته المرنة؛ يلين كلما مضغته ويكشف عن مذاق العنب الناضج القريب من الكراميل. إنه وجبة خفيفة بسيطة تمتد إليها يدك بسهولة كلما اشتهيت شيئًا حلوًا.</p>\n<p>البستيل والسجق الحلو اللذان يُحضَّران بعد قطاف العنب جزء مألوف من ثقافة الاستعداد للشتاء في غازي عنتاب. وتعبّئ Tufan Organik هذا المذاق المعروف ليصبح سهل التناول في المنزل أو العمل أو أثناء التنقل. ويكفي إلى جانبه وعاء من الجوز أو كوب من الحليب لإكمال وجبة عصرونية على الطريقة القديمة.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>افرد البستيل وانثر فوقه الجوز المدقوق، ثم لفّه وقطّعه شرائح.</li>\n<li>قدّمه قطعًا صغيرة مع الطحينة على الفطور.</li>\n<li>في أمسيات الشتاء، أضف بضع طبقات منه بجانب الشاي وطبق المكسرات.</li>\n</ul>\n<p><strong>الوزن:</strong> 300 g</p>",
     "de": "<h2>Traditionelles Trauben-Pestil</h2>\n<p>Das Trauben-Pestil ist eine traditionelle Spezialität, die die Süße der Trauben in eine wie ein dünnes Blatt ausgerollte, leicht faltbare Form bringt. Es ist für seine leicht glänzende Oberfläche und seine biegsame Struktur bekannt; beim Kauen wird es weich und entfaltet den reifen, fast karamellartigen Geschmack der Traube. Ein schlichter Snack, zu dem man gern greift, wenn man Lust auf etwas Süßes hat.</p>\n<p>Pestil und Frucht-Sucuk, die nach der Weinlese zubereitet werden, sind ein vertrauter Teil der Wintervorratskultur von Gaziantep. Tufan Organik verpackt diesen bekannten Geschmack so, dass er zu Hause, bei der Arbeit oder unterwegs bequem genossen werden kann. Dazu eine Schale Walnüsse oder ein Glas Milch – und der Nachmittagssnack nach alter Art ist komplett.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Das Pestil ausbreiten, gestoßene Walnüsse darüberstreuen, aufrollen und in Scheiben schneiden.</li>\n<li>Zum Frühstück in kleinen Stücken mit Tahin servieren.</li>\n<li>An Winterabenden ein paar Lagen neben Tee und einen Nussteller legen.</li>\n</ul>\n<p><strong>Gewicht:</strong> 300 g</p>",
-    "ja": "",
+    "ja": "<h2>伝統的なブドウ・ペスティル</h2>\n<p>ブドウ・ペスティルは、ブドウの甘みを薄いシート状に伸ばして簡単に折りたためる形にした、伝統的なお菓子です。わずかに光沢のある表面としなやかな食感が特徴で、噛むほどに柔らかくなり、熟したキャラメルのようなブドウの味わいが広がります。甘いものが欲しくなった時に、手軽につまめるシンプルなスナックです。</p>\n<p>ブドウの収穫後に作られるペスティルやフルーツ・スジュクは、冬に備えるガズィアンテプの文化に欠かせないものです。トゥファン・オルガニックは、この馴染み深い味わいを、ご自宅や職場、外出先でも手軽にお楽しみいただけるようパッケージにしました。クルミを添えたり、一杯のミルクと一緒に楽しんだりするだけで、昔ながらの午後のティータイムが完成します。</p>\n<h3>おすすめの召し上がり方</h3>\n<ul>\n<li>ペスティルを広げ、砕いたクルミを上に振りかけ、巻き直してからスライスしてください。</li>\n<li>朝食には、タヒニと一緒に小さく切って召し上がってください。</li>\n<li>冬の夜には、紅茶やナッツの盛り合わせと一緒に、数枚重ねてお楽しみください。</li>\n</ul>\n<p><strong>内容量：</strong> 300 g</p>",
     "ko": "<h2>전통 포도 페스틸</h2>\n<p>포도 페스틸은 포도의 단맛을 얇은 종이처럼 펼쳐 쉽게 접을 수 있는 형태로 담아낸 전통 간식입니다. 은은하게 윤기 나는 표면과 유연한 질감이 특징이며, 씹을수록 부드러워지면서 잘 익은 포도의 캐러멜에 가까운 맛이 살아납니다. 단것이 당길 때 부담 없이 손이 가는 소박한 간식입니다.</p>\n<p>포도 수확이 끝난 뒤 만드는 페스틸과 과일 수죽은 가지안테프 겨울 채비 문화의 친숙한 일부입니다. Tufan Organik는 이 익숙한 맛을 포장하여 집에서도, 직장에서도, 이동 중에도 간편하게 즐길 수 있도록 했습니다. 호두 한 그릇이나 우유 한 잔을 곁들이면 옛 방식의 오후 간식이 완성됩니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>페스틸을 펼치고 빻은 호두를 뿌린 뒤 돌돌 말아 썰어 보세요.</li>\n<li>아침 식사 때 타히니와 함께 작은 조각으로 내 보세요.</li>\n<li>겨울 저녁에는 차와 견과류 접시 옆에 몇 장 곁들여 보세요.</li>\n</ul>\n<p><strong>중량:</strong> 300 g</p>"
   },
   "update": "2026-10-28T09:07:49.323Z",

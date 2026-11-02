@@ -5,21 +5,24 @@
     "en": "Siyez (Einkorn Wheat) Pasta",
     "ar": "معكرونة السيز (قمح وحيد الحبة)",
     "de": "Siyez-Nudeln (Einkorn)",
-    "ko": "시예즈(외알밀) 파스타"
+    "ko": "시예즈(외알밀) 파스타",
+    "ja": "シイェズ（ヒトツブコムギ）パスタ"
   },
   "description": {
     "tr": "Tufan Organik Siyez Makarnası, Makarna Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
     "en": "Tufan Organik Siyez (Einkorn Wheat) Pasta from the Pasta Products range, a natural food with roots in Gürün/Sivas.",
     "ar": "Tufan Organik معكرونة السيز (قمح وحيد الحبة) من مجموعة منتجات المعكرونة، غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Siyez-Nudeln (Einkorn) aus dem Teigwarensortiment – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 시예즈(외알밀) 파스타, 귀륀/시바스에 뿌리를 둔 파스타류 제품군의 천연 식품입니다."
+    "ko": "Tufan Organik 시예즈(외알밀) 파스타, 귀륀/시바스에 뿌리를 둔 파스타류 제품군의 천연 식품입니다.",
+    "ja": "Tufan Organik シイェズ（ヒトツブコムギ）パスタは、パスタカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "keyword": {
     "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Siyez Makarnası, Makarna Grubu",
     "en": "Tufan Organik, Gürün/Sivas, natural food, Siyez Einkorn Pasta, Pasta Products",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, معكرونة السيز, منتجات المعكرونة",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Siyez-Nudeln, Teigwaren",
-    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 시예즈 파스타, 파스타류"
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 시예즈 파스타, 파스타류",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, シイェズ（ヒトツブコムギ）パスタ, パスタ"
   },
   "path": "siyez-makarnasi",
   "icon": "breakfast_dining",
@@ -37,14 +40,16 @@
     "en": "<h2>Bring an Ancient Grain to Your Table with Siyez Pasta</h2>\n<p>Siyez, also known as einkorn wheat, is a grain whose history goes back a very long way. Made with siyez flour, this pasta stands out with its light brownish color and a flavor reminiscent of lightly toasted grain. Its texture stays firm when cooked, providing a solid base for both simple and richly sauced recipes.</p>\n<p>Tufan Organik offers siyez pasta for those who want to add a more distinctive flavor to the usual pasta dish. Boiled in plenty of salted water and tossed with its sauce for a few minutes, it brings out its aroma better. It pairs especially well with deep flavors such as butter, cheese and mushrooms; a simple olive oil sauce suits it too.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Prepare siyez pasta sautéed with mushrooms, garlic and butter.</li>\n<li>Make a simple pesto with walnuts, parsley and olive oil and toss it with the pasta.</li>\n<li>Bake a pasta casserole with browned ground meat, tomato sauce and grated mild yellow cheese.</li>\n</ul>\n<p><strong>Packaging:</strong> Available in various weights on request.</p>",
     "ar": "<h2>حبوب عريقة على مائدتكم مع معكرونة السيز</h2>\n<p>السيز، المعروف أيضًا بالقمح وحيد الحبة، حبوب يمتد تاريخها إلى أزمنة بعيدة جدًا. وتلفت هذه المعكرونة المحضّرة من دقيق السيز الأنظار بلونها المائل إلى البني الفاتح ومذاقها الذي يذكّر بالحبوب المحمّصة قليلًا. ويبقى قوامها متماسكًا بعد الطهي، فتشكّل أساسًا متينًا للوصفات البسيطة وتلك الغنية بالصلصات.</p>\n<p>تقدّم Tufan Organik معكرونة السيز لمن يرغبون في إضفاء نكهة أكثر تميّزًا على طبق المعكرونة المعتاد. وعند سلقها في كمية وفيرة من الماء المغلي المملّح ثم تقليبها مع صلصتها لبضع دقائق، تُبرز رائحتها على نحو أفضل. وتنسجم خصوصًا مع النكهات العميقة كالزبدة والجبن والفطر، كما تلائمها صلصة بسيطة من زيت الزيتون.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>حضّروا معكرونة السيز المقلّبة مع الفطر والثوم والزبدة.</li>\n<li>اصنعوا صلصة بيستو بسيطة من الجوز والبقدونس وزيت الزيتون واخلطوها مع المعكرونة.</li>\n<li>اخبزوا طبق معكرونة في الفرن مع اللحم المفروم المحمّر وصلصة الطماطم والجبن الأصفر المبشور.</li>\n</ul>\n<p><strong>التغليف:</strong> متوفر بأوزان مختلفة حسب الطلب.</p>",
     "de": "<h2>Mit Siyez-Nudeln ein uraltes Getreide auf den Tisch bringen</h2>\n<p>Siyez, auch als Einkorn bekannt, ist ein Getreide, dessen Geschichte sehr weit zurückreicht. Diese aus Siyez-Mehl hergestellten Nudeln fallen durch ihre hellbräunliche Farbe und einen Geschmack auf, der an leicht geröstetes Getreide erinnert. Ihre Textur bleibt beim Kochen bissfest und bildet eine solide Grundlage sowohl für schlichte als auch für kräftig gesoßte Rezepte.</p>\n<p>Tufan Organik bietet Siyez-Nudeln für alle an, die dem gewohnten Nudelteller einen charaktervolleren Geschmack verleihen möchten. In reichlich kochendem Salzwasser gegart und anschließend einige Minuten in der Soße geschwenkt, entfalten sie ihr Aroma besser. Besonders gut harmonieren sie mit kräftigen Aromen wie Butter, Käse und Pilzen; auch eine schlichte Olivenölsoße steht ihnen gut.</p>\n<h3>Verwendungstipps</h3>\n<ul>\n<li>Bereiten Sie Siyez-Nudeln zu, die mit Pilzen, Knoblauch und Butter geschwenkt werden.</li>\n<li>Machen Sie ein einfaches Pesto aus Walnüssen, Petersilie und Olivenöl und mischen Sie es unter die Nudeln.</li>\n<li>Backen Sie einen Nudelauflauf mit angebratenem Hackfleisch, Tomatensoße und geriebenem mildem Schnittkäse.</li>\n</ul>\n<p><strong>Verpackung:</strong> In verschiedenen Gewichtsgrößen auf Anfrage erhältlich.</p>",
-    "ko": "<h2>시예즈 파스타로 식탁에 올리는 고대 곡물</h2>\n<p>시예즈는 외알밀로도 알려진, 아주 오래전부터 이어져 온 곡물입니다. 시예즈 가루로 만든 이 파스타는 연한 갈색빛과 살짝 볶은 곡물을 떠올리게 하는 맛이 돋보입니다. 익혀도 탱탱함을 유지하는 식감은 담백한 요리와 진한 소스 요리 모두에 든든한 바탕이 됩니다.</p>\n<p>Tufan Organik는 익숙한 파스타 한 접시에 좀 더 개성 있는 맛을 더하고 싶은 분들을 위해 시예즈 파스타를 선보입니다. 끓는 소금물에 넉넉히 삶은 뒤 소스와 함께 몇 분간 버무리면 향이 더욱 살아납니다. 버터, 치즈, 버섯처럼 깊은 맛과 특히 잘 어울리며, 담백한 올리브유 소스와도 잘 맞습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>버섯, 마늘, 버터와 함께 소테한 시예즈 파스타를 만들어 보세요.</li>\n<li>호두, 파슬리, 올리브유로 간단한 페스토를 만들어 파스타에 버무려 보세요.</li>\n<li>볶은 다진 고기, 토마토 소스, 간 치즈를 올려 오븐 파스타를 구워 보세요.</li>\n</ul>\n<p><strong>포장:</strong> 다양한 중량으로 주문에 따라 제공됩니다.</p>"
+    "ko": "<h2>시예즈 파스타로 식탁에 올리는 고대 곡물</h2>\n<p>시예즈는 외알밀로도 알려진, 아주 오래전부터 이어져 온 곡물입니다. 시예즈 가루로 만든 이 파스타는 연한 갈색빛과 살짝 볶은 곡물을 떠올리게 하는 맛이 돋보입니다. 익혀도 탱탱함을 유지하는 식감은 담백한 요리와 진한 소스 요리 모두에 든든한 바탕이 됩니다.</p>\n<p>Tufan Organik는 익숙한 파스타 한 접시에 좀 더 개성 있는 맛을 더하고 싶은 분들을 위해 시예즈 파스타를 선보입니다. 끓는 소금물에 넉넉히 삶은 뒤 소스와 함께 몇 분간 버무리면 향이 더욱 살아납니다. 버터, 치즈, 버섯처럼 깊은 맛과 특히 잘 어울리며, 담백한 올리브유 소스와도 잘 맞습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>버섯, 마늘, 버터와 함께 소테한 시예즈 파스타를 만들어 보세요.</li>\n<li>호두, 파슬리, 올리브유로 간단한 페스토를 만들어 파스타에 버무려 보세요.</li>\n<li>볶은 다진 고기, 토마토 소스, 간 치즈를 올려 오븐 파스타를 구워 보세요.</li>\n</ul>\n<p><strong>포장:</strong> 다양한 중량으로 주문에 따라 제공됩니다.</p>",
+    "ja": "<h2>シイェズ（ヒトツブコムギ）パスタで、古代穀物を食卓へ</h2>\n<p>エインコーン・ウィートとしても知られるシイェズ（ヒトツブコムギ）は、非常に長い歴史を持つ穀物です。シイェズ粉を使用したこのパスタは、淡い茶色の色合いと、軽く焙煎した穀物を思わせる風味が特徴です。茹で上がっても食感がしっかりとしており、シンプルなレシピから濃厚なソースを使った料理まで、幅広くお使いいただけます。</p>\n<p>トゥファン・オルガニックは、いつものパスタ料理に、より独特な風味を加えたい方へシイェズ（ヒトツブコムギ）パスタをお届けします。たっぷりの塩水で茹で、ソースと数分間和えることで、その香りがより一層引き立ちます。バター、チーズ、キノコなどの深い味わいと特によく合いますが、シンプルなオリーブオイルソースとも相性抜群です。</p>\n<h3>おすすめの召し上がり方</h3>\n<ul>\n<li>キノコ、ニンニク、バターと一緒に炒めたシイェズ（ヒトツブコムギ）パスタ。</li>\n<li>くるみ、パセリ、オリーブオイルで作ったシンプルなペストをパスタに和えて。</li>\n<li>炒めた挽肉、トマトソース、おろしたマイルドなイエローチーズを使ったパスタのカセロール。</li>\n</ul>\n<p><strong>パッケージ：</strong> ご要望に応じて、さまざまな重量で承ります。</p>"
   },
   "title": {
     "tr": "Siyez Makarnası | Tufan Organik",
     "en": "Siyez (Einkorn Wheat) Pasta | Tufan Organik",
     "ar": "معكرونة السيز (قمح وحيد الحبة) | Tufan Organik",
     "de": "Siyez-Nudeln (Einkorn) | Tufan Organik",
-    "ko": "시예즈(외알밀) 파스타 | Tufan Organik"
+    "ko": "시예즈(외알밀) 파스타 | Tufan Organik",
+    "ja": "シイェズ（ヒトツブコムギ）パスタ | Tufan Organik"
   },
   "date": "2026-10-28T08:16:23.410Z",
   "update": "2026-10-28T09:07:26.366Z",

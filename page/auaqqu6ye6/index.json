@@ -4,7 +4,8 @@
     "en": "IQF Aubergine Slices",
     "ar": "شرائح باذنجان مجمدة سريعًا (آي كيو إف)",
     "de": "IQF Auberginenscheiben",
-    "ko": "IQF 가지 슬라이스"
+    "ko": "IQF 가지 슬라이스",
+    "ja": "IQFナススライス"
   },
   "status": "play",
   "category": "c16iqfseb",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, IQF Aubergine Slices, IQF Sliced Vegetables, IQF vegetables, frozen vegetables, industrial vegetables, sliced vegetables",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, شرائح باذنجان مجمدة سريعًا (آي كيو إف), الخضروات المقطّعة المجمدة سريعًا, خضروات آي كيو إف, خضروات مجمدة, خضروات للصناعات الغذائية, خضروات مقطّعة شرائح",
     "de": "Tufan Organik, Gürün/Sivas, Naturlebensmittel, IQF Auberginenscheiben, IQF geschnittenes Gemüse, IQF-Gemüse, Tiefkühlgemüse, Industriegemüse, Gemüsescheiben",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, IQFナススライス, 凍結野菜",
     "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, IQF 가지 슬라이스, IQF 슬라이스 채소, IQF 채소, 냉동 채소, 업소용 채소, 슬라이스 채소"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik IQF Aubergine Slices are frying slices from the IQF Sliced Vegetables range, offered in 10 kg as a natural food from Gürün/Sivas.",
     "ar": "Tufan Organik شرائح باذنجان مجمدة سريعًا (آي كيو إف): شرائح مخصّصة للقلي ضمن مجموعة الخضروات المقطّعة المجمدة سريعًا، تُقدَّم بعبوة 10 kg، وهي غذاء طبيعي من أصل غورون/سيواس.",
     "de": "Tufan Organik IQF Auberginenscheiben sind Scheiben zum Frittieren aus der Gruppe IQF geschnittenes Gemüse, erhältlich in 10 kg – ein Naturlebensmittel aus Gürün/Sivas.",
-    "ko": "Tufan Organik IQF 가지 슬라이스는 IQF 슬라이스 채소 군에 속하는 튀김용 슬라이스로, 10 kg 규격으로 제공되는 귀륀/시바스산 천연 식품입니다."
+    "ko": "Tufan Organik IQF 가지 슬라이스는 IQF 슬라이스 채소 군에 속하는 튀김용 슬라이스로, 10 kg 규격으로 제공되는 귀륀/시바스산 천연 식품입니다.",
+    "ja": "Tufan Organik IQFナススライスは、凍結野菜カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "index": 213,
   "icon": "ac_unit",
@@ -43,7 +45,7 @@
     "en": "IQF Aubergine Slices | Tufan Organik",
     "ar": "شرائح باذنجان مجمدة سريعًا (آي كيو إف) | Tufan Organik",
     "de": "IQF Auberginenscheiben | Tufan Organik",
-    "ja": "",
+    "ja": "IQFナススライス | Tufan Organik",
     "ko": "IQF 가지 슬라이스 | Tufan Organik"
   },
   "text": {
@@ -51,7 +53,7 @@
     "en": "<h2>IQF Aubergine Slices: Aubergine Ready for Frying</h2>\n<p>Aubergine is one of the indispensable vegetables of Antep cuisine; from kebabs to moussaka, it appears on the table time and again. Tufan Organik IQF Aubergine Slices offer aubergine cut into frying slices and frozen piece by piece. The 10 kg pack is suitable for restaurant and catering kitchens that use aubergine throughout the day.</p>\n<p>Because the slices arrive ready-cut, the effort of chopping is eliminated and a consistent thickness is achieved in every portion. Cooked in hot oil or in the oven, aubergine takes on a texture that is soft and creamy inside and lightly browned outside. When a smoky taste reminiscent of fire-roasting is wanted, cooking the slices on the grill also gives good results.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Serve the fried slices shakshuka-style with garlic yoghurt and tomato sauce.</li>\n<li>Layer them with a minced meat filling in a baking tray to make moussaka.</li>\n<li>Grill them, then dress with olive oil and pomegranate molasses to make a cold mezze.</li>\n</ul>\n<p><strong>Pack Size:</strong> 10 kg</p>",
     "ar": "<h2>شرائح باذنجان مجمدة سريعًا (آي كيو إف): باذنجان جاهز للقلي</h2>\n<p>الباذنجان من الخضار التي لا غنى عنها في مطبخ عنتاب؛ فهو يحضر على المائدة كثيرًا من الكباب إلى المسقعة. وتقدّم شرائح الباذنجان المجمدة سريعًا (آي كيو إف) من Tufan Organik الباذنجانَ مقطّعًا شرائح للقلي ومجمّدًا قطعةً قطعة. والعبوة سعة 10 kg مناسبة لمطابخ المطاعم وخدمات التموين التي تستخدم الباذنجان طوال اليوم.</p>\n<p>ولأن الشرائح تصل جاهزة، تزول مشقة التقطيع ويُحصل على سماكة متقاربة في كل حصة. وعند طهيه في الزيت الساخن أو في الفرن يكتسب الباذنجان قوامًا طريًا كريميًا من الداخل ومحمّرًا قليلًا من الخارج. وعند الرغبة في نكهة مدخّنة تذكّر بالشوي على الجمر، يعطي طهي الشرائح على الشواية نتيجة جيدة أيضًا.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>قدّم الشرائح المقلية على طريقة الشكشوكة مع الزبادي بالثوم وصلصة الطماطم.</li>\n<li>رتّبها طبقاتٍ مع حشوة اللحم المفروم في صينية الفرن لتحضير المسقعة.</li>\n<li>اشوِها ثم تبّلها بزيت الزيتون ودبس الرمان لتحضير مقبلات باردة.</li>\n</ul>\n<p><strong>العبوة:</strong> 10 kg</p>",
     "de": "<h2>IQF Auberginenscheiben: Auberginen bereit zum Frittieren</h2>\n<p>Die Aubergine ist eines der unverzichtbaren Gemüse der Antep-Küche; vom Kebab bis zur Moussaka kommt sie immer wieder auf den Tisch. Tufan Organik IQF Auberginenscheiben bieten Auberginen, die in Scheiben zum Frittieren geschnitten und Stück für Stück tiefgefroren wurden. Die 10 kg Packung eignet sich für Restaurant- und Cateringküchen, die den ganzen Tag über Auberginen verwenden.</p>\n<p>Da die Scheiben fertig geschnitten geliefert werden, entfällt das mühsame Schneiden, und jede Portion erhält eine ähnliche Dicke. In heißem Öl oder im Ofen gegart, bekommt die Aubergine eine innen weiche, cremige und außen leicht gebräunte Textur. Wer ein rauchiges Aroma wie vom Garen über offener Flamme wünscht, erzielt auch durch Grillen der Scheiben gute Ergebnisse.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Die frittierten Scheiben nach Art der Schakschuka mit Knoblauchjoghurt und Tomatensauce servieren.</li>\n<li>Schichtweise mit einer Hackfleischfüllung in eine Auflaufform legen und Moussaka zubereiten.</li>\n<li>Grillen und mit Olivenöl und Granatapfelsirup abschmecken – fertig ist eine kalte Mezze.</li>\n</ul>\n<p><strong>Packungsgröße:</strong> 10 kg</p>",
-    "ja": "",
+    "ja": "<h2>IQFナススライス：揚げ物調理に最適なナス</h2>\n<p>ナスはアンテップ料理に欠かせない野菜の一つです。ケバブからムサカまで、何度も食卓に登場します。トゥファン・オルガニックのIQFナススライスは、揚げ物用のスライスにカットされ、一つずつバラ凍結されたナスです。10kgパックは、一日を通してナスを使用するレストランやケータリングの厨房に適しています。</p>\n<p>スライスはカット済みの状態で届くため、カットの手間が省け、どの分量でも厚さを一定に保つことができます。熱い油で揚げたりオーブンで焼いたりすることで、ナスは中が柔らかくクリーミーで、外側は軽く色づいた食感になります。直火焼きを思わせるスモーキーな味わいを楽しみたい場合は、グリルで焼くのもおすすめです。</p>\n<h3>おすすめの召し上がり方</h3>\n<ul>\n<li>揚げたスライスを、ガーリックヨーグルトとトマトソースと一緒にシャクシュカ風に。</li>\n<li>ベーキングトレーにひき肉のフィリングと一緒に層にして重ね、ムサカに。</li>\n<li>グリルで焼いた後、オリーブオイルとザクロモラセスをかけて、冷たいメゼとして。</li>\n</ul>\n<p><strong>内容量:</strong> 10 kg</p>",
     "ko": "<h2>IQF 가지 슬라이스: 바로 튀길 수 있는 가지</h2>\n<p>가지는 안테프 요리에서 빼놓을 수 없는 채소 중 하나로, 케밥부터 무사카까지 식탁에 자주 오릅니다. Tufan Organik IQF 가지 슬라이스는 튀김용으로 썬 가지를 한 조각씩 냉동한 제품입니다. 10 kg 포장은 하루 종일 가지를 사용하는 식당과 케이터링 주방에 적합합니다.</p>\n<p>슬라이스가 손질된 상태로 제공되어 써는 수고가 없고, 모든 1인분에서 비슷한 두께를 얻을 수 있습니다. 뜨거운 기름이나 오븐에서 익힌 가지는 속은 부드럽고 크리미하며 겉은 살짝 노릇한 식감을 갖게 됩니다. 불에 구운 듯한 스모키한 맛을 원할 때는 슬라이스를 그릴에 굽는 것도 좋은 결과를 냅니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>튀긴 슬라이스를 마늘 요거트와 토마토소스를 곁들여 샥슈카 스타일로 냅니다.</li>\n<li>오븐 팬에 다진 고기 소와 번갈아 층층이 깔아 무사카를 만듭니다.</li>\n<li>그릴에 구운 뒤 올리브 오일과 석류 당밀로 맛을 내 차가운 메제로 만듭니다.</li>\n</ul>\n<p><strong>규격:</strong> 10 kg</p>"
   },
   "update": "2026-10-28T09:07:34.261Z",

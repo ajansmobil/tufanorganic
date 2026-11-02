@@ -4,7 +4,8 @@
     "en": "Almond Sucuk (Traditional Nut Confection)",
     "ar": "سجق حلو باللوز (حلوى تقليدية بالمكسرات)",
     "de": "Mandel-Sucuk (traditionelle Nusssüßigkeit)",
-    "ko": "아몬드 수죽 (전통 견과 과자)"
+    "ko": "아몬드 수죽 (전통 견과 과자)",
+    "ja": "アーモンド入りスジュク（伝統的なナッツ菓子）"
   },
   "status": "play",
   "category": "c13konserve",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, Almond Sucuk, Turkish Delight, Pestil and Traditional Sweets, lokum, pestil, köme, tahini halva",
     "ar": "Tufan Organik, غورون/سيواس, أغذية طبيعية, سجق حلو باللوز, راحة الحلقوم, البستيل والحلويات التقليدية, لوكوم, بستيل, كومة, حلاوة طحينية",
     "de": "Tufan Organik, Gürün/Sivas, Naturkost, Mandel-Sucuk, Lokum, Pestil und traditionelle Süßwaren, Lokum, Pestil, Köme, Tahin-Halva",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, アーモンド入りスジュク（伝統的なナッツ菓子）, ドライフルーツ",
     "ko": "Tufan Organik, 귀륀/시바스, 자연 식품, 아몬드 수죽, 로쿰, 페스틸 및 전통 디저트, 로쿰, 페스틸, 쾨메, 타히니 할바"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Almond Sucuk is an almond köme sucuk from the Turkish Delight, Pestil and Traditional Sweets range, offered in 300 g as a natural food rooted in Gürün/Sivas.",
     "ar": "Tufan Organik — سجق حلو باللوز: سجق كومة باللوز ضمن فئة راحة الحلقوم والبستيل والحلويات التقليدية، يُقدَّم بوزن 300 g، وهو غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Mandel-Sucuk – eine Köme-Sucuk mit Mandeln aus der Kategorie Lokum, Pestil und traditionelle Süßwaren, angeboten in 300 g, ein Naturprodukt mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 아몬드 수죽은 로쿰, 페스틸 및 전통 디저트 카테고리의 아몬드 쾨메 수죽으로, 300 g으로 제공되는 귀륀/시바스 출신의 자연 식품입니다."
+    "ko": "Tufan Organik 아몬드 수죽은 로쿰, 페스틸 및 전통 디저트 카테고리의 아몬드 쾨메 수죽으로, 300 g으로 제공되는 귀륀/시바스 출신의 자연 식품입니다.",
+    "ja": "Tufan Organik アーモンド入りスジュク（伝統的なナッツ菓子）は、ドライフルーツカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "index": 144,
   "icon": "cake",
@@ -43,7 +45,7 @@
     "en": "Almond Sucuk (Traditional Nut Confection) | Tufan Organik",
     "ar": "سجق حلو باللوز (حلوى تقليدية بالمكسرات) | Tufan Organik",
     "de": "Mandel-Sucuk (traditionelle Nusssüßigkeit) | Tufan Organik",
-    "ja": "",
+    "ja": "アーモンド入りスジュク（伝統的なナッツ菓子） | Tufan Organik",
     "ko": "아몬드 수죽 (전통 견과 과자) | Tufan Organik"
   },
   "text": {
@@ -51,7 +53,7 @@
     "en": "<h2>Almond Sucuk: Köme Meets Almond</h2>\n<p>Almond Sucuk is an interpretation of the köme sucuk tradition that replaces walnuts with almonds. The firm, delicate crunch of the almonds creates a distinct contrast with the sweet, pliable coating that surrounds them. It carries a lighter, softer nutty aroma than walnut sucuk, so it may also appeal to those who do not enjoy the astringent taste of walnuts.</p>\n<p>In Gaziantep, sucuk is not limited to walnuts; pistachio and almond versions also find their place at the same table. Tufan Organik's Almond Sucuk was made for those who want to bring this variety into their homes. When sliced, the almond pieces visible in the cross-section create an elegant and appetizing look on a serving plate.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Serve in thin slices with coffee after a meal.</li>\n<li>Prepare a three-variety sucuk platter together with walnut and pistachio sucuk.</li>\n<li>Carry it with you in small pieces on walks and travels.</li>\n</ul>\n<p><strong>Weight:</strong> 300 g</p>",
     "ar": "<h2>سجق حلو باللوز: الكومة بلمسة اللوز</h2>\n<p>سجق اللوز الحلو تفسيرٌ لتقليد سجق الكومة يُستبدل فيه الجوز باللوز. تُشكّل قرمشة اللوز المتماسكة والرقيقة تباينًا واضحًا مع الغلاف الحلو والمرن الذي يحيط به. ويحمل نكهة مكسرات أخف وألطف مقارنةً بالسجق بالجوز، لذا قد يناسب أيضًا من لا يستسيغون الطعم القابض للجوز.</p>\n<p>في غازي عنتاب لا يقتصر السجق الحلو على الجوز؛ فنسختاه بالفستق وباللوز تجدان مكانهما على المائدة نفسها. وقد أُعدّ سجق اللوز من Tufan Organik لمن يرغبون في نقل هذا التنوع إلى بيوتهم. وعند تقطيعه، تمنح حبات اللوز الظاهرة في المقطع طبق الضيافة مظهرًا أنيقًا وفاتحًا للشهية.</p>\n<h3>اقتراحات التقديم</h3>\n<ul>\n<li>قدّمه شرائح رقيقة مع القهوة بعد الطعام.</li>\n<li>حضّر طبقًا من ثلاثة أنواع من السجق الحلو مع سجق الجوز وسجق الفستق.</li>\n<li>احمله معك مقسّمًا إلى قطع صغيرة في النزهات والرحلات.</li>\n</ul>\n<p><strong>الوزن:</strong> 300 g</p>",
     "de": "<h2>Mandel-Sucuk: Köme trifft auf Mandeln</h2>\n<p>Mandel-Sucuk ist eine Interpretation der Köme-Sucuk-Tradition, bei der die Walnüsse durch Mandeln ersetzt werden. Der feste, feine Biss der Mandeln bildet einen deutlichen Kontrast zur süßen, elastischen Hülle, die sie umgibt. Im Vergleich zu Walnuss-Sucuk hat sie ein leichteres, milderes Nussaroma und kann daher auch jene ansprechen, die den herben Geschmack von Walnüssen nicht mögen.</p>\n<p>In Gaziantep beschränkt sich Sucuk nicht auf Walnüsse; auch die Varianten mit Pistazien und Mandeln haben ihren Platz am selben Tisch. Die Mandel-Sucuk von Tufan Organik wurde für alle gemacht, die diese Vielfalt nach Hause holen möchten. Beim Aufschneiden sorgen die im Anschnitt sichtbaren Mandeln auf dem Servierteller für einen eleganten und appetitlichen Anblick.</p>\n<h3>Serviervorschläge</h3>\n<ul>\n<li>Nach dem Essen in dünnen Scheiben zum Kaffee servieren.</li>\n<li>Zusammen mit Walnuss- und Pistazien-Sucuk eine Sucuk-Platte mit drei Sorten anrichten.</li>\n<li>In kleine Stücke geteilt auf Spaziergängen und Reisen mitnehmen.</li>\n</ul>\n<p><strong>Gewicht:</strong> 300 g</p>",
-    "ja": "",
+    "ja": "<h2>アーモンド入りスジュク（伝統的なナッツ菓子）：コメとアーモンドの出会い</h2>\n<p>アーモンド入りスジュク（伝統的なナッツ菓子）は、クルミの代わりにアーモンドを使用したコメ・スジュクの伝統を現代的に解釈した一品です。アーモンドのしっかりとした繊細な食感が、それらを包み込む甘く柔らかなコーティングと鮮やかなコントラストを生み出します。クルミのスジュクよりも軽やかで柔らかなナッツの香りが漂うため、クルミ特有の渋みが苦手な方にも喜んでいただけます。</p>\n<p>ガズィアンテプでは、スジュクはクルミだけではありません。ピスタチオやアーモンドを使ったものも、同じ食卓に並びます。トゥファン・オルガニックのアーモンド入りスジュクは、こうした多様な味わいをご家庭でも楽しみたいという方のために作られました。スライスすると、断面に見えるアーモンドの粒が、お皿の上でエレガントで食欲をそそる見た目を演出します。</p>\n<h3>お召し上がり方</h3>\n<ul>\n<li>食後に、薄いスライスにしてコーヒーと一緒に。</li>\n<li>クルミやピスタチオのスジュクと一緒に、3種類のスジュク盛り合わせとして。</li>\n<li>お散歩や旅行の際に、小分けにして持ち歩くのもおすすめです。</li>\n</ul>\n<p><strong>内容量:</strong> 300 g</p>",
     "ko": "<h2>아몬드 수죽: 쾨메와 아몬드의 만남</h2>\n<p>아몬드 수죽은 쾨메 수죽의 전통에서 호두를 아몬드로 바꾼 변주입니다. 단단하고 섬세한 아몬드의 바삭함이 겉을 감싼 달콤하고 쫀득한 코팅과 뚜렷한 대비를 이룹니다. 호두 수죽보다 가볍고 부드러운 견과 향을 지니고 있어 호두의 떫은맛을 즐기지 않는 분들에게도 잘 맞을 수 있습니다.</p>\n<p>가지안테프에서 수죽은 호두에만 머물지 않으며, 피스타치오 수죽과 아몬드 수죽도 같은 식탁에 함께 오릅니다. Tufan Organik의 아몬드 수죽은 이러한 다양함을 집으로 들이고 싶은 분들을 위해 준비했습니다. 썰었을 때 단면에 드러나는 아몬드 알갱이는 접대용 접시 위에서 세련되고 먹음직스러운 모습을 연출합니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>식사 후 커피와 함께 얇게 썰어 대접하기 좋습니다.</li>\n<li>호두 수죽, 피스타치오 수죽과 함께 세 가지 수죽 플래터를 준비할 수 있습니다.</li>\n<li>작게 나누어 산책이나 여행길에 간편하게 챙겨 갈 수 있습니다.</li>\n</ul>\n<p><strong>중량:</strong> 300 g</p>"
   },
   "update": "2026-10-28T09:08:11.829Z",

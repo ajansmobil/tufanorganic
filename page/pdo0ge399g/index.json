@@ -5,21 +5,24 @@
     "en": "Chickpea Flour Pasta",
     "ar": "معكرونة بدقيق الحمص",
     "de": "Kichererbsenmehl-Nudeln",
-    "ko": "병아리콩 가루 파스타"
+    "ko": "병아리콩 가루 파스타",
+    "ja": "ひよこ豆粉入りパスタ"
   },
   "description": {
     "tr": "Tufan Organik Nohut Unlu Makarna, Makarna Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
     "en": "Tufan Organik Chickpea Flour Pasta from the Pasta Products range, a natural food with roots in Gürün/Sivas.",
     "ar": "Tufan Organik معكرونة بدقيق الحمص من مجموعة منتجات المعكرونة، غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Kichererbsenmehl-Nudeln aus dem Teigwarensortiment – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 병아리콩 가루 파스타, 귀륀/시바스에 뿌리를 둔 파스타류 제품군의 천연 식품입니다."
+    "ko": "Tufan Organik 병아리콩 가루 파스타, 귀륀/시바스에 뿌리를 둔 파스타류 제품군의 천연 식품입니다.",
+    "ja": "Tufan Organik ひよこ豆粉入りパスタは、パスタカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "keyword": {
     "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Nohut Unlu Makarna, Makarna Grubu",
     "en": "Tufan Organik, Gürün/Sivas, natural food, Chickpea Flour Pasta, Pasta Products",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, معكرونة بدقيق الحمص, منتجات المعكرونة",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Kichererbsenmehl-Nudeln, Teigwaren",
-    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 병아리콩 가루 파스타, 파스타류"
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 병아리콩 가루 파스타, 파스타류",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ひよこ豆粉入りパスタ, パスタ"
   },
   "path": "nohut-unlu-makarna",
   "icon": "breakfast_dining",
@@ -37,14 +40,16 @@
     "en": "<h2>Chickpea Flour Pasta: Where Legumes Meet Pasta</h2>\n<p>Chickpea flour pasta is a product made with chickpea flour that offers a different take on classic pasta. Its color is slightly yellowish, and its taste carries a gentle sweetness reminiscent of chickpeas. When cooked, it reaches a hearty texture and pairs naturally with vegetable, spiced or yogurt-based sauces.</p>\n<p>Part of the Tufan Organik pasta range, this product is a good option for those who want to bring legumes into their daily meals in a different way. Since it can soften faster than regular pasta, tasting it now and then while cooking is recommended. Transferring it to its sauce right after boiling helps it keep its texture.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Prepare a light sauce with fire-roasted peppers, garlic and olive oil and toss it with the pasta.</li>\n<li>Make a baked pasta with spinach, curd cheese and walnuts.</li>\n<li>Serve the boiled pasta with garlic yogurt and red pepper flakes sizzled in butter.</li>\n</ul>\n<p><strong>Packaging:</strong> Available in various weights on request.</p>",
     "ar": "<h2>معكرونة دقيق الحمص: لقاء البقوليات بالمعكرونة</h2>\n<p>معكرونة دقيق الحمص منتج يُحضَّر باستخدام دقيق الحمص، ويقدّم تفسيرًا مختلفًا للمعكرونة الكلاسيكية. لونها مائل قليلًا إلى الصفرة، ومذاقها يحمل حلاوة خفيفة تذكّر بالحمص. وعند طهيها تكتسب قوامًا مُشبعًا، وتنسجم انسجامًا طبيعيًا مع الصلصات المحضّرة بالخضار أو التوابل أو اللبن.</p>\n<p>هذا المنتج، الذي يندرج ضمن مجموعة المعكرونة من Tufan Organik، خيار جيد لمن يرغبون في إدخال البقوليات إلى وجباتهم اليومية بطريقة مختلفة. ولأنها قد تلين أسرع من المعكرونة المعتادة، يُنصح بتذوّقها بين حين وآخر أثناء الطهي. ونقلها إلى صلصتها فور سلقها يساعدها على الحفاظ على قوامها.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>حضّروا صلصة خفيفة بالفلفل المشوي على الجمر والثوم وزيت الزيتون واخلطوها مع المعكرونة.</li>\n<li>اصنعوا معكرونة في الفرن بالسبانخ وجبن القريش والجوز.</li>\n<li>قدّموا المعكرونة المسلوقة مع اللبن بالثوم ورقائق الفلفل الأحمر المحمّاة في الزبدة.</li>\n</ul>\n<p><strong>التغليف:</strong> متوفر بأوزان مختلفة حسب الطلب.</p>",
     "de": "<h2>Kichererbsenmehl-Nudeln: Hülsenfrüchte treffen auf Pasta</h2>\n<p>Kichererbsenmehl-Nudeln werden mit Kichererbsenmehl hergestellt und bieten eine neue Interpretation klassischer Pasta. Ihre Farbe ist leicht gelblich, ihr Geschmack trägt eine sanfte Süße, die an Kichererbsen erinnert. Gekocht erreichen sie eine sättigende Textur und harmonieren ganz natürlich mit Gemüse-, Gewürz- oder Joghurtsoßen.</p>\n<p>Dieses Produkt aus dem Nudelsortiment von Tufan Organik ist eine gute Wahl für alle, die Hülsenfrüchte auf andere Weise in ihre täglichen Mahlzeiten bringen möchten. Da sie schneller weich werden können als herkömmliche Nudeln, empfiehlt es sich, beim Kochen zwischendurch zu probieren. Gibt man sie direkt nach dem Kochen in die Soße, behalten sie besser ihre Textur.</p>\n<h3>Verwendungstipps</h3>\n<ul>\n<li>Bereiten Sie eine leichte Soße aus gerösteter Paprika, Knoblauch und Olivenöl zu und mischen Sie sie unter die Nudeln.</li>\n<li>Backen Sie einen Nudelauflauf mit Spinat, körnigem Frischkäse und Walnüssen.</li>\n<li>Servieren Sie die gekochten Nudeln mit Knoblauchjoghurt und in Butter angebratenen Paprikaflocken.</li>\n</ul>\n<p><strong>Verpackung:</strong> In verschiedenen Gewichtsgrößen auf Anfrage erhältlich.</p>",
-    "ko": "<h2>병아리콩 가루 파스타: 콩과 파스타의 만남</h2>\n<p>병아리콩 가루 파스타는 병아리콩 가루로 만든 제품으로, 클래식 파스타에 색다른 해석을 더합니다. 색은 은은한 노란빛을 띠고, 맛은 병아리콩을 떠올리게 하는 가벼운 단맛을 지닙니다. 익히면 든든한 식감이 되며 채소, 향신료, 요거트 소스와 자연스럽게 어우러집니다.</p>\n<p>Tufan Organik 파스타류 제품군에 속한 이 제품은 콩류를 색다른 방식으로 일상 식단에 들이고 싶은 분들께 좋은 선택입니다. 일반 파스타보다 빨리 부드러워질 수 있으므로 익히는 동안 틈틈이 맛을 보시길 권합니다. 삶은 뒤 바로 소스에 옮기면 식감을 지키는 데 도움이 됩니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>불에 구운 고추, 마늘, 올리브유로 가벼운 소스를 만들어 파스타에 버무려 보세요.</li>\n<li>시금치, 코티지 치즈, 호두로 오븐 파스타를 만들어 보세요.</li>\n<li>삶은 파스타에 마늘 요거트와 버터에 달군 붉은 고추 플레이크를 곁들여 내어 보세요.</li>\n</ul>\n<p><strong>포장:</strong> 다양한 중량으로 주문에 따라 제공됩니다.</p>"
+    "ko": "<h2>병아리콩 가루 파스타: 콩과 파스타의 만남</h2>\n<p>병아리콩 가루 파스타는 병아리콩 가루로 만든 제품으로, 클래식 파스타에 색다른 해석을 더합니다. 색은 은은한 노란빛을 띠고, 맛은 병아리콩을 떠올리게 하는 가벼운 단맛을 지닙니다. 익히면 든든한 식감이 되며 채소, 향신료, 요거트 소스와 자연스럽게 어우러집니다.</p>\n<p>Tufan Organik 파스타류 제품군에 속한 이 제품은 콩류를 색다른 방식으로 일상 식단에 들이고 싶은 분들께 좋은 선택입니다. 일반 파스타보다 빨리 부드러워질 수 있으므로 익히는 동안 틈틈이 맛을 보시길 권합니다. 삶은 뒤 바로 소스에 옮기면 식감을 지키는 데 도움이 됩니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>불에 구운 고추, 마늘, 올리브유로 가벼운 소스를 만들어 파스타에 버무려 보세요.</li>\n<li>시금치, 코티지 치즈, 호두로 오븐 파스타를 만들어 보세요.</li>\n<li>삶은 파스타에 마늘 요거트와 버터에 달군 붉은 고추 플레이크를 곁들여 내어 보세요.</li>\n</ul>\n<p><strong>포장:</strong> 다양한 중량으로 주문에 따라 제공됩니다.</p>",
+    "ja": "<h2>ひよこ豆粉入りパスタ：豆類とパスタの融合</h2>\n<p>ひよこ豆粉入りパスタは、ひよこ豆の粉を使用して作られた、従来のパスタとは一味違う製品です。色はわずかに黄色味を帯びており、ひよこ豆を思わせる優しい甘みがあります。調理すると食べ応えのある食感になり、野菜、スパイス、またはヨーグルトベースのソースと自然に調和します。</p>\n<p>トゥファン・オルガニックのパスタラインナップの一つであるこの製品は、日々の食事に新しい形で豆類を取り入れたい方に最適な選択肢です。一般的なパスタよりも早く柔らかくなることがあるため、調理中に時々味見をすることをお勧めします。茹であがったらすぐにソースに移すことで、食感を保つことができます。</p>\n<h3>おすすめの召し上がり方</h3>\n<ul>\n<li>焼きパプリカ、にんにく、オリーブオイルを使った軽いソースを作り、パスタと和えてください。</li>\n<li>ほうれん草、カッテージチーズ、くるみを使った焼きパスタに。</li>\n<li>茹でたパスタに、にんにくヨーグルトとバターで熱したレッドペッパーフレークを添えてお召し上がりください。</li>\n</ul>\n<p><strong >パッケージ：</strong> ご要望に応じて、さまざまな重量でご用意可能です。</p>"
   },
   "title": {
     "tr": "Nohut Unlu Makarna | Tufan Organik",
     "en": "Chickpea Flour Pasta | Tufan Organik",
     "ar": "معكرونة بدقيق الحمص | Tufan Organik",
     "de": "Kichererbsenmehl-Nudeln | Tufan Organik",
-    "ko": "병아리콩 가루 파스타 | Tufan Organik"
+    "ko": "병아리콩 가루 파스타 | Tufan Organik",
+    "ja": "ひよこ豆粉入りパスタ | Tufan Organik"
   },
   "date": "2026-10-28T08:16:22.760Z",
   "update": "2026-10-28T09:07:55.169Z",

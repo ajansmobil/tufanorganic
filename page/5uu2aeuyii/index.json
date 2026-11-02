@@ -4,7 +4,8 @@
     "en": "Pepper Meze with Walnuts",
     "ar": "مازة الفلفل بالجوز",
     "de": "Paprika-Meze mit Walnüssen",
-    "ko": "호두 고추 메제"
+    "ko": "호두 고추 메제",
+    "ja": "クルミ入りピーマンメゼ"
   },
   "status": "play",
   "category": "c05kurumey",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, Pepper Meze with Walnuts, Pastes, Pickles, Meze and Sauces, paste, pickles, meze, tomato paste",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, مازة الفلفل بالجوز, معاجين, مخللات, مازة وصلصات, معجون, مخلل, مازة, معجون الطماطم",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Paprika-Meze mit Walnüssen, Würzpasten, Eingelegtes, Meze und Soßen, Würzpaste, Sauergemüse, Meze, Tomatenmark",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, クルミ入りピーマンメゼ, トマトソースと調味料",
     "ko": "Tufan Organik, 귀륀/시바스, 자연 식품, 호두 고추 메제, 페이스트, 피클, 메제 및 소스, 페이스트, 피클, 메제, 토마토 페이스트"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Pepper Meze with Walnuts is a breakfast meze from the Pastes, Pickles, Meze and Sauces range, offered in 300 g – a natural food with roots in Gürün/Sivas.",
     "ar": "Tufan Organik مازة الفلفل بالجوز: مازة للفطور من فئة المعاجين والمخللات والمازة والصلصات، متوفرة بوزن 300 g، وهي غذاء طبيعي ذو أصول من غورون/سيواس.",
     "de": "Tufan Organik Paprika-Meze mit Walnüssen ist eine Frühstücks-Meze aus der Kategorie Würzpasten, Eingelegtes, Meze und Soßen, erhältlich in 300 g – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 호두 고추 메제는 페이스트, 피클, 메제 및 소스 카테고리의 아침 식사용 메제로, 300 g 용량으로 제공되는 귀륀/시바스 기반의 자연 식품입니다."
+    "ko": "Tufan Organik 호두 고추 메제는 페이스트, 피클, 메제 및 소스 카테고리의 아침 식사용 메제로, 300 g 용량으로 제공되는 귀륀/시바스 기반의 자연 식품입니다.",
+    "ja": "Tufan Organik クルミ入りピーマンメゼは、トマトソースと調味料カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "index": 190,
   "icon": "lunch_dining",
@@ -43,7 +45,7 @@
     "en": "Pepper Meze with Walnuts | Tufan Organik",
     "ar": "مازة الفلفل بالجوز | Tufan Organik",
     "de": "Paprika-Meze mit Walnüssen | Tufan Organik",
-    "ja": "",
+    "ja": "クルミ入りピーマンメゼ | Tufan Organik",
     "ko": "호두 고추 메제 | Tufan Organik"
   },
   "text": {
@@ -51,7 +53,7 @@
     "en": "<h2>A Colourful Start to Breakfast with Pepper Meze with Walnuts</h2>\n<p>Tufan Organik Pepper Meze with Walnuts is a breakfast meze that pairs the vivid colour of peppers with the rich taste of walnuts. Its consistency spreads easily on bread, and the walnut pieces you notice here and there add a pleasant texture to every bite. Alongside cheese, olives and tomatoes, it forms the colourful corner of the morning table.</p>\n<p>In Gaziantep, breakfast tables are abundant and varied, and the pairing of peppers and walnuts is one of their familiar flavours. Tufan Organik prepares this meze in a practical 300 g jar. Open the lid and you have a ready, satisfying option to enjoy at breakfast as well as on the evening meze platter.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Spread a thin layer over warm flatbread or rustic village bread and sprinkle with crushed walnuts.</li>\n<li>Roll in lavash with white cheese and parsley for a quick breakfast wrap.</li>\n<li>Serve as a cold meze in a small bowl alongside grilled chicken or meatballs.</li>\n</ul>\n<p><strong>Weight:</strong> 300 g</p>",
     "ar": "<h2>بداية ملوّنة للفطور مع مازة الفلفل بالجوز</h2>\n<p>مازة الفلفل بالجوز من Tufan Organik مازة للفطور تجمع لون الفلفل الزاهي بمذاق الجوز الغني. يمنح قوامها السهل الدهن على الخبز وقطع الجوز التي تظهر هنا وهناك كلَّ لقمة ملمسًا لطيفًا. وإلى جانب الجبن والزيتون والطماطم، تشكّل الركن الملوّن في مائدة الصباح.</p>\n<p>موائد الفطور في غازي عنتاب عامرة ومتنوعة، واجتماع الفلفل والجوز من نكهاتها المألوفة. وتحضّر Tufan Organik هذه المازة في برطمان عملي بوزن 300 g. وما إن تفتح الغطاء حتى يصبح بين يديك خيار جاهز ومُشبع يمكنك الاستمتاع به في فطور الصباح وفي طبق المازة المسائي على حدٍّ سواء.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>ادهن طبقة رقيقة منها على الخبز المسطّح الساخن أو خبز القرية، ثم انثر فوقها الجوز المكسّر.</li>\n<li>لفّها في خبز اللافاش مع الجبن الأبيض والبقدونس لتحضير لفافة فطور سريعة.</li>\n<li>قدّمها مازةً باردة في وعاء صغير بجانب الدجاج المشوي أو الكفتة.</li>\n</ul>\n<p><strong>الوزن:</strong> 300 g</p>",
     "de": "<h2>Ein farbenfroher Start ins Frühstück mit Paprika-Meze mit Walnüssen</h2>\n<p>Tufan Organik Paprika-Meze mit Walnüssen ist eine Frühstücks-Meze, die die lebendige Farbe der Paprika mit dem vollen Geschmack von Walnüssen verbindet. Ihre leicht aufs Brot streichbare Konsistenz und die hier und da spürbaren Walnussstückchen verleihen jedem Bissen eine angenehme Textur. Neben Käse, Oliven und Tomaten bildet sie die farbenfrohe Ecke des Frühstückstischs.</p>\n<p>In Gaziantep sind Frühstückstafeln reich gedeckt und vielfältig; die Verbindung von Paprika und Walnuss gehört zu ihren vertrauten Aromen. Tufan Organik bereitet diese Meze in einem praktischen 300-g-Glas zu. Sobald Sie den Deckel öffnen, haben Sie eine fertige, sättigende Option, die Sie zum Frühstück ebenso genießen können wie auf der abendlichen Meze-Platte.</p>\n<h3>Serviervorschläge</h3>\n<ul>\n<li>Dünn auf warmes Fladenbrot oder Landbrot streichen und mit gehackten Walnüssen bestreuen.</li>\n<li>Mit Weißkäse und Petersilie in Lavash-Brot rollen – für einen schnellen Frühstückswrap.</li>\n<li>In einer kleinen Schale als kalte Meze zu gegrilltem Hähnchen oder Fleischbällchen servieren.</li>\n</ul>\n<p><strong>Gewicht:</strong> 300 g</p>",
-    "ja": "",
+    "ja": "<h2>クルミ入りピーマンメゼで、彩り豊かな朝食の始まりを</h2>\n<p>トゥファン・オルガニックのクルミ入りピーマンメゼは、ピーマンの鮮やかな色とクルミの豊かな味わいを組み合わせた朝食用のメゼです。パンに塗りやすい質感で、所々に散りばめられたクルミの粒が、一口ごとに心地よい食感を与えます。チーズ、オリーブ、トマトとともに、朝の食卓に彩りを添えます。</p>\n<p>ガズィアンテプでは、朝食のテーブルは非常に豊かで多様ですが、ピーマンとクルミの組み合わせは、その中でも馴染み深い味わいの一つです。トゥファン・オルガニックは、このメゼを使い勝手の良い300gのジャーでお届けします。蓋を開けるだけで、朝食はもちろん、夜のメゼプレートとしても楽しめる、手軽で満足感のある一品です。</p>\n<h3>おすすめの召し上がり方</h3>\n<ul>\n<li>温かいフラットブレッドや素朴な田舎風パンに薄く塗り、砕いたクルミを振りかけてください。</li>\n<li>ラヴァシュにホワイトチーズとパセリを一緒に巻いて、手軽な朝食ラップとしてお召し上がりください。</li>\n<li>グリルチキンやミートボールに添えて、冷たいメゼとして小さなボウルでお出しください。</li>\n</ul>\n<p><strong>内容量:</strong> 300 g</p>",
     "ko": "<h2>호두 고추 메제로 시작하는 다채로운 아침</h2>\n<p>Tufan Organik 호두 고추 메제는 고추의 선명한 색과 호두의 풍부한 맛을 한데 담은 아침 식사용 메제입니다. 빵에 손쉽게 펴 발리는 농도와 군데군데 씹히는 호두 조각이 한 입마다 기분 좋은 식감을 더합니다. 치즈, 올리브, 토마토와 함께 아침 식탁의 다채로운 한편을 채웁니다.</p>\n<p>가지안테프의 아침 식탁은 푸짐하고 다양하며, 고추와 호두의 조합은 그 식탁의 익숙한 맛 중 하나입니다. Tufan Organik는 이 메제를 실용적인 300 g 병에 담아 준비했습니다. 뚜껑을 열면 아침 식사는 물론 저녁 메제 플래터에도 활용할 수 있는, 바로 먹을 수 있는 든든한 선택지가 됩니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>따뜻한 플랫브레드나 시골 빵 위에 얇게 펴 바르고 부순 호두를 뿌립니다.</li>\n<li>라바시에 화이트 치즈, 파슬리와 함께 말아 간단한 아침 랩을 만듭니다.</li>\n<li>구운 닭고기나 미트볼 옆에 작은 그릇에 담아 차가운 메제로 냅니다.</li>\n</ul>\n<p><strong>중량:</strong> 300 g</p>"
   },
   "update": "2026-10-28T09:07:27.465Z",

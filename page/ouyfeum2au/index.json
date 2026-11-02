@@ -4,7 +4,8 @@
     "en": "Beetroot Juice",
     "ar": "عصير الشمندر",
     "de": "Rote-Bete-Saft",
-    "ko": "비트 주스"
+    "ko": "비트 주스",
+    "ja": "ビートジュース"
   },
   "status": "play",
   "category": "c10meyves",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, Beetroot Juice, Fruit Juices, fruit juice, pomegranate juice, natural fruit juice, additive-free drink",
     "ar": "Tufan Organik, غورون/سيواس, أغذية طبيعية, عصير الشمندر, العصائر, عصير فواكه, عصير الرمان, عصير فواكه طبيعي, مشروب خالٍ من الإضافات",
     "de": "Tufan Organik, Gürün/Sivas, Naturkost, Rote-Bete-Saft, Fruchtsäfte, Fruchtsaft, Granatapfelsaft, natürlicher Fruchtsaft, Getränk ohne Zusatzstoffe",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ビートジュース, フルーツジュース",
     "ko": "Tufan Organik, 귀륀/시바스, 자연식품, 비트 주스, 과일 주스류, 과일 주스, 석류 주스, 천연 과일 주스, 무첨가 음료"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Beetroot Juice is a detox beet juice from our Fruit Juices range, offered in 750 ml, a natural food rooted in Gürün/Sivas.",
     "ar": "Tufan Organik عصير الشمندر: عصير شمندر ديتوكس من مجموعة العصائر، يُقدَّم بسعة 750 ml، وهو غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Rote-Bete-Saft ist ein Detox-Rübensaft aus der Gruppe Fruchtsäfte, erhältlich in 750 ml – ein Naturprodukt mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 비트 주스는 과일 주스류에 속하는 디톡스 비트 주스로, 750 ml 용량으로 제공되는 귀륀/시바스 출신의 자연식품입니다."
+    "ko": "Tufan Organik 비트 주스는 과일 주스류에 속하는 디톡스 비트 주스로, 750 ml 용량으로 제공되는 귀륀/시바스 출신의 자연식품입니다.",
+    "ja": "Tufan Organik ビートジュースは、フルーツジュースカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "index": 159,
   "icon": "local_bar",
@@ -43,7 +45,7 @@
     "en": "Beetroot Juice | Tufan Organik",
     "ar": "عصير الشمندر | Tufan Organik",
     "de": "Rote-Bete-Saft | Tufan Organik",
-    "ja": "",
+    "ja": "ビートジュース | Tufan Organik",
     "ko": "비트 주스 | Tufan Organik"
   },
   "text": {
@@ -51,7 +53,7 @@
     "en": "<h2>An Earthy, Deep Flavor with Beetroot Juice</h2>\n<p>Beetroot Juice is a drink that carries the deep purple-red color and lightly earthy taste of beetroot. Sweetness stays more in the background than in fruit juices; instead, a full-bodied, vegetal character comes to the fore. Those who love this taste drink it straight, while newcomers may prefer to soften it with apple or orange juice.</p>\n<p>Among the drinks it offers from Gürün/Sivas, Tufan Organik places beetroot alongside the fruits. Instantly eye-catching on the table thanks to its color, this drink comes in a 750 ml size and can be enjoyed on its own or used in the kitchen to add color and flavor. Serving it cold makes its earthy notes more balanced.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Mix with apple juice and a little fresh ginger to make a drink with a softened taste.</li>\n<li>Add a small amount when preparing hummus or yogurt-based meze to give them a pink color.</li>\n<li>Use it in place of part of the water when cooking bulgur pilaf for a pink-tinted pilaf.</li>\n</ul>\n<p><strong>Size:</strong> 750 ml</p>",
     "ar": "<h2>عصير الشمندر: طعم ترابي عميق</h2>\n<p>عصير الشمندر مشروب يحمل لون الشمندر الأرجواني المحمرّ الداكن وطعمه الترابي الخفيف. تبقى الحلاوة فيه في الخلفية مقارنةً بعصائر الفواكه، وتبرز بدلًا منها شخصية ممتلئة ذات طابع خضري. يشربه محبو هذا الطعم صافيًا، بينما قد يفضّل من يتعرّفون عليه للمرة الأولى تلطيفه بعصير التفاح أو البرتقال.</p>\n<p>تضع Tufan Organik الشمندر إلى جانب الفواكه ضمن المشروبات التي تقدّمها من غورون/سيواس. يلفت هذا المشروب الأنظار على المائدة بلونه فورًا، ويمكن بعبوته سعة 750 ml شربه وحده أو استخدامه في المطبخ لإضافة اللون والنكهة. ويجعل تقديمه باردًا نغماته الترابية أكثر توازنًا.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>امزجه مع عصير التفاح وقليل من الزنجبيل الطازج لتحضير مشروب بطعم أكثر نعومة.</li>\n<li>أضف كمية قليلة منه عند تحضير الحمص أو المقبلات باللبن الزبادي لمنحها لونًا ورديًا.</li>\n<li>استخدمه بدلًا من جزء من الماء عند طهي البرغل لتحصل على برغل بلون وردي.</li>\n</ul>\n<p><strong>الحجم:</strong> 750 ml</p>",
     "de": "<h2>Rote-Bete-Saft: erdig und tiefgründig im Geschmack</h2>\n<p>Rote-Bete-Saft ist ein Getränk, das die tief violettrote Farbe und den leicht erdigen Geschmack der Roten Bete in sich trägt. Die Süße tritt im Vergleich zu Fruchtsäften stärker in den Hintergrund; stattdessen steht ein vollmundiger, gemüsiger Charakter im Vordergrund. Wer diesen Geschmack mag, trinkt ihn pur; wer ihn neu kennenlernt, mildert ihn vielleicht lieber mit Apfel- oder Orangensaft ab.</p>\n<p>Unter den Getränken, die Tufan Organik aus Gürün/Sivas anbietet, steht die Rote Bete gleichberechtigt neben den Früchten. Das Getränk zieht dank seiner Farbe sofort die Blicke auf sich und kann aus der 750-ml-Flasche pur getrunken oder in der Küche verwendet werden, um Farbe und Geschmack zu verleihen. Gekühlt serviert wirken die erdigen Noten ausgewogener.</p>\n<h3>Verwendungstipps</h3>\n<ul>\n<li>Mit Apfelsaft und etwas frischem Ingwer mischen – für ein Getränk mit milderem Geschmack.</li>\n<li>Bei der Zubereitung von Hummus oder Joghurt-Meze eine kleine Menge hinzufügen, um ihnen eine rosa Farbe zu geben.</li>\n<li>Beim Kochen von Bulgur-Pilaw einen Teil des Wassers durch den Saft ersetzen – für einen rosafarbenen Pilaw.</li>\n</ul>\n<p><strong>Füllmenge:</strong> 750 ml</p>",
-    "ja": "",
+    "ja": "<h2>ビートジュースの、大地を感じる深い味わい</h2>\n<p>ビートジュースは、ビート特有の深い紫赤色と、ほのかな大地の風味を併せ持つ飲み物です。フルーツジュースに比べて甘みは控えめですが、その代わりに、コクのある野菜らしい味わいが際立ちます。この味を好む方はそのまま召し上がりますが、初めての方はアップルジュースやオレンジジュースと混ぜて、味わいをまろやかにするのがおすすめです。</p>\n<p>トゥファン・オルガニックは、ギュルン/シヴァス産の飲み物の中でも、ビートをフルーツと同様にラインナップしています。その鮮やかな色合いで食卓の目を引くこの飲み物は、750mlサイズで、そのまま楽しむのはもちろん、料理に色と風味を加えるためにもお使いいただけます。冷やして提供すると、大地の風味がよりバランスよく感じられます。</p>\n<h3>おすすめの召し上がり方</h3>\n<ul>\n<li>アップルジュースと少量のフレッシュジンジャーを混ぜて、まろやかな味わいのドリンクに。</li>\n<li>フムスやヨーグルトベースのメゼを作る際に少量加えると、美しいピンク色に仕上がります。</li>\n<li>ブルグル・ピラフを炊く際、水の一部をこれに置き換えることで、ピンク色に色づいたピラフを楽しめます。</li>\n</ul>\n<p><strong>サイズ:</strong> 750 ml</p>",
     "ko": "<h2>비트 주스로 느끼는 흙내음 나는 깊은 맛</h2>\n<p>비트 주스는 비트의 짙은 자줏빛 붉은색과 은은한 흙내음을 그대로 담은 음료입니다. 과일 주스에 비해 단맛은 뒤로 물러나 있고, 대신 묵직하고 채소다운 개성이 앞에 나섭니다. 이 맛을 좋아하는 분은 그대로 마시고, 처음 접하는 분은 사과 주스나 오렌지 주스로 부드럽게 즐기는 편을 선호할 수 있습니다.</p>\n<p>Tufan Organik는 귀륀/시바스에서 선보이는 음료 가운데 비트도 과일과 나란히 소개합니다. 색깔 덕분에 식탁에서 곧바로 눈길을 끄는 이 음료는 750 ml 용량으로 그대로 마시기에도, 요리에 색과 맛을 더하는 데에도 활용할 수 있습니다. 차갑게 내면 흙내음이 한층 균형 있게 느껴집니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>사과 주스와 신선한 생강을 조금 섞어 맛이 부드러워진 음료를 만들어 보세요.</li>\n<li>후무스나 요거트 메제를 만들 때 소량 넣어 분홍빛을 더해 보세요.</li>\n<li>불구르 필라프를 지을 때 물의 일부 대신 사용해 분홍빛 필라프를 만들어 보세요.</li>\n</ul>\n<p><strong>용량:</strong> 750 ml</p>"
   },
   "update": "2026-10-28T09:07:54.419Z",

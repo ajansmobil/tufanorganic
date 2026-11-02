@@ -4,7 +4,7 @@
     "en": "Milk and Dairy Products",
     "ar": "الحليب ومنتجات الألبان",
     "de": "Milch und Milchprodukte",
-    "ja": "",
+    "ja": "乳製品",
     "ko": "우유 및 유제품"
   },
   "status": "play",
@@ -17,7 +17,7 @@
     "en": "Tufan Organik, Milk and Dairy Products",
     "ar": "Tufan Organik, الحليب ومنتجات الألبان",
     "de": "Tufan Organik, Milch und Milchprodukte",
-    "ja": "",
+    "ja": "Tufan Organik, 乳製品",
     "ko": "Tufan Organik, 우유 및 유제품"
   },
   "description": {
@@ -25,7 +25,7 @@
     "en": "Tufan Organik Milk and Dairy Products product group.",
     "ar": "مجموعة منتجات الحليب ومنتجات الألبان من توفان أورغانيك.",
     "de": "Tufan Organik Produktgruppe Milch und Milchprodukte.",
-    "ja": "",
+    "ja": "Tufan Organik 乳製品の製品グループです。",
     "ko": "투판 오가닉 우유 및 유제품 제품군."
   },
   "index": 6,
@@ -41,7 +41,7 @@
     "en": "Milk and Dairy Products | Tufan Organik",
     "ar": "الحليب ومنتجات الألبان | Tufan Organik",
     "de": "Milch und Milchprodukte | Tufan Organik",
-    "ja": "",
+    "ja": "乳製品 | Tufan Organik",
     "ko": "우유 및 유제품 | Tufan Organik"
   },
   "text": {

@@ -4,7 +4,8 @@
     "en": "Oilseeds and Products",
     "ar": "البذور الزيتية ومنتجاتها",
     "de": "Ölsaaten und Produkte",
-    "ko": "유지종자 및 제품"
+    "ko": "유지종자 및 제품",
+    "ja": "油用種子とその製品"
   },
   "status": "play",
   "category": "",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Oilseeds and Products",
     "ar": "Tufan Organik, البذور الزيتية ومنتجاتها",
     "de": "Tufan Organik, Ölsaaten und Produkte",
-    "ja": "",
+    "ja": "Tufan Organik, 油用種子とその製品",
     "ko": "Tufan Organik, 유지종자 및 제품"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Oilseeds and Products product group.",
     "ar": "مجموعة منتجات البذور الزيتية ومنتجاتها من توفان أورغانيك.",
     "de": "Tufan Organik Produktgruppe Ölsaaten und Produkte.",
-    "ko": "투판 오가닉 유지종자 및 제품 제품군."
+    "ko": "투판 오가닉 유지종자 및 제품 제품군.",
+    "ja": "Tufan Organik 油用種子とその製品の製品グループです。"
   },
   "index": 2,
   "icon": "category",
@@ -39,7 +41,7 @@
     "en": "Oilseeds and Products | Tufan Organik",
     "ar": "البذور الزيتية ومنتجاتها | Tufan Organik",
     "de": "Ölsaaten und Produkte | Tufan Organik",
-    "ja": "",
+    "ja": "油用種子とその製品 | Tufan Organik",
     "ko": "유지종자 및 제품 | Tufan Organik"
   },
   "text": {

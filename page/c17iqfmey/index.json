@@ -4,7 +4,8 @@
     "en": "Bakery Products",
     "ar": "منتجات المخبوزات",
     "de": "Backwaren",
-    "ko": "베이커리 제품"
+    "ko": "베이커리 제품",
+    "ja": "パン・製菓製品"
   },
   "status": "play",
   "category": "",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Bakery Products",
     "ar": "Tufan Organik, منتجات المخبوزات",
     "de": "Tufan Organik, Backwaren",
-    "ja": "",
+    "ja": "Tufan Organik, パン・製菓製品",
     "ko": "Tufan Organik, 베이커리 제품"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Bakery Products product group.",
     "ar": "مجموعة منتجات منتجات المخبوزات من توفان أورغانيك.",
     "de": "Tufan Organik Produktgruppe Backwaren.",
-    "ko": "투판 오가닉 베이커리 제품 제품군."
+    "ko": "투판 오가닉 베이커리 제품 제품군.",
+    "ja": "Tufan Organik パン・製菓製品の製品グループです。"
   },
   "index": 16,
   "icon": "category",
@@ -39,7 +41,7 @@
     "en": "Bakery Products | Tufan Organik",
     "ar": "منتجات المخبوزات | Tufan Organik",
     "de": "Backwaren | Tufan Organik",
-    "ja": "",
+    "ja": "パン・製菓製品 | Tufan Organik",
     "ko": "베이커리 제품 | Tufan Organik"
   },
   "text": {

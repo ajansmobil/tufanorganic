@@ -5,21 +5,24 @@
     "en": "Goat's Milk Kaymak (Clotted Cream)",
     "ar": "قيمر حليب الماعز",
     "de": "Kaymak aus Ziegenmilch",
-    "ko": "산양유 카이막 (클로티드 크림)"
+    "ko": "산양유 카이막 (클로티드 크림)",
+    "ja": "山羊乳カイマック（クロテッドクリーム）"
   },
   "description": {
     "tr": "Tufan Organik Keçi Sütü Kaymağı, Süt ve Süt Ürünleri grubunda. Gürün/Sivas kökenli doğal gıda.",
     "en": "Tufan Organik Goat's Milk Kaymak, from the Milk and Dairy Products range, is a natural food with roots in Gürün/Sivas.",
     "ar": "Tufan Organik قيمر حليب الماعز، من مجموعة الحليب ومنتجات الألبان، غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Kaymak aus Ziegenmilch aus der Gruppe Milch und Milchprodukte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 산양유 카이막은 우유 및 유제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+    "ko": "Tufan Organik 산양유 카이막은 우유 및 유제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다.",
+    "ja": "Tufan Organik 山羊乳カイマック（クロテッドクリーム）は、乳製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "keyword": {
     "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Keçi Sütü Kaymağı, Süt ve Süt Ürünleri",
     "en": "Tufan Organik, Gürün/Sivas, natural food, Goat's Milk Kaymak, Milk and Dairy Products",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, قيمر حليب الماعز, الحليب ومنتجات الألبان",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Kaymak aus Ziegenmilch, Milch und Milchprodukte",
-    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 산양유 카이막, 우유 및 유제품"
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 산양유 카이막, 우유 및 유제품",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 山羊乳カイマック（クロテッドクリーム）, 乳製品"
   },
   "path": "keci-sutu-kaymagi",
   "icon": "breakfast_dining",
@@ -37,14 +40,16 @@
     "en": "<h2>Care for Breakfast: Goat's Milk Kaymak</h2>\n<p>Goat's Milk Kaymak is a white, thick breakfast item made from goat's milk. Compared to cow's milk kaymak, it has a more pronounced, distinctive and slightly sharp aroma. Its texture, which melts softly in the mouth, strikes a fine balance with the sweetness of honey and jam, turning a simple breakfast into a thoughtful one.</p>\n<p>At Tufan Organik, we offer goat's milk kaymak for those looking for a different flavor at the breakfast table. As it is a fresh dairy product, it should be kept in the refrigerator and consumed shortly after opening. Taking it out of the refrigerator a few minutes before serving helps its consistency soften and its aroma open up.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Spread a thick layer on warm rustic village bread and drizzle honey over it.</li>\n<li>Serve a spoonful alongside syrup-soaked bread dessert or kunefe.</li>\n<li>Serve on toasted bread slices together with fig jam.</li>\n</ul>\n<p><strong>Packaging:</strong> Available in different sizes upon request.</p>",
     "ar": "<h2>عناية بالفطور: قيمر حليب الماعز</h2>\n<p>قيمر حليب الماعز صنف فطور أبيض اللون كثيف القوام يُستخلص من حليب الماعز. ويتميّز مقارنةً بقيمر حليب البقر بنكهة أوضح وخاصة به، فيها حدّة خفيفة. ويحقق قوامه الذي يذوب بنعومة في الفم توازناً جميلاً مع حلاوة العسل والمربى، فيجعل الفطور البسيط فطوراً معتنى به.</p>\n<p>نقدّم في Tufan Organik قيمر حليب الماعز لمن يبحثون عن مذاق مختلف على مائدة الفطور. ولأنه منتج ألبان طازج، ينبغي حفظه في الثلاجة واستهلاكه خلال وقت قصير بعد فتحه. ويساعد إخراجه من الثلاجة قبل التقديم ببضع دقائق على تليين قوامه وانفتاح نكهته.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>ادهن طبقة سميكة منه على خبز القرية الساخن ورشّ فوقه العسل.</li>\n<li>قدّم ملعقة منه بجانب حلوى الخبز بالقطر أو الكنافة.</li>\n<li>قدّمه على شرائح الخبز المحمّص مع مربى التين.</li>\n</ul>\n<p><strong>التغليف:</strong> متوفر بأوزان مختلفة حسب الطلب.</p>",
     "de": "<h2>Sorgfalt zum Frühstück: Kaymak aus Ziegenmilch</h2>\n<p>Kaymak aus Ziegenmilch ist ein weißes Frühstücksprodukt mit dichter Konsistenz, das aus Ziegenmilch gewonnen wird. Im Vergleich zu Kaymak aus Kuhmilch hat er ein ausgeprägteres, eigenes, leicht herbes Aroma. Seine im Mund sanft schmelzende Textur bildet ein schönes Gleichgewicht mit der Süße von Honig und Konfitüre und macht ein schlichtes Frühstück zu etwas Besonderem.</p>\n<p>Wir bei Tufan Organik bieten Kaymak aus Ziegenmilch für alle an, die am Frühstückstisch einen anderen Geschmack suchen. Da es sich um ein frisches Milchprodukt handelt, sollte er im Kühlschrank aufbewahrt und nach dem Öffnen rasch verzehrt werden. Nimmt man ihn einige Minuten vor dem Servieren aus dem Kühlschrank, wird seine Konsistenz weicher und sein Aroma entfaltet sich.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Eine dicke Schicht auf warmes Bauernbrot streichen und mit Honig beträufeln.</li>\n<li>Einen Löffel davon zu sirupgetränktem Brotdessert oder Künefe servieren.</li>\n<li>Auf gerösteten Brotscheiben zusammen mit Feigenkonfitüre servieren.</li>\n</ul>\n<p><strong>Verpackung:</strong> In verschiedenen Füllmengen auf Anfrage erhältlich.</p>",
-    "ko": "<h2>정성 어린 아침 식사: 산양유 카이막</h2>\n<p>산양유 카이막은 산양유로 만든 흰색의 진한 아침 식사용 유제품입니다. 우유 카이막에 비해 더 뚜렷하고 독특하며 살짝 톡 쏘는 향을 지니고 있습니다. 입안에서 부드럽게 녹는 질감은 꿀과 잼의 단맛과 멋진 균형을 이루어 소박한 아침 식사를 정성스럽게 만들어 줍니다.</p>\n<p>Tufan Organik는 아침 식탁에서 색다른 맛을 찾는 분들을 위해 산양유 카이막을 선보입니다. 신선한 유제품이므로 냉장 보관해야 하며 개봉 후에는 빠른 시일 내에 섭취해야 합니다. 내기 몇 분 전에 냉장고에서 꺼내 두면 질감이 부드러워지고 향이 살아납니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>따뜻한 시골빵에 두툼하게 바르고 꿀을 뿌립니다.</li>\n<li>시럽에 적신 빵 디저트나 퀴네페 옆에 한 숟가락 곁들여 냅니다.</li>\n<li>구운 빵 조각 위에 무화과 잼과 함께 올려 냅니다.</li>\n</ul>\n<p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>"
+    "ko": "<h2>정성 어린 아침 식사: 산양유 카이막</h2>\n<p>산양유 카이막은 산양유로 만든 흰색의 진한 아침 식사용 유제품입니다. 우유 카이막에 비해 더 뚜렷하고 독특하며 살짝 톡 쏘는 향을 지니고 있습니다. 입안에서 부드럽게 녹는 질감은 꿀과 잼의 단맛과 멋진 균형을 이루어 소박한 아침 식사를 정성스럽게 만들어 줍니다.</p>\n<p>Tufan Organik는 아침 식탁에서 색다른 맛을 찾는 분들을 위해 산양유 카이막을 선보입니다. 신선한 유제품이므로 냉장 보관해야 하며 개봉 후에는 빠른 시일 내에 섭취해야 합니다. 내기 몇 분 전에 냉장고에서 꺼내 두면 질감이 부드러워지고 향이 살아납니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>따뜻한 시골빵에 두툼하게 바르고 꿀을 뿌립니다.</li>\n<li>시럽에 적신 빵 디저트나 퀴네페 옆에 한 숟가락 곁들여 냅니다.</li>\n<li>구운 빵 조각 위에 무화과 잼과 함께 올려 냅니다.</li>\n</ul>\n<p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>",
+    "ja": "<h2>朝の食卓に寄り添う、山羊乳カイマック（クロテッドクリーム）</h2>\n<p>山羊乳カイマック（クロテッドクリーム）は、山羊乳から作られる白く濃厚な朝食アイテムです。牛乳製のカイマックと比較すると、より際立った個性的な香りと、わずかにシャープな風味が特徴です。口の中でふわりと溶けるような食感は、はちみつやジャムの甘さと絶妙なバランスを生み出し、シンプルな朝食をより洗練されたひとときへと昇華させます。</p>\n<p>Tufan Organikでは、朝食のテーブルで異なる風味をお求めのお客様のために、山羊乳カイマック（クロテッドクリーム）をご用意しております。生乳製品であるため、冷蔵保存し、開封後は早めにお召し上がりください。お召し上がりになる数分前に冷蔵庫から出し、食感を柔らかくし、香りを引き立ててからご提供いただくと、より一層おいしくお楽しみいただけます。</p>\n<h3>おすすめの食べ方</h3>\n<ul>\n<li>温かい素朴な村のパンに厚めに塗り、はちみつをかけたお召し上がりください。</li>\n<li>シロップをかけたパンのデザートやクネフェ（kunefe）の横に、ひとさじ添えてお召し上がりください。</li>\n<li>トーストしたパンの上に無花果ジャムとともにお召し上がりください。</li>\n</ul>\n<p><strong>パッケージ：</strong>ご希望に応じて、異なるサイズをご用意しております。</p>"
   },
   "title": {
     "tr": "Keçi Sütü Kaymağı | Tufan Organik",
     "en": "Goat's Milk Kaymak (Clotted Cream) | Tufan Organik",
     "ar": "قيمر حليب الماعز | Tufan Organik",
     "de": "Kaymak aus Ziegenmilch | Tufan Organik",
-    "ko": "산양유 카이막 (클로티드 크림) | Tufan Organik"
+    "ko": "산양유 카이막 (클로티드 크림) | Tufan Organik",
+    "ja": "山羊乳カイマック（クロテッドクリーム） | Tufan Organik"
   },
   "date": "2026-10-28T08:16:33.761Z",
   "update": "2026-10-28T09:07:21.505Z",

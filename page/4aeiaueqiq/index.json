@@ -4,7 +4,8 @@
     "en": "Pepper Paste",
     "ar": "معجون الفلفل",
     "de": "Paprikamark",
-    "ko": "고추 페이스트"
+    "ko": "고추 페이스트",
+    "ja": "ピーマンペースト"
   },
   "status": "play",
   "category": "c05kurumey",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, Pepper Paste, Pastes, Pickles, Meze and Sauces, paste, pickles, meze, tomato paste",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, معجون الفلفل, معاجين, مخللات, مازة وصلصات, معجون, مخلل, مازة, معجون الطماطم",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Paprikamark, Würzpasten, Eingelegtes, Meze und Soßen, Würzpaste, Sauergemüse, Meze, Tomatenmark",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ピーマンペースト, トマトソースと調味料",
     "ko": "Tufan Organik, 귀륀/시바스, 자연 식품, 고추 페이스트, 페이스트, 피클, 메제 및 소스, 페이스트, 피클, 메제, 토마토 페이스트"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Pepper Paste is a roasted pepper paste from the Pastes, Pickles, Meze and Sauces range, offered in 500 g – a natural food with roots in Gürün/Sivas.",
     "ar": "Tufan Organik معجون الفلفل: معجون من الفلفل المشوي على الجمر من فئة المعاجين والمخللات والمازة والصلصات، متوفر بوزن 500 g، وهو غذاء طبيعي ذو أصول من غورون/سيواس.",
     "de": "Tufan Organik Paprikamark ist ein Mark aus gerösteten Paprika aus der Kategorie Würzpasten, Eingelegtes, Meze und Soßen, erhältlich in 500 g – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 고추 페이스트는 페이스트, 피클, 메제 및 소스 카테고리의 구운 고추 페이스트로, 500 g 용량으로 제공되는 귀륀/시바스 기반의 자연 식품입니다."
+    "ko": "Tufan Organik 고추 페이스트는 페이스트, 피클, 메제 및 소스 카테고리의 구운 고추 페이스트로, 500 g 용량으로 제공되는 귀륀/시바스 기반의 자연 식품입니다.",
+    "ja": "Tufan Organik ピーマンペーストは、トマトソースと調味料カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "index": 187,
   "icon": "lunch_dining",
@@ -43,7 +45,7 @@
     "en": "Pepper Paste | Tufan Organik",
     "ar": "معجون الفلفل | Tufan Organik",
     "de": "Paprikamark | Tufan Organik",
-    "ja": "",
+    "ja": "ピーマンペースト | Tufan Organik",
     "ko": "고추 페이스트 | Tufan Organik"
   },
   "text": {
@@ -51,7 +53,7 @@
     "en": "<h2>Tufan Organik Pepper Paste, Bearing the Mark of the Embers</h2><p>Roasted pepper paste brings together the slightly smoky aroma of fire-roasted peppers in a thick, dense consistency. Its taste opens with a gentle sweetness and carries on with the familiar scent of the embers. Tufan Organik's 500 g pepper paste is made as a reflection, at the table, of the close bond between Gaziantep cuisine and peppers.</p><p>In Gaziantep, pepper paste is used not only in cooked dishes but also at breakfast and in meze. It can be made into a muhammara-like spread with walnuts and fresh breadcrumbs, and it lends colour and aroma to bulgur salad and spiced bulgur patties. Even a thin layer spread on warm bread with olive oil sets a simple breakfast apart.</p><h3>Serving Suggestions</h3><ul><li>Mix with walnuts, fresh breadcrumbs and pomegranate molasses for a muhammara-style meze.</li><li>Add a spoonful or two to bulgur salad and meatless spiced bulgur patties.</li><li>Loosen with olive oil, spread on warm bread and serve at breakfast.</li></ul><p><strong>Weight:</strong> 500 g</p>",
     "ar": "<h2>معجون الفلفل من Tufan Organik يحمل أثر الجمر</h2><p>يجمع معجون الفلفل المشوي على الجمر نكهةَ الفلفل المشوي المدخّنة قليلًا في قوامٍ داكن وكثيف. يبدأ مذاقه بحلاوة ناعمة ويستمر برائحة الجمر المألوفة. ويُحضَّر معجون الفلفل من Tufan Organik بوزن 500 g انعكاسًا على المائدة للعلاقة الوثيقة بين مطبخ غازي عنتاب والفلفل.</p><p>في غازي عنتاب لا يُستخدم معجون الفلفل في الطبخ فحسب، بل في الفطور والمازة أيضًا. ويمكن تحضير دهنة شبيهة بالمحمّرة منه مع الجوز ولبّ الخبز، كما يمنح سلطة البرغل والكبة النيئة لونًا ونكهة. وحتى طبقة رقيقة منه مدهونة على الخبز الساخن مع زيت الزيتون تُضفي تميّزًا على فطور بسيط.</p><h3>اقتراحات الاستخدام</h3><ul><li>اخلطه مع الجوز ولبّ الخبز ودبس الرمان لتحضير مازة على طريقة المحمّرة.</li><li>أضف ملعقة أو اثنتين إلى سلطة البرغل والكبة النيئة النباتية الخالية من اللحم.</li><li>خفّفه بزيت الزيتون وادهنه على الخبز الساخن وقدّمه على الفطور.</li></ul><p><strong>الوزن:</strong> 500 g</p>",
     "de": "<h2>Mit der Note der Glut: Tufan Organik Paprikamark</h2><p>Paprikamark aus gerösteten Paprika vereint das leicht rauchige Aroma über der Glut gerösteter Paprika in einer dunklen, dichten Konsistenz. Sein Geschmack beginnt mit einer sanften Süße und setzt sich mit dem vertrauten Duft der Glut fort. Das 500-g-Paprikamark von Tufan Organik ist ein Spiegelbild der engen Beziehung zwischen der Küche Gazianteps und der Paprika.</p><p>In Gaziantep wird Paprikamark nicht nur zum Kochen, sondern auch zum Frühstück und für Meze verwendet. Mit Walnüssen und Brotkrume lässt sich daraus ein Aufstrich nach Art der Muhammara zubereiten; Bulgursalat und würzigen Bulgurbällchen verleiht es Farbe und Aroma. Schon eine dünne, mit Olivenöl aufs warme Brot gestrichene Schicht macht ein schlichtes Frühstück zu etwas Besonderem.</p><h3>Serviervorschläge</h3><ul><li>Mit Walnüssen, Brotkrume und Granatapfelsirup zu einer Meze nach Muhammara-Art verrühren.</li><li>Ein, zwei Löffel in Bulgursalat und fleischlose würzige Bulgurbällchen geben.</li><li>Mit Olivenöl glatt rühren, auf warmes Brot streichen und zum Frühstück servieren.</li></ul><p><strong>Gewicht:</strong> 500 g</p>",
-    "ja": "",
+    "ja": "<h2>トゥファン・オルガニック ピーマンペースト、炭火の香りを纏って</h2><p>ローストしたピーマンペーストは、炭火で焼いたピーマンのほのかなスモーキーな香りと、濃厚でとろみのある質感が見事に調和しています。その味わいは優しい甘さから始まり、馴染み深い炭火の香りが続きます。トゥファン・オルガニックの500g入りピーマンペーストは、ガズィアンテップ料理とピーマンとの深い結びつきを食卓へと映し出します。</p><p>ガズィアンテップでは、ピーマンペーストは調理料理だけでなく、朝食やメゼとしても親しまれています。クルミや新鮮なパン粉と混ぜてムハマラのようなディップにしたり、ブルグルサラダやスパイスの効いたブルグルパティに彩りと香りを添えたりすることもできます。温かいパンにオリーブオイルと一緒に薄く塗るだけで、シンプルな朝食が特別なものに変わります。</p><h3>お召し上がり方</h3><ul><li>クルミ、新鮮なパン粉、ザクロモラセスを混ぜて、ムハマラ風のメゼに。</li><li>ブルグルサラダや、肉を使わないスパイスブルグルパティに、スプーン1、2杯加えて。</li><li>オリーブオイルで少し緩め、温かいパンに塗って朝食にお召し上がりください。</li></ul><p><strong>内容量:</strong> 500 g</p>",
     "ko": "<h2>숯불의 흔적을 담은 Tufan Organik 고추 페이스트</h2><p>구운 고추 페이스트는 숯불에 구운 고추의 은은한 훈연 향을 짙고 진한 농도에 담아냅니다. 부드러운 단맛으로 시작해 익숙한 숯불 향으로 이어지는 맛입니다. Tufan Organik의 500 g 고추 페이스트는 가지안테프 요리와 고추 사이의 깊은 관계를 식탁 위에 그대로 옮긴 제품입니다.</p><p>가지안테프에서 고추 페이스트는 요리뿐 아니라 아침 식사와 메제에도 사용됩니다. 호두와 빵 속살을 더해 무함마라와 비슷한 스프레드를 만들 수 있고, 불구르 샐러드와 향신료 불구르 완자에 색과 향을 더합니다. 따뜻한 빵에 올리브유와 함께 얇게 펴 바르기만 해도 소박한 아침 식사가 달라집니다.</p><h3>활용 제안</h3><ul><li>호두, 빵 속살, 석류 당밀과 섞어 무함마라 스타일의 메제를 만듭니다.</li><li>불구르 샐러드와 고기 없는 향신료 불구르 완자에 한두 숟가락 넣습니다.</li><li>올리브유로 농도를 풀어 따뜻한 빵에 바르고 아침 식사로 냅니다.</li></ul><p><strong>중량:</strong> 500 g</p>"
   },
   "update": "2026-10-28T09:07:23.877Z",

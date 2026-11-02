@@ -5,21 +5,24 @@
     "en": "Menengiç Coffee (Terebinth Coffee)",
     "ar": "قهوة منينغيتش (قهوة البطم)",
     "de": "Menengiç-Kaffee (Terebinthen-Kaffee)",
-    "ko": "메넹기치 커피(테레빈스 커피)"
+    "ko": "메넹기치 커피(테레빈스 커피)",
+    "ja": "メネンジッチコーヒー（テレビンノキの実のコーヒー）"
   },
   "description": {
     "tr": "Tufan Organik Menengiç Kahvesi, Kuruyemiş Grubu ve Ürünleri grubunda. Gürün/Sivas kökenli doğal gıda.",
     "en": "Tufan Organik Menengiç Coffee, part of the Nuts and Nut Products group, is a natural food originating from Gürün/Sivas.",
     "ar": "Tufan Organik قهوة منينغيتش (قهوة البطم) من مجموعة المكسرات ومنتجاتها، غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Menengiç-Kaffee aus der Gruppe Nüsse und Nussprodukte – ein natürliches Lebensmittel mit Ursprung in Gürün/Sivas.",
-    "ko": "Tufan Organik 메넹기치 커피(테레빈스 커피)는 견과류 및 견과 제품 그룹에 속하는 귀륀/시바스산 천연 식품입니다."
+    "ko": "Tufan Organik 메넹기치 커피(테레빈스 커피)는 견과류 및 견과 제품 그룹에 속하는 귀륀/시바스산 천연 식품입니다.",
+    "ja": "Tufan Organik メネンジッチコーヒー（テレビンノキの実のコーヒー）は、ナッツとその製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "keyword": {
     "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Menengiç Kahvesi, Kuruyemiş Grubu ve Ürünleri",
     "en": "Tufan Organik, Gürün/Sivas, natural food, Menengiç Coffee, Nuts and Nut Products",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, قهوة البطم, المكسرات ومنتجاتها",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Menengiç-Kaffee, Nüsse und Nussprodukte",
-    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 메넹기치 커피, 견과류 및 견과 제품"
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 메넹기치 커피, 견과류 및 견과 제품",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, メネンジッチコーヒー（テレビンノキの実のコーヒー）, ナッツとその製品"
   },
   "path": "menengic-kahvesi",
   "icon": "breakfast_dining",
@@ -37,14 +40,16 @@
     "en": "<h2>Menengiç Coffee from Roasted Berries</h2>\n<p>Menengiç Coffee is made from the roasted berries of the menengiç tree, also known as the wild pistachio (terebinth). It has a dark, oily consistency and a resinous, slightly nutty aroma. It leaves a velvety foam in the cup; its taste is clearly different from regular coffee and makes itself known from the very first sip.</p>\n<p>At Tufan Organik, we bring this beloved drink of hospitality tables to your cup. Menengiç coffee is usually cooked with milk in a small coffee pot over low heat while stirring, and taken off the heat once it begins to foam. You can sweeten it with sugar if you like, or use water in place of some of the milk for a lighter cup.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Cook with milk in a coffee pot and serve with Turkish delight or dried fruit.</li>\n<li>Prepare it with water and try a lighter cup in the afternoon.</li>\n<li>On winter evenings, sprinkle a pinch of cinnamon on top and serve piping hot.</li>\n</ul>\n<p><strong>Packaging:</strong> Available in various sizes upon request.</p>",
     "ar": "<h2>قهوة البطم من الحبوب المحمّصة</h2>\n<p>تُحضَّر قهوة منينغيتش من الحبوب المحمّصة لشجرة البطم، المعروفة أيضاً باسم الفستق البري. قوامها داكن ودهني، ورائحتها راتنجية تميل قليلاً إلى نكهة المكسرات. تترك في الفنجان رغوة مخملية؛ ومذاقها يختلف بوضوح عن القهوة المعتادة ويعرّف بنفسه من الرشفة الأولى.</p>\n<p>في Tufan Organik ننقل إلى فنجانك هذا المشروب المحبوب على موائد الضيافة. تُطهى قهوة البطم غالباً مع الحليب في الركوة على نار هادئة مع التحريك، وتُرفع عن النار عندما تبدأ بالتزبّد. ويمكنك تحليتها بالسكر إن شئت، أو استخدام الماء بدلاً من جزء من الحليب للحصول على فنجان أخف.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>اطهها مع الحليب في الركوة وقدّمها مع راحة الحلقوم أو الفواكه المجففة.</li>\n<li>حضّرها بالماء لتجربة فنجان أخف في فترة ما بعد الظهر.</li>\n<li>في أمسيات الشتاء، رشّ فوقها رشة من القرفة وقدّمها ساخنة.</li>\n</ul>\n<p><strong>التغليف:</strong> متوفر بأوزان مختلفة حسب الطلب.</p>",
     "de": "<h2>Menengiç-Kaffee aus gerösteten Früchten</h2>\n<p>Menengiç-Kaffee wird aus den gerösteten Früchten des Menengiç-Baums zubereitet, der auch als wilde Pistazie (Terebinthe) bekannt ist. Er hat eine dunkle, ölige Konsistenz und ein harziges, leicht nussiges Aroma. In der Tasse hinterlässt er einen samtigen Schaum; sein Geschmack unterscheidet sich deutlich von gewöhnlichem Kaffee und macht sich schon beim ersten Schluck bemerkbar.</p>\n<p>Bei Tufan Organik bringen wir dieses beliebte Getränk der Gastfreundschaft in Ihre Tasse. Menengiç-Kaffee wird meist mit Milch in einem kleinen Mokkakännchen bei schwacher Hitze unter Rühren gekocht und vom Herd genommen, sobald er zu schäumen beginnt. Nach Belieben können Sie ihn mit Zucker süßen oder für eine leichtere Tasse einen Teil der Milch durch Wasser ersetzen.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Im Mokkakännchen mit Milch kochen und mit Lokum oder Trockenfrüchten servieren.</li>\n<li>Mit Wasser zubereiten und nachmittags eine leichtere Tasse probieren.</li>\n<li>An Winterabenden mit einer Prise Zimt bestreuen und heiß servieren.</li>\n</ul>\n<p><strong>Verpackung:</strong> Auf Anfrage in verschiedenen Gewichtsgrößen erhältlich.</p>",
-    "ko": "<h2>볶은 열매로 만든 메넹기치 커피</h2>\n<p>메넹기치 커피는 야생 피스타치오(테레빈스)로도 알려진 메넹기치 나무의 볶은 열매로 만듭니다. 짙고 기름진 질감과 송진 같으면서 은은한 견과 향을 지닙니다. 잔에 벨벳 같은 거품을 남기며, 일반 커피와는 확연히 다른 맛이 첫 모금부터 존재감을 드러냅니다.</p>\n<p>Tufan Organik는 손님 접대 상에서 사랑받아 온 이 음료를 여러분의 잔으로 전합니다. 메넹기치 커피는 보통 작은 커피 포트에 우유와 함께 넣고 약한 불에서 저어 가며 끓이다가, 거품이 일기 시작하면 불에서 내립니다. 취향에 따라 설탕으로 단맛을 더하거나, 더 가볍게 즐기려면 우유 일부를 물로 대신할 수 있습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>커피 포트에 우유와 함께 끓여 로쿰이나 말린 과일을 곁들여 대접해 보세요.</li>\n<li>물로 준비해 오후에 더 가벼운 한 잔을 즐겨 보세요.</li>\n<li>겨울 저녁에는 시나몬 가루를 한 꼬집 뿌려 따뜻하게 내보세요.</li>\n</ul>\n<p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>"
+    "ko": "<h2>볶은 열매로 만든 메넹기치 커피</h2>\n<p>메넹기치 커피는 야생 피스타치오(테레빈스)로도 알려진 메넹기치 나무의 볶은 열매로 만듭니다. 짙고 기름진 질감과 송진 같으면서 은은한 견과 향을 지닙니다. 잔에 벨벳 같은 거품을 남기며, 일반 커피와는 확연히 다른 맛이 첫 모금부터 존재감을 드러냅니다.</p>\n<p>Tufan Organik는 손님 접대 상에서 사랑받아 온 이 음료를 여러분의 잔으로 전합니다. 메넹기치 커피는 보통 작은 커피 포트에 우유와 함께 넣고 약한 불에서 저어 가며 끓이다가, 거품이 일기 시작하면 불에서 내립니다. 취향에 따라 설탕으로 단맛을 더하거나, 더 가볍게 즐기려면 우유 일부를 물로 대신할 수 있습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>커피 포트에 우유와 함께 끓여 로쿰이나 말린 과일을 곁들여 대접해 보세요.</li>\n<li>물로 준비해 오후에 더 가벼운 한 잔을 즐겨 보세요.</li>\n<li>겨울 저녁에는 시나몬 가루를 한 꼬집 뿌려 따뜻하게 내보세요.</li>\n</ul>\n<p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>",
+    "ja": "<h2>ローストした実で作るメネンジッチコーヒー（テレビンノキの実のコーヒー）</h2>\n<p>メネンジッチコーヒー（テレビンノキの実のコーヒー）は、ワイルドピスタチオ（テレビンノキ）としても知られるメネンジッチの木の、ローストした実から作られています。色は濃く、オイルのような質感があり、樹脂のような、わずかにナッツのような香りが特徴です。カップにはベルベットのような泡が立ち、その味わいは一般的なコーヒーとは明らかに異なり、最初の一口からその違いを実感していただけます。</p>\n<p>Tufan Organikは、おもてなしの席で愛されるこの飲み物を、皆様のカップにお届けします。メネンジッチコーヒー（テレビンノキの実のコーヒー）は、通常、小さなコーヒーポットにミルクを入れ、弱火でかき混ぜながら煮込み、泡立ち始めたら火から下ろします。お好みで砂糖を加えて甘くしたり、ミルクの一部を水に置き換えて、より軽やかな味わいにしたりすることもできます。</p>\n<h3>おすすめの楽しみ方</h3>\n<ul>\n<li>コーヒーポットでミルクと一緒に煮込み、トゥルキッシュ・ディライトやドライフルーツと一緒にどうぞ。</li>\n<li>水で作って、午後のひとときに軽やかな味わいをお楽しみください。</li>\n<li>冬の夜には、シナモンを少々振りかけ、熱々のままお召し上がりください。</li>\n</ul>\n<p><strong>パッケージ：</strong> ご要望に応じて、さまざまなサイズをご用意しております。</p>"
   },
   "title": {
     "tr": "Menengiç Kahvesi | Tufan Organik",
     "en": "Menengiç Coffee (Terebinth Coffee) | Tufan Organik",
     "ar": "قهوة منينغيتش (قهوة البطم) | Tufan Organik",
     "de": "Menengiç-Kaffee (Terebinthen-Kaffee) | Tufan Organik",
-    "ko": "메넹기치 커피(테레빈스 커피) | Tufan Organik"
+    "ko": "메넹기치 커피(테레빈스 커피) | Tufan Organik",
+    "ja": "メネンジッチコーヒー（テレビンノキの実のコーヒー） | Tufan Organik"
   },
   "date": "2026-10-28T08:16:24.991Z",
   "update": "2026-10-28T09:07:37.464Z",

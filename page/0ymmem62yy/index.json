@@ -4,7 +4,8 @@
     "en": "Sheep's Milk Yogurt",
     "ar": "زبادي حليب الغنم",
     "de": "Schafmilchjoghurt",
-    "ko": "양젖 요거트"
+    "ko": "양젖 요거트",
+    "ja": "羊乳ヨーグルト"
   },
   "status": "play",
   "category": "c07kuruseb",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, Sheep's Milk Yogurt, Milk and Dairy Products, dairy products, kashar cheese, white cheese, butter",
     "ar": "Tufan Organik, غورون/سيواس, أغذية طبيعية, زبادي حليب الغنم, الحليب ومشتقاته, منتجات الألبان, جبن قشقوان, جبن أبيض, زبدة",
     "de": "Tufan Organik, Gürün/Sivas, Naturkost, Schafmilchjoghurt, Milch und Milchprodukte, Milchprodukte, Kaşar-Käse, Weißkäse, Butter",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 羊乳ヨーグルト, 乳製品",
     "ko": "Tufan Organik, 귀륀/시바스, 자연 식품, 양젖 요거트, 우유 및 유제품, 유제품, 카사르 치즈, 화이트 치즈, 버터"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Sheep's Milk Yogurt is a yogurt made from sheep milk in the Milk and Dairy Products range, available in 1 kg, and a natural food rooted in Gürün/Sivas.",
     "ar": "Tufan Organik زبادي حليب الغنم: زبادي غنم من فئة الحليب ومشتقاته، متوفر بوزن 1 kg، وهو غذاء طبيعي يعود أصله إلى غورون/سيواس.",
     "de": "Tufan Organik Schafmilchjoghurt ist ein Joghurt aus Schafmilch in der Kategorie Milch und Milchprodukte, erhältlich in 1 kg – ein Naturprodukt mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 양젖 요거트는 우유 및 유제품 카테고리의 양젖 요거트로, 1 kg 용량으로 제공되는 귀륀/시바스 출신의 자연 식품입니다."
+    "ko": "Tufan Organik 양젖 요거트는 우유 및 유제품 카테고리의 양젖 요거트로, 1 kg 용량으로 제공되는 귀륀/시바스 출신의 자연 식품입니다.",
+    "ja": "Tufan Organik 羊乳ヨーグルトは、乳製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "index": 175,
   "icon": "egg",
@@ -43,7 +45,7 @@
     "en": "Sheep's Milk Yogurt | Tufan Organik",
     "ar": "زبادي حليب الغنم | Tufan Organik",
     "de": "Schafmilchjoghurt | Tufan Organik",
-    "ja": "",
+    "ja": "羊乳ヨーグルト | Tufan Organik",
     "ko": "양젖 요거트 | Tufan Organik"
   },
   "text": {
@@ -51,7 +53,7 @@
     "en": "<h2>A Thick and Tangy Yogurt: Tufan Organik Sheep's Milk Yogurt</h2><p>Sheep's milk yogurt is a thick, slightly tangy yogurt cultured from sheep milk. When cut with a spoon it holds its shape without falling apart; its taste is more pronounced and fuller than cow's milk yogurt. Tufan Organik brings this product, an indispensable accompaniment to meals in Gaziantep cuisine, to your table in a 1 kg pack.</p><p>The 1 kg size is practical for crowded tables and weekly kitchen planning. Thanks to its consistency, it works well in Antep dishes such as yuvarlama (meatball and chickpea stew), Ali Nazik or yogurt soup. In recipes that will be cooked, first whisking the yogurt with a little flour or egg helps prevent it from curdling over the heat.</p><h3>Serving Suggestions</h3><ul><li>For Ali Nazik, mix it with fire-roasted aubergine and season with garlic.</li><li>Prepare cacik (cucumber yogurt dip) or haydari (thick yogurt dip) with cucumber, mint and garlic.</li><li>Serve at breakfast topped with fruit molasses and walnuts.</li></ul><p><strong>Size:</strong> 1 kg</p>",
     "ar": "<h2>زبادي كثيف بحموضة خفيفة: زبادي حليب الغنم من Tufan Organik</h2><p>زبادي حليب الغنم لبن زبادي يُخمَّر من حليب الغنم، كثيف القوام وخفيف الحموضة. يبقى متماسكًا دون أن يتفتت عند تقطيعه بالملعقة، وطعمه أوضح وأغنى من زبادي حليب البقر. وتقدم Tufan Organik إلى مائدتك هذا المنتج، الذي لا يغيب عن جانب الأطباق في مطبخ غازي عنتاب، في عبوة بوزن 1 kg.</p><p>تُعد عبوة 1 kg عملية للموائد العامرة وتنظيم المطبخ الأسبوعي. وبفضل قوامه يعمل بسهولة في أطباق عنتاب مثل اليوفارلاما (يخنة الكبيبات والحمص) وعلي نازك وشوربة الآيران. وفي الوصفات التي تُطهى، يساعد خفق الزبادي أولًا مع قليل من الدقيق أو البيض على منع تخثّره على النار.</p><h3>اقتراحات الاستخدام</h3><ul><li>لتحضير علي نازك، اخلطه مع الباذنجان المشوي على النار ونكّهه بالثوم.</li><li>حضّر الجاجيك أو الحيدري مع الخيار والنعناع والثوم.</li><li>قدّمه على الفطور مع الدبس والجوز فوقه.</li></ul><p><strong>العبوة:</strong> 1 kg</p>",
     "de": "<h2>Ein cremiger, leicht säuerlicher Joghurt: Tufan Organik Schafmilchjoghurt</h2><p>Schafmilchjoghurt wird aus Schafmilch angesetzt und ist dickcremig und leicht säuerlich. Mit dem Löffel abgestochen, behält er seine Form, ohne zu zerfallen; sein Geschmack ist ausgeprägter und voller als der von Kuhmilchjoghurt. Tufan Organik bringt dieses Produkt, das in der Küche von Gaziantep als Beilage zu keinem Essen fehlen darf, in der Packung zu 1 kg auf Ihren Tisch.</p><p>Die Größe von 1 kg ist praktisch für große Tischrunden und die wöchentliche Küchenplanung. Dank seiner Konsistenz gelingt er mühelos in Antep-Gerichten wie Yuvarlama (Eintopf mit Fleischbällchen und Kichererbsen), Ali Nazik oder Joghurtsuppe. Bei Gerichten, die gekocht werden, hilft es, den Joghurt vorher mit etwas Mehl oder Ei zu verquirlen, damit er auf dem Herd nicht gerinnt.</p><h3>Verwendungstipps</h3><ul><li>Für Ali Nazik mit über offener Flamme gegarten Auberginen vermengen und mit Knoblauch würzen.</li><li>Mit Gurke, Minze und Knoblauch Cacik oder Haydari (Joghurtdips) zubereiten.</li><li>Zum Frühstück mit Fruchtsirup und Walnusskernen servieren.</li></ul><p><strong>Packungsgröße:</strong> 1 kg</p>",
-    "ja": "",
+    "ja": "<h2>こっくりとした酸味のあるヨーグルト：トゥファン・オルガニック 羊乳ヨーグルト</h2><p>羊乳ヨーグルトは、羊乳を発酵させた、とろみのある少し酸味の効いたヨーグルトです。スプーンで掬っても形が崩れにくく、牛乳ヨーグルトよりも味わいがより深く、コクがあります。トゥファン・オルガニックは、ガズィアンテップ料理に欠かせないこの一品を、1 kgパックでお客様の食卓へお届けします。</p><p>1 kgサイズは、大勢が集まる食卓や、一週間の食材管理にも便利です。その濃厚な質感により、ユヴァルラマ（肉団子とひよこ豆の煮込み）、アリ・ナズィク、ヨーグルトスープといったアンテップ料理ともよく合います。加熱するレシピで使用する場合は、あらかじめヨーグルトに少量の小麦粉や卵を混ぜておくと、加熱した際の分離を防ぐことができます。</p><h3>おすすめの召し上がり方</h3><ul><li>アリ・ナズィクを作る際は、焼きナスのペーストと混ぜ合わせ、ニンニクで味を調えてください。</li><li>きゅうり、ミント、ニンニクを使って、チャチク（きゅうりのヨーグルトディップ）やハイドゥリ（濃厚なヨーグルトディップ）を作ってみましょう。</li><li>朝食には、フルーツモラセスとクルミを添えてお召し上がりください。</li></ul><p><strong>サイズ:</strong> 1 kg</p>",
     "ko": "<h2>진하고 새콤한 요거트: Tufan Organik 양젖 요거트</h2><p>양젖 요거트는 양젖을 발효해 만든, 농도가 진하고 은은하게 새콤한 요거트입니다. 숟가락으로 떠도 흐트러지지 않고 모양을 유지하며, 맛은 우유 요거트보다 더 뚜렷하고 풍부합니다. Tufan Organik는 가지안테프 요리에서 식사에 빠지지 않는 이 제품을 1 kg 포장으로 식탁에 전합니다.</p><p>1 kg 용량은 손님이 많은 식탁과 일주일 단위의 주방 살림에 실용적입니다. 진한 농도 덕분에 유바를라마(미트볼 병아리콩 스튜), 알리 나지크, 요거트 수프 같은 안테프 요리에 잘 어울립니다. 가열하는 레시피에서는 요거트를 먼저 밀가루나 달걀을 조금 넣고 저어 두면 불 위에서 분리되는 것을 막는 데 도움이 됩니다.</p><h3>활용 제안</h3><ul><li>알리 나지크를 만들 때 불에 구운 가지와 섞고 마늘로 맛을 내세요.</li><li>오이, 민트, 마늘을 넣어 자즉이나 하이다리(요거트 딥)를 만들어 보세요.</li><li>아침 식사에 과일 당밀과 호두를 올려 내 보세요.</li></ul><p><strong>용량:</strong> 1 kg</p>"
   },
   "update": "2026-10-28T09:07:17.545Z",

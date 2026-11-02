@@ -4,7 +4,8 @@
     "en": "Half-Fat White Cheese",
     "ar": "جبن أبيض نصف دسم",
     "de": "Halbfetter Weißkäse",
-    "ko": "반지방 화이트 치즈"
+    "ko": "반지방 화이트 치즈",
+    "ja": "半減脂ホワイトチーズ"
   },
   "status": "play",
   "category": "c07kuruseb",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, Half-Fat White Cheese, Milk and Dairy Products, dairy products, kashar cheese, white cheese, butter",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, جبن أبيض نصف دسم, الحليب ومشتقاته, منتجات الألبان, جبن قشقوان, جبن أبيض, زبدة",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Halbfetter Weißkäse, Milch und Milchprodukte, Milchprodukte, Kaschar-Käse, Weißkäse, Butter",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 半減脂ホワイトチーズ, 乳製品",
     "ko": "Tufan Organik, 귀륀/시바스, 자연 식품, 반지방 화이트 치즈, 우유 및 유제품, 유제품, 카샤르 치즈, 화이트 치즈, 버터"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Half-Fat White Cheese is a light white cheese from the Milk and Dairy Products range, offered in 500 g – a natural food with roots in Gürün/Sivas.",
     "ar": "Tufan Organik جبن أبيض نصف دسم: جبن أبيض خفيف من فئة الحليب ومشتقاته، متوفر بوزن 500 g، وهو غذاء طبيعي ذو أصول من غورون/سيواس.",
     "de": "Tufan Organik Halbfetter Weißkäse ist ein leichter Weißkäse aus der Kategorie Milch und Milchprodukte, erhältlich in 500 g – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 반지방 화이트 치즈는 우유 및 유제품 카테고리의 가벼운 화이트 치즈로, 500 g 용량으로 제공되는 귀륀/시바스 기반의 자연 식품입니다."
+    "ko": "Tufan Organik 반지방 화이트 치즈는 우유 및 유제품 카테고리의 가벼운 화이트 치즈로, 500 g 용량으로 제공되는 귀륀/시바스 기반의 자연 식품입니다.",
+    "ja": "Tufan Organik 半減脂ホワイトチーズは、乳製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "index": 181,
   "icon": "egg",
@@ -43,7 +45,7 @@
     "en": "Half-Fat White Cheese | Tufan Organik",
     "ar": "جبن أبيض نصف دسم | Tufan Organik",
     "de": "Halbfetter Weißkäse | Tufan Organik",
-    "ja": "",
+    "ja": "半減脂ホワイトチーズ | Tufan Organik",
     "ko": "반지방 화이트 치즈 | Tufan Organik"
   },
   "text": {
@@ -51,7 +53,7 @@
     "en": "<h2>A Lighter Choice: Tufan Organik Half-Fat White Cheese</h2><p>Half-fat white cheese is a white cheese variety that leaves a lighter mouthfeel than its full-fat counterpart. Its taste is simple and clean. This 500 g option from Tufan Organik forms the lighter side of the cheese family from Gürün/Sivas and fits easily into everyday meals.</p><p>For those who eat cheese often throughout the day, the half-fat variety offers a balanced alternative, from breakfast to snacks. It can be diced into salads and used with ease in hot dishes as well. Tucked into bread with tomato and rocket, it also makes a light yet satisfying sandwich.</p><h3>Serving Suggestions</h3><ul><li>Dice and add to a shepherd's salad or serve alongside a bulgur salad.</li><li>Make a light sandwich with whole-wheat bread, tomato and rocket.</li><li>Crumble into eggs with spinach or a vegetable omelette.</li></ul><p><strong>Weight:</strong> 500 g</p>",
     "ar": "<h2>خيار أخف: جبن Tufan Organik الأبيض نصف الدسم</h2><p>الجبن الأبيض نصف الدسم نوعٌ من الجبن الأبيض يترك إحساسًا أخف في الفم مقارنةً بنظيره كامل الدسم. مذاقه بسيط ونقي. ويمثّل هذا الخيار من Tufan Organik بوزن 500 g الجانبَ الأخف من عائلة الأجبان القادمة من غورون/سيواس، ويتناسب بسهولة مع الموائد اليومية.</p><p>لمن يُكثرون من تناول الجبن خلال اليوم، يقدّم الصنف نصف الدسم بديلًا متوازنًا من الفطور حتى الوجبات الخفيفة. يمكن تقطيعه مكعبات وإضافته إلى السلطات، كما يمكن استخدامه بسهولة في الأطباق الساخنة. وبين شريحتي خبز مع الطماطم والجرجير يصبح شطيرة خفيفة ومُشبعة في آنٍ معًا.</p><h3>اقتراحات الاستخدام</h3><ul><li>قطّعه مكعبات وأضفه إلى سلطة الراعي أو قدّمه بجانب سلطة البرغل.</li><li>حضّر شطيرة خفيفة بخبز القمح الكامل مع الطماطم والجرجير.</li><li>فتّته داخل البيض بالسبانخ أو عجّة الخضار.</li></ul><p><strong>الوزن:</strong> 500 g</p>",
     "de": "<h2>Eine leichtere Wahl: Tufan Organik Halbfetter Weißkäse</h2><p>Halbfetter Weißkäse ist eine Weißkäsesorte, die im Vergleich zur vollfetten Variante ein leichteres Mundgefühl hinterlässt. Sein Geschmack ist schlicht und klar. Diese 500-g-Variante von Tufan Organik bildet die leichte Seite der Käsefamilie aus Gürün/Sivas und fügt sich mühelos in den Alltag ein.</p><p>Wer im Laufe des Tages häufig Käse isst, findet in der halbfetten Sorte eine ausgewogene Alternative – vom Frühstück bis zur Zwischenmahlzeit. Er lässt sich gewürfelt in Salate geben und auch in warmen Gerichten problemlos verwenden. Mit Tomate und Rucola im Brot wird er zu einem leichten und dennoch sättigenden Sandwich.</p><h3>Serviervorschläge</h3><ul><li>Würfeln und in einen Hirtensalat geben oder zu Bulgursalat reichen.</li><li>Mit Vollkornbrot, Tomate und Rucola ein leichtes Sandwich zubereiten.</li><li>In Rührei mit Spinat oder ein Gemüseomelett bröseln.</li></ul><p><strong>Gewicht:</strong> 500 g</p>",
-    "ja": "",
+    "ja": "<h2>より軽やかな選択：トゥファン・オルガニック 半減脂ホワイトチーズ</h2><p>半減脂ホワイトチーズは、全脂のタイプよりも口当たりが軽やかなホワイトチーズの一種です。その味わいはシンプルでさっぱりとしています。トゥファン・オルガニックによるこの500g入りは、ギュルン/シヴァス産のチーズファミリーの中でも軽やかなラインナップであり、毎日の食事に手軽に取り入れられます。</p><p>一日を通して頻繁にチーズを召し上がる方にとって、この半減脂タイプは、朝食から軽食までバランスの取れた選択肢となります。サイコロ状に切ってサラダに加えたり、温かい料理にも簡単にお使いいただけます。トマトやロケットと一緒にパンに挟めば、軽やかでありながら満足感のあるサンドイッチになります。</p><h3>おすすめの食べ方</h3><ul><li>サイコロ状にカットしてシェパーズサラダに加えたり、ブルグルサラダと一緒に召し上がってください。</li><li>全粒粉パンにトマトとロケットを挟んで、軽やかなサンドイッチに。</li><li>ほうれん草と一緒に卵に混ぜたり、野菜オムレツに砕いて入れてください。</li></ul><p><strong>内容量:</strong> 500 g</p>",
     "ko": "<h2>더 가벼운 선택, Tufan Organik 반지방 화이트 치즈</h2><p>반지방 화이트 치즈는 전지방 치즈에 비해 입안에 더 가벼운 느낌을 남기는 화이트 치즈입니다. 맛은 담백하고 깔끔합니다. Tufan Organik의 500 g 제품은 귀륀/시바스에서 온 치즈 라인업 가운데 가벼운 쪽을 담당하며, 일상의 식탁에 손쉽게 어울립니다.</p><p>하루에도 여러 번 치즈를 즐기는 분들께 반지방 제품은 아침 식사부터 간식까지 균형 잡힌 대안이 됩니다. 깍둑썰기해 샐러드에 넣을 수 있고, 따뜻한 요리에도 부담 없이 활용할 수 있습니다. 빵 사이에 토마토, 루콜라와 함께 넣으면 가볍지만 든든한 샌드위치가 됩니다.</p><h3>활용 제안</h3><ul><li>깍둑썰기해 목동 샐러드에 넣거나 불구르 샐러드에 곁들입니다.</li><li>통밀빵에 토마토와 루콜라를 더해 가벼운 샌드위치를 만듭니다.</li><li>시금치 달걀 요리나 채소 오믈렛에 잘게 부숴 넣습니다.</li></ul><p><strong>중량:</strong> 500 g</p>"
   },
   "update": "2026-10-28T09:07:21.229Z",

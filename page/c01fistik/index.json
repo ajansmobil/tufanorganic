@@ -4,7 +4,7 @@
     "en": "Cereals and Flours",
     "ar": "الحبوب والدقيق",
     "de": "Getreide und Mehle",
-    "ja": "",
+    "ja": "穀物と粉",
     "ko": "곡물 및 밀가루"
   },
   "status": "play",
@@ -17,7 +17,7 @@
     "en": "Tufan Organik, Cereals and Flours",
     "ar": "Tufan Organik, الحبوب والدقيق",
     "de": "Tufan Organik, Getreide und Mehle",
-    "ja": "",
+    "ja": "Tufan Organik, 穀物と粉",
     "ko": "Tufan Organik, 곡물 및 밀가루"
   },
   "description": {
@@ -25,7 +25,7 @@
     "en": "Tufan Organik Cereals and Flours product group.",
     "ar": "مجموعة منتجات الحبوب والدقيق من توفان أورغانيك.",
     "de": "Tufan Organik Produktgruppe Getreide und Mehle.",
-    "ja": "",
+    "ja": "Tufan Organik 穀物と粉の製品グループです。",
     "ko": "투판 오가닉 곡물 및 밀가루 제품군."
   },
   "index": 0,
@@ -41,7 +41,7 @@
     "en": "Cereals and Flours | Tufan Organik",
     "ar": "الحبوب والدقيق | Tufan Organik",
     "de": "Getreide und Mehle | Tufan Organik",
-    "ja": "",
+    "ja": "穀物と粉 | Tufan Organik",
     "ko": "곡물 및 밀가루 | Tufan Organik"
   },
   "text": {

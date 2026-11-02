@@ -4,7 +4,8 @@
     "en": "Gravyer Cheese (Turkish Gruyère)",
     "ar": "جبن غرافيير",
     "de": "Gravyer-Käse (türkischer Gruyère)",
-    "ko": "그라비에르 치즈"
+    "ko": "그라비에르 치즈",
+    "ja": "グラヴィエールチーズ（トルコ産グリュイエール）"
   },
   "status": "play",
   "category": "c07kuruseb",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, Gravyer Cheese (Turkish Gruyère), Milk and Dairy Products, dairy products, kashar cheese, white cheese, butter",
     "ar": "Tufan Organik, غورون/سيواس, أغذية طبيعية, جبن غرافيير, الحليب ومشتقاته, منتجات الألبان, جبن قشقوان, جبن أبيض, زبدة",
     "de": "Tufan Organik, Gürün/Sivas, Naturkost, Gravyer-Käse (türkischer Gruyère), Milch und Milchprodukte, Milchprodukte, Kaşar-Käse, Weißkäse, Butter",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, グラヴィエールチーズ（トルコ産グリュイエール）, 乳製品",
     "ko": "Tufan Organik, 귀륀/시바스, 자연 식품, 그라비에르 치즈, 우유 및 유제품, 유제품, 카사르 치즈, 화이트 치즈, 버터"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Gravyer Cheese (Turkish Gruyère) is a gravyer with holes from the Milk and Dairy Products range, available in 400 g, and a natural food rooted in Gürün/Sivas.",
     "ar": "Tufan Organik جبن غرافيير: غرافيير مثقّب من فئة الحليب ومشتقاته، متوفر بوزن 400 g، وهو غذاء طبيعي يعود أصله إلى غورون/سيواس.",
     "de": "Tufan Organik Gravyer-Käse (türkischer Gruyère) ist ein Gravyer mit Löchern aus der Kategorie Milch und Milchprodukte, erhältlich in 400 g – ein Naturprodukt mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 그라비에르 치즈는 우유 및 유제품 카테고리의 구멍이 있는 그라비에르로, 400 g 용량으로 제공되는 귀륀/시바스 출신의 자연 식품입니다."
+    "ko": "Tufan Organik 그라비에르 치즈는 우유 및 유제품 카테고리의 구멍이 있는 그라비에르로, 400 g 용량으로 제공되는 귀륀/시바스 출신의 자연 식품입니다.",
+    "ja": "Tufan Organik グラヴィエールチーズ（トルコ産グリュイエール）は、乳製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "index": 178,
   "icon": "egg",
@@ -43,7 +45,7 @@
     "en": "Gravyer Cheese (Turkish Gruyère) | Tufan Organik",
     "ar": "جبن غرافيير | Tufan Organik",
     "de": "Gravyer-Käse (türkischer Gruyère) | Tufan Organik",
-    "ja": "",
+    "ja": "グラヴィエールチーズ（トルコ産グリュイエール） | Tufan Organik",
     "ko": "그라비에르 치즈 | Tufan Organik"
   },
   "text": {
@@ -51,7 +53,7 @@
     "en": "<h2>Tufan Organik Gravyer Cheese with Its Holey Texture</h2><p>Gravyer is a hard cheese easily recognised by the round holes revealed when it is cut. Its taste is mildly nutty and slightly sweet, while its texture is elastic and firm. Tufan Organik offers this cheese, which has a wide range of uses from the breakfast plate to hot dishes, in a practical 400 g pack.</p><p>Gravyer's most loved quality is the way it melts smoothly with heat. That is why it is a frequent choice for fondue, toasties and oven dishes; served cold, it enriches breakfast in thin slices. In Tufan Organik's product range reaching out from Gürün/Sivas, gravyer is the option for lovers of hard cheese.</p><h3>Serving Suggestions</h3><ul><li>Sprinkle grated gravyer over onion soup and gratinate briefly in the oven.</li><li>Make a hot toastie with stretchy melted cheese using sourdough bread and tomatoes.</li><li>Serve it on a cheese platter with apple and pear slices.</li></ul><p><strong>Size:</strong> 400 g</p>",
     "ar": "<h2>جبن غرافيير من Tufan Organik بقوامه المثقّب</h2><p>الغرافيير نوع من الأجبان الصلبة يسهل تمييزه بالثقوب المستديرة التي تظهر عند تقطيعه. طعمه يميل قليلًا إلى نكهة البندق مع حلاوة خفيفة، وقوامه مرن ومتماسك. وتقدم Tufan Organik هذا الجبن، ذا الاستخدامات الواسعة من طبق الفطور إلى الأطباق الساخنة، في عبوة عملية بوزن 400 g.</p><p>أكثر ما يُحَب في الغرافيير ذوبانه بنعومة مع الحرارة، ولهذا يُختار كثيرًا في الفوندو والتوست وأطباق الفرن، وعند تقديمه باردًا يُثري الفطور على شكل شرائح رقيقة. وفي تشكيلة منتجات Tufan Organik الممتدة من غورون/سيواس، يُعد الغرافيير الخيار الذي يلبي ذوق محبي الأجبان الصلبة.</p><h3>اقتراحات الاستخدام</h3><ul><li>رشّ الغرافيير المبشور فوق حساء البصل وحمّره في الفرن لفترة قصيرة.</li><li>حضّر توستًا ساخنًا بجبن ممطوط باستخدام خبز العجين المخمّر والطماطم.</li><li>قدّمه في طبق الأجبان مع شرائح التفاح والكمثرى.</li></ul><p><strong>العبوة:</strong> 400 g</p>",
     "de": "<h2>Tufan Organik Gravyer-Käse mit typischer Lochung</h2><p>Gravyer ist ein Hartkäse, der leicht an den runden Löchern zu erkennen ist, die beim Anschneiden sichtbar werden. Sein Geschmack ist leicht nussig und süßlich, seine Textur elastisch und fest. Tufan Organik bietet diesen Käse, der sich vom Frühstücksteller bis zu warmen Gerichten vielseitig einsetzen lässt, in einer praktischen Packung zu 400 g an.</p><p>Die beliebteste Eigenschaft von Gravyer ist, dass er bei Hitze glatt schmilzt. Deshalb wird er gern für Fondue, Toasts und Ofengerichte verwendet; kalt serviert bereichert er in dünnen Scheiben das Frühstück. Im Sortiment von Tufan Organik, das von Gürün/Sivas ausgeht, ist Gravyer die Wahl für Liebhaber von Hartkäse.</p><h3>Verwendungstipps</h3><ul><li>Geriebenen Gravyer über Zwiebelsuppe streuen und kurz im Ofen überbacken.</li><li>Mit Sauerteigbrot und Tomaten einen heißen Toast mit Fäden ziehendem Käse zubereiten.</li><li>Mit Apfel- und Birnenscheiben auf einer Käseplatte servieren.</li></ul><p><strong>Packungsgröße:</strong> 400 g</p>",
-    "ja": "",
+    "ja": "<h2>穴あきの食感が魅力のトゥファン・オルガニック グラヴィエールチーズ（トルコ産グリュイエール）</h2><p>グラヴィエールは、カットした際に現れる丸い穴が特徴的なハードチーズです。味わいは控えめなナッツの風味とほのかな甘みがあり、食感は弾力があってしっかりとしています。トゥファン・オルガニックでは、朝食から温かい料理まで幅広くお使いいただけるこのチーズを、便利な400gパックでお届けしています。</p><p>グラヴィエールの最も愛されている特徴は、熱を加えると滑らかに溶けることです。そのため、フォンデュやホットトースト、オーブン料理によく選ばれます。一方で、冷たいまま薄切りにして召し上がれば、朝食をより豊かなものにしてくれます。ギュルン／シヴァスから届くトゥファン・オルガニックのラインナップの中で、グラヴィエールはハードチーズ愛好家の方におすすめの選択肢です。</p><h3>おすすめの召し上がり方</h3><ul><li>玉ねぎスープにすりおろしたグラヴィエールをふりかけ、オーブンで軽く焼き色をつけてください。</li><li>サワードウブレッドとトマトを使い、とろりと伸びるチーズが入った熱々のホットトーストをお楽しみください。</li><li>リンゴや梨のスライスと一緒に、チーズプラッターに盛り付けてお召し上がりください。</li></ul><p><strong>内容量:</strong> 400 g</p>",
     "ko": "<h2>구멍 난 조직이 매력적인 Tufan Organik 그라비에르 치즈</h2><p>그라비에르는 자르면 드러나는 둥근 구멍으로 쉽게 알아볼 수 있는 경성 치즈입니다. 맛은 은은한 견과류 풍미와 함께 살짝 달콤하며, 질감은 탄력 있고 단단합니다. Tufan Organik는 아침 식사 접시부터 따뜻한 요리까지 폭넓게 활용되는 이 치즈를 실용적인 400 g 포장으로 선보입니다.</p><p>그라비에르의 가장 사랑받는 특징은 열을 가하면 매끄럽게 녹는다는 점입니다. 그래서 퐁뒤, 토스트, 오븐 요리에 자주 쓰이며, 차갑게 낼 때는 얇게 썰어 아침 식사를 풍성하게 합니다. 가지안테프에서 출발한 Tufan Organik의 제품군에서 그라비에르는 경성 치즈를 좋아하는 분들을 위한 선택지입니다.</p><h3>활용 제안</h3><ul><li>간 그라비에르를 양파 수프 위에 뿌리고 오븐에서 잠시 그라탱해 보세요.</li><li>사워도우 빵과 토마토로 치즈가 쭉 늘어나는 따뜻한 토스트를 만들어 보세요.</li><li>사과, 배 슬라이스와 함께 치즈 플래터에 담아 내세요.</li></ul><p><strong>용량:</strong> 400 g</p>"
   },
   "update": "2026-10-28T09:07:18.619Z",

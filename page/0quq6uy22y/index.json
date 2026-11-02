@@ -4,7 +4,8 @@
     "en": "Walnut Pestil Roll (Fruit Leather Roll)",
     "ar": "رول بستيل بالجوز (لفافة جلد الفاكهة)",
     "de": "Pestil-Rolle mit Walnüssen (Fruchtleder-Rolle)",
-    "ko": "호두 페스틸 롤 (말린 과일 시트 롤)"
+    "ko": "호두 페스틸 롤 (말린 과일 시트 롤)",
+    "ja": "クルミ入りペスティルロール（フルーツレザーロール）"
   },
   "status": "play",
   "category": "c13konserve",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, Walnut Pestil Roll, Turkish Delight, Pestil and Traditional Sweets, lokum, pestil, köme, tahini halva",
     "ar": "Tufan Organik, غورون/سيواس, أغذية طبيعية, رول بستيل بالجوز, راحة الحلقوم, البستيل والحلويات التقليدية, لوكوم, بستيل, كومة, حلاوة طحينية",
     "de": "Tufan Organik, Gürün/Sivas, Naturkost, Pestil-Rolle mit Walnüssen, Lokum, Pestil und traditionelle Süßwaren, Lokum, Pestil, Köme, Tahin-Halva",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, クルミ入りペスティルロール（フルーツレザーロール）, ドライフルーツ",
     "ko": "Tufan Organik, 귀륀/시바스, 자연 식품, 호두 페스틸 롤, 로쿰, 페스틸 및 전통 디저트, 로쿰, 페스틸, 쾨메, 타히니 할바"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Walnut Pestil Roll is a rolled pestil from the Turkish Delight, Pestil and Traditional Sweets range, offered in 350 g as a natural food rooted in Gürün/Sivas.",
     "ar": "Tufan Organik — رول بستيل بالجوز: بستيل ملفوف ضمن فئة راحة الحلقوم والبستيل والحلويات التقليدية، يُقدَّم بوزن 350 g، وهو غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Pestil-Rolle mit Walnüssen – gerolltes Pestil aus der Kategorie Lokum, Pestil und traditionelle Süßwaren, angeboten in 350 g, ein Naturprodukt mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 호두 페스틸 롤은 로쿰, 페스틸 및 전통 디저트 카테고리의 돌돌 만 페스틸로, 350 g으로 제공되는 귀륀/시바스 출신의 자연 식품입니다."
+    "ko": "Tufan Organik 호두 페스틸 롤은 로쿰, 페스틸 및 전통 디저트 카테고리의 돌돌 만 페스틸로, 350 g으로 제공되는 귀륀/시바스 출신의 자연 식품입니다.",
+    "ja": "Tufan Organik クルミ入りペスティルロール（フルーツレザーロール）は、ドライフルーツカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "index": 147,
   "icon": "cake",
@@ -43,7 +45,7 @@
     "en": "Walnut Pestil Roll (Fruit Leather Roll) | Tufan Organik",
     "ar": "رول بستيل بالجوز (لفافة جلد الفاكهة) | Tufan Organik",
     "de": "Pestil-Rolle mit Walnüssen (Fruchtleder-Rolle) | Tufan Organik",
-    "ja": "",
+    "ja": "クルミ入りペスティルロール（フルーツレザーロール） | Tufan Organik",
     "ko": "호두 페스틸 롤 (말린 과일 시트 롤) | Tufan Organik"
   },
   "text": {
@@ -51,7 +53,7 @@
     "en": "<h2>Walnut Pestil Roll: Fruit and Walnut in a Spiral Cross-Section</h2>\n<p>Walnut Pestil Roll is a sweet made by rolling pestil up together with walnut kernels. When sliced, a spiral cross-section is revealed, and the crunch of walnut can be felt between the pliable layers of pestil. It is more filling than flat pestil and offers a thinner, more layered structure than sucuk.</p>\n<p>Evoking Gaziantep's pestil and köme traditions together, this product is an option in Tufan Organik's traditional sweets range that combines two textures. When guests arrive, the 350 g roll turns into an elegant treat platter in just a few minutes. Cutting with a sharp knife keeps the spiral look intact.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Slice it about a finger's width thick and arrange on a plate with the spiral side facing up.</li>\n<li>At breakfast, create a sweet-and-savory corner with white cheese and olives.</li>\n<li>Secure small slices with toothpicks and serve as bite-sized treats at tea parties.</li>\n</ul>\n<p><strong>Weight:</strong> 350 g</p>",
     "ar": "<h2>رول بستيل بالجوز: فاكهة وجوز في مقطع حلزوني</h2>\n<p>رول البستيل بالجوز حلوى يُلفّ فيها البستيل مع لب الجوز حتى يتخذ شكل لفافة. وعند تقطيعه يظهر مقطع حلزوني، وتُحَسّ قرمشة الجوز بين طبقات البستيل المرنة. وهو أكثر إشباعًا من البستيل المسطح، ويقدّم بنية أرق وأكثر تعددًا في الطبقات مقارنةً بالسجق الحلو.</p>\n<p>يستحضر هذا المنتج تقليدَي البستيل والكومة في غازي عنتاب معًا، وهو خيار يجمع بين قوامين ضمن فئة الحلويات التقليدية لدى Tufan Organik. وعند قدوم الضيوف، تتحول اللفافة بوزن 350 g إلى طبق ضيافة أنيق يُحضَّر في دقائق. ويحافظ التقطيع بسكين حادة على الشكل الحلزوني دون أن يتشوه.</p>\n<h3>اقتراحات التقديم</h3>\n<ul>\n<li>قطّعه شرائح بسماكة إصبع تقريبًا ورتّبها في الطبق بحيث يكون الوجه الحلزوني إلى الأعلى.</li>\n<li>اصنع في الفطور ركنًا يجمع الحلو والمالح مع الجبن الأبيض والزيتون.</li>\n<li>ثبّت الشرائح الصغيرة بأعواد الأسنان وقدّمها لقيماتٍ في دعوات الشاي.</li>\n</ul>\n<p><strong>الوزن:</strong> 350 g</p>",
     "de": "<h2>Pestil-Rolle mit Walnüssen: Frucht und Walnuss im Spiralanschnitt</h2>\n<p>Die Pestil-Rolle mit Walnüssen ist eine Süßigkeit, bei der Pestil zusammen mit Walnusskernen zu einer Rolle gewickelt wird. Beim Aufschneiden zeigt sich ein spiralförmiger Anschnitt; zwischen den elastischen Pestilschichten ist der knackige Biss der Walnuss zu spüren. Sie ist sättigender als flaches Pestil und bietet eine feinere, vielschichtigere Struktur als Sucuk.</p>\n<p>Dieses Produkt, das an die Pestil- und Köme-Tradition von Gaziantep zugleich erinnert, ist in der Reihe traditioneller Süßwaren von Tufan Organik eine Option, die zwei Texturen vereint. Wenn Gäste kommen, wird die 350-g-Rolle in wenigen Minuten zu einem eleganten Gästeteller. Das Schneiden mit einem scharfen Messer sorgt dafür, dass das Spiralmuster erhalten bleibt.</p>\n<h3>Serviervorschläge</h3>\n<ul>\n<li>Etwa fingerdick aufschneiden und mit der Spiralseite nach oben auf einem Teller anrichten.</li>\n<li>Zum Frühstück mit Weißkäse und Oliven eine süß-salzige Ecke gestalten.</li>\n<li>Kleine Scheiben mit Zahnstochern fixieren und bei Teeeinladungen als Häppchen servieren.</li>\n</ul>\n<p><strong>Gewicht:</strong> 350 g</p>",
-    "ja": "",
+    "ja": "<h2>クルミ入りペスティルロール（フルーツレザーロール）：渦巻き状の断面に広がるフルーツとクルミ</h2>\n<p>クルミ入りペスティルロール（フルーツレザーロール）は、ペスティルにクルミを巻き込んで作ったスイーツです。スライスすると渦巻き状の断面が現れ、しなやかなペスティルの層の間に、クルミのカリッとした食感を楽しむことができます。平らなペスティルよりも食べ応えがあり、スチュクよりも薄く層状の構造になっています。</p>\n<p>ガズィアンテプのペスティルとコメの伝統を彷彿とさせるこの製品は、2つの異なる食感を組み合わせたTufan Organikの伝統的なスイーツ・ラインナップの一つです。お客様がいらした際、350gのロールを数分でエレガントなスイーツ・プラッターへと変身させることができます。切れ味の良いナイフでカットすることで、美しい渦巻き模様を保ったままお召し上がりいただけます。</p>\n<h3>おすすめの召し上がり方</h3>\n<ul>\n<li>指の幅ほどの厚さにスライスし、渦巻きの面を上にしてお皿に並べてください。</li>\n<li>朝食時には、ホワイトチーズやオリーブと一緒に、甘みと塩味のコントラストを楽しめる一品としてお楽しみください。</li>\n<li>小さくスライスしたものを爪楊枝で刺せば、ティーパーティーでの一口サイズのスイーツとしてお出しいただけます。</li>\n</ul>\n<p><strong>内容量：</strong> 350 g</p>",
     "ko": "<h2>호두 페스틸 롤: 나선형 단면 속 과일과 호두</h2>\n<p>호두 페스틸 롤은 페스틸에 호두 속살을 함께 말아 롤 형태로 만든 디저트입니다. 썰면 나선형 단면이 드러나고, 쫀득한 페스틸 층 사이로 호두의 바삭함이 느껴집니다. 납작한 페스틸보다 든든하고, 수죽보다는 얇고 겹겹이 쌓인 구조를 지닙니다.</p>\n<p>가지안테프의 페스틸과 쾨메 전통을 함께 떠올리게 하는 이 제품은 Tufan Organik 전통 디저트 라인에서 두 가지 식감을 하나로 결합한 선택지입니다. 손님이 오면 350 g 롤은 몇 분 만에 세련된 다과 접시로 변신합니다. 날카로운 칼로 자르면 나선 모양이 흐트러지지 않고 유지됩니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>손가락 두께로 썰어 나선 면이 위로 오도록 접시에 가지런히 놓기 좋습니다.</li>\n<li>아침 식사에 흰 치즈, 올리브와 함께 달콤짭짤한 코너를 구성할 수 있습니다.</li>\n<li>작은 조각을 이쑤시개로 고정해 티 파티에서 한입 다과로 내기 좋습니다.</li>\n</ul>\n<p><strong>중량:</strong> 350 g</p>"
   },
   "update": "2026-10-28T09:07:17.272Z",

@@ -36,7 +36,7 @@
         "en": "Products",
         "ar": "المنتجات",
         "de": "Produkte",
-        "ja": "",
+        "ja": "製品",
         "ko": "제품"
       },
       "path": "products",
@@ -48,7 +48,8 @@
             "en": "Weight",
             "ar": "الوزن",
             "de": "Gewicht",
-            "ko": "중량"
+            "ko": "중량",
+            "ja": "重量"
           }
         },
         {
@@ -58,7 +59,8 @@
             "en": "Packaging",
             "ar": "التغليف",
             "de": "Verpackung",
-            "ko": "포장"
+            "ko": "포장",
+            "ja": "包装"
           }
         },
         {
@@ -68,7 +70,8 @@
             "en": "Origin",
             "ar": "بلد المنشأ",
             "de": "Herkunft",
-            "ko": "원산지"
+            "ko": "원산지",
+            "ja": "原産地"
           }
         }
       ],
@@ -98,7 +101,7 @@
         "en": "Corporate",
         "ar": "المؤسسة",
         "de": "Unternehmen",
-        "ja": "",
+        "ja": "企業情報",
         "ko": "회사 소개"
       },
       "path": "kurumsal",
@@ -130,7 +133,7 @@
         "en": "Categories",
         "ar": "الفئات",
         "de": "Kategorien",
-        "ja": "",
+        "ja": "カテゴリー",
         "ko": "카테고리"
       },
       "path": "category",

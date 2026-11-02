@@ -5,21 +5,24 @@
     "en": "Sour, Hot and Sweet Special Sauces, Vinegars and Beverages",
     "ar": "الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات",
     "de": "Saure, scharfe und süße Spezialsaucen, Essig und Getränke",
-    "ko": "새콤·매콤·달콤 특선 소스, 식초 및 음료"
+    "ko": "새콤·매콤·달콤 특선 소스, 식초 및 음료",
+    "ja": "酸味・辛味・甘味の特別ソース、酢、飲料"
   },
   "description": {
     "tr": "Tufan Organik Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler ürün grubu.",
     "en": "Tufan Organik Sour, Hot and Sweet Special Sauces, Vinegars and Beverages product group.",
     "ar": "مجموعة منتجات الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات من توفان أورغانيك.",
     "de": "Tufan Organik Produktgruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke.",
-    "ko": "투판 오가닉 새콤·매콤·달콤 특선 소스, 식초 및 음료 제품군."
+    "ko": "투판 오가닉 새콤·매콤·달콤 특선 소스, 식초 및 음료 제품군.",
+    "ja": "Tufan Organik 酸味・辛味・甘味の特別ソース、酢、飲料の製品グループです。"
   },
   "keyword": {
     "tr": "Tufan Organik, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler",
     "en": "Tufan Organik, Sour, Hot and Sweet Special Sauces, Vinegars and Beverages",
     "ar": "Tufan Organik, الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات",
     "de": "Tufan Organik, Saure, scharfe und süße Spezialsaucen, Essig und Getränke",
-    "ko": "Tufan Organik, 새콤·매콤·달콤 특선 소스, 식초 및 음료"
+    "ko": "Tufan Organik, 새콤·매콤·달콤 특선 소스, 식초 및 음료",
+    "ja": "Tufan Organik, 酸味・辛味・甘味の特別ソース、酢、飲料"
   },
   "path": "eksi-aci-ve-tatli-ozel-soslar-sirke-ve-icecekler",
   "icon": "category",
@@ -32,13 +35,16 @@
   },
   "index": 20,
   "url": "",
-  "text": {},
+  "text": {
+    "ja": ""
+  },
   "title": {
     "tr": "Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler | Tufan Organik",
     "en": "Sour, Hot and Sweet Special Sauces, Vinegars and Beverages | Tufan Organik",
     "ar": "الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات | Tufan Organik",
     "de": "Saure, scharfe und süße Spezialsaucen, Essig und Getränke | Tufan Organik",
-    "ko": "새콤·매콤·달콤 특선 소스, 식초 및 음료 | Tufan Organik"
+    "ko": "새콤·매콤·달콤 특선 소스, 식초 및 음료 | Tufan Organik",
+    "ja": "酸味・辛味・甘味の特別ソース、酢、飲料 | Tufan Organik"
   },
   "date": "2026-10-28T08:07:44.243Z",
   "update": "2026-10-28T08:07:44.465Z"

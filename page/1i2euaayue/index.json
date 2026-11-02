@@ -4,7 +4,8 @@
     "en": "Orange Juice",
     "ar": "عصير البرتقال",
     "de": "Orangensaft",
-    "ko": "오렌지 주스"
+    "ko": "오렌지 주스",
+    "ja": "オレンジジュース"
   },
   "status": "play",
   "category": "c10meyves",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, Orange Juice, Fruit Juices, fruit juice, pomegranate juice, natural fruit juice, additive-free drink",
     "ar": "Tufan Organik, غورون/سيواس, أغذية طبيعية, عصير البرتقال, عصائر الفواكه, عصير فواكه, عصير الرمان, عصير فواكه طبيعي, مشروب خالٍ من الإضافات",
     "de": "Tufan Organik, Gürün/Sivas, Naturkost, Orangensaft, Fruchtsäfte, Fruchtsaft, Granatapfelsaft, natürlicher Fruchtsaft, Getränk ohne Zusatzstoffe",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, オレンジジュース, フルーツジュース",
     "ko": "Tufan Organik, 귀륀/시바스, 자연 식품, 오렌지 주스, 과일 주스, 과일즙, 석류 주스, 천연 과일 주스, 무첨가 음료"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Orange Juice is freshly squeezed orange juice from the Fruit Juices range, offered in 1 L as a natural food rooted in Gürün/Sivas.",
     "ar": "Tufan Organik — عصير البرتقال: عصير برتقال معصور طازجًا ضمن فئة عصائر الفواكه، يُقدَّم بسعة 1 L، وهو غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Orangensaft – frisch gepresster Orangensaft aus der Kategorie Fruchtsäfte, angeboten in 1 L, ein Naturprodukt mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 오렌지 주스는 과일 주스 카테고리의 갓 짜낸 오렌지 주스로, 1 L 용량으로 제공되는 귀륀/시바스 출신의 자연 식품입니다."
+    "ko": "Tufan Organik 오렌지 주스는 과일 주스 카테고리의 갓 짜낸 오렌지 주스로, 1 L 용량으로 제공되는 귀륀/시바스 출신의 자연 식품입니다.",
+    "ja": "Tufan Organik オレンジジュースは、フルーツジュースカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "index": 150,
   "icon": "local_bar",
@@ -43,7 +45,7 @@
     "en": "Orange Juice | Tufan Organik",
     "ar": "عصير البرتقال | Tufan Organik",
     "de": "Orangensaft | Tufan Organik",
-    "ja": "",
+    "ja": "オレンジジュース | Tufan Organik",
     "ko": "오렌지 주스 | Tufan Organik"
   },
   "text": {
@@ -51,7 +53,7 @@
     "en": "<h2>Freshly Squeezed Orange Juice</h2>\n<p>Orange Juice is a breakfast drink that brings together the vivid color and lightly tangy sweetness of freshly squeezed oranges. When poured into the glass, its aroma, reminiscent of orange peel, spreads at once. Its taste is balanced, neither heavily sweet nor sharply sour, offering a pleasant freshness to start the day in the early morning hours.</p>\n<p>At Gaziantep's richly varied breakfast tables, a glass of orange juice is a frequent companion to tea. Tufan Organik's Orange Juice comes in a 1 L bottle for those who want to keep up this habit without the effort of squeezing oranges every morning. It pairs well with savory pastries, sesame bread rings and egg dishes.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Serve cold at breakfast with Turkish-style scrambled eggs or cheese-filled pastry.</li>\n<li>Use it in cake batter in place of part of the milk to add a light orange aroma.</li>\n<li>Serve as a summer drink in a tall glass with ice cubes and a few mint leaves.</li>\n</ul>\n<p><strong>Volume:</strong> 1 L</p>",
     "ar": "<h2>عصير برتقال معصور طازجًا</h2>\n<p>عصير البرتقال مشروب فطور يجمع اللون الزاهي والحلاوة المائلة إلى الحموضة الخفيفة للبرتقال المعصور طازجًا. وما إن يُسكب في الكأس حتى تنتشر رائحته التي تذكّر بقشر البرتقال. مذاقه متوازن، لا هو شديد الحلاوة ولا حادّ الحموضة، فيمنح نضارة لطيفة لبدء اليوم في ساعات الصباح الأولى.</p>\n<p>على موائد الفطور المتنوعة في غازي عنتاب، كثيرًا ما يرافق كأسُ عصير البرتقال الشايَ. ويُقدَّم عصير البرتقال من Tufan Organik في زجاجة سعة 1 L لمن يرغبون في الحفاظ على هذه العادة دون عناء عصر البرتقال كل صباح. وهو ينسجم جيدًا مع الفطائر المالحة وكعك السمسم وأطباق البيض.</p>\n<h3>اقتراحات التقديم</h3>\n<ul>\n<li>قدّمه باردًا في الفطور مع البيض المخفوق على الطريقة التركية أو الفطائر بالجبن.</li>\n<li>استخدمه في عجينة الكيك بدلًا من جزء من الحليب لإضفاء نكهة برتقال خفيفة.</li>\n<li>قدّمه مشروبًا صيفيًا في كأس طويلة مع مكعبات الثلج وبضع أوراق من النعناع.</li>\n</ul>\n<p><strong>الحجم:</strong> 1 L</p>",
     "de": "<h2>Frisch gepresster Orangensaft</h2>\n<p>Orangensaft ist ein Frühstücksgetränk, das die leuchtende Farbe und die leicht säuerliche Süße frisch gepresster Orangen vereint. Sobald er ins Glas gegossen wird, verbreitet sich sein an Orangenschale erinnernder Duft. Sein Geschmack ist ausgewogen – weder schwer süß noch scharf sauer – und bietet in den frühen Morgenstunden eine angenehme Frische für den Start in den Tag.</p>\n<p>An den reichhaltigen Frühstückstischen von Gaziantep ist ein Glas Orangensaft ein häufiger Begleiter zum Tee. Der Orangensaft von Tufan Organik wird in der 1-L-Flasche angeboten – für alle, die diese Gewohnheit beibehalten möchten, ohne jeden Morgen Orangen pressen zu müssen. Er passt gut zu herzhaftem Teiggebäck, Sesamkringeln und Eierspeisen.</p>\n<h3>Serviervorschläge</h3>\n<ul>\n<li>Zum Frühstück kalt zu Rührei nach türkischer Art oder Käse-Teiggebäck servieren.</li>\n<li>Im Kuchenteig einen Teil der Milch ersetzen, um ein leichtes Orangenaroma zu verleihen.</li>\n<li>Mit Eiswürfeln und einigen Minzblättern im hohen Glas als Sommergetränk servieren.</li>\n</ul>\n<p><strong>Inhalt:</strong> 1 L</p>",
-    "ja": "",
+    "ja": "<h2>搾りたてのオレンジジュース</h2>\n<p>オレンジジュースは、搾りたてのオレンジの鮮やかな色と、ほのかな酸味を伴う甘みを兼ね備えた朝食用のドリンクです。グラスに注ぐと、オレンジの皮を思わせる香りがすぐに広がります。甘すぎず、酸っぱすぎないバランスの取れた味わいで、早朝の一日の始まりに心地よい爽やかさをもたらします。</p>\n<p>ガズィアンテプのバラエティ豊かな朝食のテーブルでは、オレンジジュースはティーのよくある相棒です。トゥファン・オルガニックのオレンジジュースは、毎朝オレンジを絞る手間をかけずにこの習慣を続けたい方のために、1 Lボトルでお届けします。セイボリー・ペストリー、セサミ・ブレッド・リング、そして卵料理ともよく合います。</p>\n<h3>おすすめの召し上がり方</h3>\n<ul>\n<li>朝食に、冷やした状態でトルコ風スクランブルエッグやチーズ入りのペストリーと一緒にどうぞ。</li>\n<li>ケーキの生地を作る際、ミルクの一部を置き換えて、ほのかなオレンジの香りをお楽しみいただけます。</li>\n<li>氷と少々のミントの葉を添え、背の高いグラスに入れた夏の飲み物としてお楽しみください。</li>\n</ul>\n<p><strong>内容量:</strong> 1 L</p>",
     "ko": "<h2>갓 짜낸 오렌지 주스</h2>\n<p>오렌지 주스는 갓 짜낸 오렌지의 생생한 색과 살짝 새콤한 단맛을 함께 담은 아침 음료입니다. 잔에 따르면 오렌지 껍질을 연상시키는 향이 곧바로 퍼집니다. 맛은 균형 잡혀 있어 지나치게 달지도, 날카롭게 시지도 않으며 이른 아침 하루를 시작하기에 기분 좋은 상쾌함을 선사합니다.</p>\n<p>다채로운 가지안테프의 아침 식탁에서 오렌지 주스 한 잔은 차와 함께 자주 등장하는 곁들임입니다. Tufan Organik의 오렌지 주스는 매일 아침 직접 짜는 수고 없이 이 습관을 이어 가고 싶은 분들을 위해 1 L 병으로 제공됩니다. 짭짤한 페이스트리, 참깨 링 빵, 달걀 요리와 잘 어울립니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>아침 식사에 튀르키예식 스크램블드에그나 치즈 페이스트리와 함께 차갑게 내기 좋습니다.</li>\n<li>케이크 반죽에 우유 일부 대신 넣으면 은은한 오렌지 향을 더할 수 있습니다.</li>\n<li>얼음과 민트 잎 몇 장을 넣어 긴 잔에 담으면 여름 음료로 즐길 수 있습니다.</li>\n</ul>\n<p><strong>용량:</strong> 1 L</p>"
   },
   "update": "2026-10-28T09:07:18.070Z",

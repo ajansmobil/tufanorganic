@@ -4,7 +4,8 @@
     "en": "Forest Fruit Marmalade",
     "ar": "مرملاد ثمار الغابة",
     "de": "Waldfrüchte-Marmelade",
-    "ko": "포레스트 베리 마멀레이드"
+    "ko": "포레스트 베리 마멀레이드",
+    "ja": "森のベリーマーマレード"
   },
   "status": "play",
   "category": "c09gelenek",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, Forest Fruit Marmalade, Jams and Marmalades, jam, marmalade, apricot jam, homemade jam",
     "ar": "Tufan Organik, غورون/سيواس, أغذية طبيعية, مرملاد ثمار الغابة, المربيات والمرملاد, مربى, مرملاد, مربى المشمش, مربى منزلي",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Waldfrüchte-Marmelade, Konfitüren und Marmeladen, Konfitüre, Marmelade, Aprikosenkonfitüre, hausgemachte Konfitüre",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 森のベリーマーマレード, ジャムとマーマレード",
     "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 포레스트 베리 마멀레이드, 잼·마멀레이드, 잼, 마멀레이드, 살구잼, 수제 잼"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Forest Fruit Marmalade, made with mixed forest fruits, is part of the Jams and Marmalades range, offered in 380 g as a natural food from Gürün/Sivas.",
     "ar": "Tufan Organik: مرملاد ثمار الغابة من تشكيلة ثمار غابة متنوعة، ضمن فئة المربيات والمرملاد، بوزن 380 g، غذاء طبيعي من غورون/سيواس.",
     "de": "Tufan Organik Waldfrüchte-Marmelade aus gemischten Waldfrüchten gehört zur Kategorie Konfitüren und Marmeladen und ist als natürliches Lebensmittel aus Gürün/Sivas in 380 g erhältlich.",
-    "ko": "Tufan Organik 포레스트 베리 마멀레이드는 여러 가지 숲 열매로 만든 잼·마멀레이드 제품으로, 380 g 용량으로 제공되는 귀륀/시바스의 천연 식품입니다."
+    "ko": "Tufan Organik 포레스트 베리 마멀레이드는 여러 가지 숲 열매로 만든 잼·마멀레이드 제품으로, 380 g 용량으로 제공되는 귀륀/시바스의 천연 식품입니다.",
+    "ja": "Tufan Organik 森のベリーマーマレードは、ジャムとマーマレードカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "index": 134,
   "icon": "bakery_dining",
@@ -43,7 +45,7 @@
     "en": "Forest Fruit Marmalade | Tufan Organik",
     "ar": "مرملاد ثمار الغابة | Tufan Organik",
     "de": "Waldfrüchte-Marmelade | Tufan Organik",
-    "ja": "",
+    "ja": "森のベリーマーマレード | Tufan Organik",
     "ko": "포레스트 베리 마멀레이드 | Tufan Organik"
   },
   "text": {
@@ -51,7 +53,7 @@
     "en": "<h2>A Sweet-and-Sour Breakfast with Forest Fruit Marmalade</h2>\n<p>Forest Fruit Marmalade brings mixed forest fruits together in a spreadable marmalade consistency. In its taste, the lively tartness of the fruits balances the sweetness, and its deep color instantly adds an eye-catching touch to the breakfast plate. It is a versatile spread made for palates that enjoy the harmony of several fruits rather than just one.</p>\n<p>In Gaziantep, breakfast often means a long and crowded table; Tufan Organik's marmalade selection was created to add a different color to that table. It goes well with crêpes, pancakes or oatmeal, and when served in a small bowl beside a cheese platter, it creates a pleasant contrast with savory flavors.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Spread inside crêpes, add a little strained yogurt on top and fold.</li>\n<li>Serve in a small bowl alongside a platter of kashar or aged cheese.</li>\n<li>Spread as a thin sauce layer over cheesecake or tarts.</li>\n</ul>\n<p><strong>Net Weight:</strong> 380 g</p>",
     "ar": "<h2>فطور بطعم حامض حلو مع مرملاد ثمار الغابة</h2>\n<p>يجمع مرملاد ثمار الغابة تشكيلة من ثمار الغابة في قوام مرملاد قابل للدهن. في مذاقه توازن الحموضة الحيوية للثمار الحلاوة، ويضفي لونه الداكن على طبق الفطور لمسة لافتة للنظر على الفور. إنه مذاق متعدد الاستخدامات قابل للدهن، أُعدّ للأذواق التي تحب تناغم عدة ثمار لا ثمرة واحدة.</p>\n<p>في غازي عنتاب، كثيرًا ما يعني الفطور مائدة طويلة عامرة بالناس، وقد أُعدّت تشكيلة مرملاد Tufan Organik لتضيف لونًا مختلفًا إلى هذه المائدة. يتناغم بسهولة مع الكريب أو البان كيك أو عصيدة الشوفان، وعند تقديمه في وعاء صغير بجانب طبق الأجبان يخلق تباينًا لطيفًا مع النكهات المالحة.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>ادهنه داخل الكريب وأضف فوقه قليلًا من الزبادي المصفّى ثم اطوه.</li>\n<li>قدّمه في وعاء صغير بجانب طبق من جبن القشقوان أو الجبن المعتّق.</li>\n<li>افرده طبقة رقيقة كصلصة فوق التشيز كيك أو التارت.</li>\n</ul>\n<p><strong>الوزن:</strong> 380 g</p>",
     "de": "<h2>Ein süß-säuerliches Frühstück mit Waldfrüchte-Marmelade</h2>\n<p>Die Waldfrüchte-Marmelade vereint gemischte Waldfrüchte in streichfähiger Marmeladenkonsistenz. Im Geschmack gleicht die lebendige Säure der Früchte die Süße aus; mit ihrer dunklen Farbe setzt sie auf dem Frühstücksteller sofort einen Blickfang. Ein vielseitiger Aufstrich für alle, die nicht nur eine Frucht, sondern das Zusammenspiel mehrerer Früchte lieben.</p>\n<p>In Gaziantep bedeutet Frühstück oft eine lange, gut besetzte Tafel; die Marmeladenauswahl von Tufan Organik wurde geschaffen, um dieser Tafel eine andere Farbe zu verleihen. Sie passt gut zu Crêpes, Pfannkuchen oder Haferbrei und bildet, in einem kleinen Schälchen neben der Käseplatte serviert, einen angenehmen Kontrast zu herzhaften Speisen.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>In Crêpes streichen, etwas Abtropfjoghurt daraufgeben und zusammenklappen.</li>\n<li>In einem kleinen Schälchen neben einer Platte mit Kaschkawal oder gereiftem Käse servieren.</li>\n<li>Als dünne Soßenschicht auf Cheesecake oder Tartes verteilen.</li>\n</ul>\n<p><strong>Gewicht:</strong> 380 g</p>",
-    "ja": "",
+    "ja": "<h2>森のベリーマーマレードで楽しむ、甘酸っぱい朝食</h2>\n<p>森のベリーマーマレードは、さまざまな森の果実を混ぜ合わせ、塗りやすいマーマレード状に仕上げました。果実の生き生きとした酸味が甘さと絶妙なバランスを保ち、その深い色合いは朝食のプレートをパッと華やかに彩ります。単一の果実ではなく、複数の果実が織りなすハーモニーを好む方のために作られた、汎用性の高いスプレッドです。</p>\n<p>ガズィアンテプでは、朝食といえば長く賑やかな食卓を意味することがよくあります。トゥファン・オルガニックのマーマレードセレクションは、その食卓に新たな彩りを添えるために作られました。クレープ、パンケーキ、オートミールとよく合い、チーズの盛り合わせの横に小さな器で添えれば、塩味のある味わいとの心地よいコントラストを楽しめます。</p>\n<h3>おすすめのお召し上がり方</h3>\n<ul>\n<li>クレープの中に塗り、水切りヨーグルトを少しのせて折りたたんでください。</li>\n<li>カシャールや熟成チーズの盛り合わせと一緒に、小さな器に盛り付けてお召し上がりください。</li>\n<li>チーズケーキやタルトの上に、薄いソースのように塗ってお楽しみください。</li>\n</ul>\n<p><strong>内容量:</strong> 380 g</p>",
     "ko": "<h2>포레스트 베리 마멀레이드로 즐기는 새콤달콤한 아침</h2>\n<p>포레스트 베리 마멀레이드는 여러 가지 숲 열매를 바르기 좋은 마멀레이드 농도로 한데 담았습니다. 열매의 생기 있는 새콤함이 단맛과 균형을 이루며, 짙은 색감이 아침 접시에 단번에 눈길을 끄는 포인트를 더합니다. 한 가지 과일보다 여러 과일의 조화를 좋아하는 입맛을 위해 만든 다재다능한 스프레드입니다.</p>\n<p>가지안테프에서 아침 식사는 흔히 길고 북적이는 식탁을 의미하며, Tufan Organik의 마멀레이드 셀렉션은 그 식탁에 색다른 빛깔을 더하기 위해 준비되었습니다. 크레이프, 팬케이크, 오트밀과 잘 어울리며, 치즈 플레이트 옆 작은 그릇에 담아 내면 짭짤한 음식과도 기분 좋은 대비를 이룹니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>크레이프 안에 바르고 그릭 요거트를 조금 올린 뒤 접어 보세요.</li>\n<li>카사르 치즈나 숙성 치즈 플레이트 옆 작은 그릇에 담아 내 보세요.</li>\n<li>치즈케이크나 타르트 위에 얇은 소스층으로 펴 발라 보세요.</li>\n</ul>\n<p><strong>중량:</strong> 380 g</p>"
   },
   "update": "2026-10-28T09:07:56.141Z",

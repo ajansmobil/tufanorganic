@@ -4,7 +4,8 @@
     "en": "Apricot Jam",
     "ar": "مربى المشمش",
     "de": "Aprikosenkonfitüre",
-    "ko": "살구 잼"
+    "ko": "살구 잼",
+    "ja": "アプリコットジャム"
   },
   "status": "play",
   "category": "c09gelenek",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, Apricot Jam, Jams and Marmalades, jam, marmalade, homemade jam",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, مربى المشمش, المربيات والمرملاد, مربى, مرملاد, مربى منزلي",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Aprikosenkonfitüre, Konfitüren und Marmeladen, Konfitüre, Marmelade, hausgemachte Konfitüre",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, アプリコットジャム, ジャムとマーマレード",
     "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 살구 잼, 잼과 마멀레이드, 잼, 마멀레이드, 수제 잼"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Apricot Jam is made with Malatya apricots, part of the Jams and Marmalades range, offered in 380 g as a natural food with roots in Gürün/Sivas.",
     "ar": "Tufan Organik مربى المشمش: من مشمش ملاطية ضمن مجموعة المربيات والمرملاد، يُقدَّم بوزن 380 g، وهو غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Aprikosenkonfitüre wird aus Malatya-Aprikosen hergestellt, gehört zur Gruppe Konfitüren und Marmeladen und wird in 380 g angeboten – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 살구 잼은 말라티아 살구로 만든 잼과 마멀레이드 그룹의 제품으로, 380 g 용량으로 제공되는 귀륀/시바스 출신의 천연 식품입니다."
+    "ko": "Tufan Organik 살구 잼은 말라티아 살구로 만든 잼과 마멀레이드 그룹의 제품으로, 380 g 용량으로 제공되는 귀륀/시바스 출신의 천연 식품입니다.",
+    "ja": "Tufan Organik アプリコットジャムは、ジャムとマーマレードカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "index": 128,
   "icon": "bakery_dining",
@@ -43,7 +45,7 @@
     "en": "Apricot Jam | Tufan Organik",
     "ar": "مربى المشمش | Tufan Organik",
     "de": "Aprikosenkonfitüre | Tufan Organik",
-    "ja": "",
+    "ja": "アプリコットジャム | Tufan Organik",
     "ko": "살구 잼 | Tufan Organik"
   },
   "text": {
@@ -51,7 +53,7 @@
     "en": "<h2>Apricot Jam Made with Malatya Apricots</h2><p>Apricot Jam brings the soft, sweet character of Malatya apricots into the jar. Its golden orange colour glows as it catches the light; its consistency is fluid enough to spread easily on bread and full-bodied enough to hold on a spoon. The apricot's gently tart taste balances the sweetness of the jam, letting you taste the fruit itself in every bite.</p><p>Apricot jam is one of the most familiar flavours of the breakfast table; Gürün/Sivas-based Tufan Organik brings this familiar taste together with Malatya apricots. Spread with butter on warm fried dough bread or a sesame bread ring, it completes a simple breakfast. It is also well suited for use as a filling in baked goods.</p><h3>Serving Suggestions</h3><ul><li>Use as a filling for cookie and tart doughs.</li><li>When making a Swiss roll, spread a thin layer instead of cream.</li><li>Serve on bread with clotted cream, alongside freshly brewed tea.</li></ul><p><strong>Weight:</strong> 380 g</p>",
     "ar": "<h2>مربى المشمش المحضّر من مشمش ملاطية</h2><p>ينقل مربى المشمش الطابع الطري والحلو لمشمش ملاطية إلى البرطمان. يتألق لونه البرتقالي الذهبي كلما سقط عليه الضوء؛ وقوامه سائل بما يكفي ليُدهن على الخبز بسهولة، وكثيف بما يكفي ليثبت على الملعقة. ويوازن الطعم المائل إلى الحموضة الخفيفة للمشمش حلاوةَ المربى، فيشعرك بالفاكهة نفسها في كل لقمة.</p><p>مربى المشمش من أكثر المذاقات ألفةً على موائد الفطور؛ وتجمع Tufan Organik، التي يقع مقرها في غورون/سيواس، هذا الطعم المألوف مع مشمش ملاطية. وعند دهنه مع الزبدة على عجينة مقلية دافئة أو على كعك السميط، يكتمل به فطور بسيط. كما أنه مناسب للاستخدام حشوةً في المعجنات.</p><h3>اقتراحات الاستخدام</h3><ul><li>استخدموه حشوةً لعجائن البسكويت والتارت.</li><li>عند تحضير كيك الرول ادهنوا منه طبقة رقيقة بدلًا من الكريمة.</li><li>قدّموه مع القشطة على الخبز، وإلى جانبه شاي مخدّر.</li></ul><p><strong>الوزن:</strong> 380 g</p>",
     "de": "<h2>Aprikosenkonfitüre aus Malatya-Aprikosen</h2><p>Aprikosenkonfitüre bringt den weichen, süßen Charakter der Malatya-Aprikose ins Glas. Ihre goldorange Farbe leuchtet, sobald Licht darauf fällt; ihre Konsistenz ist flüssig genug, um sich leicht auf Brot streichen zu lassen, und fest genug, um auf dem Löffel zu bleiben. Der leicht säuerliche Geschmack der Aprikose gleicht die Süße der Konfitüre aus und lässt in jedem Bissen die Frucht selbst spüren.</p><p>Aprikosenkonfitüre gehört zu den vertrautesten Geschmäckern des Frühstückstisches; die in Gürün/Sivas ansässige Marke Tufan Organik verbindet diesen vertrauten Geschmack mit Aprikosen aus Malatya. Mit Butter auf warmes frittiertes Teigbrot oder einen Sesamring gestrichen, rundet sie ein einfaches Frühstück ab. Sie eignet sich auch gut als Füllung für Gebäck.</p><h3>Verwendungsvorschläge</h3><ul><li>Verwenden Sie sie als Füllung für Plätzchen- und Tarteteig.</li><li>Streichen Sie beim Zubereiten einer Biskuitrolle statt Creme eine dünne Schicht auf.</li><li>Servieren Sie sie mit dickem Rahm auf Brot, dazu kräftig aufgebrühten Tee.</li></ul><p><strong>Gewicht:</strong> 380 g</p>",
-    "ja": "",
+    "ja": "<h2>マラティヤ産アプリコットを使用したアプリコットジャム</h2><p>アプリコットジャムは、マラティヤ産アプリコットの柔らかく甘い特性を瓶に閉じ込めました。光を受けて輝く黄金色のオレンジ色は美しく、パンに塗りやすい滑らかさと、スプーンにしっかりと留まるコクのある質感も兼ね備えています。アプリコットの優しい酸味がジャムの甘さと絶妙なバランスを保ち、一口ごとに果実本来の味わいを感じることができます。</p><p>アプリコットジャムは、朝食の食卓で最も親しまれている味の一つです。ギュルン/シヴァスを拠点とするトゥファン・オルガニックは、この馴染み深い味わいをマラティヤ産のアプリコットで実現しました。温かい揚げパンやごまパンのリングにバターと一緒に塗れば、シンプルな朝食が完成します。また、焼き菓子のフィリングとしても最適です。</p><h3>おすすめの召し上がり方</h3><ul><li>クッキーやタルト生地のフィリングとして。</li><li>スイスロールを作る際は、クリームの代わりに薄く塗り広げて。</li><li>パンにクロテッドクリームを添え、淹れたての紅茶と一緒に。</li></ul><p><strong>内容量:</strong> 380 g</p>",
     "ko": "<h2>말라티아 살구로 만든 살구 잼</h2><p>살구 잼은 말라티아 살구의 부드럽고 달콤한 개성을 병 속에 담았습니다. 황금빛 주황색은 빛을 받을수록 반짝이며, 농도는 빵에 쉽게 펴 바를 만큼 흐르면서도 스푼 위에 머물 만큼 도톰합니다. 살구의 은은한 새콤함이 잼의 단맛과 균형을 이루어 한 입마다 과일 그 자체를 느끼게 합니다.</p><p>살구 잼은 아침 식탁에서 가장 친숙한 맛 중 하나이며, 귀륀/시바스에 기반을 둔 Tufan Organik는 이 친숙한 맛을 말라티아 살구와 만나게 합니다. 따뜻한 튀김빵이나 참깨 링 빵에 버터와 함께 바르면 소박한 아침 식사가 완성됩니다. 제과 제품의 필링으로 사용하기에도 적합합니다.</p><h3>활용 제안</h3><ul><li>쿠키와 타르트 반죽의 필링으로 사용해 보세요.</li><li>롤케이크를 만들 때 크림 대신 얇게 펴 발라 보세요.</li><li>클로티드 크림과 함께 빵 위에 올리고 진하게 우린 차를 곁들여 보세요.</li></ul><p><strong>중량:</strong> 380 g</p>"
   },
   "update": "2026-10-28T09:07:53.454Z",

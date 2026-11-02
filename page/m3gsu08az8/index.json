@@ -5,21 +5,24 @@
     "en": "Kavılca (Emmer) Wheat",
     "ar": "قمح الإمّر (كافيلجا)",
     "de": "Kavılca-Emmerweizen",
-    "ko": "카블자(엠머밀)"
+    "ko": "카블자(엠머밀)",
+    "ja": "カヴルジャ（エンマー小麦）"
   },
   "description": {
     "tr": "Tufan Organik Kavılca Buğdayı, Tahıl Grubu ve Unları grubunda. Gürün/Sivas kökenli doğal gıda.",
     "en": "Tufan Organik Kavılca (Emmer) Wheat, part of the Grains and Flours range, is a natural food rooted in Gürün/Sivas.",
     "ar": "Tufan Organik — قمح الإمّر (كافيلجا) من فئة الحبوب ودقيقها، غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Kavılca-Emmerweizen aus der Kategorie Getreide und Mehle ist ein Naturprodukt mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 카블자(엠머밀)는 곡물 및 곡물가루 제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+    "ko": "Tufan Organik 카블자(엠머밀)는 곡물 및 곡물가루 제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다.",
+    "ja": "Tufan Organik カヴルジャ（エンマー小麦）は、穀物と粉カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "keyword": {
     "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Kavılca Buğdayı, Tahıl Grubu ve Unları",
     "en": "Tufan Organik, Gürün/Sivas, natural food, Kavılca Wheat, Grains and Flours",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, قمح الإمّر, الحبوب ودقيقها",
     "de": "Tufan Organik, Gürün/Sivas, Naturkost, Kavılca-Emmerweizen, Getreide und Mehle",
-    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 카블자 밀, 곡물 및 곡물가루"
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 카블자 밀, 곡물 및 곡물가루",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, カヴルジャ（エンマー小麦）, 穀物と粉"
   },
   "path": "kavilca-bugdayi",
   "icon": "breakfast_dining",
@@ -37,14 +40,16 @@
     "en": "<h2>Kavılca Wheat: An Ancestral Grain's Place in the Kitchen</h2>\n<p>Kavılca is an ancient grain counted among the ancestral wheats and known for its hulled structure. When cooked, its grains stay plump and slightly firm, leaving a sweetish, hazelnut-like taste on the palate. For palates accustomed to modern wheat, it offers a familiar yet different experience and brings a texture from the past to the table.</p>\n<p>Tufan Organik delivers kavılca wheat to your kitchen as whole grains, together with the other products in its grains range. Soaked overnight and boiled, it can be used in many recipes, from salads to soups. Setting the boiled grains aside in a container and adding them to different dishes during the week is a practical way to add flavour to several meals with a single preparation.</p>\n<h3>Usage Suggestions</h3>\n<ul>\n<li>Prepare boiled kavılca as a wheat salad with pomegranate, parsley and olive oil.</li>\n<li>Use kavılca grains instead of rice in yoghurt-based soups.</li>\n<li>Add a handful of boiled kavılca to meat or vegetable casseroles for a hearty one-pot dish.</li>\n</ul>\n<p><strong>Packaging:</strong> Available in various sizes on request.</p>",
     "ar": "<h2>قمح الإمّر (كافيلجا): مكانة حبوب موروثة في المطبخ</h2>\n<p>الكافيلجا حبوب قديمة تُعدّ من أصناف القمح الموروثة، وتُعرف ببنيتها المغلّفة بالقشرة. تبقى حبوبها بعد الطهي ممتلئة ومتماسكة قليلًا، وتترك في الفم طعمًا حلوًا يشبه البندق. وهي تقدّم لمن اعتادوا أصناف القمح الحديثة تجربة مألوفة لكنها مختلفة، وتحمل إلى المائدة قوامًا آتيًا من الماضي.</p>\n<p>توصل Tufan Organik قمح الكافيلجا إلى مطبخك حبوبًا كاملة إلى جانب منتجات الحبوب الأخرى. وعند نقعه ليلة كاملة ثم سلقه، يمكن استخدامه في وصفات كثيرة من السلطات إلى الشوربات. ومن الطرق العملية لإضفاء النكهة على عدة وجبات بتحضير واحد أن تحفظ الحبوب المسلوقة في وعاء وتضيفها إلى أطباق مختلفة خلال الأسبوع.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>حضّر الكافيلجا المسلوقة سلطةَ قمح مع الرمان والبقدونس وزيت الزيتون.</li>\n<li>استخدم حبوب الكافيلجا بدلًا من الأرز في الشوربات باللبن الزبادي.</li>\n<li>أضف حفنة من الكافيلجا المسلوقة إلى طواجن اللحم أو الخضار لتحضير طبق قِدر مُشبِع.</li>\n</ul>\n<p><strong>التغليف:</strong> متوفر بأوزان مختلفة حسب الطلب.</p>",
     "de": "<h2>Kavılca-Emmerweizen: Ein Urgetreide in der Küche</h2>\n<p>Kavılca ist ein altes Getreide, das zu den Urweizensorten zählt und für seine bespelzte Struktur bekannt ist. Beim Kochen bleiben die Körner prall und leicht bissfest und hinterlassen einen süßlichen, an Haselnüsse erinnernden Geschmack. Für Gaumen, die an modernen Weizen gewöhnt sind, bietet es ein vertrautes und doch anderes Erlebnis und bringt eine Textur aus vergangenen Zeiten auf den Tisch.</p>\n<p>Tufan Organik liefert Kavılca-Weizen zusammen mit den anderen Produkten der Getreidekategorie als ganzes Korn in Ihre Küche. Über Nacht eingeweicht und gekocht, lässt er sich in vielen Rezepten verwenden – von Salaten bis zu Suppen. Die gekochten Körner in einem Behälter beiseitezustellen und im Laufe der Woche verschiedenen Gerichten beizufügen, ist ein praktischer Weg, mit einer einzigen Zubereitung mehrere Mahlzeiten geschmacklich zu bereichern.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Bereiten Sie gekochten Kavılca mit Granatapfel, Petersilie und Olivenöl als Weizensalat zu.</li>\n<li>Verwenden Sie in Joghurtsuppen Kavılca-Körner anstelle von Reis.</li>\n<li>Geben Sie eine Handvoll gekochten Kavılca in Schmorgerichte mit Fleisch oder Gemüse für ein sättigendes Eintopfgericht.</li>\n</ul>\n<p><strong>Verpackung:</strong> In verschiedenen Größen auf Anfrage erhältlich.</p>",
-    "ko": "<h2>카블자(엠머밀): 주방 속 고대 곡물의 자리</h2>\n<p>카블자는 토종 고대 밀로 꼽히는 오래된 곡물로, 껍질에 싸인 구조로 알려져 있습니다. 익히면 낟알이 통통하고 약간 단단하게 유지되며, 입안에 달콤하고 헤이즐넛을 연상시키는 맛을 남깁니다. 현대 밀에 익숙한 입맛에는 친숙하면서도 색다른 경험을 선사하며, 과거로부터 이어진 식감을 식탁에 전합니다.</p>\n<p>Tufan Organik는 카블자 밀을 곡물 제품군의 다른 제품들과 함께 통곡물 형태로 여러분의 주방에 전합니다. 전날 밤 물에 불린 뒤 삶으면 샐러드부터 수프까지 다양한 요리에 활용할 수 있습니다. 삶은 낟알을 용기에 따로 담아 두었다가 주중에 여러 요리에 넣으면, 한 번의 준비로 여러 끼니에 맛을 더할 수 있는 실용적인 방법이 됩니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>삶은 카블자에 석류, 파슬리, 올리브유를 더해 밀 샐러드로 즐겨 보세요.</li>\n<li>요거트 수프에 쌀 대신 카블자 낟알을 사용해 보세요.</li>\n<li>고기나 채소 스튜에 삶은 카블자 한 줌을 넣어 든든한 냄비 요리를 만들어 보세요.</li>\n</ul>\n<p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>"
+    "ko": "<h2>카블자(엠머밀): 주방 속 고대 곡물의 자리</h2>\n<p>카블자는 토종 고대 밀로 꼽히는 오래된 곡물로, 껍질에 싸인 구조로 알려져 있습니다. 익히면 낟알이 통통하고 약간 단단하게 유지되며, 입안에 달콤하고 헤이즐넛을 연상시키는 맛을 남깁니다. 현대 밀에 익숙한 입맛에는 친숙하면서도 색다른 경험을 선사하며, 과거로부터 이어진 식감을 식탁에 전합니다.</p>\n<p>Tufan Organik는 카블자 밀을 곡물 제품군의 다른 제품들과 함께 통곡물 형태로 여러분의 주방에 전합니다. 전날 밤 물에 불린 뒤 삶으면 샐러드부터 수프까지 다양한 요리에 활용할 수 있습니다. 삶은 낟알을 용기에 따로 담아 두었다가 주중에 여러 요리에 넣으면, 한 번의 준비로 여러 끼니에 맛을 더할 수 있는 실용적인 방법이 됩니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>삶은 카블자에 석류, 파슬리, 올리브유를 더해 밀 샐러드로 즐겨 보세요.</li>\n<li>요거트 수프에 쌀 대신 카블자 낟알을 사용해 보세요.</li>\n<li>고기나 채소 스튜에 삶은 카블자 한 줌을 넣어 든든한 냄비 요리를 만들어 보세요.</li>\n</ul>\n<p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>",
+    "ja": "<h2>カヴルジャ（エンマー小麦）：食卓に息づく古来の穀物</h2>\n<p>カヴルジャ（エンマー小麦）は、古来から伝わる小麦の一種であり、外皮に包まれた構造が特徴的な古代穀物です。調理すると粒がふっくらとし、適度な歯ごたえが残り、口の中にはナッツのような甘みのある味わいが広がります。現代の小麦に慣れ親しんだ方にとっても、馴染み深さの中に新しさがある体験となり、食卓に古来の食感をもたらします。</p>\n<p>トゥファン・オルガニックは、穀物シリーズの他の製品とともに、カヴルジャ（エンマー小麦）をホールグレインの状態で皆さまのキッチンへお届けします。一晩水に浸してから茹でるだけで、サラダからスープまで幅広いレシピにご活用いただけます。茹でた粒を容器に入れて保存しておき、一週間の間にさまざまな料理に加えることで、一度の準備で毎日の食事に手軽に風味を加えることができます。</p>\n<h3>お召し上がり方の提案</h3>\n<ul>\n<li>茹でたカヴルジャ（エンマー小麦）を、ザクロ、パセリ、オリーブオイルと一緒に小麦サラダとして。</li>\n<li>ヨーグルトベースのスープの代わりとして、カヴルジャ（エンマー小麦）の粒を使用する。</li>\n<li>肉料理や野菜のキャセロールに、茹でたカヴルジャ（エンマー小麦）をひとつかみ加えて、ボリュームのある一皿に。</li>\n</ul>\n<p><strong>パッケージング：</strong> ご要望に応じて、さまざまなサイズをご用意しています。</p>"
   },
   "title": {
     "tr": "Kavılca Buğdayı | Tufan Organik",
     "en": "Kavılca (Emmer) Wheat | Tufan Organik",
     "ar": "قمح الإمّر (كافيلجا) | Tufan Organik",
     "de": "Kavılca-Emmerweizen | Tufan Organik",
-    "ko": "카블자(엠머밀) | Tufan Organik"
+    "ko": "카블자(엠머밀) | Tufan Organik",
+    "ja": "カヴルジャ（エンマー小麦） | Tufan Organik"
   },
   "date": "2026-10-28T08:16:19.779Z",
   "update": "2026-10-28T09:07:51.281Z",

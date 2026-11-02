@@ -4,7 +4,8 @@
     "en": "Fruit Extracts",
     "ar": "مستخلصات الفاكهة",
     "de": "Fruchtextrakte",
-    "ko": "과일 추출물"
+    "ko": "과일 추출물",
+    "ja": "フルーツエキス"
   },
   "status": "play",
   "category": "",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Fruit Extracts",
     "ar": "Tufan Organik, مستخلصات الفاكهة",
     "de": "Tufan Organik, Fruchtextrakte",
-    "ja": "",
+    "ja": "Tufan Organik, フルーツエキス",
     "ko": "Tufan Organik, 과일 추출물"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Fruit Extracts product group.",
     "ar": "مجموعة منتجات مستخلصات الفاكهة من توفان أورغانيك.",
     "de": "Tufan Organik Produktgruppe Fruchtextrakte.",
-    "ko": "투판 오가닉 과일 추출물 제품군."
+    "ko": "투판 오가닉 과일 추출물 제품군.",
+    "ja": "Tufan Organik フルーツエキスの製品グループです。"
   },
   "index": 10,
   "icon": "category",
@@ -39,7 +41,7 @@
     "en": "Fruit Extracts | Tufan Organik",
     "ar": "مستخلصات الفاكهة | Tufan Organik",
     "de": "Fruchtextrakte | Tufan Organik",
-    "ja": "",
+    "ja": "フルーツエキス | Tufan Organik",
     "ko": "과일 추출물 | Tufan Organik"
   },
   "text": {

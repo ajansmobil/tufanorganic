@@ -5,21 +5,24 @@
     "en": "Lavash and Yufka Varieties",
     "ar": "أنواع اللافاش واليوفكا",
     "de": "Lavaş und Yufka",
-    "ko": "라바시 및 유프카 종류"
+    "ko": "라바시 및 유프카 종류",
+    "ja": "ラヴァッシュ・ユフカ"
   },
   "description": {
     "tr": "Tufan Organik Lavaş ve Yufka Çeşitleri ürün grubu.",
     "en": "Tufan Organik Lavash and Yufka Varieties product group.",
     "ar": "مجموعة منتجات أنواع اللافاش واليوفكا من توفان أورغانيك.",
     "de": "Tufan Organik Produktgruppe Lavaş und Yufka.",
-    "ko": "투판 오가닉 라바시 및 유프카 종류 제품군."
+    "ko": "투판 오가닉 라바시 및 유프카 종류 제품군.",
+    "ja": "Tufan Organik ラヴァッシュ・ユフカの製品グループです。"
   },
   "keyword": {
     "tr": "Tufan Organik, Lavaş ve Yufka Çeşitleri",
     "en": "Tufan Organik, Lavash and Yufka Varieties",
     "ar": "Tufan Organik, أنواع اللافاش واليوفكا",
     "de": "Tufan Organik, Lavaş und Yufka",
-    "ko": "Tufan Organik, 라바시 및 유프카 종류"
+    "ko": "Tufan Organik, 라바시 및 유프카 종류",
+    "ja": "Tufan Organik, ラヴァッシュ・ユフカ"
   },
   "path": "lavas-ve-yufka-cesitleri",
   "icon": "category",
@@ -32,13 +35,16 @@
   },
   "index": 18,
   "url": "",
-  "text": {},
+  "text": {
+    "ja": ""
+  },
   "title": {
     "tr": "Lavaş ve Yufka Çeşitleri | Tufan Organik",
     "en": "Lavash and Yufka Varieties | Tufan Organik",
     "ar": "أنواع اللافاش واليوفكا | Tufan Organik",
     "de": "Lavaş und Yufka | Tufan Organik",
-    "ko": "라바시 및 유프카 종류 | Tufan Organik"
+    "ko": "라바시 및 유프카 종류 | Tufan Organik",
+    "ja": "ラヴァッシュ・ユフカ | Tufan Organik"
   },
   "date": "2026-10-28T08:07:44.219Z",
   "update": "2026-10-28T08:07:44.446Z"

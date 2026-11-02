@@ -4,7 +4,8 @@
     "en": "Fruit Juices",
     "ar": "عصائر الفاكهة",
     "de": "Fruchtsäfte",
-    "ko": "과일 주스"
+    "ko": "과일 주스",
+    "ja": "フルーツジュース"
   },
   "status": "play",
   "category": "",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Fruit Juices",
     "ar": "Tufan Organik, عصائر الفاكهة",
     "de": "Tufan Organik, Fruchtsäfte",
-    "ja": "",
+    "ja": "Tufan Organik, フルーツジュース",
     "ko": "Tufan Organik, 과일 주스"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Fruit Juices product group.",
     "ar": "مجموعة منتجات عصائر الفاكهة من توفان أورغانيك.",
     "de": "Tufan Organik Produktgruppe Fruchtsäfte.",
-    "ko": "투판 오가닉 과일 주스 제품군."
+    "ko": "투판 오가닉 과일 주스 제품군.",
+    "ja": "Tufan Organik フルーツジュースの製品グループです。"
   },
   "index": 9,
   "icon": "category",
@@ -39,7 +41,7 @@
     "en": "Fruit Juices | Tufan Organik",
     "ar": "عصائر الفاكهة | Tufan Organik",
     "de": "Fruchtsäfte | Tufan Organik",
-    "ja": "",
+    "ja": "フルーツジュース | Tufan Organik",
     "ko": "과일 주스 | Tufan Organik"
   },
   "text": {

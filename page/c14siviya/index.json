@@ -4,7 +4,8 @@
     "en": "Frozen Fruits",
     "ar": "الفواكه المجمدة",
     "de": "Tiefkühl-Obst",
-    "ko": "냉동 과일"
+    "ko": "냉동 과일",
+    "ja": "凍結フルーツ"
   },
   "status": "play",
   "category": "",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Frozen Fruits",
     "ar": "Tufan Organik, الفواكه المجمدة",
     "de": "Tufan Organik, Tiefkühl-Obst",
-    "ja": "",
+    "ja": "Tufan Organik, 凍結フルーツ",
     "ko": "Tufan Organik, 냉동 과일"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Frozen Fruits product group.",
     "ar": "مجموعة منتجات الفواكه المجمدة من توفان أورغانيك.",
     "de": "Tufan Organik Produktgruppe Tiefkühl-Obst.",
-    "ko": "투판 오가닉 냉동 과일 제품군."
+    "ko": "투판 오가닉 냉동 과일 제품군.",
+    "ja": "Tufan Organik 凍結フルーツの製品グループです。"
   },
   "index": 13,
   "icon": "category",
@@ -39,7 +41,7 @@
     "en": "Frozen Fruits | Tufan Organik",
     "ar": "الفواكه المجمدة | Tufan Organik",
     "de": "Tiefkühl-Obst | Tufan Organik",
-    "ja": "",
+    "ja": "凍結フルーツ | Tufan Organik",
     "ko": "냉동 과일 | Tufan Organik"
   },
   "text": {

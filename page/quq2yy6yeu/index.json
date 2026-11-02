@@ -4,7 +4,8 @@
     "en": "Forest Fruits Syrup",
     "ar": "شراب ثمار الغابة",
     "de": "Waldfruchtsirup",
-    "ko": "포레스트 프루트 시럽"
+    "ko": "포레스트 프루트 시럽",
+    "ja": "森のベリーシロップ"
   },
   "status": "play",
   "category": "c11pekmez",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, Forest Fruits Syrup, Pekmez & Syrups, pekmez, grape pekmez, carob pekmez, fruit syrup",
     "ar": "Tufan Organik, غورون/سيواس, أغذية طبيعية, شراب ثمار الغابة, الدبس والشراب, دبس, دبس العنب, دبس الخروب, شراب فواكه",
     "de": "Tufan Organik, Gürün/Sivas, Naturkost, Waldfruchtsirup, Pekmez & Sirupe, Pekmez, Trauben-Pekmez, Johannisbrot-Pekmez, Fruchtsirup",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 森のベリーシロップ, フルーツエキス",
     "ko": "Tufan Organik, 귀륀/시바스, 자연식품, 포레스트 프루트 시럽, 페크메즈 및 시럽, 페크메즈, 포도 페크메즈, 캐럽 페크메즈, 과일 시럽"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Forest Fruits Syrup is a mixed fruit syrup from our Pekmez & Syrups range, offered in 500 ml, a natural food rooted in Gürün/Sivas.",
     "ar": "Tufan Organik شراب ثمار الغابة: شراب فواكه مشكّلة ضمن مجموعة الدبس والشراب، يُقدَّم بسعة 500 ml، وهو غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Waldfruchtsirup ist ein gemischter Fruchtsirup aus der Gruppe Pekmez & Sirupe, erhältlich in 500 ml – ein Naturprodukt mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 포레스트 프루트 시럽은 페크메즈 및 시럽류에 속하는 혼합 과일 시럽으로, 500 ml 용량으로 제공되는 귀륀/시바스 출신의 자연식품입니다."
+    "ko": "Tufan Organik 포레스트 프루트 시럽은 페크메즈 및 시럽류에 속하는 혼합 과일 시럽으로, 500 ml 용량으로 제공되는 귀륀/시바스 출신의 자연식품입니다.",
+    "ja": "Tufan Organik 森のベリーシロップは、フルーツエキスカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "index": 165,
   "icon": "water_drop",
@@ -43,7 +45,7 @@
     "en": "Forest Fruits Syrup | Tufan Organik",
     "ar": "شراب ثمار الغابة | Tufan Organik",
     "de": "Waldfruchtsirup | Tufan Organik",
-    "ja": "",
+    "ja": "森のベリーシロップ | Tufan Organik",
     "ko": "포레스트 프루트 시럽 | Tufan Organik"
   },
   "text": {
@@ -51,7 +53,7 @@
     "en": "<h2>Forest Fruits Syrup: A Colorful Harmony of Mixed Fruits</h2>\n<p>Forest Fruits Syrup is a rich syrup that brings different fruits together and balances sweet and tart. Thanks to its consistency, it is used diluted or poured over desserts rather than drunk straight. Even a small amount adds a distinct fruity aroma and vivid color to a glass of water or a plate of dessert.</p>\n<p>Among Tufan Organik's syrups, forest fruits stands out for its versatility. Coming from Gürün/Sivas, this product's 500 ml size offers enough both for making refreshing drinks at home and for decorating cakes and desserts. You can easily adjust the dilution ratio to your own taste.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Mix one part syrup with five parts cold water and add ice for a refreshing sherbet.</li>\n<li>Drizzle as a sauce over waffles, pancakes or slices of cheesecake.</li>\n<li>Stir into plain yogurt or vanilla ice cream to make a fruity dessert.</li>\n</ul>\n<p><strong>Size:</strong> 500 ml</p>",
     "ar": "<h2>شراب ثمار الغابة: تناغم ملوّن من الفواكه المشكّلة</h2>\n<p>شراب ثمار الغابة شراب مركّز يجمع فواكه مختلفة ويوازن بين الحلاوة والحموضة. وبفضل قوامه يُستخدم مخففًا أو مسكوبًا فوق الحلويات أكثر من شربه مباشرة. وحتى الكمية القليلة منه تضفي على كوب من الماء أو طبق من الحلوى نكهة فاكهية واضحة ولونًا زاهيًا.</p>\n<p>تتميّز ثمار الغابة بين أنواع الشراب من Tufan Organik بتعدد استخداماتها. ويوفّر هذا المنتج القادم من غورون/سيواس، بعبوته سعة 500 ml، كمية كافية لتحضير مشروبات منعشة في المنزل ولتزيين الكعك والحلويات. ويمكنك ضبط نسبة التخفيف بسهولة حسب ذوقك.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>امزج مقدارًا واحدًا من الشراب مع خمسة مقادير من الماء البارد وأضف الثلج لتحضير شراب منعش.</li>\n<li>رُشّه صلصةً فوق الوافل أو البان كيك أو شرائح كعكة الجبن.</li>\n<li>امزجه مع الزبادي السادة أو آيس كريم الفانيليا لتحضير حلوى بالفواكه.</li>\n</ul>\n<p><strong>الحجم:</strong> 500 ml</p>",
     "de": "<h2>Waldfruchtsirup: farbenfrohe Harmonie gemischter Früchte</h2>\n<p>Waldfruchtsirup ist ein konzentrierter Sirup, der verschiedene Früchte vereint und Süße und Säure ausbalanciert. Aufgrund seiner Konsistenz wird er weniger pur getrunken, sondern verdünnt oder über Desserts gegossen. Schon eine kleine Menge verleiht einem Glas Wasser oder einem Dessertteller ein deutliches, fruchtiges Aroma und eine lebhafte Farbe.</p>\n<p>Unter den Sirupsorten von Tufan Organik sticht Waldfrucht durch ihre Vielseitigkeit hervor. Das Produkt aus Gürün/Sivas bietet mit seiner 500-ml-Flasche genug, um zu Hause erfrischende Getränke zuzubereiten und Torten und Desserts zu verzieren. Das Mischverhältnis können Sie ganz einfach nach Ihrem Geschmack anpassen.</p>\n<h3>Verwendungstipps</h3>\n<ul>\n<li>Einen Teil Sirup mit fünf Teilen kaltem Wasser mischen und mit Eis zu einem erfrischenden Scherbett machen.</li>\n<li>Als Soße über Waffeln, Pfannkuchen oder Käsekuchenstücke träufeln.</li>\n<li>Unter Naturjoghurt oder Vanilleeis rühren und so ein fruchtiges Dessert zubereiten.</li>\n</ul>\n<p><strong>Füllmenge:</strong> 500 ml</p>",
-    "ja": "",
+    "ja": "<h2>森のベリーシロップ：ミックスフルーツが織りなす色彩豊かなハーモニー</h2>\n<p>森のベリーシロップは、さまざまな果実を組み合わせ、甘みと酸味のバランスを整えた濃厚なシロップです。その質感により、そのまま飲むのではなく、希釈したりデザートにかけたりしていただくのが一般的です。少量加えるだけで、一杯の水にフルーティーな香りと鮮やかな色彩を、デザートには豊かな風味を添えてくれます。</p>\n<p>トゥファン・オルガニックのシロップの中でも、森のベリーシロップはその汎用性の高さで際立っています。ギュルン/シヴァス産のこの500mlサイズの商品は、ご家庭で爽やかなドリンクを作るのにも、ケーキやデザートのデコレーションに使うのにも十分な量です。お好みに合わせて、希釈率を簡単に調整いただけます。</p>\n<h3>おすすめの召し上がり方</h3>\n<ul>\n<li>シロップ1に対して冷水を5の割合で混ぜ、氷を加えると、爽やかなシャーベット風ドリンクになります。</li>\n<li>ワッフルやパンケーキ、チーズケーキにソースとしてかけてお召し上がりください。</li>\n<li>プレーンヨーグルトやバニラアイスクリームに混ぜて、フルーティーなデザートに。</li>\n</ul>\n<p><strong>容量:</strong> 500 ml</p>",
     "ko": "<h2>포레스트 프루트 시럽: 여러 과일이 어우러진 다채로운 조화</h2>\n<p>포레스트 프루트 시럽은 여러 과일을 한데 모아 단맛과 신맛의 균형을 맞춘 진한 시럽입니다. 농도가 있어 그대로 마시기보다는 물에 희석하거나 디저트 위에 부어 사용합니다. 적은 양으로도 물 한 잔이나 디저트 한 접시에 뚜렷한 과일 향과 선명한 색을 더합니다.</p>\n<p>Tufan Organik의 시럽 가운데 포레스트 프루트는 다양한 활용도로 돋보입니다. 귀륀/시바스에서 온 이 제품은 500 ml 용량으로 집에서 시원한 음료를 만들기에도, 케이크와 디저트를 장식하기에도 충분한 양을 제공합니다. 희석 비율은 취향에 맞게 손쉽게 조절할 수 있습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>시럽 1에 찬물 5의 비율로 섞고 얼음을 넣어 시원한 셔벗 음료를 만들어 보세요.</li>\n<li>와플, 팬케이크 또는 치즈케이크 조각 위에 소스로 뿌려 보세요.</li>\n<li>플레인 요거트나 바닐라 아이스크림에 섞어 과일 디저트를 만들어 보세요.</li>\n</ul>\n<p><strong>용량:</strong> 500 ml</p>"
   },
   "update": "2026-10-28T09:07:58.100Z",

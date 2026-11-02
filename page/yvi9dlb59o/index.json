@@ -4,7 +4,8 @@
     "en": "Corporate",
     "ar": "المؤسسة",
     "de": "Unternehmen",
-    "ko": "회사 소개"
+    "ko": "회사 소개",
+    "ja": "企業情報"
   },
   "status": "play",
   "category": "",
@@ -26,7 +27,8 @@
     "en": "Tufan Organik corporate information: about us, mission, vision and quality policy. Natural food production in Gürün/Sivas.",
     "ar": "معلومات مؤسسة Tufan Organik: من نحن، رسالتنا، رؤيتنا وسياسة الجودة. إنتاج الأغذية الطبيعية في غورون/سيواس.",
     "de": "Unternehmensinformationen von Tufan Organik: Über uns, Mission, Vision und Qualitätspolitik. Natürliche Lebensmittelproduktion in Gürün/Sivas.",
-    "ko": "Tufan Organik 회사 정보: 회사 소개, 사명, 비전, 품질 정책. 귀륀/시바스의 천연 식품 생산."
+    "ko": "Tufan Organik 회사 정보: 회사 소개, 사명, 비전, 품질 정책. 귀륀/시바스의 천연 식품 생산.",
+    "ja": "Tufan Organikの企業情報：会社概要、ミッション、ビジョン、品質方針。"
   },
   "desc": {},
   "title": {
@@ -34,7 +36,7 @@
     "en": "Corporate | Tufan Organik",
     "ar": "المؤسسة | Tufan Organik",
     "de": "Unternehmen | Tufan Organik",
-    "ja": "",
+    "ja": "企業情報 | Tufan Organik",
     "ko": "회사 소개 | Tufan Organik"
   },
   "keyword": {
@@ -42,7 +44,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, corporate, about us, vision, mission, quality policy",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, مؤسسة, من نحن, رؤية ورسالة, سياسة الجودة",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Unternehmen, Über uns, Vision, Mission, Qualitätspolitik",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 企業情報, 会社概要",
     "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 회사 소개, 비전, 사명, 품질 정책"
   },
   "text": {

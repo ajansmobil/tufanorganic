@@ -5,21 +5,24 @@
     "en": "Bulgur for Pilaf",
     "ar": "برغل للبيلاف",
     "de": "Pilaw-Bulgur",
-    "ko": "필라프용 불구르"
+    "ko": "필라프용 불구르",
+    "ja": "ピラフ用ブルグル"
   },
   "description": {
     "tr": "Tufan Organik Pilavlık Bulgur, Tahıl Grubu ve Unları grubunda. Gürün/Sivas kökenli doğal gıda.",
     "en": "Tufan Organik Bulgur for Pilaf, from the Grains and Flours range: a natural food with roots in Gürün/Sivas.",
     "ar": "Tufan Organik – برغل للبيلاف من مجموعة الحبوب ودقيقها، غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Pilaw-Bulgur aus der Gruppe Getreide und Mehle – ein natürliches Lebensmittel mit Ursprung in Gürün/Sivas.",
-    "ko": "Tufan Organik 필라프용 불구르는 곡물 및 곡물가루 제품군에 속하는, 귀륀/시바스에 뿌리를 둔 천연 식품입니다."
+    "ko": "Tufan Organik 필라프용 불구르는 곡물 및 곡물가루 제품군에 속하는, 귀륀/시바스에 뿌리를 둔 천연 식품입니다.",
+    "ja": "Tufan Organik ピラフ用ブルグルは、穀物と粉カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "keyword": {
     "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Pilavlık Bulgur, Tahıl Grubu ve Unları",
     "en": "Tufan Organik, Gürün/Sivas, natural food, Bulgur for Pilaf, Grains and Flours",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, برغل للبيلاف, الحبوب ودقيقها",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Pilaw-Bulgur, Getreide und Mehle",
-    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 필라프용 불구르, 곡물 및 곡물가루"
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 필라프용 불구르, 곡물 및 곡물가루",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ピラフ用ブルグル, 穀物と粉"
   },
   "path": "pilavlik-bulgur",
   "icon": "breakfast_dining",
@@ -37,14 +40,16 @@
     "en": "<h2>Bulgur for Pilaf: The Foundation of Fluffy Pilaf</h2>\n<p>Bulgur is a grain product made from wheat and one of the cornerstones of Anatolian cuisine. Bulgur for pilaf consists of grains suited to pilaf; when cooked, the grains do not stick together, swell as they absorb the water and leave a light nutty aroma. It is an essential ingredient for pilafs with tomato, with vegetables or plain.</p>\n<p>Tufan Organik offers bulgur for pilaf in two options, fine and coarse: the fine one gives a softer, quicker-cooking pilaf, while the coarse one leaves a plump result with separate grains. When toasted in butter and steamed with hot water, it fills the kitchen with that familiar aroma and accompanies many dishes on the table.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Make a classic bulgur pilaf with onion, pepper paste and tomatoes.</li>\n<li>Cook coarse bulgur together with chickpeas and vermicelli to prepare a hearty pilaf.</li>\n<li>Cook vegetables such as eggplant or zucchini in the same pot as the pilaf for a one-pot meal.</li>\n</ul>\n<p><strong>Packaging:</strong> Available in various weights, on request.</p>",
     "ar": "<h2>برغل للبيلاف: أساس البرغل المفلفل حبة حبة</h2>\n<p>البرغل منتج حبوب يُحضَّر من القمح، وهو من الركائز الأساسية لموائد الأناضول. يتكون برغل البيلاف من حبات مناسبة للبيلاف؛ فعند طهيه لا تلتصق حباته ببعضها، وينتفخ وهو يتشرب الماء، ويترك رائحة خفيفة تشبه البندق. إنه مكوّن لا غنى عنه لأطباق البيلاف بالطماطم أو بالخضار أو السادة.</p>\n<p>تقدم Tufan Organik برغل البيلاف بخيارين، ناعم وخشن؛ فالناعم يعطي بيلافًا أطرى وأسرع نضجًا، بينما يمنح الخشن نتيجة ممتلئة بحبات منفصلة. وحين يُحمَّص بالزبدة ويُترك ليتشرب الماء الساخن، تفوح منه تلك الرائحة المألوفة التي تملأ المطبخ، ويرافق كثيرًا من الأطباق على المائدة.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>حضّر بيلاف البرغل الكلاسيكي بالبصل ومعجون الفلفل والطماطم.</li>\n<li>اطهُ البرغل الخشن مع الحمص والشعيرية لتحضير بيلاف مشبع.</li>\n<li>اطهُ خضارًا مثل الباذنجان أو الكوسا في القدر نفسه مع البيلاف لتحصل على وجبة في قدر واحد.</li>\n</ul>\n<p><strong>التغليف:</strong> متوفر بأوزان مختلفة حسب الطلب.</p>",
     "de": "<h2>Pilaw-Bulgur: Die Basis für lockeren Pilaw</h2>\n<p>Bulgur ist ein aus Weizen hergestelltes Getreideprodukt und eine der tragenden Säulen der anatolischen Küche. Pilaw-Bulgur besteht aus Körnern, die sich für Pilaw eignen; beim Garen kleben die Körner nicht zusammen, quellen auf, während sie das Wasser aufnehmen, und hinterlassen ein leicht nussiges Aroma. Er ist eine unverzichtbare Zutat für Pilaw mit Tomaten, mit Gemüse oder ganz pur.</p>\n<p>Tufan Organik bietet Pilaw-Bulgur in zwei Varianten an, fein und grob: Der feine ergibt einen weicheren, schneller garenden Pilaw, der grobe ein volles Ergebnis mit lockeren, einzelnen Körnern. In Butter angeröstet und mit heißem Wasser gedämpft, erfüllt er die Küche mit diesem vertrauten Duft und begleitet viele Gerichte auf dem Tisch.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Bereiten Sie einen klassischen Bulgur-Pilaw mit Zwiebeln, Paprikamark und Tomaten zu.</li>\n<li>Garen Sie groben Bulgur zusammen mit Kichererbsen und Fadennudeln zu einem sättigenden Pilaw.</li>\n<li>Garen Sie Gemüse wie Auberginen oder Zucchini im selben Topf wie den Pilaw und erhalten Sie so ein Gericht aus nur einem Topf.</li>\n</ul>\n<p><strong>Verpackung:</strong> In verschiedenen Gewichtsgrößen, auf Anfrage erhältlich.</p>",
-    "ko": "<h2>필라프용 불구르: 고슬고슬한 필라프의 기본</h2>\n<p>불구르는 밀로 만드는 곡물 제품으로, 아나톨리아 식탁의 기본이 되는 재료 중 하나입니다. 필라프용 불구르는 필라프에 알맞은 알갱이로 이루어져 있어, 익히면 알갱이가 서로 달라붙지 않고 물을 흡수하며 부풀어 오르고 은은한 견과류 향을 남깁니다. 토마토 필라프, 채소 필라프, 담백한 기본 필라프에 빠질 수 없는 재료입니다.</p>\n<p>Tufan Organik는 필라프용 불구르를 고운 것과 굵은 것 두 가지로 선보입니다. 고운 불구르는 더 부드럽고 빨리 익는 필라프를, 굵은 불구르는 알갱이가 살아 있는 풍성한 필라프를 만들어 줍니다. 버터에 볶은 뒤 뜨거운 물을 부어 뜸을 들이면 주방을 가득 채우는 익숙한 향과 함께 식탁 위 다양한 요리와 어우러집니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>양파, 고추 페이스트, 토마토를 넣어 클래식한 불구르 필라프를 만들어 보세요.</li>\n<li>굵은 불구르를 병아리콩, 버미첼리와 함께 익혀 든든한 필라프를 준비해 보세요.</li>\n<li>가지나 애호박 같은 채소를 필라프와 같은 냄비에 익혀 한 냄비 요리를 완성해 보세요.</li>\n</ul>\n<p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>"
+    "ko": "<h2>필라프용 불구르: 고슬고슬한 필라프의 기본</h2>\n<p>불구르는 밀로 만드는 곡물 제품으로, 아나톨리아 식탁의 기본이 되는 재료 중 하나입니다. 필라프용 불구르는 필라프에 알맞은 알갱이로 이루어져 있어, 익히면 알갱이가 서로 달라붙지 않고 물을 흡수하며 부풀어 오르고 은은한 견과류 향을 남깁니다. 토마토 필라프, 채소 필라프, 담백한 기본 필라프에 빠질 수 없는 재료입니다.</p>\n<p>Tufan Organik는 필라프용 불구르를 고운 것과 굵은 것 두 가지로 선보입니다. 고운 불구르는 더 부드럽고 빨리 익는 필라프를, 굵은 불구르는 알갱이가 살아 있는 풍성한 필라프를 만들어 줍니다. 버터에 볶은 뒤 뜨거운 물을 부어 뜸을 들이면 주방을 가득 채우는 익숙한 향과 함께 식탁 위 다양한 요리와 어우러집니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>양파, 고추 페이스트, 토마토를 넣어 클래식한 불구르 필라프를 만들어 보세요.</li>\n<li>굵은 불구르를 병아리콩, 버미첼리와 함께 익혀 든든한 필라프를 준비해 보세요.</li>\n<li>가지나 애호박 같은 채소를 필라프와 같은 냄비에 익혀 한 냄비 요리를 완성해 보세요.</li>\n</ul>\n<p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>",
+    "ja": "<h2>ピラフ用ブルグル：ふっくらとしたピラフの基本</h2>\n<p>ブルグルは小麦から作られる穀物製品であり、アナトリア料理の要の一つです。ピラフ用ブルグルはピラフに適した粒で構成されており、調理すると粒同士がくっつかず、水分を吸収してふっくらと膨らみ、軽やかで香ばしい香りを漂わせます。トマトや野菜を使ったピラフ、あるいはシンプルなピラフにも欠かせない食材です。</p>\n<p>トゥファン・オルガニックでは、ピラフ用ブルグルを「細かいタイプ」と「粗いタイプ」の2種類からお選びいただけます。細かいタイプはより柔らかく、手早く調理でき、粗いタイプは粒立ちの良いふっくらとした仕上がりになります。バターで炒めてから熱湯で蒸し上げると、キッチンにあの懐かしい香りが広がり、食卓のさまざまな料理を引き立てます。</p>\n<h3>おすすめの召し上がり方</h3>\n<ul>\n<li>玉ねぎ、ペッパーペースト、トマトを使ったクラシックなブルグル・ピラフを作ってみてください。</li>\n<li>粗いブルグルをひよこ豆やヴェルミセリと一緒に炊いて、食べ応えのあるピラフにしましょう。</li>\n<li>ナスやズッキーニなどの野菜をピラフと同じ鍋で一緒に炊けば、ワンポットで手軽に一品が完成します。</li>\n</ul>\n<p><strong >包装：</strong>ご要望に応じて、さまざまな重量でご用意可能です。</p>"
   },
   "title": {
     "tr": "Pilavlık Bulgur | Tufan Organik",
     "en": "Bulgur for Pilaf | Tufan Organik",
     "ar": "برغل للبيلاف | Tufan Organik",
     "de": "Pilaw-Bulgur | Tufan Organik",
-    "ko": "필라프용 불구르 | Tufan Organik"
+    "ko": "필라프용 불구르 | Tufan Organik",
+    "ja": "ピラフ用ブルグル | Tufan Organik"
   },
   "date": "2026-10-28T08:16:20.877Z",
   "update": "2026-10-28T09:08:06.451Z",

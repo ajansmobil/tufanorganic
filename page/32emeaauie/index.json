@@ -4,7 +4,8 @@
     "en": "Melon Juice",
     "ar": "عصير الشمام",
     "de": "Melonensaft",
-    "ko": "멜론 주스"
+    "ko": "멜론 주스",
+    "ja": "メロンジュース"
   },
   "status": "play",
   "category": "c10meyves",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, Melon Juice, Fruit Juices, fruit juice, pomegranate juice, natural fruit juice, additive-free drink",
     "ar": "Tufan Organik, غورون/سيواس, أغذية طبيعية, عصير الشمام, العصائر, عصير فواكه, عصير الرمان, عصير فواكه طبيعي, مشروب خالٍ من الإضافات",
     "de": "Tufan Organik, Gürün/Sivas, Naturkost, Melonensaft, Fruchtsäfte, Fruchtsaft, Granatapfelsaft, natürlicher Fruchtsaft, Getränk ohne Zusatzstoffe",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, メロンジュース, フルーツジュース",
     "ko": "Tufan Organik, 귀륀/시바스, 자연식품, 멜론 주스, 과일 주스류, 과일 주스, 석류 주스, 천연 과일 주스, 무첨가 음료"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Melon Juice is a melon nectar from our Fruit Juices range, offered in 1 L, a natural food rooted in Gürün/Sivas.",
     "ar": "Tufan Organik عصير الشمام: رحيق شمام من مجموعة العصائر، يُقدَّم بسعة 1 L، وهو غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Melonensaft ist ein Melonennektar aus der Gruppe Fruchtsäfte, erhältlich in 1 L – ein Naturprodukt mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 멜론 주스는 과일 주스류에 속하는 멜론 넥타로, 1 L 용량으로 제공되는 귀륀/시바스 출신의 자연식품입니다."
+    "ko": "Tufan Organik 멜론 주스는 과일 주스류에 속하는 멜론 넥타로, 1 L 용량으로 제공되는 귀륀/시바스 출신의 자연식품입니다.",
+    "ja": "Tufan Organik メロンジュースは、フルーツジュースカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "index": 156,
   "icon": "local_bar",
@@ -43,7 +45,7 @@
     "en": "Melon Juice | Tufan Organik",
     "ar": "عصير الشمام | Tufan Organik",
     "de": "Melonensaft | Tufan Organik",
-    "ja": "",
+    "ja": "メロンジュース | Tufan Organik",
     "ko": "멜론 주스 | Tufan Organik"
   },
   "text": {
@@ -51,7 +53,7 @@
     "en": "<h2>Melon Juice: Fragrant Melon in Nectar Form</h2>\n<p>Melon Juice offers the distinctive aroma and gentle sweetness of melon in a nectar consistency. With its lightly thick texture, it has a more velvety mouthfeel than watermelon juice. The aroma comes through on the first sip; served cold, its freshness and sweetness become more balanced, offering a light break after a long day.</p>\n<p>Anyone who knows the scent of a melon being cut on a summer evening will recognize this drink right away. Among its Gürün/Sivas-rooted products, Tufan Organik now brings melon to the bottle as well. The 1-liter size provides enough for crowded tables and family use in one go; when guests arrive, it is ready to serve as a cold treat.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Mix with a little freshly grated ginger and lemon for a lightly sharp summer drink.</li>\n<li>Blend with peach or banana for a thick breakfast drink.</li>\n<li>Drizzle a few spoonfuls over fruit salad to give it a juicy texture.</li>\n</ul>\n<p><strong>Size:</strong> 1 L</p>",
     "ar": "<h2>عصير الشمام: رحيق الشمام العطِر</h2>\n<p>يقدّم عصير الشمام رائحة الشمام المميزة وحلاوته الناعمة بقوام الرحيق. وبفضل قوامه الكثيف قليلًا، يمنح عند شربه إحساسًا مخمليًا أكثر من عصير البطيخ. تظهر نكهته من الرشفة الأولى، وعند تقديمه باردًا تصبح انتعاشته وحلاوته أكثر توازنًا، ليمنحك استراحة خفيفة بعد يوم طويل.</p>\n<p>من يعرف رائحة الشمام لحظة تقطيعه في أمسيات الصيف سيتعرّف على هذا المشروب فورًا. وتنقل Tufan Organik الشمام أيضًا إلى الزجاجة ضمن منتجاتها التي تعود أصولها إلى غورون/سيواس. توفّر عبوة 1 L كمية كافية للموائد العامرة وللاستخدام العائلي دفعة واحدة، وتبقى جاهزة ضيافةً باردة عند قدوم الضيوف.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>امزجه مع قليل من الزنجبيل الطازج المبشور والليمون لتحضير مشروب صيفي بلمسة لاذعة خفيفة.</li>\n<li>اخلطه في الخلاط مع الخوخ أو الموز للحصول على مشروب فطور كثيف القوام.</li>\n<li>رُشّ بضع ملاعق منه فوق سلطة الفواكه لتمنحها قوامًا عصيريًا.</li>\n</ul>\n<p><strong>الحجم:</strong> 1 L</p>",
     "de": "<h2>Melonensaft: duftende Melone als Nektar</h2>\n<p>Melonensaft bringt das unverwechselbare Aroma und die sanfte Süße der Melone in Nektarkonsistenz ins Glas. Dank seiner leicht dickflüssigen Textur trinkt er sich samtiger als Wassermelonensaft. Das Aroma ist schon beim ersten Schluck spürbar; gekühlt getrunken wirken Frische und Süße ausgewogener – eine leichte Pause nach einem langen Tag.</p>\n<p>Wer den Duft einer frisch aufgeschnittenen Melone an einem Sommerabend kennt, wird dieses Getränk sofort wiedererkennen. Tufan Organik bringt unter seinen Produkten aus Gürün/Sivas nun auch die Melone in die Flasche. Die 1-Liter-Flasche bietet auf einen Schlag genug für eine große Tischrunde und den Familiengebrauch; kommen Gäste, steht sie als kühle Erfrischung bereit.</p>\n<h3>Verwendungstipps</h3>\n<ul>\n<li>Mit etwas frisch geriebenem Ingwer und Zitrone mischen – für ein leicht pikantes Sommergetränk.</li>\n<li>Mit Pfirsich oder Banane im Mixer pürieren und so ein sämiges Frühstücksgetränk zubereiten.</li>\n<li>Ein paar Löffel über Obstsalat träufeln, um ihm eine saftige Note zu verleihen.</li>\n</ul>\n<p><strong>Füllmenge:</strong> 1 L</p>",
-    "ja": "",
+    "ja": "<h2>メロンジュース：ネクター仕立ての香り豊かなメロン</h2>\n<p>メロンジュースは、メロン特有の芳醇な香りと優しい甘みを、ネクターのような質感でお楽しみいただけます。少しとろみのあるテクスチャーは、スイカジュースよりもなめらかな口当たりです。最初の一口で香りが広がり、冷やして召し上がると、爽やかさと甘さのバランスがより際立ち、長い一日の後のちょっとした休息に最適です。</p>\n<p>夏の夕暮れ時にメロンを切った時のあの香りを覚えている方なら、すぐにこの味だとわかるでしょう。ギュルン/シヴァスにルーツを持つ製品を展開するトゥファン・オルガニックは、メロンをボトルに詰め込みました。1リットルサイズは、賑やかな食卓やご家族での使用に十分な量で、お客様が来られた際にも冷たい一品としてすぐにお出しいただけます。</p>\n<h3>お召し上がり方のご提案</h3>\n<ul>\n<li>すりたての生姜とレモンを少し混ぜて、さっぱりとした刺激的な夏の一杯に。</li>\n<li>桃やバナナと一緒にブレンドして、濃厚な朝食ドリンクに。</li>\n<li>フルーツサラダに数スプーンかけて、ジューシーな食感に。</li>\n</ul>\n<p><strong>サイズ：</strong> 1 L</p>",
     "ko": "<h2>멜론 주스: 향긋한 멜론을 넥타로</h2>\n<p>멜론 주스는 멜론 특유의 향과 부드러운 단맛을 넥타 농도로 담았습니다. 살짝 걸쭉한 질감 덕분에 수박 주스보다 한층 벨벳처럼 부드럽게 넘어갑니다. 첫 모금부터 향이 느껴지며, 차갑게 마시면 청량감과 단맛이 더욱 균형을 이루어 긴 하루 끝에 가벼운 휴식이 되어 줍니다.</p>\n<p>여름 저녁 멜론을 자르는 순간의 향을 아는 분이라면 이 음료를 곧바로 알아볼 것입니다. Tufan Organik는 귀륀/시바스에 뿌리를 둔 제품군에 멜론도 병에 담아 선보입니다. 1리터 용량은 여럿이 모이는 식탁과 가족용으로 한 번에 충분한 양을 제공하며, 손님이 오셨을 때 시원한 대접용으로 준비해 두기 좋습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>신선한 생강 간 것과 레몬을 조금 섞어 살짝 톡 쏘는 여름 음료를 만들어 보세요.</li>\n<li>복숭아나 바나나와 함께 블렌더에 갈아 걸쭉한 아침 음료로 즐기세요.</li>\n<li>과일 샐러드 위에 몇 스푼 뿌려 촉촉한 식감을 더해 보세요.</li>\n</ul>\n<p><strong>용량:</strong> 1 L</p>"
   },
   "update": "2026-10-28T09:07:21.771Z",

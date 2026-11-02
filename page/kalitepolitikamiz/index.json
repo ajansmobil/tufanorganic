@@ -4,7 +4,8 @@
     "en": "Our Quality Policy",
     "ar": "سياسة الجودة لدينا",
     "de": "Unsere Qualitätspolitik",
-    "ko": "품질 방침"
+    "ko": "품질 방침",
+    "ja": "品質方針"
   },
   "status": "play",
   "id": "kalitepolitikamiz",
@@ -15,7 +16,7 @@
     "en": "<h2 style=\"font-size: 24px;\">Our Quality Policy</h2>\n    <p style=\" font-size: 16px;\">\n        Food safety is our top priority in every process, from the selection of raw materials to final packaging and distribution. We embrace product quality, customer satisfaction and continuous improvement as the core principles of our way of working, and we apply an uncompromising production system that guarantees traceability at every step.\n    </p>",
     "ar": "<h2 style=\"font-size: 24px;\">سياسة الجودة لدينا</h2>\n    <p style=\" font-size: 16px;\">\n        سلامة الغذاء هي أولويتنا القصوى في جميع العمليات، بدءًا من اختيار المواد الخام وصولًا إلى التعبئة النهائية والتوزيع. ونتبنى جودة المنتج ورضا العملاء والتحسين المستمر مبادئ أساسية لأسلوب عملنا، ونطبق نظام إنتاج لا يتهاون في المعايير ويضمن إمكانية التتبع في كل خطوة.\n    </p>",
     "de": "<h2 style=\"font-size: 24px;\">Unsere Qualitätspolitik</h2>\n    <p style=\" font-size: 16px;\">\n        Lebensmittelsicherheit hat in allen Prozessen – von der Auswahl der Rohstoffe bis zur Endverpackung und zum Vertrieb – für uns höchste Priorität. Produktqualität, Kundenzufriedenheit und kontinuierliche Verbesserung sind die Grundprinzipien unserer Arbeitsweise; wir setzen auf eine Produktion ohne Kompromisse bei den Standards, die die Rückverfolgbarkeit in jedem Schritt gewährleistet.\n    </p>",
-    "ja": "",
+    "ja": "<h2 style=\"font-size: 24px;\">品質方針</h2>\n    <p style=\" font-size: 16px;\">\n        原料の選定から最終的な包装、流通に至るまで、あらゆる工程において食品の安全性を最優先事項としています。私たちは製品の品質、顧客満足、そして継続的な改善を業務の核心的な原則として掲げ、あらゆる段階でトレーサビリティを保証する、妥協のない生産体制を導入しています。\n    </p>",
     "ko": "<h2 style=\"font-size: 24px;\">당사의 품질 방침</h2>\n    <p style=\" font-size: 16px;\">\n        원료 선정부터 최종 포장과 유통에 이르는 모든 공정에서 식품 안전은 당사의 최우선 과제입니다. 제품 품질, 고객 만족, 지속적인 개선을 업무 방식의 핵심 원칙으로 삼고 있으며, 모든 단계에서 이력 추적을 보장하고 기준에 타협하지 않는 생산 체계를 운영합니다.\n    </p>"
   },
   "desing": {
@@ -31,7 +32,7 @@
     "en": "Our Quality Policy | Tufan Organik",
     "ar": "سياسة الجودة لدينا | Tufan Organik",
     "de": "Unsere Qualitätspolitik | Tufan Organik",
-    "ja": "",
+    "ja": "品質方針 | Tufan Organik",
     "ko": "품질 방침 | Tufan Organik"
   },
   "description": {
@@ -39,14 +40,15 @@
     "en": "Tufan Organik quality policy: our commitment to food safety, traceability and continuous improvement.",
     "ar": "Tufan Organik – سياسة الجودة: التزامنا بسلامة الغذاء وإمكانية التتبع والتحسين المستمر.",
     "de": "Tufan Organik – Qualitätspolitik: unser Bekenntnis zu Lebensmittelsicherheit, Rückverfolgbarkeit und kontinuierlicher Verbesserung.",
-    "ko": "Tufan Organik 품질 방침은 식품 안전, 이력 추적, 지속적인 개선에 대한 당사의 약속입니다."
+    "ko": "Tufan Organik 품질 방침은 식품 안전, 이력 추적, 지속적인 개선에 대한 당사의 약속입니다.",
+    "ja": "Tufan Organikの品質方針。生産から納品まで、品質と食品安全を最優先に取り組みます。"
   },
   "keyword": {
     "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, kalite politikası, gıda güvenliği, HACCP, ISO gıda",
     "en": "Tufan Organik, Gürün/Sivas, natural food, quality policy, food safety, HACCP, ISO food standards",
     "ar": "Tufan Organik, غورون/سيواس, أغذية طبيعية, سياسة الجودة, سلامة الغذاء, الهاسب, معايير الأيزو للأغذية",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Qualitätspolitik, Lebensmittelsicherheit, HACCP, ISO-Lebensmittelnormen",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 品質方針, 食品安全, 品質管理",
     "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 품질 방침, 식품 안전, HACCP, ISO 식품 표준"
   },
   "update": "2026-10-28T09:07:48.311Z",

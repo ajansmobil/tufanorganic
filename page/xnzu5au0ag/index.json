@@ -4,7 +4,8 @@
     "en": "Contact",
     "ar": "اتصل بنا",
     "de": "Kontakt",
-    "ko": "문의"
+    "ko": "문의",
+    "ja": "お問い合わせ"
   },
   "status": "play",
   "category": "",
@@ -27,7 +28,8 @@
     "en": "Contact Tufan Organik for wholesale orders, dealership and product information. Supply from Gürün/Sivas across Turkey.",
     "ar": "تواصل مع Tufan Organik لطلبات الجملة والوكالات ومعلومات المنتجات. التوريد من غورون/سيواس إلى جميع أنحاء تركيا.",
     "de": "Kontaktieren Sie Tufan Organik für Großbestellungen, Händlerschaft und Produktinformationen. Belieferung aus Gürün/Sivas in der ganzen Türkei.",
-    "ko": "Tufan Organik에 도매 주문, 대리점 및 제품 정보를 문의하세요. 귀륀/시바스에서 터키 전역으로 공급합니다."
+    "ko": "Tufan Organik에 도매 주문, 대리점 및 제품 정보를 문의하세요. 귀륀/시바스에서 터키 전역으로 공급합니다.",
+    "ja": "Tufan Organikへのお問い合わせ。住所、電話、WhatsApp、メールはこちら。"
   },
   "desc": {},
   "title": {
@@ -35,7 +37,7 @@
     "en": "Contact | Tufan Organik",
     "ar": "اتصل بنا | Tufan Organik",
     "de": "Kontakt | Tufan Organik",
-    "ja": "",
+    "ja": "お問い合わせ | Tufan Organik",
     "ko": "문의 | Tufan Organik"
   },
   "keyword": {
@@ -43,7 +45,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, contact, wholesale, dealership, get a quote",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, اتصال, بيع بالجملة, وكالة, عرض سعر",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Kontakt, Großhandel, Händlerschaft, Angebot anfordern",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, お問い合わせ, 連絡先, WhatsApp",
     "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 문의, 도매, 대리점, 견적 요청"
   },
   "update": "2026-10-28T09:08:57.451Z",

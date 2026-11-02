@@ -5,21 +5,24 @@
     "en": "Black Olives in Brine",
     "ar": "زيتون أسود في محلول ملحي",
     "de": "Schwarze Oliven in Salzlake",
-    "ko": "염수 절임 블랙 올리브"
+    "ko": "염수 절임 블랙 올리브",
+    "ja": "黒オリーブ塩漬け"
   },
   "description": {
     "tr": "Tufan Organik Siyah Salamura Zeytin, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler grubunda. Gürün/Sivas kökenli doğal gıda.",
     "en": "Tufan Organik Black Olives in Brine, from the Sour, Spicy and Sweet Specialty Sauces, Vinegars and Beverages range, are a natural food with roots in Gürün/Sivas.",
     "ar": "Tufan Organik زيتون أسود في محلول ملحي، من مجموعة الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات، غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Schwarze Oliven in Salzlake aus der Gruppe Saure, scharfe und süße Spezialsaucen, Essige und Getränke – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 염수 절임 블랙 올리브는 새콤·매콤·달콤 특제 소스, 식초 및 음료군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+    "ko": "Tufan Organik 염수 절임 블랙 올리브는 새콤·매콤·달콤 특제 소스, 식초 및 음료군에 속하는 귀륀/시바스 출신의 천연 식품입니다.",
+    "ja": "Tufan Organik 黒オリーブ塩漬けは、酸味・辛味・甘味の特別ソース、酢、飲料カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "keyword": {
     "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Siyah Salamura Zeytin, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler",
     "en": "Tufan Organik, Gürün/Sivas, natural food, Black Olives in Brine, Sour, Spicy and Sweet Specialty Sauces, Vinegars and Beverages",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, زيتون أسود في محلول ملحي, حامض, الصلصات الخاصة الحارة والحلوة, الخل والمشروبات",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Schwarze Oliven in Salzlake, Sauer, Scharfe und süße Spezialsaucen, Essige und Getränke",
-    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 염수 절임 블랙 올리브, 새콤한, 매콤하고 달콤한 특제 소스, 식초 및 음료"
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 염수 절임 블랙 올리브, 새콤한, 매콤하고 달콤한 특제 소스, 식초 및 음료",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 黒オリーブ塩漬け, 酸味・辛味・甘味の特別ソース、酢、飲料"
   },
   "path": "siyah-salamura-zeytin",
   "icon": "breakfast_dining",
@@ -37,14 +40,16 @@
     "en": "<h2>Black Olives in Brine: The Foundation of the Breakfast Plate</h2>\n<p>Black olives in brine are a well-known olive variety, made ready to eat by soaking ripened black olives in salted water. The olives are plump, with glossy skin and soft flesh; in their taste, saltiness is balanced by the slightly bitter richness of the olive. They are a staple of many tables, from breakfast to meze.</p>\n<p>In the Tufan Organik catalog, black olives in brine take their place as a simple flavor that suits every day. If you would like to reduce their saltiness a little, you can soak them in water for a short while before serving. Making sure the olives left in the jar stay submerged in their brine preserves their softness and taste.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Breakfast olives prepared with olive oil, thyme and red pepper flakes</li>\n<li>Olive salad made by pitting and chopping the olives and mixing them with tomatoes and onions</li>\n<li>Sliced olives added to homemade pizzas and savory buns</li>\n</ul>\n<p><strong>Packaging:</strong> Available in different sizes upon request.</p>",
     "ar": "<h2>الزيتون الأسود في محلول ملحي: أساس طبق الفطور</h2>\n<p>الزيتون الأسود في محلول ملحي صنف معروف من الزيتون يُجهَّز للاستهلاك بنقع حبات الزيتون الأسود الناضجة في الماء المالح. حباته ممتلئة، وقشرته لامعة، ولبّه طري؛ ويتوازن في طعمه الملوحة مع الدسامة الخفيفة المائلة إلى المرارة للزيتون. وهو جزء أساسي من موائد كثيرة، من الفطور إلى المقبلات.</p>\n<p>يحتل الزيتون الأسود في محلول ملحي مكانه في كتالوج Tufan Organik نكهةً بسيطة تناسب كل يوم. وإذا رغبت في تخفيف ملوحته قليلاً، يمكنك نقعه في الماء لفترة قصيرة قبل التقديم. والحرص على بقاء الزيتون المتبقي في المرطبان مغموراً في محلوله الملحي يحافظ على طراوة حباته وطعمها.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>زيتون للفطور محضّر بزيت الزيتون والزعتر ورقائق الفلفل الأحمر</li>\n<li>سلطة زيتون تُحضَّر بنزع النوى وتقطيع الزيتون مع الطماطم والبصل</li>\n<li>زيتون مقطّع إلى شرائح يُضاف إلى البيتزا والمعجنات المحضّرة في المنزل</li>\n</ul>\n<p><strong>التغليف:</strong> متوفر بأوزان مختلفة حسب الطلب.</p>",
     "de": "<h2>Schwarze Oliven in Salzlake: Die Grundlage des Frühstückstellers</h2>\n<p>Schwarze Oliven in Salzlake sind eine bekannte Olivensorte, bei der reife schwarze Oliven durch Einlegen in Salzwasser verzehrfertig gemacht werden. Die Früchte sind prall, die Haut glänzend, das Fruchtfleisch weich; im Geschmack halten sich die Salzigkeit und die leicht bittere Fülle der Olive die Waage. Vom Frühstück bis zur Meze sind sie ein fester Bestandteil vieler Tafeln.</p>\n<p>Im Katalog von Tufan Organik haben schwarze Oliven in Salzlake ihren Platz als schlichter Genuss, der zu jedem Tag passt. Wenn Sie ihren Salzgehalt etwas verringern möchten, können Sie sie vor dem Servieren kurz in Wasser legen. Achtet man darauf, dass die im Glas verbliebenen Oliven in ihrer Lake bleiben, bewahren sie ihre Zartheit und ihren Geschmack.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Frühstücksoliven mit Olivenöl, Thymian und Chiliflocken</li>\n<li>Olivensalat aus entsteinten, gehackten Oliven mit Tomaten und Zwiebeln</li>\n<li>In Scheiben geschnittene Oliven in selbst gemachter Pizza und herzhaften Brötchen</li>\n</ul>\n<p><strong>Verpackung:</strong> In verschiedenen Füllmengen auf Anfrage erhältlich.</p>",
-    "ko": "<h2>염수 절임 블랙 올리브: 아침 식사 접시의 기본</h2>\n<p>염수 절임 블랙 올리브는 잘 익은 블랙 올리브를 소금물에 담가 바로 먹을 수 있도록 만든 것으로 알려진 올리브 종류입니다. 알이 통통하고 껍질은 윤기가 나며 과육은 부드럽고, 맛에서는 짭짤함과 올리브 특유의 살짝 쌉싸름한 고소함이 균형을 이룹니다. 아침 식사부터 메제까지 많은 식탁의 기본 구성 요소입니다.</p>\n<p>Tufan Organik 카탈로그에서 염수 절임 블랙 올리브는 매일 즐기기 좋은 소박한 맛으로 자리하고 있습니다. 짠맛을 조금 줄이고 싶다면 내기 전에 잠시 물에 담가 두셔도 됩니다. 병에 남은 올리브가 절임물에 잠겨 있도록 주의하면 알의 부드러움과 맛이 유지됩니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>올리브 오일, 타임, 굵은 고춧가루로 준비한 아침 식사용 올리브</li>\n<li>씨를 빼고 잘게 썬 올리브에 토마토와 양파를 더한 올리브 샐러드</li>\n<li>집에서 만든 피자와 짭짤한 번에 넣은 슬라이스 올리브</li>\n</ul>\n<p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>"
+    "ko": "<h2>염수 절임 블랙 올리브: 아침 식사 접시의 기본</h2>\n<p>염수 절임 블랙 올리브는 잘 익은 블랙 올리브를 소금물에 담가 바로 먹을 수 있도록 만든 것으로 알려진 올리브 종류입니다. 알이 통통하고 껍질은 윤기가 나며 과육은 부드럽고, 맛에서는 짭짤함과 올리브 특유의 살짝 쌉싸름한 고소함이 균형을 이룹니다. 아침 식사부터 메제까지 많은 식탁의 기본 구성 요소입니다.</p>\n<p>Tufan Organik 카탈로그에서 염수 절임 블랙 올리브는 매일 즐기기 좋은 소박한 맛으로 자리하고 있습니다. 짠맛을 조금 줄이고 싶다면 내기 전에 잠시 물에 담가 두셔도 됩니다. 병에 남은 올리브가 절임물에 잠겨 있도록 주의하면 알의 부드러움과 맛이 유지됩니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>올리브 오일, 타임, 굵은 고춧가루로 준비한 아침 식사용 올리브</li>\n<li>씨를 빼고 잘게 썬 올리브에 토마토와 양파를 더한 올리브 샐러드</li>\n<li>집에서 만든 피자와 짭짤한 번에 넣은 슬라이스 올리브</li>\n</ul>\n<p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>",
+    "ja": "<h2>黒オリーブ塩漬け：朝食の食卓を彩る基本の一品</h2>\n<p>黒オリーブ塩漬けは、熟した黒オリーブを塩水に浸して食べやすくした、よく知られたオリーブの一品です。実がふっくらとしており、皮はつややかで果肉は柔らかいのが特徴です。味は塩気が際立ちつつも、オリーブ特有のほのかな苦味と豊かな風味が調和しています。朝食からメゼ（前菜）まで、多くの食卓で欠かせない存在です。</p>\n<p>Tufan Organikのカタログでは、黒オリーブ塩漬けは、毎日の食卓に自然と溶け込むシンプルな味わいとして位置づけられています。塩気を少し和らげたい場合は、お召し上がり前に短時間水に浸すことをお勧めします。また、瓶に残ったオリーブが常に塩水に浸かった状態を保つことで、その柔らかさと風味を長期間維持できます。</p>\n<h3>おすすめの食べ方</h3>\n<ul>\n<li>オリーブオイル、タイム、赤唐辛子のフレークを加えて仕上げた朝食用オリーブ</li>\n<li>種を取り除き刻んだオリーブにトマトと玉ねぎを混ぜ合わせたオリーブサラダ</li>\n<li>自家製ピザやセイボリーなパンにトッピングしたスライスオリーブ</li>\n</ul>\n<p><strong>パッケージ：</strong>ご希望に応じて、異なるサイズをご用意しております。</p>"
   },
   "title": {
     "tr": "Siyah Salamura Zeytin | Tufan Organik",
     "en": "Black Olives in Brine | Tufan Organik",
     "ar": "زيتون أسود في محلول ملحي | Tufan Organik",
     "de": "Schwarze Oliven in Salzlake | Tufan Organik",
-    "ko": "염수 절임 블랙 올리브 | Tufan Organik"
+    "ko": "염수 절임 블랙 올리브 | Tufan Organik",
+    "ja": "黒オリーブ塩漬け | Tufan Organik"
   },
   "date": "2026-10-28T08:16:32.225Z",
   "update": "2026-10-28T09:07:18.353Z",

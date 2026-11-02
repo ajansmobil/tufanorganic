@@ -4,7 +4,8 @@
     "en": "Mission",
     "ar": "الرسالة",
     "de": "Mission",
-    "ko": "미션"
+    "ko": "미션",
+    "ja": "ミッション"
   },
   "status": "play",
   "id": "misyon",
@@ -15,7 +16,7 @@
     "en": "<h2 style=\"font-size: 24px;\">Our Mission</h2>\n    <p style=\" font-size: 16px;\">\n        Our mission is to produce food free from chemicals, made from natural and healthy raw materials. We bring an environmentally conscious, sustainable approach to production to all our processes; by prioritising food safety and traceability from raw material to final package, we offer our customers products they can trust.\n    </p>",
     "ar": "<h2 style=\"font-size: 24px;\">رسالتنا</h2>\n    <p style=\" font-size: 16px;\">\n        تتمثل رسالتنا في إنتاج أغذية بعيدة عن المواد الكيميائية من مواد خام طبيعية وصحية. ونعكس نهج إنتاج مستدامًا واعيًا بالبيئة في جميع عملياتنا؛ ومن خلال إيلاء الأولوية لسلامة الغذاء وإمكانية التتبع من المادة الخام حتى العبوة النهائية، نقدم لعملائنا منتجات موثوقة.\n    </p>",
     "de": "<h2 style=\"font-size: 24px;\">Unsere Mission</h2>\n    <p style=\" font-size: 16px;\">\n        Unsere Mission ist es, aus natürlichen und gesunden Rohstoffen Lebensmittel ohne Chemikalien herzustellen. Ein umweltbewusstes, nachhaltiges Produktionsverständnis prägt all unsere Prozesse; indem wir Lebensmittelsicherheit und Rückverfolgbarkeit vom Rohstoff bis zur fertigen Verpackung in den Vordergrund stellen, bieten wir unseren Kundinnen und Kunden vertrauenswürdige Produkte.\n    </p>",
-    "ja": "",
+    "ja": "<h2 style=\"font-size: 24px;\">私たちのミッション</h2>\n    <p style=\" font-size: 16px;\">\n        私たちのミッションは、天然で健康的な原材料を使用し、化学物質を含まない食品を製造することです。私たちは、すべての工程において環境に配慮した持続可能な生産アプローチを取り入れています。原材料から最終パッケージに至るまでの食品の安全性とトレーサビリティを最優先することで、お客様に信頼していただける製品をお届けします。\n    </p>",
     "ko": "<h2 style=\"font-size: 24px;\">우리의 미션</h2>\n    <p style=\" font-size: 16px;\">\n        당사의 미션은 천연의 건강한 원료로 화학 물질 없는 식품을 생산하는 것입니다. 환경 의식을 바탕으로 한 지속 가능한 생산 철학을 모든 공정에 반영하고 있으며, 원료부터 최종 포장까지 식품 안전과 이력 추적을 최우선으로 하여 고객에게 신뢰할 수 있는 제품을 제공합니다.\n    </p>"
   },
   "desing": {
@@ -31,7 +32,7 @@
     "en": "Mission | Tufan Organik",
     "ar": "الرسالة | Tufan Organik",
     "de": "Mission | Tufan Organik",
-    "ja": "",
+    "ja": "ミッション | Tufan Organik",
     "ko": "미션 | Tufan Organik"
   },
   "description": {
@@ -39,14 +40,15 @@
     "en": "Tufan Organik's mission: additive-free products from natural raw materials, made through environmentally conscious and sustainable production.",
     "ar": "Tufan Organik – رسالتنا: منتجات خالية من الإضافات مصنوعة من مواد خام طبيعية، بإنتاج مستدام يراعي البيئة.",
     "de": "Tufan Organik – unsere Mission: zusatzstofffreie Produkte aus natürlichen Rohstoffen sowie eine umweltbewusste und nachhaltige Produktion.",
-    "ko": "Tufan Organik의 미션은 천연 원료로 만든 무첨가 제품과 환경을 생각하는 지속 가능한 생산입니다."
+    "ko": "Tufan Organik의 미션은 천연 원료로 만든 무첨가 제품과 환경을 생각하는 지속 가능한 생산입니다.",
+    "ja": "Tufan Organikのミッション。ギュルン／スィヴァス産の自然食品を、品質と信頼とともにお届けします。"
   },
   "keyword": {
     "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, misyon, sürdürülebilir gıda, kalite güvencesi",
     "en": "Tufan Organik, Gürün/Sivas, natural food, mission, sustainable food, quality assurance",
     "ar": "Tufan Organik, غورون/سيواس, أغذية طبيعية, الرسالة, غذاء مستدام, ضمان الجودة",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Mission, nachhaltige Lebensmittel, Qualitätssicherung",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ミッション, 企業理念",
     "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 미션, 지속 가능한 식품, 품질 보증"
   },
   "update": "2026-10-28T09:07:51.996Z",

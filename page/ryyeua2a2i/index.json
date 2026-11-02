@@ -4,7 +4,8 @@
     "en": "Hazelnut Butter (Unsweetened)",
     "ar": "زبدة البندق (بدون سكر)",
     "de": "Haselnussmus (ohne Zucker)",
-    "ko": "헤이즐넛 버터 (무가당)"
+    "ko": "헤이즐넛 버터 (무가당)",
+    "ja": "ヘーゼルナッツバター（無糖）"
   },
   "status": "play",
   "category": "c06meycip",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, Hazelnut Butter (Unsweetened), Hazelnut Butters & Creams, hazelnut butter, hazelnut cream, Giresun hazelnuts, hazelnut spread",
     "ar": "Tufan Organik, غورون/سيواس, أغذية طبيعية, زبدة البندق (بدون سكر), زبدة وكريمة البندق, زبدة البندق, كريمة البندق, بندق غيرسون, معجون البندق",
     "de": "Tufan Organik, Gürün/Sivas, Naturkost, Haselnussmus (ohne Zucker), Haselnussmus & -creme, Haselnussmus, Haselnusscreme, Giresun-Haselnüsse, Haselnussaufstrich",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ヘーゼルナッツバター（無糖）, 朝食メニュー",
     "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 헤이즐넛 버터 (무가당), 헤이즐넛 버터·크림, 헤이즐넛 버터, 헤이즐넛 크림, 기레순 헤이즐넛, 헤이즐넛 스프레드"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Hazelnut Butter (Unsweetened) is an unsweetened hazelnut butter from the Hazelnut Butters & Creams range, offered in 300 g as a natural food from Gürün/Sivas.",
     "ar": "Tufan Organik زبدة البندق (بدون سكر) هي زبدة بندق خالية من السكر من مجموعة زبدة وكريمة البندق، تتوفر بوزن 300 g، وهي غذاء طبيعي من غورون/سيواس.",
     "de": "Tufan Organik Haselnussmus (ohne Zucker) ist ein ungesüßtes Haselnussmus aus der Gruppe Haselnussmus & -creme, erhältlich mit 300 g – ein Naturprodukt aus Gürün/Sivas.",
-    "ko": "Tufan Organik 헤이즐넛 버터 (무가당) 제품은 헤이즐넛 버터·크림 라인의 무가당 헤이즐넛 버터로, 300 g 용량으로 제공되는 귀륀/시바스의 천연 식품입니다."
+    "ko": "Tufan Organik 헤이즐넛 버터 (무가당) 제품은 헤이즐넛 버터·크림 라인의 무가당 헤이즐넛 버터로, 300 g 용량으로 제공되는 귀륀/시바스의 천연 식품입니다.",
+    "ja": "Tufan Organik ヘーゼルナッツバター（無糖）は、朝食メニューカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "index": 84,
   "icon": "nutrition",
@@ -43,7 +45,7 @@
     "en": "Hazelnut Butter (Unsweetened) | Tufan Organik",
     "ar": "زبدة البندق (بدون سكر) | Tufan Organik",
     "de": "Haselnussmus (ohne Zucker) | Tufan Organik",
-    "ja": "",
+    "ja": "ヘーゼルナッツバター（無糖） | Tufan Organik",
     "ko": "헤이즐넛 버터 (무가당) | Tufan Organik"
   },
   "text": {
@@ -51,7 +53,7 @@
     "en": "<h2>Hazelnut Butter (Unsweetened): Hazelnut Flavor Without Extra Sugar</h2><p>Unsweetened Hazelnut Butter is a jar that leaves the sweetness entirely up to you. Because no sugar is added, its taste stays close to the hazelnut's own lightly woody, rich character. It takes its place in Tufan Organik's Gürün/Sivas-rooted spread range, ready for the breakfast table or a savory recipe.</p><p>Palates used to sweet spreads may notice the difference with the very first spoonful, so pairing it with a piece of dried fig or a date is a good way to start. Thanks to its plain taste, it blends easily into snack platters, salad dressings and homemade granola mixes.</p><h3>Serving Suggestions</h3><ul><li>Add it to a homemade granola mix as a binder and toast it in the oven.</li><li>Thin it with yogurt, lemon juice and a pinch of salt to make a creamy dressing for green salads.</li><li>Halve dried figs and fill each with a spoonful of the butter for a quick snack platter.</li></ul><p><strong>Weight:</strong> 300 g</p>",
     "ar": "<h2>زبدة البندق (بدون سكر): نكهة البندق دون سكر إضافي</h2><p>زبدة البندق بدون سكر برطمانٌ يترك لك التحكم في درجة الحلاوة بالكامل. ولأنه لا يُضاف إليها سكر، يبقى مذاقها قريبًا من طابع البندق الخاص، الخشبي الخفيف والغني بالزيت. وتحتل مكانها ضمن سلسلة الزبدات من Tufan Organik ذات الجذور في غورون/سيواس، لتُستخدم على مائدة الإفطار أو في وصفة مالحة.</p><p>قد يلاحظ من اعتادوا المذاق الحلو الفرق من الملعقة الأولى؛ لذا فإن تقديمها في المرة الأولى مع قطعة من التين المجفف أو التمر بداية موفقة. أما في أطباق الوجبات الخفيفة وصلصات السلطة وخلطات الغرانولا المنزلية، فتنسجم بسهولة بفضل مذاقها البسيط.</p><h3>اقتراحات الاستخدام</h3><ul><li>أضفها إلى خليط الغرانولا المنزلي كمادة رابطة ثم حمّصه في الفرن.</li><li>خففها باللبن الزبادي وعصير الليمون ورشة ملح لتحضير صلصة كريمية للسلطات الخضراء.</li><li>اقسم حبات التين المجفف إلى نصفين وضع في كل منها ملعقة من الزبدة لتحضير طبق ضيافة سريع.</li></ul><p><strong>الوزن:</strong> 300 g</p>",
     "de": "<h2>Haselnussmus (ohne Zucker): Haselnussgeschmack ohne zusätzlichen Zucker</h2><p>Haselnussmus ohne Zucker ist ein Glas, bei dem Sie die Süße ganz selbst bestimmen. Da kein Zucker zugesetzt wird, bleibt der Geschmack nah am eigenen, leicht holzigen und reichhaltigen Charakter der Haselnuss. In der aus Gürün/Sivas stammenden Aufstrichserie von Tufan Organik hat es seinen Platz – für den Frühstückstisch oder für herzhafte Rezepte.</p><p>Wer an Süßes gewöhnt ist, bemerkt den Unterschied womöglich schon beim ersten Löffel; für den Anfang empfiehlt es sich daher, es mit einem Stück getrockneter Feige oder einer Dattel zu kombinieren. Auf Snackplatten, in Salatdressings und in selbst gemachten Granola-Mischungen fügt es sich dank seines puren Geschmacks mühelos ein.</p><h3>Verwendungsvorschläge</h3><ul><li>Geben Sie es als Bindemittel in eine selbst gemachte Granola-Mischung und rösten Sie diese im Ofen.</li><li>Verdünnen Sie es mit Joghurt, Zitronensaft und einer Prise Salz zu einem cremigen Dressing für grüne Salate.</li><li>Halbieren Sie getrocknete Feigen und füllen Sie jede Hälfte mit einem Löffel Mus – für eine schnelle Snackplatte.</li></ul><p><strong>Gewicht:</strong> 300 g</p>",
-    "ja": "",
+    "ja": "<h2>ヘーゼルナッツバター（無糖）：ヘーゼルナッツの風味をそのままに、余計な砂糖は一切使っていません</h2><p>ヘーゼルナッツバター（無糖）は、甘さを完全に自分好みに調整できる一瓶です。砂糖を一切加えていないため、ヘーゼルナッツ本来の、ほのかなウッド感のある豊かな風味をそのままに保っています。トゥファン・オルガニクのギュリュン／シヴァスに根ざしたスプレッド・ラインナップの一員として、朝食の食卓や塩味の効いたレシピに最適です。</p><p>甘いスプレッドに慣れている方は、最初の一口でその違いを感じるかもしれません。そのため、ドライイチジクやデーツと一緒にいただくのがおすすめです。シンプルな味わいなので、スナックプレート、サラダドレッシング、手作りのグラノーラミックスにも手軽に取り入れられます。</p><h3>おすすめの召し上がり方</h3><ul><li>手作りグラノーラミックスのつなぎとして加え、オーブンでトーストしてください。</li><li>ヨーグルト、レモン汁、少量の塩で伸ばして、グリーンサラダ用のクリーミードレッシングに。</li><li>ドライイチジクを半分に切り、バターをスプーン一杯ずつ詰めて、手軽なスナックプレートに。</li></ul><p><strong>内容量:</strong> 300 g</p>",
     "ko": "<h2>헤이즐넛 버터 (무가당): 설탕을 더하지 않은 헤이즐넛 본연의 맛</h2><p>무가당 헤이즐넛 버터는 단맛 조절을 온전히 사용자에게 맡기는 제품입니다. 설탕을 넣지 않아 헤이즐넛 특유의 은은한 나무 향과 고소하고 진한 풍미에 가까운 맛을 유지합니다. 귀륀/시바스에 뿌리를 둔 Tufan Organik 스프레드 시리즈의 하나로, 아침 식탁이나 짭짤한 요리에 활용할 수 있습니다.</p><p>단맛에 익숙한 분이라면 첫 숟가락에서 바로 차이를 느낄 수 있으므로, 처음에는 말린 무화과나 대추야자 한 조각과 함께 곁들이는 것이 좋습니다. 담백한 맛 덕분에 간식 플레이트, 샐러드 드레싱, 홈메이드 그래놀라 믹스에도 잘 어울립니다.</p><h3>활용 방법</h3><ul><li>홈메이드 그래놀라 믹스에 바인더로 넣고 오븐에 구워 보세요.</li><li>요거트, 레몬즙, 소금 한 꼬집을 넣어 묽게 풀어 그린 샐러드용 크리미한 드레싱을 만들어 보세요.</li><li>말린 무화과를 반으로 갈라 버터를 한 숟가락씩 채워 간단한 간식 플레이트를 준비해 보세요.</li></ul><p><strong>중량:</strong> 300 g</p>"
   },
   "update": "2026-10-28T09:08:00.299Z",

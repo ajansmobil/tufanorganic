@@ -4,7 +4,8 @@
     "en": "Apple Chips",
     "ar": "رقائق التفاح",
     "de": "Apfelchips",
-    "ko": "사과칩"
+    "ko": "사과칩",
+    "ja": "アップルチップス"
   },
   "status": "play",
   "category": "c13konserve",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, Apple Chips, Fruit Chips, fruit chips, dried fruit chips, healthy snack",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, رقائق التفاح, رقائق الفواكه, رقائق فواكه, رقائق فواكه مجففة, وجبة خفيفة صحية",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Apfelchips, Fruchtchips, Obstchips, getrocknete Fruchtchips, gesunder Snack",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, アップルチップス, ドライフルーツ",
     "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 사과칩, 과일칩, 과일 칩, 건과일 칩, 건강 간식"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Apple Chips: thinly sliced apple chips from the Fruit Chips range, offered in an 80 g pack — natural food from Gürün/Sivas.",
     "ar": "Tufan Organik رقائق التفاح: رقائق تفاح مقطّعة إلى شرائح رفيعة ضمن فئة رقائق الفواكه، تُقدَّم بوزن 80 g، وهي غذاء طبيعي من غورون/سيواس.",
     "de": "Tufan Organik Apfelchips: dünn geschnittene Apfelchips aus der Kategorie Fruchtchips, angeboten in 80 g – ein natürliches Lebensmittel aus Gürün/Sivas.",
-    "ko": "Tufan Organik 사과칩은 얇게 썬 사과로 만든 과일칩 제품으로, 80 g 용량으로 제공되는 귀륀/시바스산 천연 식품입니다."
+    "ko": "Tufan Organik 사과칩은 얇게 썬 사과로 만든 과일칩 제품으로, 80 g 용량으로 제공되는 귀륀/시바스산 천연 식품입니다.",
+    "ja": "Tufan Organik アップルチップスは、ドライフルーツカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "index": 109,
   "icon": "breakfast_dining",
@@ -43,7 +45,7 @@
     "en": "Apple Chips | Tufan Organik",
     "ar": "رقائق التفاح | Tufan Organik",
     "de": "Apfelchips | Tufan Organik",
-    "ja": "",
+    "ja": "アップルチップス | Tufan Organik",
     "ko": "사과칩 | Tufan Organik"
   },
   "text": {
@@ -51,7 +53,7 @@
     "en": "<h2>Apple Chips: Crisp Apple in Thin Slices</h2><p>Apple chips are the crisp form of thinly sliced apple. The apple's natural shape is easy to make out in each slice. With a light texture that snaps when you bite and a familiar apple flavour, they appeal to anyone looking for a fruity alternative to packaged snacks. The taste strikes a balance between lightly sweet and lightly tart.</p><p>Part of the fruit chips range from Gürün/Sivas-based Tufan Organik, these apple chips stand out with their small, light pack. It holds just the right amount for a bowl to share while watching a film, at the desk or when the children come home from school. Sealing the pack tightly after opening helps the slices keep their crunch.</p><h3>Serving Suggestions</h3><ul><li>Crumble a few slices over an oat and yoghurt bowl at breakfast for added crunch.</li><li>Serve them with warm cinnamon milk instead of biscuits.</li><li>Place a few whole slices on top of an apple cake or tart as decoration.</li></ul><p><strong>Weight:</strong> 80 g</p>",
     "ar": "<h2>رقائق التفاح: تفاح مقرمش في شرائح رفيعة</h2><p>رقائق التفاح هي الشكل المقرمش للتفاح المقطّع إلى شرائح رفيعة. ويمكن تمييز الشكل الطبيعي للتفاحة بسهولة في الشرائح. وبقوامها الخفيف الذي يتكسّر عند القضم ونكهة التفاح المألوفة، تجذب اهتمام من يبحثون عن بديل بطعم الفاكهة للوجبات الخفيفة المعبأة. وفي مذاقها توازن بين الحلاوة الخفيفة والحموضة الخفيفة.</p><p>تتميز رقائق التفاح، التي تنتمي إلى فئة رقائق الفواكه من Tufan Organik التي تتخذ من غورون/سيواس مقرًا لها، بعبوتها الصغيرة والخفيفة. وهي كمية مناسبة لوعاء يُتقاسم أثناء مشاهدة فيلم، أو على مكتب العمل، أو عند عودة الأطفال من المدرسة. ويساعد إغلاق العبوة بإحكام بعد فتحها على احتفاظ الشرائح بقرمشتها.</p><h3>اقتراحات للاستخدام</h3><ul><li>فتّت بضع شرائح فوق وعاء الشوفان والزبادي في الفطور لإضافة القرمشة.</li><li>قدّمها بدلًا من البسكويت إلى جانب الحليب الساخن بالقرفة.</li><li>ضع بضع شرائح كاملة فوق كعكة التفاح أو فطيرة التفاح للتزيين.</li></ul><p><strong>الوزن:</strong> 80 g</p>",
     "de": "<h2>Apfelchips: Knuspriger Apfel in dünnen Scheiben</h2><p>Apfelchips sind die knusprige Form dünn geschnittener Äpfel. In den Scheiben ist die natürliche Form des Apfels gut zu erkennen. Mit ihrer leichten Textur, die beim Hineinbeißen bricht, und dem vertrauten Apfelgeschmack sprechen sie alle an, die eine fruchtige Alternative zu abgepackten Snacks suchen. Im Geschmack liegt eine Balance aus leichter Süße und leichter Säure.</p><p>Die Apfelchips aus dem Fruchtchips-Sortiment von Tufan Organik mit Sitz in Gürün/Sivas überzeugen mit ihrer kleinen, leichten Packung. Die Menge passt genau für eine Schale zum Teilen beim Filmschauen, am Schreibtisch oder wenn die Kinder aus der Schule kommen. Wird die Packung nach dem Öffnen fest verschlossen, bleiben die Scheiben länger knusprig.</p><h3>Verwendungsvorschläge</h3><ul><li>Zum Frühstück einige Scheiben über eine Schale mit Haferflocken und Joghurt bröseln und so für Knusprigkeit sorgen.</li><li>Statt Keksen zu warmer Zimtmilch servieren.</li><li>Einige ganze Scheiben als Dekoration auf Apfelkuchen oder Apfeltarte legen.</li></ul><p><strong>Gewicht:</strong> 80 g</p>",
-    "ja": "",
+    "ja": "<h2>アップルチップス：薄切りのカリッとしたリンゴ</h2><p>アップルチップスは、薄くスライスしたリンゴをカリッと仕上げたものです。スライス一枚一枚にリンゴ本来の形が残っています。噛むとサクッとした軽い食感とともに、親しみやすいリンゴの風味が広がり、市販のスナック菓子の代わりにフルーツを楽しみたい方に最適です。味は、ほのかな甘みとほのかな酸味のバランスが絶妙です。</p><p>ギュルン/シヴァスを拠点とするトゥファン・オルガニックのフルーツチップスシリーズのひとつであるこのアップルチップスは、持ち運びに便利な小さくて軽いパッケージが特徴です。映画を観ながら、デスクワーク中に、あるいは子供たちが学校から帰ってきたときに、ボウルに盛り付けてみんなで分かち合うのにちょうどよい量が入っています。開封後はパッケージをしっかりと密封することで、スライスのカリッとした食感を保つことができます。</p><h3>おすすめの召し上がり方</h3><ul><li>朝食のオートミールとヨーグルトのボウルに数枚砕いて入れると、食感のアクセントになります。</li><li>ビスケットの代わりに、温かいシナモンミルクと一緒にどうぞ。</li><li>アップルケーキやタルトのデコレーションとして、スライスをそのまま数枚添えてみてください。</li></ul><p><strong>内容量:</strong> 80 g</p>",
     "ko": "<h2>사과칩: 얇은 슬라이스로 즐기는 바삭한 사과</h2><p>사과칩은 얇게 썬 사과를 바삭하게 만든 것입니다. 슬라이스마다 사과 본연의 모양이 그대로 드러납니다. 한 입 베어 물면 부서지는 가벼운 식감과 익숙한 사과 맛으로, 포장 과자 대신 과일 간식을 찾는 분들의 관심을 끕니다. 은은한 단맛과 은은한 새콤함이 균형을 이룹니다.</p><p>귀륀/시바스에 본사를 둔 Tufan Organik의 과일칩 라인에 속한 사과칩은 작고 가벼운 포장이 돋보입니다. 영화를 보면서, 책상 앞에서, 또는 아이들이 하교한 후 함께 나눠 먹을 한 그릇으로 알맞은 양입니다. 개봉 후 입구를 단단히 밀봉하면 슬라이스의 바삭함을 유지하는 데 도움이 됩니다.</p><h3>활용 제안</h3><ul><li>아침 식사 때 오트밀 요거트 볼 위에 몇 조각 부숴 올려 바삭함을 더해 보세요.</li><li>시나몬을 넣은 따뜻한 우유와 함께 쿠키 대신 내어 보세요.</li><li>사과 케이크나 타르트 위에 통 슬라이스 몇 장을 올려 장식하세요.</li></ul><p><strong>중량:</strong> 80 g</p>"
   },
   "update": "2026-10-28T09:07:57.852Z",

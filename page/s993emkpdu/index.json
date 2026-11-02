@@ -5,21 +5,24 @@
     "en": "Couscous",
     "ar": "كسكس",
     "de": "Couscous",
-    "ko": "쿠스쿠스"
+    "ko": "쿠스쿠스",
+    "ja": "クスクス"
   },
   "description": {
     "tr": "Tufan Organik Kuskus, Makarna Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
     "en": "Tufan Organik Couscous from the Pasta Products range, a natural food with roots in Gürün/Sivas.",
     "ar": "Tufan Organik كسكس من مجموعة منتجات المعكرونة، غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Couscous aus dem Teigwarensortiment – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 쿠스쿠스, 귀륀/시바스에 뿌리를 둔 파스타류 제품군의 천연 식품입니다."
+    "ko": "Tufan Organik 쿠스쿠스, 귀륀/시바스에 뿌리를 둔 파스타류 제품군의 천연 식품입니다.",
+    "ja": "Tufan Organik クスクスは、パスタカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "keyword": {
     "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Kuskus, Makarna Grubu",
     "en": "Tufan Organik, Gürün/Sivas, natural food, Couscous, Pasta Products",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, كسكس, منتجات المعكرونة",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Couscous, Teigwaren",
-    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 쿠스쿠스, 파스타류"
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 쿠스쿠스, 파스타류",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, クスクス, パスタ"
   },
   "path": "kuskus",
   "icon": "breakfast_dining",
@@ -37,14 +40,16 @@
     "en": "<h2>Couscous with Its Tiny Grains</h2>\n<p>Couscous is a type of pasta with small, round grains, used in many recipes from pilafs to salads. When cooked, the grains stay separate and offer a slightly al dente texture. Thanks to its mild flavor, it pairs easily with meat, chicken or vegetable dishes and readily absorbs sauces.</p>\n<p>At Tufan Organik, we recommend couscous for anyone looking for a practical yet filling side dish. You can lightly toast it in butter, then add hot water or meat stock and cook it pilaf-style; left to rest, it turns out fluffy with separate grains. You can also boil and drain it for use in cold salads.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Serve couscous pilaf toasted in butter alongside sautéed chicken or pan-fried meat.</li>\n<li>Prepare a colorful couscous salad with pomegranate seeds, parsley, spring onions and pomegranate molasses.</li>\n<li>Cook it in a tomato paste sauce and top with fire-roasted eggplant cubes for a one-pot meal.</li>\n</ul>\n<p><strong>Packaging:</strong> Available in various weights on request.</p>",
     "ar": "<h2>الكسكس بحبيباته الصغيرة</h2>\n<p>الكسكس نوع من المعكرونة ذو حبيبات صغيرة مستديرة، يُستخدم في وصفات كثيرة من أطباق الأرز المفلفل إلى السلطات. وعند طهيه تبقى حبيباته منفصلة بعضها عن بعض وتمنح قوامًا متماسكًا قليلًا عند المضغ. وبفضل مذاقه البسيط يرافق بسهولة أطباق اللحم أو الدجاج أو الخضار، ويتشرّب الصلصات بسهولة.</p>\n<p>في Tufan Organik ننصح بالكسكس لمن يبحثون عن طبق جانبي عملي ومُشبع في آن. يمكنكم تحميصه قليلًا بالزبدة ثم إضافة الماء الساخن أو مرق اللحم وطهيه على طريقة الأرز المفلفل، وعند تركه ليرتاح تحصلون على حبيبات منفصلة. ويمكنكم أيضًا سلقه وتصفيته لاستخدامه في السلطات الباردة.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>قدّموا الكسكس المحمّص بالزبدة بجانب الدجاج السوتيه أو اللحم المحمّر.</li>\n<li>حضّروا سلطة كسكس ملوّنة بحبوب الرمان والبقدونس والبصل الأخضر ودبس الرمان.</li>\n<li>اطبخوه في صلصة معجون الطماطم وأضيفوا فوقه مكعبات الباذنجان المشوي على الجمر لوجبة في قدر واحد.</li>\n</ul>\n<p><strong>التغليف:</strong> متوفر بأوزان مختلفة حسب الطلب.</p>",
     "de": "<h2>Couscous mit seinen kleinen Körnern</h2>\n<p>Couscous ist eine Nudelsorte mit kleinen, runden Körnern, die in vielen Rezepten vom Pilaw bis zum Salat verwendet wird. Beim Garen bleiben die Körner voneinander getrennt und bieten einen leichten Biss. Dank seines milden Geschmacks passt er problemlos zu Fleisch-, Hähnchen- oder Gemüsegerichten und nimmt Soßen leicht auf.</p>\n<p>Bei Tufan Organik empfehlen wir Couscous allen, die eine praktische und zugleich sättigende Beilage suchen. Sie können ihn in Butter leicht anrösten, dann heißes Wasser oder Fleischbrühe zugeben und ihn wie Pilaw garen; lässt man ihn anschließend quellen, wird er schön locker und körnig. Gekocht und abgetropft eignet er sich auch für kalte Salate.</p>\n<h3>Verwendungstipps</h3>\n<ul>\n<li>Servieren Sie in Butter angerösteten Couscous-Pilaw zu Hähnchengeschnetzeltem oder angebratenem Fleisch.</li>\n<li>Bereiten Sie einen bunten Couscous-Salat mit Granatapfelkernen, Petersilie, Frühlingszwiebeln und Granatapfelsirup zu.</li>\n<li>Garen Sie ihn in einer Tomatenmarksoße und geben Sie über offener Flamme geröstete Auberginenwürfel darüber – fertig ist das Eintopfgericht.</li>\n</ul>\n<p><strong>Verpackung:</strong> In verschiedenen Gewichtsgrößen auf Anfrage erhältlich.</p>",
-    "ko": "<h2>작은 알갱이의 쿠스쿠스</h2>\n<p>쿠스쿠스는 작고 둥근 알갱이를 가진 파스타의 일종으로, 필라프부터 샐러드까지 다양한 요리에 쓰입니다. 익히면 알갱이가 서로 달라붙지 않고 살짝 씹히는 식감을 줍니다. 담백한 맛 덕분에 고기, 닭고기, 채소 요리 곁에 잘 어울리며 소스도 쉽게 흡수합니다.</p>\n<p>Tufan Organik는 간편하면서도 든든한 곁들임 요리를 찾는 분들께 쿠스쿠스를 추천합니다. 버터에 살짝 볶은 뒤 뜨거운 물이나 육수를 부어 필라프처럼 익히고 뜸을 들이면 알알이 살아 있는 결과를 얻을 수 있습니다. 삶아서 물기를 뺀 뒤 차가운 샐러드에 활용하셔도 좋습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>버터에 볶은 쿠스쿠스 필라프를 치킨 소테나 고기 볶음 곁에 내어 보세요.</li>\n<li>석류알, 파슬리, 쪽파, 석류 당밀로 알록달록한 쿠스쿠스 샐러드를 만들어 보세요.</li>\n<li>토마토 페이스트 소스에 익힌 뒤 불에 구운 가지 큐브를 올려 한 냄비 요리를 완성해 보세요.</li>\n</ul>\n<p><strong>포장:</strong> 다양한 중량으로 주문에 따라 제공됩니다.</p>"
+    "ko": "<h2>작은 알갱이의 쿠스쿠스</h2>\n<p>쿠스쿠스는 작고 둥근 알갱이를 가진 파스타의 일종으로, 필라프부터 샐러드까지 다양한 요리에 쓰입니다. 익히면 알갱이가 서로 달라붙지 않고 살짝 씹히는 식감을 줍니다. 담백한 맛 덕분에 고기, 닭고기, 채소 요리 곁에 잘 어울리며 소스도 쉽게 흡수합니다.</p>\n<p>Tufan Organik는 간편하면서도 든든한 곁들임 요리를 찾는 분들께 쿠스쿠스를 추천합니다. 버터에 살짝 볶은 뒤 뜨거운 물이나 육수를 부어 필라프처럼 익히고 뜸을 들이면 알알이 살아 있는 결과를 얻을 수 있습니다. 삶아서 물기를 뺀 뒤 차가운 샐러드에 활용하셔도 좋습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>버터에 볶은 쿠스쿠스 필라프를 치킨 소테나 고기 볶음 곁에 내어 보세요.</li>\n<li>석류알, 파슬리, 쪽파, 석류 당밀로 알록달록한 쿠스쿠스 샐러드를 만들어 보세요.</li>\n<li>토마토 페이스트 소스에 익힌 뒤 불에 구운 가지 큐브를 올려 한 냄비 요리를 완성해 보세요.</li>\n</ul>\n<p><strong>포장:</strong> 다양한 중량으로 주문에 따라 제공됩니다.</p>",
+    "ja": "<h2>小さな粒が特徴のクスクス</h2>\n<p>クスクスは、小さく丸い粒が特徴のパスタの一種で、ピラフからサラダまで幅広い料理に使用されます。調理すると粒がほぐれやすく、少しアルデンテのような食感を楽しめます。味わいがマイルドなので、肉料理、鶏肉料理、野菜料理などとも相性が良く、ソースもよく絡みます。</p>\n<p>トゥファン・オルガニックでは、手軽で食べ応えのある副菜をお探しの方にクスクスをおすすめしています。バターで軽く炒めてから、お湯や肉の出汁を加えてピラフ風に調理することができます。そのまま置いておけば、粒がふっくらとほぐれた仕上がりになります。また、茹でてお湯を切れば、冷たいサラダとしてもお使いいただけます。</p>\n<h3>おすすめの召し上がり方</h3>\n<ul>\n<li>バターで炒めたクスクスのピラフを、鶏肉のソテーや焼いたお肉の付け合わせに。</li>\n<li>ザクロの種、パセリ、小ねぎ、そしてザクロ・モラセスを使った、彩り豊かなクスクスサラダに。</li>\n<li>トマトペーストソースで煮込み、焼き茄子の角切りをトッピングすれば、一品料理として楽しめます。</li>\n</ul>\n<p><strong>包装：</strong> ご要望に応じて、さまざまな容量でご用意可能です。</p>"
   },
   "title": {
     "tr": "Kuskus | Tufan Organik",
     "en": "Couscous | Tufan Organik",
     "ar": "كسكس | Tufan Organik",
     "de": "Couscous | Tufan Organik",
-    "ko": "쿠스쿠스 | Tufan Organik"
+    "ko": "쿠스쿠스 | Tufan Organik",
+    "ja": "クスクス | Tufan Organik"
   },
   "date": "2026-10-28T08:16:23.583Z",
   "update": "2026-10-28T09:08:01.042Z",

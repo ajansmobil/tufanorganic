@@ -4,7 +4,8 @@
     "en": "Dried Eggplant",
     "ar": "باذنجان مجفف",
     "de": "Getrocknete Auberginen",
-    "ko": "말린 가지"
+    "ko": "말린 가지",
+    "ja": "乾燥ナス"
   },
   "status": "play",
   "category": "c15aromya",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, Dried Eggplant, Dried Vegetables, dried vegetable, dried pepper, sun-dried tomato, stuffing pepper",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, باذنجان مجفف, الخضروات المجففة, خضار مجففة, فلفل مجفف, طماطم مجففة بالشمس, فلفل للحشو",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Getrocknete Auberginen, Getrocknetes Gemüse, Trockengemüse, getrocknete Paprika, sonnengetrocknete Tomaten, Füllpaprika",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 乾燥ナス, ドライ野菜",
     "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 말린 가지, 건조 채소, 말린 채소, 말린 고추, 선드라이 토마토, 속 채움용 고추"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Dried Eggplant is suited to dolma and cooked dishes, part of the Dried Vegetables range, offered in 100 g as a natural food with roots in Gürün/Sivas.",
     "ar": "Tufan Organik باذنجان مجفف: مناسب للمحشي والأطباق المطبوخة ضمن مجموعة الخضروات المجففة، يُقدَّم بوزن 100 g، وهو غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Getrocknete Auberginen eignen sich für Dolma und Schmorgerichte, gehören zur Gruppe Getrocknetes Gemüse und werden in 100 g angeboten – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 말린 가지는 돌마와 각종 요리에 알맞은 건조 채소 그룹의 제품으로, 100 g 용량으로 제공되는 귀륀/시바스 출신의 천연 식품입니다."
+    "ko": "Tufan Organik 말린 가지는 돌마와 각종 요리에 알맞은 건조 채소 그룹의 제품으로, 100 g 용량으로 제공되는 귀륀/시바스 출신의 천연 식품입니다.",
+    "ja": "Tufan Organik 乾燥ナスは、ドライ野菜カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "index": 121,
   "icon": "grass",
@@ -43,7 +45,7 @@
     "en": "Dried Eggplant | Tufan Organik",
     "ar": "باذنجان مجفف | Tufan Organik",
     "de": "Getrocknete Auberginen | Tufan Organik",
-    "ja": "",
+    "ja": "乾燥ナス | Tufan Organik",
     "ko": "말린 가지 | Tufan Organik"
   },
   "text": {
@@ -51,7 +53,7 @@
     "en": "<h2>Dried Eggplant: A Kitchen Staple from Dolma to Casserole</h2><p>Dried Eggplant is dried eggplant suited to making dolma and a variety of stovetop dishes. When dry, it is firm and light; left in boiling water for a few minutes, it softens and regains its shape. Compared with fresh eggplant, it gives a more concentrated, slightly earthy flavour and carries spices well.</p><p>Dried eggplant has a long-established place among the winter preparations of Gaziantep cuisine. Tufan Organik offers this winter staple in 100 g packs, ready to use without lengthy preparation. Adding a little lemon to the blanching water is a method some home cooks use to balance the eggplant's aroma.</p><h3>Serving Suggestions</h3><ul><li>Stuff with a richly spiced rice filling and cook in water with tomato paste.</li><li>Once softened, break into pieces and make a casserole with lamb.</li><li>Prepare mixed dolma in the same pot as dried pepper dolma.</li></ul><p><strong>Weight:</strong> 100 g</p>",
     "ar": "<h2>الباذنجان المجفف: مكوّن مطبخي من المحشي إلى الطواجن</h2><p>الباذنجان المجفف باذنجانٌ مجفف يناسب تحضير المحشي ومختلف أطباق القدر. وهو في حالته الجافة صلب وخفيف؛ وعند تركه في ماء مغلي بضع دقائق يلين ويستعيد شكله. ويمنح مقارنةً بالباذنجان الطازج طعمًا أكثر تركيزًا مع لمسة ترابية خفيفة، كما يحمل التوابل جيدًا.</p><p>للباذنجان المجفف مكانة راسخة بين تحضيرات الشتاء في مطبخ غازي عنتاب. وتقدّم Tufan Organik هذا المكوّن الشتوي في عبوات بوزن 100 g بشكل يمكن استخدامه دون تحضير طويل. ويلجأ بعض الطهاة في المنازل إلى إضافة قليل من الليمون إلى ماء السلق لموازنة رائحة الباذنجان.</p><h3>اقتراحات الاستخدام</h3><ul><li>احشوه بحشوة من الأرز الغنية بالتوابل واطهوه في ماء مع معجون الطماطم.</li><li>بعد تطريته قطّعوه قطعًا وحضّروا منه طاجنًا مع لحم الضأن.</li><li>حضّروا محشيًا مشكّلًا في القدر نفسه مع محشي الفلفل المجفف.</li></ul><p><strong>الوزن:</strong> 100 g</p>",
     "de": "<h2>Getrocknete Auberginen: Eine Küchenzutat von Dolma bis Schmortopf</h2><p>Getrocknete Auberginen sind getrocknete Auberginen, die sich für Dolma und verschiedene Schmorgerichte eignen. Im trockenen Zustand sind sie fest und leicht; lässt man sie einige Minuten in kochendem Wasser ziehen, werden sie weich und gewinnen ihre Form zurück. Im Vergleich zu frischen Auberginen geben sie einen intensiveren, leicht erdigen Geschmack und nehmen Gewürze gut auf.</p><p>Getrocknete Auberginen haben einen fest verwurzelten Platz unter den Wintervorräten der Küche von Gaziantep. Tufan Organik bietet diese Winterzutat in Packungen zu 100 g an, sodass sie ohne lange Vorbereitung verwendet werden kann. Etwas Zitrone ins Blanchierwasser zu geben, ist eine Methode, mit der manche Hobbyköche den Eigengeruch der Aubergine ausgleichen.</p><h3>Verwendungsvorschläge</h3><ul><li>Füllen Sie sie mit einer kräftig gewürzten Reisfüllung und garen Sie sie in Wasser mit Tomatenmark.</li><li>Zerteilen Sie sie nach dem Einweichen und bereiten Sie damit einen Schmortopf mit Lammfleisch zu.</li><li>Bereiten Sie gemischte Dolma im selben Topf wie Dolma aus getrockneter Paprika zu.</li></ul><p><strong>Gewicht:</strong> 100 g</p>",
-    "ja": "",
+    "ja": "<h2>乾燥ナス：ドルマからキャセロールまで、キッチンに欠かせない食材</h2><p>乾燥ナスは、ドルマや様々な煮込み料理を作るのに適した乾燥ナスです。乾燥した状態では硬くて軽いですが、沸騰したお湯に数分間浸しておくと、柔らかくなって元の形に戻ります。生のナスと比較して、より凝縮された、わずかに土のような風味があり、スパイスの風味もしっかりと引き立ちます。</p><p>乾燥ナスは、ガズィアンテプ料理の冬の準備において、古くから欠かせない存在です。トゥファン・オルガニックでは、手間のかかる準備なしですぐにお使いいただける、この冬の定番食材を100gパックでお届けします。下ゆでのお湯に少しレモンを加えることで、ナスの香りを整えるという調理法も一般的です。</p><h3>おすすめの食べ方</h3><ul><li>スパイスを効かせたライスを詰め、トマトペーストを加えたお湯で煮込みます。</li><li>柔らかくなったら食べやすい大きさに切り、ラム肉と一緒にキャセロールにします。</li><li>乾燥ペッパーのドルマと同じ鍋で、ミックスドルマを作ることができます。</li></ul><p><strong>内容量:</strong> 100 g</p>",
     "ko": "<h2>말린 가지: 돌마부터 찜 요리까지 이어지는 주방 식재료</h2><p>말린 가지는 돌마와 다양한 냄비 요리에 알맞은 건조 가지입니다. 마른 상태에서는 단단하고 가벼우며, 끓는 물에 몇 분간 담가 두면 부드러워지면서 원래 모양을 되찾습니다. 생가지보다 더 진하고 은은한 흙 내음이 나는 맛을 내며, 향신료의 풍미를 잘 머금습니다.</p><p>말린 가지는 가지안테프 요리의 겨울 저장 식품 가운데 오래전부터 자리를 지켜 왔습니다. Tufan Organik는 이 겨울 식재료를 긴 준비 과정 없이 사용할 수 있도록 100 g 포장으로 선보입니다. 데치는 물에 레몬을 조금 넣는 것은 일부 가정 요리사들이 가지의 냄새를 중화하기 위해 쓰는 방법입니다.</p><h3>활용 제안</h3><ul><li>향신료를 넉넉히 넣은 쌀 속재료를 채워 토마토 페이스트를 푼 물에 익혀 보세요.</li><li>부드럽게 불린 뒤 잘게 찢어 양고기와 함께 찜 요리를 만들어 보세요.</li><li>말린 고추 돌마와 같은 냄비에 담아 모둠 돌마를 준비해 보세요.</li></ul><p><strong>중량:</strong> 100 g</p>"
   },
   "update": "2026-10-28T09:07:40.526Z",

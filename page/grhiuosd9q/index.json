@@ -5,21 +5,24 @@
     "en": "Sumac Oil",
     "ar": "زيت السماق",
     "de": "Sumachöl",
-    "ko": "수막 오일"
+    "ko": "수막 오일",
+    "ja": "スマックオイル"
   },
   "description": {
     "tr": "Tufan Organik Sumak Yağı, Tıbbi Aromatik Bitkiler ve Yağları grubunda. Gürün/Sivas kökenli doğal gıda.",
     "en": "Tufan Organik Sumac Oil, from the Medicinal Aromatic Plants and Their Oils range, is a natural food with roots in Gürün/Sivas.",
     "ar": "Tufan Organik زيت السماق، من مجموعة النباتات الطبية العطرية وزيوتها، غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Sumachöl aus der Gruppe Arznei- und Aromapflanzen und ihre Öle – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 수막 오일은 약용 방향 식물 및 오일군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+    "ko": "Tufan Organik 수막 오일은 약용 방향 식물 및 오일군에 속하는 귀륀/시바스 출신의 천연 식품입니다.",
+    "ja": "Tufan Organik スマックオイルは、薬用ハーブとそのオイルカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "keyword": {
     "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Sumak Yağı, Tıbbi Aromatik Bitkiler ve Yağları",
     "en": "Tufan Organik, Gürün/Sivas, natural food, Sumac Oil, Medicinal Aromatic Plants and Their Oils",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, زيت السماق, النباتات الطبية العطرية وزيوتها",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Sumachöl, Arznei- und Aromapflanzen und ihre Öle",
-    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 수막 오일, 약용 방향 식물 및 오일"
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 수막 오일, 약용 방향 식물 및 오일",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, スマックオイル, 薬用ハーブとそのオイル"
   },
   "path": "sumak-yagi",
   "icon": "breakfast_dining",
@@ -37,14 +40,16 @@
     "en": "<h2>Cold-Pressed Sumac Oil</h2>\n<p>Sumac Oil is obtained by grinding sumac berries in a stone mill and extracting their oil by cold pressing. It has a slightly tangy scent reminiscent of sumac and a dark color. Because of its intense character, it is used in the kitchen in small amounts, mostly uncooked and as the finishing touch to a dish.</p>\n<p>At Tufan Organik, we offer sumac oil for those who want to try new flavors in the kitchen with aromatic oils. As it is a cold-pressed oil, it is better used drizzled over salads, meze and ready-to-serve dishes rather than for high-heat frying. We recommend storing it in a cool place away from light.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Mix it with olive oil and drizzle a few drops over shepherd's salad.</li>\n<li>Add it as a finishing touch on top of hummus or fire-roasted eggplant meze.</li>\n<li>Mix it with red pepper flakes and thyme to make a dip for warm bread.</li>\n</ul>\n<p><strong>Packaging:</strong> Available in different sizes upon request.</p>",
     "ar": "<h2>زيت السماق المعصور على البارد</h2>\n<p>يُستخلص زيت السماق بطحن حبات السماق في مطحنة حجرية واستخراج زيتها بالعصر على البارد. له رائحة حامضة خفيفة تذكّر بالسماق ولون داكن. وبسبب طابعه المركّز يُستخدم في المطبخ بكميات قليلة، وغالباً من دون طهي، لمسةً أخيرة على الطعام.</p>\n<p>نقدّم في Tufan Organik زيت السماق لمن يرغبون في تجربة نكهات جديدة في المطبخ باستخدام الزيوت العطرية. ولأنه زيت معصور على البارد، فمن الأنسب استخدامه برشّه على السلطات والمقبلات والأطباق الجاهزة بدلاً من القلي على حرارة عالية. ننصح بحفظه في مكان بارد بعيد عن الضوء.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>اخلطه مع زيت الزيتون ورشّ بضع قطرات منه على سلطة الراعي.</li>\n<li>أضفه لمسةً أخيرة فوق الحمص بالطحينة أو مقبلات الباذنجان المشوي على الجمر.</li>\n<li>اخلطه مع رقائق الفلفل الأحمر والزعتر لتحضير غموس للخبز الساخن.</li>\n</ul>\n<p><strong>التغليف:</strong> متوفر بأوزان مختلفة حسب الطلب.</p>",
     "de": "<h2>Kaltgepresstes Sumachöl</h2>\n<p>Sumachöl entsteht, indem Sumachbeeren in einer Steinmühle gemahlen und ihr Öl durch Kaltpressung gewonnen wird. Es hat einen an Sumach erinnernden, leicht säuerlichen Duft und eine dunkle Farbe. Aufgrund seines intensiven Charakters wird es in der Küche sparsam verwendet, meist ungekocht und als letzter Schliff eines Gerichts.</p>\n<p>Wir bei Tufan Organik bieten Sumachöl für alle an, die mit aromatischen Ölen neue Geschmacksrichtungen in der Küche ausprobieren möchten. Da es sich um ein kaltgepresstes Öl handelt, eignet es sich besser zum Beträufeln von Salaten, Meze und fertigen Gerichten als zum Braten bei hoher Hitze. Wir empfehlen, es an einem kühlen, lichtgeschützten Ort aufzubewahren.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Mit Olivenöl mischen und ein paar Tropfen über einen Hirtensalat träufeln.</li>\n<li>Als letzten Schliff auf Hummus oder Meze aus über der Flamme gerösteten Auberginen geben.</li>\n<li>Mit Chiliflocken und Thymian zu einem Dip für warmes Brot verrühren.</li>\n</ul>\n<p><strong>Verpackung:</strong> In verschiedenen Füllmengen auf Anfrage erhältlich.</p>",
-    "ko": "<h2>냉압착 수막 오일</h2>\n<p>수막 오일은 수막 열매를 맷돌에 갈아 냉압착 방식으로 기름을 짜내어 얻습니다. 수막을 떠올리게 하는 은은하게 새콤한 향과 짙은 색을 지니고 있습니다. 강렬한 개성 때문에 주방에서는 소량을, 주로 가열하지 않고 요리의 마지막 마무리로 사용합니다.</p>\n<p>Tufan Organik는 향긋한 오일로 주방에서 새로운 맛을 시도하고 싶은 분들을 위해 수막 오일을 선보입니다. 냉압착 오일이므로 고온에서 튀기기보다는 샐러드, 메제, 완성된 요리 위에 뿌려 사용하는 것이 더 적합합니다. 빛이 들지 않는 서늘한 곳에 보관하실 것을 권장합니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>올리브 오일과 섞어 양치기 샐러드 위에 몇 방울 뿌립니다.</li>\n<li>후무스나 불에 구운 가지 메제 위에 마무리로 더합니다.</li>\n<li>굵은 고춧가루, 타임과 섞어 따뜻한 빵을 찍어 먹을 딥을 만듭니다.</li>\n</ul>\n<p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>"
+    "ko": "<h2>냉압착 수막 오일</h2>\n<p>수막 오일은 수막 열매를 맷돌에 갈아 냉압착 방식으로 기름을 짜내어 얻습니다. 수막을 떠올리게 하는 은은하게 새콤한 향과 짙은 색을 지니고 있습니다. 강렬한 개성 때문에 주방에서는 소량을, 주로 가열하지 않고 요리의 마지막 마무리로 사용합니다.</p>\n<p>Tufan Organik는 향긋한 오일로 주방에서 새로운 맛을 시도하고 싶은 분들을 위해 수막 오일을 선보입니다. 냉압착 오일이므로 고온에서 튀기기보다는 샐러드, 메제, 완성된 요리 위에 뿌려 사용하는 것이 더 적합합니다. 빛이 들지 않는 서늘한 곳에 보관하실 것을 권장합니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>올리브 오일과 섞어 양치기 샐러드 위에 몇 방울 뿌립니다.</li>\n<li>후무스나 불에 구운 가지 메제 위에 마무리로 더합니다.</li>\n<li>굵은 고춧가루, 타임과 섞어 따뜻한 빵을 찍어 먹을 딥을 만듭니다.</li>\n</ul>\n<p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>",
+    "ja": "<h2>コールドプレストスマックオイル</h2>\n<p>スマックオイルは、スマックの実を石臼で挽き、コールドプレス法で油分を抽出して作られます。スマックを思わせるほのかな酸味のある香りと、深い色合いが特徴です。その強い個性から、キッチンでは少量で使用されることが多く、主に加熱せずに料理の仕上げに添えられます。</p>\n<p>Tufan Organikでは、アロマティックなオイルで新しい風味をキッチンに取り入れたい方々にスマックオイルをご提供しています。コールドプレストオイルであるため、高温での揚げ物よりも、サラダ、メゼ、または完成品料理の上にかけたり、和えたりして召し上がることをお勧めします。保存の際は、光を避け、涼しい場所に保管してください。</p>\n<h3>おすすめの食べ方</h3>\n<ul>\n<li>オリーブオイルと混ぜて、シェパードサラダの上に数滴垂らしてください。</li>\n<li>ヒュームスや火で焼いたナスのメゼの上に、仕上げとしてかけてください。</li>\n<li>赤唐辛子のフレークとタイムと混ぜて、温かいパン用のディップにしてください。</li>\n</ul>\n<p><strong>パッケージ:</strong> ご希望に応じて、異なるサイズをご用意しています。</p>"
   },
   "title": {
     "tr": "Sumak Yağı | Tufan Organik",
     "en": "Sumac Oil | Tufan Organik",
     "ar": "زيت السماق | Tufan Organik",
     "de": "Sumachöl | Tufan Organik",
-    "ko": "수막 오일 | Tufan Organik"
+    "ko": "수막 오일 | Tufan Organik",
+    "ja": "スマックオイル | Tufan Organik"
   },
   "date": "2026-10-28T08:16:32.727Z",
   "update": "2026-10-28T09:07:42.729Z",

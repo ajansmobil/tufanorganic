@@ -223,6 +223,16 @@
             "whatsapp": "WhatsApp",
             "prev": "이전",
             "next": "다음"
+          },
+          "ja": {
+            "home": "ホーム",
+            "products": "製品",
+            "dimensions": "寸法",
+            "dimNote": "標準的な製造上の参考寸法です。プロジェクトに応じてカスタマイズ可能です。",
+            "quote": "見積もりを依頼",
+            "whatsapp": "WhatsApp",
+            "prev": "前へ",
+            "next": "次へ"
           }
         },
         "noTitle": {
@@ -230,14 +240,16 @@
           "en": "No title",
           "ar": "بدون عنوان",
           "de": "Kein Titel",
-          "ko": "제목 없음"
+          "ko": "제목 없음",
+          "ja": "タイトルなし"
         },
         "productNavAria": {
           "tr": "Ürün navigasyonu",
           "en": "Product navigation",
           "ar": "تنقل المنتج",
           "de": "Produktnavigation",
-          "ko": "제품 탐색"
+          "ko": "제품 탐색",
+          "ja": "製品ナビゲーション"
         }
       },
       "version": "1.0.0",
@@ -326,14 +338,16 @@
           "en": "Dimensions",
           "ar": "الأبعاد",
           "de": "Maße",
-          "ko": "치수"
+          "ko": "치수",
+          "ja": "寸法"
         },
         "olcuNote": {
           "tr": "Standart üretim referans ölçüsüdür; proje bazında özelleştirilebilir.",
           "en": "Standard production reference; customizable per project.",
           "ar": "مرجع إنتاج قياسي؛ قابل للتخصيص حسب المشروع.",
           "de": "Standardmäßige Produktionsreferenz; projektbezogen anpassbar.",
-          "ko": "표준 생산 기준이며 프로젝트별로 맞춤 설정할 수 있습니다."
+          "ko": "표준 생산 기준이며 프로젝트별로 맞춤 설정할 수 있습니다.",
+          "ja": "標準的な製造上の参考寸法です。プロジェクトに応じてカスタマイズ可能です。"
         }
       },
       "category": "page",
@@ -393,7 +407,7 @@
       "desing": {
         "model": "@cf/google/gemma-4-26b-a4b-it",
         "ollamaHost": "",
-        "proxyUrl": "https://nameless-math-8e53.yunusevgane.workers.dev/api/workers-ai-chat",
+        "proxyUrl": "https://tufanorganic.com/api/workers-ai-chat",
         "apiKey": "",
         "name": {
           "tr": "Tufan Organik Asistan",

@@ -6,7 +6,7 @@
         "en": "Cereals and Flours",
         "ar": "الحبوب والدقيق",
         "de": "Getreide und Mehle",
-        "ja": "",
+        "ja": "穀物と粉",
         "ko": "곡물 및 밀가루"
       },
       "id": "c01fistik",
@@ -26,7 +26,7 @@
         "en": "Tufan Organik Cereals and Flours product group.",
         "ar": "مجموعة منتجات الحبوب والدقيق من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Getreide und Mehle.",
-        "ja": "",
+        "ja": "Tufan Organik 穀物と粉の製品グループです。",
         "ko": "투판 오가닉 곡물 및 밀가루 제품군."
       }
     },
@@ -36,7 +36,8 @@
         "en": "Pulses and Pulse Products",
         "ar": "البقوليات ومنتجاتها",
         "de": "Hülsenfrüchte und Produkte",
-        "ko": "두류 및 두류 제품"
+        "ko": "두류 및 두류 제품",
+        "ja": "豆類とその製品"
       },
       "id": "c02findik",
       "index": 1,
@@ -55,7 +56,8 @@
         "en": "Tufan Organik Pulses and Pulse Products product group.",
         "ar": "مجموعة منتجات البقوليات ومنتجاتها من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Hülsenfrüchte und Produkte.",
-        "ko": "투판 오가닉 두류 및 두류 제품 제품군."
+        "ko": "투판 오가닉 두류 및 두류 제품 제품군.",
+        "ja": "Tufan Organik 豆類とその製品の製品グループです。"
       }
     },
     {
@@ -64,7 +66,8 @@
         "en": "Oilseeds and Products",
         "ar": "البذور الزيتية ومنتجاتها",
         "de": "Ölsaaten und Produkte",
-        "ko": "유지종자 및 제품"
+        "ko": "유지종자 및 제품",
+        "ja": "油用種子とその製品"
       },
       "id": "c03badem",
       "index": 2,
@@ -82,7 +85,8 @@
         "en": "Tufan Organik Oilseeds and Products product group.",
         "ar": "مجموعة منتجات البذور الزيتية ومنتجاتها من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Ölsaaten und Produkte.",
-        "ko": "투판 오가닉 유지종자 및 제품 제품군."
+        "ko": "투판 오가닉 유지종자 및 제품 제품군.",
+        "ja": "Tufan Organik 油用種子とその製品の製品グループです。"
       }
     },
     {
@@ -91,7 +95,8 @@
         "en": "Pasta Group",
         "ar": "مجموعة المعكرونة",
         "de": "Nudeln und Teigwaren",
-        "ko": "파스타 그룹"
+        "ko": "파스타 그룹",
+        "ja": "パスタ"
       },
       "id": "c04yerfist",
       "index": 3,
@@ -109,7 +114,8 @@
         "en": "Tufan Organik Pasta Group product group.",
         "ar": "مجموعة منتجات مجموعة المعكرونة من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Nudeln und Teigwaren.",
-        "ko": "투판 오가닉 파스타 그룹 제품군."
+        "ko": "투판 오가닉 파스타 그룹 제품군.",
+        "ja": "Tufan Organik パスタの製品グループです。"
       }
     },
     {
@@ -118,7 +124,7 @@
         "en": "Pastes and Sauces",
         "ar": "المعجونات والصلصات",
         "de": "Pasten und Saucen",
-        "ja": "",
+        "ja": "トマトソースと調味料",
         "ko": "페이스트 및 소스"
       },
       "id": "c05kurumey",
@@ -137,7 +143,7 @@
         "en": "Tufan Organik Pastes and Sauces product group.",
         "ar": "مجموعة منتجات المعجونات والصلصات من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Pasten und Saucen.",
-        "ja": "",
+        "ja": "Tufan Organik トマトソースと調味料の製品グループです。",
         "ko": "투판 오가닉 페이스트 및 소스 제품군."
       }
     },
@@ -147,7 +153,7 @@
         "en": "Breakfast Products",
         "ar": "منتجات الإفطار",
         "de": "Frühstücksprodukte",
-        "ja": "",
+        "ja": "朝食メニュー",
         "ko": "아침식사 제품"
       },
       "id": "c06meycip",
@@ -166,7 +172,7 @@
         "en": "Tufan Organik Breakfast Products product group.",
         "ar": "مجموعة منتجات منتجات الإفطار من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Frühstücksprodukte.",
-        "ja": "",
+        "ja": "Tufan Organik 朝食メニューの製品グループです。",
         "ko": "투판 오가닉 아침식사 제품 제품군."
       }
     },
@@ -176,7 +182,7 @@
         "en": "Milk and Dairy Products",
         "ar": "الحليب ومنتجات الألبان",
         "de": "Milch und Milchprodukte",
-        "ja": "",
+        "ja": "乳製品",
         "ko": "우유 및 유제품"
       },
       "id": "c07kuruseb",
@@ -195,7 +201,7 @@
         "en": "Tufan Organik Milk and Dairy Products product group.",
         "ar": "مجموعة منتجات الحليب ومنتجات الألبان من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Milch und Milchprodukte.",
-        "ja": "",
+        "ja": "Tufan Organik 乳製品の製品グループです。",
         "ko": "투판 오가닉 우유 및 유제품 제품군."
       }
     },
@@ -205,7 +211,8 @@
         "en": "Nuts and Nut Products",
         "ar": "المكسرات ومنتجاتها",
         "de": "Nüsse und Nussprodukte",
-        "ko": "견과류 및 제품"
+        "ko": "견과류 및 제품",
+        "ja": "ナッツとその製品"
       },
       "id": "c08recel",
       "index": 7,
@@ -223,7 +230,8 @@
         "en": "Tufan Organik Nuts and Nut Products product group.",
         "ar": "مجموعة منتجات المكسرات ومنتجاتها من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Nüsse und Nussprodukte.",
-        "ko": "투판 오가닉 견과류 및 제품 제품군."
+        "ko": "투판 오가닉 견과류 및 제품 제품군.",
+        "ja": "Tufan Organik ナッツとその製品の製品グループです。"
       }
     },
     {
@@ -232,7 +240,8 @@
         "en": "Jams and Marmalades",
         "ar": "المربيات ومربى الحمضيات",
         "de": "Konfitüren und Marmeladen",
-        "ko": "잼 및 마멀레이드"
+        "ko": "잼 및 마멀레이드",
+        "ja": "ジャムとマーマレード"
       },
       "id": "c09gelenek",
       "index": 8,
@@ -250,7 +259,8 @@
         "en": "Tufan Organik Jams and Marmalades product group.",
         "ar": "مجموعة منتجات المربيات ومربى الحمضيات من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Konfitüren und Marmeladen.",
-        "ko": "투판 오가닉 잼 및 마멀레이드 제품군."
+        "ko": "투판 오가닉 잼 및 마멀레이드 제품군.",
+        "ja": "Tufan Organik ジャムとマーマレードの製品グループです。"
       }
     },
     {
@@ -259,7 +269,8 @@
         "en": "Fruit Juices",
         "ar": "عصائر الفاكهة",
         "de": "Fruchtsäfte",
-        "ko": "과일 주스"
+        "ko": "과일 주스",
+        "ja": "フルーツジュース"
       },
       "id": "c10meyves",
       "index": 9,
@@ -277,7 +288,8 @@
         "en": "Tufan Organik Fruit Juices product group.",
         "ar": "مجموعة منتجات عصائر الفاكهة من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Fruchtsäfte.",
-        "ko": "투판 오가닉 과일 주스 제품군."
+        "ko": "투판 오가닉 과일 주스 제품군.",
+        "ja": "Tufan Organik フルーツジュースの製品グループです。"
       }
     },
     {
@@ -286,7 +298,8 @@
         "en": "Fruit Extracts",
         "ar": "مستخلصات الفاكهة",
         "de": "Fruchtextrakte",
-        "ko": "과일 추출물"
+        "ko": "과일 추출물",
+        "ja": "フルーツエキス"
       },
       "id": "c11pekmez",
       "index": 10,
@@ -304,7 +317,8 @@
         "en": "Tufan Organik Fruit Extracts product group.",
         "ar": "مجموعة منتجات مستخلصات الفاكهة من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Fruchtextrakte.",
-        "ko": "투판 오가닉 과일 추출물 제품군."
+        "ko": "투판 오가닉 과일 추출물 제품군.",
+        "ja": "Tufan Organik フルーツエキスの製品グループです。"
       }
     },
     {
@@ -313,7 +327,8 @@
         "en": "Molasses, Tahini and Halva",
         "ar": "أنواع الدبس والطحينة والحلاوة",
         "de": "Pekmez, Tahin und Halva",
-        "ko": "페크메즈, 타힌 및 할바"
+        "ko": "페크메즈, 타힌 및 할바",
+        "ja": "ペクメズ、タヒニ、ハルヴァ"
       },
       "id": "c12sut",
       "index": 11,
@@ -331,7 +346,8 @@
         "en": "Tufan Organik Molasses, Tahini and Halva product group.",
         "ar": "مجموعة منتجات أنواع الدبس والطحينة والحلاوة من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Pekmez, Tahin und Halva.",
-        "ko": "투판 오가닉 페크메즈, 타힌 및 할바 제품군."
+        "ko": "투판 오가닉 페크메즈, 타힌 및 할바 제품군.",
+        "ja": "Tufan Organik ペクメズ、タヒニ、ハルヴァの製品グループです。"
       }
     },
     {
@@ -340,7 +356,8 @@
         "en": "Dried Fruits",
         "ar": "الفواكه المجففة",
         "de": "Trockenfrüchte",
-        "ko": "건조 과일"
+        "ko": "건조 과일",
+        "ja": "ドライフルーツ"
       },
       "id": "c13konserve",
       "index": 12,
@@ -358,7 +375,8 @@
         "en": "Tufan Organik Dried Fruits product group.",
         "ar": "مجموعة منتجات الفواكه المجففة من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Trockenfrüchte.",
-        "ko": "투판 오가닉 건조 과일 제품군."
+        "ko": "투판 오가닉 건조 과일 제품군.",
+        "ja": "Tufan Organik ドライフルーツの製品グループです。"
       }
     },
     {
@@ -367,7 +385,8 @@
         "en": "Frozen Fruits",
         "ar": "الفواكه المجمدة",
         "de": "Tiefkühl-Obst",
-        "ko": "냉동 과일"
+        "ko": "냉동 과일",
+        "ja": "凍結フルーツ"
       },
       "id": "c14siviya",
       "index": 13,
@@ -385,7 +404,8 @@
         "en": "Tufan Organik Frozen Fruits product group.",
         "ar": "مجموعة منتجات الفواكه المجمدة من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Tiefkühl-Obst.",
-        "ko": "투판 오가닉 냉동 과일 제품군."
+        "ko": "투판 오가닉 냉동 과일 제품군.",
+        "ja": "Tufan Organik 凍結フルーツの製品グループです。"
       }
     },
     {
@@ -394,7 +414,8 @@
         "en": "Dried Vegetables",
         "ar": "الخضروات المجففة",
         "de": "Getrocknetes Gemüse",
-        "ko": "건조 채소"
+        "ko": "건조 채소",
+        "ja": "ドライ野菜"
       },
       "id": "c15aromya",
       "index": 14,
@@ -412,7 +433,8 @@
         "en": "Tufan Organik Dried Vegetables product group.",
         "ar": "مجموعة منتجات الخضروات المجففة من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Getrocknetes Gemüse.",
-        "ko": "투판 오가닉 건조 채소 제품군."
+        "ko": "투판 오가닉 건조 채소 제품군.",
+        "ja": "Tufan Organik ドライ野菜の製品グループです。"
       }
     },
     {
@@ -421,7 +443,8 @@
         "en": "Frozen Vegetables",
         "ar": "الخضروات المجمدة",
         "de": "Tiefkühl-Gemüse",
-        "ko": "냉동 채소"
+        "ko": "냉동 채소",
+        "ja": "凍結野菜"
       },
       "id": "c16iqfseb",
       "index": 15,
@@ -439,7 +462,8 @@
         "en": "Tufan Organik Frozen Vegetables product group.",
         "ar": "مجموعة منتجات الخضروات المجمدة من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Tiefkühl-Gemüse.",
-        "ko": "투판 오가닉 냉동 채소 제품군."
+        "ko": "투판 오가닉 냉동 채소 제품군.",
+        "ja": "Tufan Organik 凍結野菜の製品グループです。"
       }
     },
     {
@@ -448,7 +472,8 @@
         "en": "Bakery Products",
         "ar": "منتجات المخبوزات",
         "de": "Backwaren",
-        "ko": "베이커리 제품"
+        "ko": "베이커리 제품",
+        "ja": "パン・製菓製品"
       },
       "id": "c17iqfmey",
       "index": 16,
@@ -466,7 +491,8 @@
         "en": "Tufan Organik Bakery Products product group.",
         "ar": "مجموعة منتجات منتجات المخبوزات من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Backwaren.",
-        "ko": "투판 오가닉 베이커리 제품 제품군."
+        "ko": "투판 오가닉 베이커리 제품 제품군.",
+        "ja": "Tufan Organik パン・製菓製品の製品グループです。"
       }
     },
     {
@@ -476,14 +502,16 @@
         "en": "Kadayıf Varieties",
         "ar": "أنواع القطايف",
         "de": "Kadayıf-Sorten",
-        "ko": "카다이프 종류"
+        "ko": "카다이프 종류",
+        "ja": "カダイフ"
       },
       "description": {
         "tr": "Tufan Organik Kadayıf Çeşitleri ürün grubu.",
         "en": "Tufan Organik Kadayıf Varieties product group.",
         "ar": "مجموعة منتجات أنواع القطايف من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Kadayıf-Sorten.",
-        "ko": "투판 오가닉 카다이프 종류 제품군."
+        "ko": "투판 오가닉 카다이프 종류 제품군.",
+        "ja": "Tufan Organik カダイフの製品グループです。"
       },
       "path": "kadayif-cesitleri",
       "icon": "category",
@@ -503,14 +531,16 @@
         "en": "Lavash and Yufka Varieties",
         "ar": "أنواع اللافاش واليوفكا",
         "de": "Lavaş und Yufka",
-        "ko": "라바시 및 유프카 종류"
+        "ko": "라바시 및 유프카 종류",
+        "ja": "ラヴァッシュ・ユフカ"
       },
       "description": {
         "tr": "Tufan Organik Lavaş ve Yufka Çeşitleri ürün grubu.",
         "en": "Tufan Organik Lavash and Yufka Varieties product group.",
         "ar": "مجموعة منتجات أنواع اللافاش واليوفكا من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Lavaş und Yufka.",
-        "ko": "투판 오가닉 라바시 및 유프카 종류 제품군."
+        "ko": "투판 오가닉 라바시 및 유프카 종류 제품군.",
+        "ja": "Tufan Organik ラヴァッシュ・ユフカの製品グループです。"
       },
       "path": "lavas-ve-yufka-cesitleri",
       "icon": "category",
@@ -530,14 +560,16 @@
         "en": "Olive Oil and Avocado Oil",
         "ar": "زيت الزيتون وزيت الأفوكادو",
         "de": "Olivenöl und Avocadoöl",
-        "ko": "올리브 오일 및 아보카도 오일"
+        "ko": "올리브 오일 및 아보카도 오일",
+        "ja": "オリーブオイル・アボカドオイル"
       },
       "description": {
         "tr": "Tufan Organik Zeytin Yağı ve Avakado Yağı ürün grubu.",
         "en": "Tufan Organik Olive Oil and Avocado Oil product group.",
         "ar": "مجموعة منتجات زيت الزيتون وزيت الأفوكادو من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Olivenöl und Avocadoöl.",
-        "ko": "투판 오가닉 올리브 오일 및 아보카도 오일 제품군."
+        "ko": "투판 오가닉 올리브 오일 및 아보카도 오일 제품군.",
+        "ja": "Tufan Organik オリーブオイル・アボカドオイルの製品グループです。"
       },
       "path": "zeytin-yagi-ve-avakado-yagi",
       "icon": "category",
@@ -557,14 +589,16 @@
         "en": "Sour, Hot and Sweet Special Sauces, Vinegars and Beverages",
         "ar": "الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات",
         "de": "Saure, scharfe und süße Spezialsaucen, Essig und Getränke",
-        "ko": "새콤·매콤·달콤 특선 소스, 식초 및 음료"
+        "ko": "새콤·매콤·달콤 특선 소스, 식초 및 음료",
+        "ja": "酸味・辛味・甘味の特別ソース、酢、飲料"
       },
       "description": {
         "tr": "Tufan Organik Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler ürün grubu.",
         "en": "Tufan Organik Sour, Hot and Sweet Special Sauces, Vinegars and Beverages product group.",
         "ar": "مجموعة منتجات الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke.",
-        "ko": "투판 오가닉 새콤·매콤·달콤 특선 소스, 식초 및 음료 제품군."
+        "ko": "투판 오가닉 새콤·매콤·달콤 특선 소스, 식초 및 음료 제품군.",
+        "ja": "Tufan Organik 酸味・辛味・甘味の特別ソース、酢、飲料の製品グループです。"
       },
       "path": "eksi-aci-ve-tatli-ozel-soslar-sirke-ve-icecekler",
       "icon": "category",
@@ -584,14 +618,16 @@
         "en": "Medicinal and Aromatic Plants and Oils",
         "ar": "النباتات الطبية والعطرية وزيوتها",
         "de": "Heil- und Aromapflanzen und ihre Öle",
-        "ko": "약용·방향 식물 및 오일"
+        "ko": "약용·방향 식물 및 오일",
+        "ja": "薬用ハーブとそのオイル"
       },
       "description": {
         "tr": "Tufan Organik Tıbbi Aromatik Bitkiler ve Yağları ürün grubu.",
         "en": "Tufan Organik Medicinal and Aromatic Plants and Oils product group.",
         "ar": "مجموعة منتجات النباتات الطبية والعطرية وزيوتها من توفان أورغانيك.",
         "de": "Tufan Organik Produktgruppe Heil- und Aromapflanzen und ihre Öle.",
-        "ko": "투판 오가닉 약용·방향 식물 및 오일 제품군."
+        "ko": "투판 오가닉 약용·방향 식물 및 오일 제품군.",
+        "ja": "Tufan Organik 薬用ハーブとそのオイルの製品グループです。"
       },
       "path": "tibbi-aromatik-bitkiler-ve-yaglari",
       "icon": "category",

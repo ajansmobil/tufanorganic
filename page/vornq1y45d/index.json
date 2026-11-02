@@ -5,21 +5,24 @@
     "en": "Fresh Künefe (Kunafa)",
     "ar": "كنافة طازجة",
     "de": "Frische Künefe",
-    "ko": "생 퀴네페"
+    "ko": "생 퀴네페",
+    "ja": "生クネフェ"
   },
   "description": {
     "tr": "Tufan Organik Taze Künefe, Kadayıf Çeşitleri grubunda. Gürün/Sivas kökenli doğal gıda.",
     "en": "Tufan Organik Fresh Künefe is a natural food from Gürün/Sivas in the Kadayif Varieties range.",
     "ar": "Tufan Organik تقدّم الكنافة الطازجة ضمن مجموعة أنواع الكنافة، وهي غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Frische Künefe aus der Gruppe „Kadayif-Sorten“ ist ein Naturlebensmittel mit Ursprung in Gürün/Sivas.",
-    "ko": "Tufan Organik 생 퀴네페는 카다이프 종류 제품군에 속하는 귀륀/시바스산 천연 식품입니다."
+    "ko": "Tufan Organik 생 퀴네페는 카다이프 종류 제품군에 속하는 귀륀/시바스산 천연 식품입니다.",
+    "ja": "Tufan Organik 生クネフェは、カダイフカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "keyword": {
     "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Taze Künefe, Kadayıf Çeşitleri",
     "en": "Tufan Organik, Gürün/Sivas, natural food, Fresh Künefe, Kadayif Varieties",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, كنافة طازجة, أنواع الكنافة",
     "de": "Tufan Organik, Gürün/Sivas, Naturlebensmittel, Frische Künefe, Kadayif-Sorten",
-    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 생 퀴네페, 카다이프 종류"
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 생 퀴네페, 카다이프 종류",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 生クネフェ, カダイフ"
   },
   "path": "taze-kunefe",
   "icon": "breakfast_dining",
@@ -37,14 +40,16 @@
     "en": "<h2>A Hot Dessert at Home with Fresh Künefe</h2>\n<p>Fresh Künefe is the base of the beloved dessert served hot, in which fine shredded kadayif pastry meets unsalted cheese. When cooked with butter in a pan or in the oven, the bottom turns golden and crispy, while the cheese inside melts and stretches. The syrup poured over it creates a pleasant balance between the crispness of the shredded pastry and the softness of the cheese.</p>\n<p>At Tufan Organik, we recommend künefe as a treat that can be prepared at home in a short time. Preparing the syrup in advance and letting it cool ensures the crispness is preserved when it meets the hot künefe. As it is a fresh product, you will get the best results by cooking it shortly after it reaches you.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Fry both sides with butter in a künefe pan and pour cold syrup over it.</li>\n<li>Sprinkle generously with crushed Antep pistachios before serving.</li>\n<li>Serve the hot künefe with a spoonful of kaymak (clotted cream) or plain ice cream.</li>\n</ul>\n<p><strong>Packaging:</strong> Available in different sizes upon request.</p>",
     "ar": "<h2>حلوى ساخنة في المنزل مع الكنافة الطازجة</h2>\n<p>الكنافة الطازجة هي أساس الحلوى المحبوبة التي تُقدَّم ساخنة، حيث تلتقي عجينة الكنافة الشعرية الرفيعة بالجبن غير المملّح. وعند طهيها بالزبدة في المقلاة أو في الفرن يكتسب أسفلها لونًا ذهبيًا ويصبح مقرمشًا، بينما يذوب الجبن في داخلها ويمتد. ويخلق القطر المسكوب فوقها توازنًا جميلًا بين قرمشة عجينة الكنافة وطراوة الجبن.</p>\n<p>نوصي في Tufan Organik بالكنافة ضيافةً يمكن تحضيرها في المنزل في وقت قصير. فتحضير القطر مسبقًا وتركه ليبرد يضمن الحفاظ على القرمشة عند التقائه بالكنافة الساخنة. ولأنها منتج طازج، تحصل على أفضل نتيجة بطهيها بعد وقت قصير من وصولها إليك.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>حمّر وجهيها بالزبدة في صينية الكنافة، ثم اسكب عليها القطر البارد.</li>\n<li>انثر فوقها كمية وفيرة من الفستق العنتابي المجروش قبل التقديم.</li>\n<li>قدّم الكنافة الساخنة مع ملعقة من القشطة أو الآيس كريم السادة.</li>\n</ul>\n<p><strong>التغليف:</strong> متوفر بأوزان مختلفة حسب الطلب.</p>",
     "de": "<h2>Ein warmes Dessert für zu Hause mit frischer Künefe</h2>\n<p>Frische Künefe ist die Grundlage des beliebten, warm servierten Desserts, bei dem feiner Engelshaar-Kadayif auf ungesalzenen Käse trifft. Mit Butter in der Pfanne oder im Ofen gegart, wird die Unterseite goldbraun und knusprig, während der Käse im Inneren schmilzt und Fäden zieht. Der darübergegossene Sirup schafft ein angenehmes Gleichgewicht zwischen der Knusprigkeit des Kadayif und der Weichheit des Käses.</p>\n<p>Bei Tufan Organik empfehlen wir Künefe als Leckerei, die sich zu Hause in kurzer Zeit zubereiten lässt. Wenn Sie den Sirup vorher zubereiten und abkühlen lassen, bleibt die Knusprigkeit erhalten, sobald er auf die heiße Künefe trifft. Da es sich um ein frisches Produkt handelt, erzielen Sie das beste Ergebnis, wenn Sie es kurz nach Erhalt zubereiten.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>In einer Künefe-Pfanne mit Butter von beiden Seiten anbraten und mit kaltem Sirup übergießen.</li>\n<li>Vor dem Servieren großzügig mit gehackten Antep-Pistazien bestreuen.</li>\n<li>Die heiße Künefe mit einem Löffel Kaymak oder schlichtem Milcheis servieren.</li>\n</ul>\n<p><strong>Verpackung:</strong> Auf Anfrage in verschiedenen Gebinden erhältlich.</p>",
-    "ko": "<h2>생 퀴네페로 집에서 즐기는 따뜻한 디저트</h2>\n<p>생 퀴네페는 가는 실 모양의 카다이프와 무염 치즈가 만나는, 따뜻하게 내는 사랑받는 디저트의 기본 재료입니다. 버터와 함께 팬이나 오븐에서 조리하면 바닥은 황금빛으로 바삭해지고 속의 치즈는 길게 늘어나며 녹습니다. 위에 붓는 시럽이 카다이프의 바삭함과 치즈의 부드러움 사이에 기분 좋은 균형을 만들어 줍니다.</p>\n<p>Tufan Organik는 퀴네페를 집에서 짧은 시간에 준비할 수 있는 대접 메뉴로 추천합니다. 시럽을 미리 만들어 식혀 두면 뜨거운 퀴네페와 만났을 때 바삭함이 유지됩니다. 신선 제품이므로 받으신 뒤 빠른 시일 안에 조리하시면 가장 좋은 결과를 얻을 수 있습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>퀴네페 팬에 버터를 두르고 양면을 노릇하게 구운 뒤 차가운 시럽을 부어 보세요.</li>\n<li>내기 전에 빻은 안테프 피스타치오를 듬뿍 뿌려 보세요.</li>\n<li>뜨거운 퀴네페를 카이막 한 숟가락이나 플레인 아이스크림과 함께 내 보세요.</li>\n</ul>\n<p><strong>포장:</strong> 요청에 따라 다양한 용량으로 제공됩니다.</p>"
+    "ko": "<h2>생 퀴네페로 집에서 즐기는 따뜻한 디저트</h2>\n<p>생 퀴네페는 가는 실 모양의 카다이프와 무염 치즈가 만나는, 따뜻하게 내는 사랑받는 디저트의 기본 재료입니다. 버터와 함께 팬이나 오븐에서 조리하면 바닥은 황금빛으로 바삭해지고 속의 치즈는 길게 늘어나며 녹습니다. 위에 붓는 시럽이 카다이프의 바삭함과 치즈의 부드러움 사이에 기분 좋은 균형을 만들어 줍니다.</p>\n<p>Tufan Organik는 퀴네페를 집에서 짧은 시간에 준비할 수 있는 대접 메뉴로 추천합니다. 시럽을 미리 만들어 식혀 두면 뜨거운 퀴네페와 만났을 때 바삭함이 유지됩니다. 신선 제품이므로 받으신 뒤 빠른 시일 안에 조리하시면 가장 좋은 결과를 얻을 수 있습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>퀴네페 팬에 버터를 두르고 양면을 노릇하게 구운 뒤 차가운 시럽을 부어 보세요.</li>\n<li>내기 전에 빻은 안테프 피스타치오를 듬뿍 뿌려 보세요.</li>\n<li>뜨거운 퀴네페를 카이막 한 숟가락이나 플레인 아이스크림과 함께 내 보세요.</li>\n</ul>\n<p><strong>포장:</strong> 요청에 따라 다양한 용량으로 제공됩니다.</p>",
+    "ja": "<h2>新鮮な生クネフェで、ご自宅で温かいデザートを</h2>\n<p>生クネフェは、細かく刻まれたカダイフの生地と無塩チーズを組み合わせた、温めてお召し上がりいただく人気のデザートの基本です。バターでフライパンやオーブンで調理すると、底が黄金色に焼き上がりサクサクとした食感になり、中のチーズはとろりと溶けて伸びます。その上からシロップをかけると、サクサクの生地と柔らかいチーズの絶妙なバランスが楽しめます。</p>\n<p>Tufan Organikでは、短時間で手軽にご家庭で楽しめるおやつとして、生クネフェをおすすめしています。シロップを事前に作り、冷ましておくことで、熱々の生クネフェと合わせる際にサクサク感を保つことができます。生鮮食品ですので、お手元に届いてから早めに調理していただくことで、最高の状態でお召し上がりいただけます。</p>\n<h3>おすすめの食べ方</h3>\n<ul>\n<li>クネフェ専用フライパンでバターを使い、両面を焼き、冷たいシロップをかけてお召し上がりください。</li>\n<li>お召し上がりになる前に、アンテプ産ピスタチオを刻んでたっぷりトッピングしてください。</li>\n<li>熱々の生クネフェに、カイマック（クリームチーズ）やプレーンアイスクリームを添えてお召し上がりください。</li>\n</ul>\n<p><strong>パッケージ:</strong> ご希望に応じて、異なるサイズをご用意しております。</p>"
   },
   "title": {
     "tr": "Taze Künefe | Tufan Organik",
     "en": "Fresh Künefe (Kunafa) | Tufan Organik",
     "ar": "كنافة طازجة | Tufan Organik",
     "de": "Frische Künefe | Tufan Organik",
-    "ko": "생 퀴네페 | Tufan Organik"
+    "ko": "생 퀴네페 | Tufan Organik",
+    "ja": "生クネフェ | Tufan Organik"
   },
   "date": "2026-10-28T08:16:29.016Z",
   "update": "2026-10-28T09:08:07.172Z",

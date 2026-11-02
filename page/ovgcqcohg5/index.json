@@ -5,21 +5,24 @@
     "en": "Siyez (Einkorn) Wheat",
     "ar": "القمح وحيد الحبة (سييز)",
     "de": "Siyez-Einkornweizen",
-    "ko": "시예즈(외알밀)"
+    "ko": "시예즈(외알밀)",
+    "ja": "シイェズ（ヒトツブコムギ）"
   },
   "description": {
     "tr": "Tufan Organik Siyez Buğdayı, Tahıl Grubu ve Unları grubunda. Gürün/Sivas kökenli doğal gıda.",
     "en": "Tufan Organik Siyez (Einkorn) Wheat, part of the Grains and Flours range, is a natural food rooted in Gürün/Sivas.",
     "ar": "Tufan Organik — القمح وحيد الحبة (سييز) من فئة الحبوب ودقيقها، غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Siyez-Einkornweizen aus der Kategorie Getreide und Mehle ist ein Naturprodukt mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 시예즈(외알밀)는 곡물 및 곡물가루 제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+    "ko": "Tufan Organik 시예즈(외알밀)는 곡물 및 곡물가루 제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다.",
+    "ja": "Tufan Organik シイェズ（ヒトツブコムギ）は、穀物と粉カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "keyword": {
     "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Siyez Buğdayı, Tahıl Grubu ve Unları",
     "en": "Tufan Organik, Gürün/Sivas, natural food, Siyez Wheat, Grains and Flours",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, قمح السييز, الحبوب ودقيقها",
     "de": "Tufan Organik, Gürün/Sivas, Naturkost, Siyez-Einkornweizen, Getreide und Mehle",
-    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 시예즈 밀, 곡물 및 곡물가루"
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 시예즈 밀, 곡물 및 곡물가루",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, シイェズ（ヒトツブコムギ）, 穀物と粉"
   },
   "path": "siyez-bugdayi",
   "icon": "breakfast_dining",
@@ -37,14 +40,16 @@
     "en": "<h2>Siyez Wheat: A Hulled Grain from Ancestral Seed</h2>\n<p>Siyez wheat is an ancient wheat species known as an ancestral seed, whose grain develops together with its husk. Its grains are small, firm and brownish; when cooked, they offer a subtle hazelnut-like taste and a firm, pleasantly chewy texture. It adds character to many dishes, from pilaf to salads.</p>\n<p>At Tufan Organik, we added siyez to our catalogue for those who want to make room for time-honoured flavours at their table. Soaking it in water for a few hours before cooking softens the grains and shortens the cooking time. Storing boiled siyez in the refrigerator and using it in different dishes throughout the week is also a practical approach.</p>\n<h3>Usage Suggestions</h3>\n<ul>\n<li>Fluffy siyez pilaf, sautéed with onion and cooked in meat broth</li>\n<li>A hearty salad of boiled siyez with pomegranate molasses, parsley and walnuts</li>\n<li>Siyez soup or keşkek (a traditional slow-cooked wheat dish), simmered over low heat in bone broth</li>\n</ul>\n<p><strong>Packaging:</strong> Available in various sizes on request.</p>",
     "ar": "<h2>القمح وحيد الحبة (سييز): حبوب بقشرتها من بذور موروثة</h2>\n<p>قمح السييز نوع قديم من القمح يُعرف بأنه من البذور الموروثة، وتنمو حبته مع قشرتها. حبوبه صغيرة ومتماسكة ومائلة إلى البني؛ وعند طهيها تمنح طعمًا خفيفًا يشبه البندق وقوامًا متماسكًا ممتعًا عند المضغ. ويضفي طابعًا مميزًا على أطباق كثيرة من البرغل المطبوخ (البيلاف) إلى السلطات.</p>\n<p>في Tufan Organik أضفنا السييز إلى كتالوجنا لمن يرغبون في إفساح المجال للنكهات العريقة على موائدهم. نقعه في الماء بضع ساعات قبل الطهي يليّن الحبوب ويقصّر مدة الطهي. ومن الطرق العملية أيضًا حفظ السييز المسلوق في الثلاجة واستخدامه في أطباق مختلفة خلال الأسبوع.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>بيلاف السييز المفلفل، المحمّر مع البصل والمطبوخ في مرق اللحم</li>\n<li>سلطة مُشبِعة من السييز المسلوق مع دبس الرمان والبقدونس والجوز</li>\n<li>شوربة السييز أو الكشكك (طبق تقليدي من القمح المطهو ببطء) على نار هادئة في مرق العظام</li>\n</ul>\n<p><strong>التغليف:</strong> متوفر بأوزان مختلفة حسب الطلب.</p>",
     "de": "<h2>Siyez-Einkornweizen: Bespelztes Getreide aus altem Saatgut</h2>\n<p>Siyez-Weizen ist eine alte Weizenart, die als ursprüngliches Saatgut gilt und deren Korn sich zusammen mit seiner Spelze entwickelt. Die Körner sind klein, fest und bräunlich; gekocht bieten sie einen leicht an Haselnüsse erinnernden Geschmack und eine bissfeste, angenehm kaubare Textur. Er verleiht vielen Gerichten Charakter – vom Pilaw bis zum Salat.</p>\n<p>Bei Tufan Organik haben wir Siyez in unser Sortiment aufgenommen – für alle, die traditionsreichen Aromen auf ihrem Tisch Raum geben möchten. Wird er vor dem Kochen einige Stunden in Wasser eingeweicht, werden die Körner weicher und die Garzeit verkürzt sich. Praktisch ist es auch, gekochten Siyez im Kühlschrank aufzubewahren und im Laufe der Woche für verschiedene Gerichte zu verwenden.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Lockerer Siyez-Pilaw, mit Zwiebeln angeröstet und in Fleischbrühe gegart</li>\n<li>Ein sättigender Salat aus gekochtem Siyez mit Granatapfelsirup, Petersilie und Walnüssen</li>\n<li>Siyez-Suppe oder Keşkek (traditionelles, langsam gegartes Weizengericht), bei schwacher Hitze in Knochenbrühe gekocht</li>\n</ul>\n<p><strong>Verpackung:</strong> In verschiedenen Größen auf Anfrage erhältlich.</p>",
-    "ko": "<h2>시예즈(외알밀): 토종 씨앗에서 온 껍질 곡물</h2>\n<p>시예즈 밀은 토종 씨앗으로 알려진 오래된 밀 품종으로, 낟알이 껍질과 함께 자랍니다. 낟알은 작고 단단하며 갈색빛을 띠고, 익히면 은은한 헤이즐넛 풍미와 탱글하고 씹는 맛이 좋은 식감을 냅니다. 필라프부터 샐러드까지 다양한 요리에 개성을 더합니다.</p>\n<p>Tufan Organik는 식탁에 유서 깊은 맛을 들이고자 하는 분들을 위해 시예즈를 제품 목록에 추가했습니다. 조리 전 몇 시간 물에 불려 두면 낟알이 부드러워지고 조리 시간이 줄어듭니다. 삶은 시예즈를 냉장 보관해 두었다가 주중에 여러 요리에 활용하는 것도 실용적인 방법입니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>양파와 함께 볶아 육수로 지은 고슬고슬한 시예즈 필라프</li>\n<li>삶은 시예즈에 석류 당밀, 파슬리, 호두를 더한 든든한 샐러드</li>\n<li>사골 육수에 약한 불로 오래 끓인 시예즈 수프 또는 케슈케크(전통 밀 요리)</li>\n</ul>\n<p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>"
+    "ko": "<h2>시예즈(외알밀): 토종 씨앗에서 온 껍질 곡물</h2>\n<p>시예즈 밀은 토종 씨앗으로 알려진 오래된 밀 품종으로, 낟알이 껍질과 함께 자랍니다. 낟알은 작고 단단하며 갈색빛을 띠고, 익히면 은은한 헤이즐넛 풍미와 탱글하고 씹는 맛이 좋은 식감을 냅니다. 필라프부터 샐러드까지 다양한 요리에 개성을 더합니다.</p>\n<p>Tufan Organik는 식탁에 유서 깊은 맛을 들이고자 하는 분들을 위해 시예즈를 제품 목록에 추가했습니다. 조리 전 몇 시간 물에 불려 두면 낟알이 부드러워지고 조리 시간이 줄어듭니다. 삶은 시예즈를 냉장 보관해 두었다가 주중에 여러 요리에 활용하는 것도 실용적인 방법입니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>양파와 함께 볶아 육수로 지은 고슬고슬한 시예즈 필라프</li>\n<li>삶은 시예즈에 석류 당밀, 파슬리, 호두를 더한 든든한 샐러드</li>\n<li>사골 육수에 약한 불로 오래 끓인 시예즈 수프 또는 케슈케크(전통 밀 요리)</li>\n</ul>\n<p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>",
+    "ja": "<h2>シイェズ（ヒトツブコムギ）：祖先から受け継がれた種子から生まれる、外皮付きの穀物</h2>\n<p>シイェズ（ヒトツブコムギ）は、祖先の種子として知られる古代の小麦の一種で、外皮とともに穀物が育ちます。粒は小さく、硬めで茶褐色をしています。調理すると、かすかなヘーゼルナッツのような風味と、しっかりとした心地よい弾力が楽しめます。ピラフからサラダまで、さまざまな料理に深みを与えます。</p>\n<p>Tufan Organikでは、食卓に伝統的な味わいを取り入れたい方のために、シイェズ（ヒトツブコムギ）をラインナップに加えました。調理前に数時間水に浸しておくと、粒が柔らかくなり、調理時間を短縮できます。茹でたシイェズ（ヒトツブコムギ）を冷蔵庫で保存し、一週間を通してさまざまな料理に活用するのも実用的な方法です。</p>\n<h3>おすすめの食べ方</h3>\n<ul>\n<li class=\"\">玉ねぎと一緒に炒め、肉の出汁で炊き上げたふっくらとしたシイェズ（ヒトツブコムギ）のピラフ</li>\n<li class=\"\">茹でたシイェズ（ヒトツブコムギ）に、ザクロモラセス、パセリ、くるみを加えたボリュームたっぷりのサラダ</li>\n<li class=\"\">シイェズ（ヒトツブコムギ）のスープ、またはボーンブロスで弱火でじっくり煮込んだケシュケク（伝統的な小麦の煮込み料理）</li>\n</ul>\n<p><strong class=\"\">パッケージ：</strong> ご要望に応じて、さまざまなサイズをご用意しております。</p>"
   },
   "title": {
     "tr": "Siyez Buğdayı | Tufan Organik",
     "en": "Siyez (Einkorn) Wheat | Tufan Organik",
     "ar": "القمح وحيد الحبة (سييز) | Tufan Organik",
     "de": "Siyez-Einkornweizen | Tufan Organik",
-    "ko": "시예즈(외알밀) | Tufan Organik"
+    "ko": "시예즈(외알밀) | Tufan Organik",
+    "ja": "シイェズ（ヒトツブコムギ） | Tufan Organik"
   },
   "date": "2026-10-28T08:16:19.646Z",
   "update": "2026-10-28T09:07:54.657Z",

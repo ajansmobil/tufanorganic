@@ -5,21 +5,24 @@
     "en": "Kadayıf Varieties",
     "ar": "أنواع القطايف",
     "de": "Kadayıf-Sorten",
-    "ko": "카다이프 종류"
+    "ko": "카다이프 종류",
+    "ja": "カダイフ"
   },
   "description": {
     "tr": "Tufan Organik Kadayıf Çeşitleri ürün grubu.",
     "en": "Tufan Organik Kadayıf Varieties product group.",
     "ar": "مجموعة منتجات أنواع القطايف من توفان أورغانيك.",
     "de": "Tufan Organik Produktgruppe Kadayıf-Sorten.",
-    "ko": "투판 오가닉 카다이프 종류 제품군."
+    "ko": "투판 오가닉 카다이프 종류 제품군.",
+    "ja": "Tufan Organik カダイフの製品グループです。"
   },
   "keyword": {
     "tr": "Tufan Organik, Kadayıf Çeşitleri",
     "en": "Tufan Organik, Kadayıf Varieties",
     "ar": "Tufan Organik, أنواع القطايف",
     "de": "Tufan Organik, Kadayıf-Sorten",
-    "ko": "Tufan Organik, 카다이프 종류"
+    "ko": "Tufan Organik, 카다이프 종류",
+    "ja": "Tufan Organik, カダイフ"
   },
   "path": "kadayif-cesitleri",
   "icon": "category",
@@ -32,13 +35,16 @@
   },
   "index": 17,
   "url": "",
-  "text": {},
+  "text": {
+    "ja": ""
+  },
   "title": {
     "tr": "Kadayıf Çeşitleri | Tufan Organik",
     "en": "Kadayıf Varieties | Tufan Organik",
     "ar": "أنواع القطايف | Tufan Organik",
     "de": "Kadayıf-Sorten | Tufan Organik",
-    "ko": "카다이프 종류 | Tufan Organik"
+    "ko": "카다이프 종류 | Tufan Organik",
+    "ja": "カダイフ | Tufan Organik"
   },
   "date": "2026-10-28T08:07:20.750Z",
   "update": "2026-10-28T08:07:44.437Z"

@@ -5,21 +5,24 @@
     "en": "Medicinal and Aromatic Plants and Oils",
     "ar": "النباتات الطبية والعطرية وزيوتها",
     "de": "Heil- und Aromapflanzen und ihre Öle",
-    "ko": "약용·방향 식물 및 오일"
+    "ko": "약용·방향 식물 및 오일",
+    "ja": "薬用ハーブとそのオイル"
   },
   "description": {
     "tr": "Tufan Organik Tıbbi Aromatik Bitkiler ve Yağları ürün grubu.",
     "en": "Tufan Organik Medicinal and Aromatic Plants and Oils product group.",
     "ar": "مجموعة منتجات النباتات الطبية والعطرية وزيوتها من توفان أورغانيك.",
     "de": "Tufan Organik Produktgruppe Heil- und Aromapflanzen und ihre Öle.",
-    "ko": "투판 오가닉 약용·방향 식물 및 오일 제품군."
+    "ko": "투판 오가닉 약용·방향 식물 및 오일 제품군.",
+    "ja": "Tufan Organik 薬用ハーブとそのオイルの製品グループです。"
   },
   "keyword": {
     "tr": "Tufan Organik, Tıbbi Aromatik Bitkiler ve Yağları",
     "en": "Tufan Organik, Medicinal and Aromatic Plants and Oils",
     "ar": "Tufan Organik, النباتات الطبية والعطرية وزيوتها",
     "de": "Tufan Organik, Heil- und Aromapflanzen und ihre Öle",
-    "ko": "Tufan Organik, 약용·방향 식물 및 오일"
+    "ko": "Tufan Organik, 약용·방향 식물 및 오일",
+    "ja": "Tufan Organik, 薬用ハーブとそのオイル"
   },
   "path": "tibbi-aromatik-bitkiler-ve-yaglari",
   "icon": "category",
@@ -32,13 +35,16 @@
   },
   "index": 21,
   "url": "",
-  "text": {},
+  "text": {
+    "ja": ""
+  },
   "title": {
     "tr": "Tıbbi Aromatik Bitkiler ve Yağları | Tufan Organik",
     "en": "Medicinal and Aromatic Plants and Oils | Tufan Organik",
     "ar": "النباتات الطبية والعطرية وزيوتها | Tufan Organik",
     "de": "Heil- und Aromapflanzen und ihre Öle | Tufan Organik",
-    "ko": "약용·방향 식물 및 오일 | Tufan Organik"
+    "ko": "약용·방향 식물 및 오일 | Tufan Organik",
+    "ja": "薬用ハーブとそのオイル | Tufan Organik"
   },
   "date": "2026-10-28T08:07:44.255Z",
   "update": "2026-10-28T08:07:44.475Z"

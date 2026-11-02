@@ -4,7 +4,8 @@
     "en": "Kebab Sauce",
     "ar": "صلصة الكباب",
     "de": "Kebabsoße",
-    "ko": "케밥 소스"
+    "ko": "케밥 소스",
+    "ja": "ケバブソース"
   },
   "status": "play",
   "category": "c05kurumey",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, Kebab Sauce, Pastes, Pickles, Meze and Sauces, paste, pickles, mezze, tomato paste",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, صلصة الكباب, معاجين, مخللات, مقبلات وصلصات, معجون, مخلل, مازة, معجون الطماطم",
     "de": "Tufan Organik, Gürün/Sivas, Naturkost, Kebabsoße, Pasten, Eingelegtes, Meze und Soßen, Paste, Sauergemüse, Mezze, Tomatenmark",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ケバブソース, トマトソースと調味料",
     "ko": "Tufan Organik, 귀륀/시바스, 자연식품, 케밥 소스, 페이스트, 피클, 메제 및 소스, 페이스트류, 절임 식품, 메제, 토마토 페이스트"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Kebab Sauce is a heat-treated kebab sauce from the Pastes, Pickles, Meze and Sauces range, offered in 300 ml as a natural food rooted in Gürün/Sivas.",
     "ar": "Tufan Organik صلصة الكباب صلصة كباب معالَجة حراريًا ضمن مجموعة المعاجين والمخللات والمقبلات والصلصات، تُقدَّم بحجم 300 ml غذاءً طبيعيًا أصله من غورون/سيواس.",
     "de": "Tufan Organik Kebabsoße ist eine wärmebehandelte Kebabsoße aus der Gruppe Pasten, Eingelegtes, Meze und Soßen, erhältlich in 300 ml als natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 케밥 소스는 페이스트, 피클, 메제 및 소스 카테고리의 가열 처리된 케밥 소스로, 300 ml 용량으로 제공되는 귀륀/시바스 태생의 자연식품입니다."
+    "ko": "Tufan Organik 케밥 소스는 페이스트, 피클, 메제 및 소스 카테고리의 가열 처리된 케밥 소스로, 300 ml 용량으로 제공되는 귀륀/시바스 태생의 자연식품입니다.",
+    "ja": "Tufan Organik ケバブソースは、トマトソースと調味料カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "index": 196,
   "icon": "lunch_dining",
@@ -43,7 +45,7 @@
     "en": "Kebab Sauce | Tufan Organik",
     "ar": "صلصة الكباب | Tufan Organik",
     "de": "Kebabsoße | Tufan Organik",
-    "ja": "",
+    "ja": "ケバブソース | Tufan Organik",
     "ko": "케밥 소스 | Tufan Organik"
   },
   "text": {
@@ -51,7 +53,7 @@
     "en": "<h2>Kebab Sauce: A Ready Companion for the Grill</h2>\n<p>Tufan Organik Kebab Sauce is a heat-treated, ready-to-use kebab sauce. With its thick consistency and a flavour that suits a kebab spread, it complements the aroma of grilled meat. Poured over lavash, pide or bulgur pilaf, it brings a warm harmony to the plate and saves you the trouble of making a sauce in a separate pot.</p>\n<p>In Gaziantep, considered one of the homelands of the kebab, the sauce and side dishes served with the meat are valued at least as much as the meat itself. Tufan Organik adds its kebab sauce to barbecue and grill evenings at home in a 300 ml size. You can serve it briefly warmed or at room temperature, as you prefer.</p>\n<h3>Usage Suggestions</h3>\n<ul>\n<li>For yoghurt kebab, drizzle the warmed sauce over toasted pide cubes together with yoghurt.</li>\n<li>When plating homemade meatballs or chicken skewers, set it alongside in a small bowl.</li>\n<li>When making wraps, spread a thin layer inside the lavash and finish with onion and parsley.</li>\n</ul>\n<p><strong>Size:</strong> 300 ml</p>",
     "ar": "<h2>صلصة الكباب: رفيق جاهز للمشويات</h2>\n<p>صلصة الكباب من Tufan Organik صلصة كباب جاهزة للاستخدام خضعت للمعالجة الحرارية. تُكمل رائحة اللحم المشوي بقوامها الكثيف وطعمها الذي يليق بمائدة الكباب. وعند سكبها على خبز اللواش أو البيده أو برغل البيلاف تمنح الطبق تكاملًا دافئًا، وتُغنيك عن عناء تحضير الصلصة في قدر منفصلة.</p>\n<p>في غازي عنتاب، التي تُعدّ من مواطن الكباب الأصلية، تحظى الصلصة والأطباق الجانبية المرافقة للحم باهتمام لا يقل عن اللحم نفسه. وتضيف Tufan Organik صلصة الكباب إلى أمسيات الشواء في البيت بحجم 300 ml. ويمكنك تقديمها بعد تسخينها قليلًا أو بدرجة حرارة الغرفة كما تشاء.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>لكباب اللبن، اسكب الصلصة المسخّنة مع اللبن الزبادي فوق مكعبات البيده المحمّصة.</li>\n<li>ضعها في وعاء صغير بجانب الكفتة أو أسياخ الدجاج المحضّرة في البيت عند تقديمها.</li>\n<li>عند تحضير اللفائف، ادهن طبقة رقيقة داخل خبز اللواش وأكملها بالبصل والبقدونس.</li>\n</ul>\n<p><strong>الحجم:</strong> 300 ml</p>",
     "de": "<h2>Kebabsoße: Die fertige Begleitung zum Grill</h2>\n<p>Die Tufan Organik Kebabsoße ist eine wärmebehandelte, gebrauchsfertige Kebabsoße. Mit ihrer sämigen Konsistenz und einem Geschmack, der zur Kebab-Tafel passt, ergänzt sie das Aroma von gegrilltem Fleisch. Über Lavash, Pide oder Bulgur-Pilaw gegossen, verleiht sie dem Teller eine warme Geschlossenheit und erspart Ihnen die Mühe, eine Soße in einem separaten Topf zuzubereiten.</p>\n<p>In Gaziantep, das als eine der Heimaten des Kebabs gilt, werden Soße und Beilagen mindestens so geschätzt wie das Fleisch selbst. Tufan Organik bereichert mit seiner Kebabsoße in der Größe 300 ml die Grill- und Barbecueabende zu Hause. Sie können sie nach Belieben kurz erwärmt oder bei Zimmertemperatur servieren.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Für Joghurt-Kebab die erwärmte Soße zusammen mit Joghurt über geröstete Pidewürfel träufeln.</li>\n<li>Selbst gemachte Frikadellen oder Hähnchenspieße beim Anrichten mit einem kleinen Schälchen der Soße servieren.</li>\n<li>Für Dürüm eine dünne Schicht auf das Lavash streichen und mit Zwiebeln und Petersilie vollenden.</li>\n</ul>\n<p><strong>Füllmenge:</strong> 300 ml</p>",
-    "ja": "",
+    "ja": "<h2>ケバブソース：グリルに添える、準備いらずのパートナー</h2>\n<p>トゥファン・オルガニックのケバブソースは、加熱処理済みのそのまま使えるケバブソースです。とろみのある質感とケバブにぴったりの味わいが、焼き肉の香りを引き立てます。ラヴァシュ、ピデ、またはブルグル・ピラフにかけて召し上がると、一皿に温かなハーモニーをもたらし、別途鍋でソースを作る手間も省けます。</p>\n<p>ケバブの本場の一つとされるガズィアンテプでは、肉と一緒に提供されるソースやサイドディッシュは、肉そのものと同じくらい大切にされています。トゥファン・オルガニックは、ご家庭でのバーベキューやグリル料理に最適な300mlサイズのケバブソースをお届けします。お好みで、さっと温めても、常温のまま召し上がってもいただけます。</p>\n<h3>おすすめの食べ方</h3>\n<ul>\n<li>ヨグルト・ケバブにする場合は、トーストしたピデの角切りにヨグルトを添え、温めたソースを回しかけてください。</li>\n<li>手作りのミートボールやチキンの串焼きを盛り付ける際は、小さな器に入れて添えてください。</li>\n<li>ラップを作る際は、ラヴァシュの内側に薄くソースを塗り、玉ねぎとパセリを添えて仕上げてください。</li>\n</ul>\n<p><strong>サイズ:</strong> 300 ml</p>",
     "ko": "<h2>케밥 소스: 그릴 요리에 곁들이는 간편한 짝꿍</h2>\n<p>Tufan Organik 케밥 소스는 가열 처리를 거친, 바로 사용할 수 있는 케밥 소스입니다. 걸쭉한 질감과 케밥 상차림에 잘 어울리는 맛으로 구운 고기의 풍미를 완성합니다. 라바시, 피데 또는 불구르 필라프 위에 부으면 접시에 따뜻한 조화를 더해 주며, 따로 냄비에 소스를 만드는 수고도 덜어 줍니다.</p>\n<p>케밥의 본고장 중 하나로 꼽히는 가지안테프에서는 고기와 함께 나오는 소스와 곁들이 음식도 고기 못지않게 중요하게 여깁니다. Tufan Organik는 300 ml 용량의 케밥 소스로 집에서 즐기는 바비큐와 그릴의 저녁을 더욱 풍성하게 합니다. 원하는 대로 잠시 데우거나 실온 그대로 내셔도 좋습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>요거트 케밥을 만들 때 바삭하게 구운 피데 조각 위에 요거트와 함께 데운 소스를 두르십시오.</li>\n<li>집에서 만든 미트볼이나 닭꼬치를 접시에 담을 때 작은 그릇에 담아 곁들이십시오.</li>\n<li>랩을 만들 때 라바시 안쪽에 얇게 펴 바르고 양파와 파슬리로 마무리하십시오.</li>\n</ul>\n<p><strong>용량:</strong> 300 ml</p>"
   },
   "update": "2026-10-28T09:07:59.311Z",

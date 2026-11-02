@@ -4,7 +4,8 @@
     "en": "Vision",
     "ar": "الرؤية",
     "de": "Vision",
-    "ko": "비전"
+    "ko": "비전",
+    "ja": "ビジョン"
   },
   "status": "play",
   "id": "vizyon",
@@ -15,7 +16,7 @@
     "en": "<h2 style=\"font-size: 24px;\">Our Vision</h2>\n    <p style=\" font-size: 16px;\">\n        Our vision is to be one of the first and most trusted brands that come to mind when people think of 'natural food', both across Turkey and on the international market. Through our quality, honesty and consistency, we aim to earn our customers' trust at every step.\n    </p>",
     "ar": "<h2 style=\"font-size: 24px;\">رؤيتنا</h2>\n    <p style=\" font-size: 16px;\">\n        تتمثل رؤيتنا في أن نكون من أوائل العلامات التجارية وأكثرها موثوقية التي تتبادر إلى الذهن عند ذكر «الأغذية الطبيعية»، في جميع أنحاء تركيا وفي الأسواق الدولية. ونسعى إلى كسب ثقة عملائنا في كل خطوة بفضل جودتنا ونزاهتنا وثباتنا.\n    </p>",
     "de": "<h2 style=\"font-size: 24px;\">Unsere Vision</h2>\n    <p style=\" font-size: 16px;\">\n        Unsere Vision ist es, in der gesamten Türkei und auf dem internationalen Markt eine der ersten und vertrauenswürdigsten Marken zu sein, an die man bei „natürlichen Lebensmitteln“ denkt. Mit unserer Qualität, Ehrlichkeit und Beständigkeit wollen wir bei jedem Schritt das Vertrauen unserer Kundinnen und Kunden gewinnen.\n    </p>",
-    "ja": "",
+    "ja": "<h2 style=\"font-size: 24px;\">私たちのビジョン</h2>\n    <p style=\" font-size: 16px;\">\n        私たちのビジョンは、トルコ国内および国際市場の両方において、「ナチュラルフード」を考える際に真っ先に思い浮かぶ、最も信頼されるブランドの一つになることです。品質、誠実さ、そして一貫性を通じて、あらゆる段階でお客様の信頼を得ることを目指しています。\n    </p>",
     "ko": "<h2 style=\"font-size: 24px;\">우리의 비전</h2>\n    <p style=\" font-size: 16px;\">\n        당사의 비전은 튀르키예 전역과 해외 시장에서 '천연 식품' 하면 가장 먼저 떠오르는, 가장 신뢰받는 브랜드 중 하나가 되는 것입니다. 품질과 정직, 그리고 일관성으로 모든 단계에서 고객의 신뢰를 얻는 것을 목표로 합니다.\n    </p>"
   },
   "desing": {
@@ -31,7 +32,7 @@
     "en": "Vision | Tufan Organik",
     "ar": "الرؤية | Tufan Organik",
     "de": "Vision | Tufan Organik",
-    "ja": "",
+    "ja": "ビジョン | Tufan Organik",
     "ko": "비전 | Tufan Organik"
   },
   "description": {
@@ -39,14 +40,15 @@
     "en": "Tufan Organik's vision: to be the natural food brand of choice in Turkey and on the international market.",
     "ar": "Tufan Organik – رؤيتنا: أن نكون علامة الأغذية الطبيعية المفضلة في تركيا والأسواق الدولية.",
     "de": "Tufan Organik – unsere Vision: die bevorzugte Marke für natürliche Lebensmittel in der Türkei und auf dem internationalen Markt zu sein.",
-    "ko": "Tufan Organik의 비전은 튀르키예와 해외 시장에서 선택받는 천연 식품 브랜드가 되는 것입니다."
+    "ko": "Tufan Organik의 비전은 튀르키예와 해외 시장에서 선택받는 천연 식품 브랜드가 되는 것입니다.",
+    "ja": "Tufan Organikのビジョン。自然食品分野で信頼される国際的なブランドを目指します。"
   },
   "keyword": {
     "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, vizyon, gıda markası, ihracat, yenilikçi gıda",
     "en": "Tufan Organik, Gürün/Sivas, natural food, vision, food brand, export, innovative food",
     "ar": "Tufan Organik, غورون/سيواس, أغذية طبيعية, الرؤية, علامة غذائية, تصدير, أغذية مبتكرة",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Vision, Lebensmittelmarke, Export, innovative Lebensmittel",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ビジョン, 将来像",
     "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 비전, 식품 브랜드, 수출, 혁신 식품"
   },
   "update": "2026-10-28T09:08:06.435Z",

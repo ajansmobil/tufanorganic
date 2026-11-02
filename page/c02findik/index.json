@@ -4,7 +4,8 @@
     "en": "Pulses and Pulse Products",
     "ar": "البقوليات ومنتجاتها",
     "de": "Hülsenfrüchte und Produkte",
-    "ko": "두류 및 두류 제품"
+    "ko": "두류 및 두류 제품",
+    "ja": "豆類とその製品"
   },
   "status": "play",
   "category": "",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Pulses and Pulse Products",
     "ar": "Tufan Organik, البقوليات ومنتجاتها",
     "de": "Tufan Organik, Hülsenfrüchte und Produkte",
-    "ja": "",
+    "ja": "Tufan Organik, 豆類とその製品",
     "ko": "Tufan Organik, 두류 및 두류 제품"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Pulses and Pulse Products product group.",
     "ar": "مجموعة منتجات البقوليات ومنتجاتها من توفان أورغانيك.",
     "de": "Tufan Organik Produktgruppe Hülsenfrüchte und Produkte.",
-    "ko": "투판 오가닉 두류 및 두류 제품 제품군."
+    "ko": "투판 오가닉 두류 및 두류 제품 제품군.",
+    "ja": "Tufan Organik 豆類とその製品の製品グループです。"
   },
   "index": 1,
   "icon": "category",
@@ -39,7 +41,7 @@
     "en": "Pulses and Pulse Products | Tufan Organik",
     "ar": "البقوليات ومنتجاتها | Tufan Organik",
     "de": "Hülsenfrüchte und Produkte | Tufan Organik",
-    "ja": "",
+    "ja": "豆類とその製品 | Tufan Organik",
     "ko": "두류 및 두류 제품 | Tufan Organik"
   },
   "text": {

@@ -5,21 +5,24 @@
     "en": "Stone-Ground Whole Wheat Flour",
     "ar": "دقيق القمح الكامل المطحون بالحجر",
     "de": "Steingemahlenes Weizenvollkornmehl",
-    "ko": "맷돌 제분 통밀가루"
+    "ko": "맷돌 제분 통밀가루",
+    "ja": "石臼挽き全粒小麦粉"
   },
   "description": {
     "tr": "Tufan Organik Taş Değirmen Tam Buğday Unu, Tahıl Grubu ve Unları grubunda. Gürün/Sivas kökenli doğal gıda.",
     "en": "Tufan Organik Stone-Ground Whole Wheat Flour, from the Grains and Flours range: a natural food with roots in Gürün/Sivas.",
     "ar": "Tufan Organik – دقيق القمح الكامل المطحون بالحجر من مجموعة الحبوب ودقيقها، غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Steingemahlenes Weizenvollkornmehl aus der Gruppe Getreide und Mehle – ein natürliches Lebensmittel mit Ursprung in Gürün/Sivas.",
-    "ko": "Tufan Organik 맷돌 제분 통밀가루는 곡물 및 곡물가루 제품군에 속하는, 귀륀/시바스에 뿌리를 둔 천연 식품입니다."
+    "ko": "Tufan Organik 맷돌 제분 통밀가루는 곡물 및 곡물가루 제품군에 속하는, 귀륀/시바스에 뿌리를 둔 천연 식품입니다.",
+    "ja": "Tufan Organik 石臼挽き全粒小麦粉は、穀物と粉カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "keyword": {
     "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Taş Değirmen Tam Buğday Unu, Tahıl Grubu ve Unları",
     "en": "Tufan Organik, Gürün/Sivas, natural food, Stone-Ground Whole Wheat Flour, Grains and Flours",
     "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, دقيق القمح الكامل المطحون بالحجر, الحبوب ودقيقها",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Steingemahlenes Weizenvollkornmehl, Getreide und Mehle",
-    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 맷돌 제분 통밀가루, 곡물 및 곡물가루"
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 맷돌 제분 통밀가루, 곡물 및 곡물가루",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 石臼挽き全粒小麦粉, 穀物と粉"
   },
   "path": "tas-degirmen-tam-bugday-unu",
   "icon": "breakfast_dining",
@@ -37,14 +40,16 @@
     "en": "<h2>Back to Homemade Bread with Stone-Ground Whole Wheat Flour</h2>\n<p>Whole wheat flour is made by grinding the grain together with its bran and germ; this is why it is darker in color than white flour and has a more pronounced aroma. Stone-ground flour has a slightly coarse texture and gives dough a full-bodied character with the taste of grain.</p>\n<p>This flour is one of the staple products sought by bread and pastry lovers at the Tufan Organik counter. Since its water absorption differs from that of white flour, adding water to the dough little by little gives good results. If you like, you can mix it with white flour to get a softer bread.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Country-style whole wheat bread leavened with sourdough or fresh yeast</li>\n<li>Pide and lavash dough made by mixing it half and half with white flour</li>\n<li>Cookie and cake recipes enriched with cinnamon and walnuts</li>\n</ul>\n<p><strong>Packaging:</strong> Available in various weights, on request.</p>",
     "ar": "<h2>عودة إلى خبز البيت مع دقيق القمح الكامل المطحون بالحجر</h2>\n<p>يُحضَّر دقيق القمح الكامل بطحن الحبة مع نخالتها وجنينها؛ ولذلك يكون لونه أغمق من الدقيق الأبيض ورائحته أوضح. والدقيق المطحون في مطحنة حجرية ذو قوام خشن قليلًا، ويمنح العجين طابعًا ممتلئًا بنكهة الحبوب.</p>\n<p>هذا الدقيق من المنتجات الأساسية التي يبحث عنها محبو الخبز والمعجنات لدى Tufan Organik. ولأن نسبة امتصاصه للماء تختلف عن الدقيق الأبيض، فإن إضافة الماء إلى العجين تدريجيًا تعطي نتيجة جيدة. ويمكنك إن شئت خلطه مع الدقيق الأبيض للحصول على خبز أطرى.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>خبز قمح كامل على الطريقة الريفية مخمّر بالخميرة الطبيعية أو الخميرة الطازجة</li>\n<li>عجينة البيدا وخبز اللافاش المحضّرة بخلطه مناصفة مع الدقيق الأبيض</li>\n<li>وصفات بسكويت وكعك غنية بالقرفة والجوز</li>\n</ul>\n<p><strong>التغليف:</strong> متوفر بأوزان مختلفة حسب الطلب.</p>",
     "de": "<h2>Zurück zum hausgemachten Brot mit steingemahlenem Weizenvollkornmehl</h2>\n<p>Weizenvollkornmehl entsteht, wenn das Korn samt Kleie und Keim gemahlen wird; deshalb ist es dunkler als Weißmehl und duftet intensiver. Steingemahlenes Mehl hat eine leicht raue Struktur und verleiht dem Teig einen vollmundigen Charakter mit Getreidegeschmack.</p>\n<p>Dieses Mehl gehört bei Tufan Organik zu den Grundprodukten, nach denen Liebhaber von Brot und Backwaren suchen. Da es anders Wasser aufnimmt als Weißmehl, erzielen Sie gute Ergebnisse, wenn Sie das Wasser nach und nach zum Teig geben. Nach Belieben können Sie es mit Weißmehl mischen, um ein weicheres Brot zu erhalten.</p>\n<h3>Verwendungsvorschläge</h3>\n<ul>\n<li>Vollkornbrot nach Landart, mit Sauerteig oder frischer Hefe angesetzt</li>\n<li>Pide- und Lavasch-Teig aus einer Mischung zu gleichen Teilen mit Weißmehl</li>\n<li>Plätzchen- und Kuchenrezepte, verfeinert mit Zimt und Walnüssen</li>\n</ul>\n<p><strong>Verpackung:</strong> In verschiedenen Gewichtsgrößen, auf Anfrage erhältlich.</p>",
-    "ko": "<h2>맷돌 제분 통밀가루로 다시 만나는 집 빵</h2>\n<p>통밀가루는 밀알을 겨와 배아까지 함께 갈아 만들기 때문에 흰 밀가루보다 색이 짙고 향이 더 뚜렷합니다. 맷돌로 간 가루는 약간 거친 질감을 지니며, 반죽에 곡물 본연의 맛이 살아 있는 묵직한 개성을 더해 줍니다.</p>\n<p>이 밀가루는 Tufan Organik 매장에서 빵과 반죽 요리를 즐기는 분들이 찾는 기본 제품 중 하나입니다. 흰 밀가루와 수분 흡수율이 다르므로 반죽에 물을 조금씩 나누어 넣으면 좋은 결과를 얻을 수 있습니다. 원한다면 흰 밀가루와 섞어 더 부드러운 빵을 만들 수도 있습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>사워도우 또는 생이스트로 발효한 시골풍 통밀빵</li>\n<li>흰 밀가루와 반반 섞어 만드는 피데와 라바시 반죽</li>\n<li>계피와 호두로 풍미를 더한 쿠키와 케이크 레시피</li>\n</ul>\n<p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>"
+    "ko": "<h2>맷돌 제분 통밀가루로 다시 만나는 집 빵</h2>\n<p>통밀가루는 밀알을 겨와 배아까지 함께 갈아 만들기 때문에 흰 밀가루보다 색이 짙고 향이 더 뚜렷합니다. 맷돌로 간 가루는 약간 거친 질감을 지니며, 반죽에 곡물 본연의 맛이 살아 있는 묵직한 개성을 더해 줍니다.</p>\n<p>이 밀가루는 Tufan Organik 매장에서 빵과 반죽 요리를 즐기는 분들이 찾는 기본 제품 중 하나입니다. 흰 밀가루와 수분 흡수율이 다르므로 반죽에 물을 조금씩 나누어 넣으면 좋은 결과를 얻을 수 있습니다. 원한다면 흰 밀가루와 섞어 더 부드러운 빵을 만들 수도 있습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>사워도우 또는 생이스트로 발효한 시골풍 통밀빵</li>\n<li>흰 밀가루와 반반 섞어 만드는 피데와 라바시 반죽</li>\n<li>계피와 호두로 풍미를 더한 쿠키와 케이크 레시피</li>\n</ul>\n<p><strong>포장:</strong> 요청에 따라 다양한 중량으로 제공됩니다.</p>",
+    "ja": "<h2>石臼挽き全粒小麦粉で、手作りパンを楽しみましょう</h2>\n<p>全粒粉は、穀物を糠や胚芽と一緒に挽いて作られます。そのため、白い小麦粉よりも色が濃く、香りがより際立っています。石臼挽き全粒小麦粉は、わずかに粗い質感があり、生地に穀物の風味豊かな深みを与えます。</p>\n<p>この粉は、トゥファン・オルガニックのカウンターでパンや菓子パンを愛する方々に求められる定番商品の一つです。吸水率が白い小麦粉とは異なるため、生地に水を少しずつ加えることで、より良い仕上がりになります。お好みで白い小麦粉と混ぜることで、より柔らかいパンにすることも可能です。</p>\n<h3>おすすめのレシピ</h3>\n<ul>\n<li>サワードウや生イーストで発酵させた、カントリースタイルの全粒小麦パン</li>\n<li>白い小麦粉と半分ずつ混ぜて作る、ピデやラヴァシュの生地</li>\n<li>シナモンとくるみを加えて風味豊かに仕上げた、クッキーやケーキのレシピ</li>\n</ul>\n<p><strong>内容量：</strong> 様々な重量で、ご要望に応じてご用意いたします。</p>"
   },
   "title": {
     "tr": "Taş Değirmen Tam Buğday Unu | Tufan Organik",
     "en": "Stone-Ground Whole Wheat Flour | Tufan Organik",
     "ar": "دقيق القمح الكامل المطحون بالحجر | Tufan Organik",
     "de": "Steingemahlenes Weizenvollkornmehl | Tufan Organik",
-    "ko": "맷돌 제분 통밀가루 | Tufan Organik"
+    "ko": "맷돌 제분 통밀가루 | Tufan Organik",
+    "ja": "石臼挽き全粒小麦粉 | Tufan Organik"
   },
   "date": "2026-10-28T08:16:20.165Z",
   "update": "2026-10-28T09:07:52.980Z",

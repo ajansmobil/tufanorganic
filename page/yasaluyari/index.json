@@ -4,7 +4,8 @@
     "en": "Legal Notice",
     "ar": "إشعار قانوني",
     "de": "Rechtlicher Hinweis",
-    "ko": "법적 고지"
+    "ko": "법적 고지",
+    "ja": "法的通知"
   },
   "status": "play",
   "id": "yasaluyari",
@@ -15,7 +16,7 @@
     "en": "<h2 style=\"font-size: 24px;\">Legal Notice</h2>\n    <p style=\" font-size: 16px;\">\n        All content on our website is protected under the provisions of Law No. 5846 on Intellectual and Artistic Works and Law No. 5651 on the Regulation of Publications on the Internet and Combating Crimes Committed by Means of Such Publications. Copying, reproducing, disseminating, selling, distributing, exhibiting or publishing any content on our website, using it for commercial purposes in any way, or sharing it on other platforms without permission is prohibited. Those who act in violation of these rules may face civil and criminal sanctions under the relevant laws. </p>\n    <p style=\" font-size: 16px;\">\n        In the event that content on our website is used or distributed unlawfully, our website reserves the right to apply to the competent authorities and to protect its legal rights. Unauthorised sharing of content on the internet may lead to severe legal sanctions and infringes the rights of the authors. Where you need to protect your rights as an author, you have the right to initiate legal proceedings.</p>\n    <p style=\" font-size: 16px;\">\n        If you notice any unauthorised use or sharing of content on our website, please contact us. By continuing to use our website, you are deemed to have accepted this legal notice.</p>",
     "ar": "<h2 style=\"font-size: 24px;\">إشعار قانوني</h2>\n    <p style=\" font-size: 16px;\">\n        جميع المحتويات الواردة على موقعنا محمية بموجب أحكام القانون رقم 5846 بشأن المصنفات الفكرية والفنية، والقانون رقم 5651 بشأن تنظيم المنشورات على الإنترنت ومكافحة الجرائم المرتكبة بواسطة هذه المنشورات. ويُحظر نسخ أي محتوى على موقعنا أو استنساخه أو نشره أو بيعه أو توزيعه أو عرضه أو إصداره أو استخدامه لأغراض تجارية بأي شكل من الأشكال أو مشاركته على منصات أخرى دون إذن. وقد يتعرض المخالفون لهذه القواعد لعقوبات مدنية وجزائية بموجب القوانين ذات الصلة. </p>\n    <p style=\" font-size: 16px;\">\n        في حال استخدام المحتوى الوارد على موقعنا أو توزيعه بشكل مخالف للقانون، يحتفظ موقعنا بحقه في اللجوء إلى السلطات المختصة وحماية حقوقه القانونية. إن المشاركة غير المصرح بها للمحتوى على الإنترنت قد تترتب عليها عقوبات قانونية صارمة، فضلًا عن انتهاكها لحقوق أصحاب المصنفات. وفي حال احتجتم إلى حماية حقوقكم بصفتكم أصحاب مصنفات، يحق لكم اتخاذ الإجراءات القانونية.</p>\n    <p style=\" font-size: 16px;\">\n        إذا لاحظتم أي استخدام أو مشاركة غير مصرح بهما للمحتوى الوارد على موقعنا، يُرجى التواصل معنا. وباستمراركم في استخدام موقعنا، تُعدّون موافقين على هذا الإشعار القانوني.</p>",
     "de": "<h2 style=\"font-size: 24px;\">Rechtlicher Hinweis</h2>\n    <p style=\" font-size: 16px;\">\n        Sämtliche Inhalte unserer Website sind gemäß den Bestimmungen des Gesetzes Nr. 5846 über geistige und künstlerische Werke sowie des Gesetzes Nr. 5651 über die Regulierung von Veröffentlichungen im Internet und die Bekämpfung von durch solche Veröffentlichungen begangenen Straftaten geschützt. Das Kopieren, Vervielfältigen, Verbreiten, Verkaufen, Vertreiben, Ausstellen oder Veröffentlichen von Inhalten unserer Website, ihre Nutzung zu kommerziellen Zwecken in jeglicher Form sowie ihre unerlaubte Weitergabe auf anderen Plattformen sind untersagt. Wer gegen diese Regeln verstößt, kann nach den einschlägigen Gesetzen zivil- und strafrechtlich belangt werden. </p>\n    <p style=\" font-size: 16px;\">\n        Werden Inhalte unserer Website rechtswidrig genutzt oder verbreitet, behält sich unsere Website das Recht vor, die zuständigen Behörden einzuschalten und ihre gesetzlichen Rechte zu wahren. Die unerlaubte Weitergabe von Inhalten im Internet kann schwerwiegende rechtliche Sanktionen nach sich ziehen und verletzt die Rechte der Urheber. Sofern Sie Ihre Rechte als Urheber schützen müssen, steht Ihnen das Recht zu, rechtliche Schritte einzuleiten.</p>\n    <p style=\" font-size: 16px;\">\n        Sollten Sie eine unerlaubte Nutzung oder Weitergabe von Inhalten unserer Website bemerken, wenden Sie sich bitte an uns. Durch die weitere Nutzung unserer Website erklären Sie sich mit diesem rechtlichen Hinweis einverstanden.</p>",
-    "ja": "",
+    "ja": "<h2 style=\"font-size: 24px;\">法的通知</h2>\n    <p style=\" font-size: 16px;\">\n        当ウェブサイトのすべてのコンテンツは、知的財産および芸術作品に関する法律第5846号、ならびにインターネット上の出版物の規制およびそれらを利用した犯罪の防止に関する法律第5651号の規定に基づき保護されています。当ウェブサイト上のコンテンツを、許可なく複製、再生、散布、販売、配布、展示、または公開すること、いかなる方法であれ商業目的で使用すること、または他のプラットフォームで共有することは禁止されています。これらの規則に違反する行為を行った者は、関連法に基づき、民事および刑事上の制裁を受ける可能性があります。 </p>\n    <p style=\" font-size: 16px;\">\n        当ウェブサイトのコンテンツが不法に使用または配布された場合、当ウェブサイトは管轄当局に申し立てを行い、法的権利を保護する権利を留保します。インターネット上でのコンテンツの無断共有は、厳しい法的制裁を招く可能性があり、著作者の権利を侵害するものです。著作者として自身の権利を保護する必要がある場合、法的手段を開始する権利があります。</p>\n    <p style=\" font-size: 16px;\">\n        当ウェブサイト上のコンテンツの無断使用または共有に気づいた場合は、当社までご連絡ください。当ウェブサイトの利用を継続することにより、お客様はこの法的通知に同意したものとみなされます。</p>",
     "ko": "<h2 style=\"font-size: 24px;\">법적 고지</h2>\n    <p style=\" font-size: 16px;\">\n        당사 웹사이트의 모든 콘텐츠는 제5846호 지적 및 예술 저작물에 관한 법률과 제5651호 인터넷 게시물 규제 및 해당 게시물을 통한 범죄 방지에 관한 법률의 규정에 따라 보호됩니다. 당사 웹사이트의 어떠한 콘텐츠도 복사, 복제, 유포, 판매, 배포, 전시, 게재하거나, 어떠한 방식으로든 상업적 목적으로 이용하거나, 허가 없이 다른 플랫폼에 공유하는 것은 금지됩니다. 이러한 규정을 위반하는 경우 관련 법률에 따라 민사 및 형사상 제재를 받을 수 있습니다. </p>\n    <p style=\" font-size: 16px;\">\n        당사 웹사이트의 콘텐츠가 불법적으로 이용되거나 배포되는 경우, 당사 웹사이트는 관할 기관에 신고하고 법적 권리를 보호할 권리를 보유합니다. 인터넷상 콘텐츠의 무단 공유는 중대한 법적 제재로 이어질 수 있으며 저작권자의 권리를 침해합니다. 저작권자로서 권리를 보호해야 하는 경우, 귀하는 법적 절차를 개시할 권리가 있습니다.</p>\n    <p style=\" font-size: 16px;\">\n        당사 웹사이트 콘텐츠의 무단 이용 또는 공유를 발견하시면 당사에 연락해 주시기 바랍니다. 웹사이트를 계속 이용하시면 본 법적 고지에 동의한 것으로 간주됩니다.</p>"
   },
   "desing": {
@@ -31,7 +32,7 @@
     "en": "Legal Notice | Tufan Organik",
     "ar": "إشعار قانوني | Tufan Organik",
     "de": "Rechtlicher Hinweis | Tufan Organik",
-    "ja": "",
+    "ja": "法的通知 | Tufan Organik",
     "ko": "법적 고지 | Tufan Organik"
   },
   "description": {
@@ -39,14 +40,15 @@
     "en": "Tufan Organik legal notice: website terms of use and limits of legal liability.",
     "ar": "Tufan Organik – إشعار قانوني: شروط استخدام الموقع الإلكتروني وحدود المسؤولية القانونية.",
     "de": "Tufan Organik – rechtlicher Hinweis: Nutzungsbedingungen der Website und Grenzen der rechtlichen Haftung.",
-    "ko": "Tufan Organik 법적 고지로, 웹사이트 이용 약관과 법적 책임의 한계를 안내합니다."
+    "ko": "Tufan Organik 법적 고지로, 웹사이트 이용 약관과 법적 책임의 한계를 안내합니다.",
+    "ja": "Tufan Organikのウェブサイトに関する法的通知と利用上の注意です。"
   },
   "keyword": {
     "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, yasal uyarı, sorumluluk reddi, site kullanım şartları",
     "en": "Tufan Organik, Gürün/Sivas, natural food, legal notice, disclaimer, website terms of use",
     "ar": "Tufan Organik, غورون/سيواس, أغذية طبيعية, إشعار قانوني, إخلاء المسؤولية, شروط استخدام الموقع",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, rechtlicher Hinweis, Haftungsausschluss, Nutzungsbedingungen der Website",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 法的通知, 利用条件",
     "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 법적 고지, 면책 조항, 사이트 이용 약관"
   },
   "update": "2026-10-28T09:08:10.351Z",

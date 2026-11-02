@@ -4,7 +4,8 @@
     "en": "Privacy Policy",
     "ar": "سياسة الخصوصية",
     "de": "Datenschutzerklärung",
-    "ko": "개인정보 처리방침"
+    "ko": "개인정보 처리방침",
+    "ja": "プライバシーポリシー"
   },
   "status": "play",
   "id": "gizlilikpolitikasi",
@@ -15,7 +16,7 @@
     "en": "<h2 style=\"font-size: 24px;\">Our Privacy Policy</h2>\n    <p style=\"font-size: 16px;\">\n        When you visit our website, certain information is collected via cookies in order to improve your use of our site and the services offered on it. This information, excluding your identity details, is used to deliver the services on our site more effectively and to improve the user experience. Cookies are used to remember your user preferences, optimise the functioning of our site and offer you a better experience.\n    </p>\n    <p style=\"font-size: 16px;\">\n        The information collected is not shared with third parties and is used solely to improve the performance of our site and develop our services. Users can block the use of cookies by changing their browser settings. Please note, however, that in this case some parts of our site may not function properly.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Your privacy is extremely important to us. We take the necessary technical and administrative measures to ensure the security of your personal information. If you have any questions or concerns about our Privacy Policy, please contact us.\n    </p>",
     "ar": "<h2 style=\"font-size: 24px;\">سياسة الخصوصية لدينا</h2>\n    <p style=\"font-size: 16px;\">\n        عند زيارتكم لموقعنا الإلكتروني، يتم جمع بعض المعلومات عبر ملفات تعريف الارتباط (الكوكيز) بهدف تحسين استخدامكم للموقع والخدمات المقدمة عليه. وتُستخدم هذه المعلومات، باستثناء بيانات هويتكم، لتقديم الخدمات المتاحة على موقعنا بشكل أفضل وتحسين تجربة المستخدم. كما تُستخدم ملفات تعريف الارتباط لتذكر تفضيلاتكم، وتحسين أداء موقعنا، وتقديم تجربة أفضل لكم.\n    </p>\n    <p style=\"font-size: 16px;\">\n        لا تتم مشاركة المعلومات المجمعة مع أطراف ثالثة، وتُستخدم فقط لتحسين أداء موقعنا وتطوير خدماتنا. ويمكن للمستخدمين منع استخدام ملفات تعريف الارتباط عن طريق تغيير إعدادات المتصفح. ومع ذلك، يُرجى العلم بأن بعض أقسام موقعنا قد لا تعمل بشكل صحيح في هذه الحالة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        خصوصيتكم بالغة الأهمية بالنسبة لنا. ونتخذ التدابير الفنية والإدارية اللازمة لضمان أمن معلوماتكم الشخصية. وإذا كانت لديكم أي أسئلة أو مخاوف بشأن سياسة الخصوصية لدينا، يمكنكم التواصل معنا.\n    </p>",
     "de": "<h2 style=\"font-size: 24px;\">Unsere Datenschutzerklärung</h2>\n    <p style=\"font-size: 16px;\">\n        Wenn Sie unsere Website besuchen, werden über Cookies bestimmte Informationen erhoben, um Ihre Nutzung unserer Website und die dort angebotenen Dienste zu verbessern. Diese Informationen werden – mit Ausnahme Ihrer Identitätsdaten – dazu verwendet, die Dienste auf unserer Website besser bereitzustellen und das Nutzererlebnis zu verbessern. Cookies dienen dazu, Ihre Nutzerpräferenzen zu speichern, die Funktionsweise unserer Website zu optimieren und Ihnen ein besseres Erlebnis zu bieten.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Die erhobenen Informationen werden nicht an Dritte weitergegeben und ausschließlich dazu verwendet, die Leistung unserer Website zu steigern und unsere Dienste weiterzuentwickeln. Nutzer können die Verwendung von Cookies durch Änderung ihrer Browsereinstellungen unterbinden. Bitte beachten Sie jedoch, dass in diesem Fall einige Bereiche unserer Website möglicherweise nicht ordnungsgemäß funktionieren.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Ihre Privatsphäre ist uns äußerst wichtig. Wir treffen die erforderlichen technischen und organisatorischen Maßnahmen, um die Sicherheit Ihrer persönlichen Informationen zu gewährleisten. Bei Fragen oder Bedenken zu unserer Datenschutzerklärung können Sie sich gerne an uns wenden.\n    </p>",
-    "ja": "",
+    "ja": "<h2 style=\"font-size: 24px;\">プライバシーポリシー</h2>\n    <p style=\"font-size: 16px;\">\n        当社のウェブサイトをご利用いただく際、サイトの利便性向上および提供サービスの改善を目的として、クッキーを通じて特定の情報が収集されます。これらの情報は、お客様の個人を特定する詳細情報を除き、当サイトのサービスをより効果的に提供し、ユーザー体験を向上させるために使用されます。クッキーは、ユーザー設定の保存、サイト機能の最適化、およびより良い体験を提供するために使用されます。\n    </p>\n    <p style=\"font-size: 16px;\">\n        収集された情報は第三者と共有されることはなく、当サイトのパフォーマンス向上およびサービスの開発のみに使用されます。ユーザーはブラウザの設定を変更することで、クッキーの使用をブロックできます。ただし、その場合、当サイトの一部が正常に機能しない可能性があることにご注意ください。\n    </p>\n    <p style=\"font-size: 16px;\">\n        お客様のプライバシーは当社にとって非常に重要です。当社は、お客様の個人情報の安全性を確保するために、必要な技術的および管理的な措置を講じています。当社のプライバシーポリシーに関してご質問やご不明な点がございましたら、お問い合わせください。\n    </p>",
     "ko": "<h2 style=\"font-size: 24px;\">당사의 개인정보 처리방침</h2>\n    <p style=\"font-size: 16px;\">\n        당사 웹사이트를 방문하시면 사이트 이용 및 제공 서비스 개선을 위해 쿠키를 통해 일부 정보가 수집됩니다. 이 정보는 귀하의 신원 정보를 제외하고, 사이트 내 서비스를 보다 원활하게 제공하고 이용자 경험을 향상시키는 데 사용됩니다. 쿠키는 이용자의 설정을 기억하고, 사이트 운영을 최적화하며, 더 나은 경험을 제공하기 위해 사용됩니다.\n    </p>\n    <p style=\"font-size: 16px;\">\n        수집된 정보는 제3자와 공유되지 않으며, 사이트 성능 향상과 서비스 개선 목적으로만 사용됩니다. 이용자는 브라우저 설정을 변경하여 쿠키 사용을 차단할 수 있습니다. 다만 이 경우 사이트의 일부 기능이 정상적으로 작동하지 않을 수 있음을 유의하시기 바랍니다.\n    </p>\n    <p style=\"font-size: 16px;\">\n        귀하의 개인정보 보호는 당사에 매우 중요합니다. 당사는 귀하의 개인정보 보안을 위해 필요한 기술적·관리적 조치를 취하고 있습니다. 개인정보 처리방침과 관련하여 문의 사항이나 우려가 있으시면 언제든지 연락해 주시기 바랍니다.\n    </p>"
   },
   "desing": {
@@ -31,7 +32,7 @@
     "en": "Privacy Policy | Tufan Organik",
     "ar": "سياسة الخصوصية | Tufan Organik",
     "de": "Datenschutzerklärung | Tufan Organik",
-    "ja": "",
+    "ja": "プライバシーポリシー | Tufan Organik",
     "ko": "개인정보 처리방침 | Tufan Organik"
   },
   "description": {
@@ -39,14 +40,15 @@
     "en": "Tufan Organik privacy policy: information on the protection of personal data and the use of cookies.",
     "ar": "Tufan Organik – سياسة الخصوصية: معلومات حول حماية البيانات الشخصية واستخدام ملفات تعريف الارتباط.",
     "de": "Tufan Organik – Datenschutzerklärung: Informationen zum Schutz personenbezogener Daten und zur Verwendung von Cookies.",
-    "ko": "Tufan Organik 개인정보 처리방침으로, 개인정보 보호 및 쿠키 사용에 관한 내용을 안내합니다."
+    "ko": "Tufan Organik 개인정보 처리방침으로, 개인정보 보호 및 쿠키 사용에 관한 내용을 안내합니다.",
+    "ja": "Tufan Organikのプライバシーポリシー。ご提供いただいた情報の取り扱いについて説明します。"
   },
   "keyword": {
     "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, gizlilik politikası, KVKK, kişisel veri",
     "en": "Tufan Organik, Gürün/Sivas, natural food, privacy policy, KVKK, personal data",
     "ar": "Tufan Organik, غورون/سيواس, أغذية طبيعية, سياسة الخصوصية, قانون حماية البيانات الشخصية, البيانات الشخصية",
     "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Datenschutzerklärung, KVKK, personenbezogene Daten",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, プライバシーポリシー, 個人情報",
     "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 개인정보 처리방침, KVKK, 개인정보"
   },
   "update": "2026-10-28T09:07:42.477Z",

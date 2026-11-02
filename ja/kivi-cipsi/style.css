@@ -65,7 +65,7 @@
     padding: 6px 12px;
     font-size: 13px;
     letter-spacing: 0.02em;
-    color: currentColor !important;
+    color: #0E2347 !important;
     background: transparent;
     text-decoration: none;
     border: 1px solid color-mix(in srgb, currentColor 40%, transparent);
@@ -88,10 +88,6 @@
     right: 58px;
     color: #0E2347;
     z-index: 1001;
-  }
-
-  .h0000-lang-top:has(ul:empty) {
-    display: none !important;
   }
 
   .h0000-lang-top summary {
@@ -751,6 +747,7 @@
     
     .h0000menulist-menu > a::after {
       content: "expand_more";
+      font-family: "Material Symbols Outlined", sans-serif;
       font-size: 22px;
       line-height: 1;
       font-weight: normal;
@@ -1689,11 +1686,17 @@
   }
 
 
+    
+    .footer-marka {
+      position: relative;
+      width: 100%;
+    }
     .moduleimg {
       width: 100%;
       display: flex;
       justify-content: center;
       align-items: center;
+      margin: 10px 0;
     }
     .moduleimg > img {
       width: 100%;
@@ -1734,6 +1737,13 @@
       transition: transform 0.5s;
     }
   
+    .social-icon__link svg {
+      display: block;
+      font-size: inherit; 
+      width: 1em;
+      height: 1em;
+    }
+
     .social-icon__link:hover {
       transform: translateY(-10px);
     } 
@@ -1893,17 +1903,14 @@
   }
 
   
-  [data-stil="cizgili"] .wm-langbar li a,
-  [data-stil="ortali-sade"] .wm-langbar li a {
+  .footer .wm-langbar li a {
     color: #0E2347;
     border-color: color-mix(in srgb, #0E2347 35%, transparent);
     background-color: color-mix(in srgb, #0E2347 10%, transparent);
   }
 
-  [data-stil="cizgili"] .wm-langbar li.wm-lang-active a,
-  [data-stil="ortali-sade"] .wm-langbar li.wm-lang-active a,
-  [data-stil="cizgili"] .wm-langbar li a:hover,
-  [data-stil="ortali-sade"] .wm-langbar li a:hover {
+  .footer .wm-langbar li.wm-lang-active a,
+  .footer .wm-langbar li a:hover {
     color: #F3ECDD;
     background-color: #0E2347;
     border-color: #0E2347;

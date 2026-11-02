@@ -4,7 +4,8 @@
     "en": "Nuts and Nut Products",
     "ar": "المكسرات ومنتجاتها",
     "de": "Nüsse und Nussprodukte",
-    "ko": "견과류 및 제품"
+    "ko": "견과류 및 제품",
+    "ja": "ナッツとその製品"
   },
   "status": "play",
   "category": "",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Nuts and Nut Products",
     "ar": "Tufan Organik, المكسرات ومنتجاتها",
     "de": "Tufan Organik, Nüsse und Nussprodukte",
-    "ja": "",
+    "ja": "Tufan Organik, ナッツとその製品",
     "ko": "Tufan Organik, 견과류 및 제품"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Nuts and Nut Products product group.",
     "ar": "مجموعة منتجات المكسرات ومنتجاتها من توفان أورغانيك.",
     "de": "Tufan Organik Produktgruppe Nüsse und Nussprodukte.",
-    "ko": "투판 오가닉 견과류 및 제품 제품군."
+    "ko": "투판 오가닉 견과류 및 제품 제품군.",
+    "ja": "Tufan Organik ナッツとその製品の製品グループです。"
   },
   "index": 7,
   "icon": "category",
@@ -39,7 +41,7 @@
     "en": "Nuts and Nut Products | Tufan Organik",
     "ar": "المكسرات ومنتجاتها | Tufan Organik",
     "de": "Nüsse und Nussprodukte | Tufan Organik",
-    "ja": "",
+    "ja": "ナッツとその製品 | Tufan Organik",
     "ko": "견과류 및 제품 | Tufan Organik"
   },
   "text": {

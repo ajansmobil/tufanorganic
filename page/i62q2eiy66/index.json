@@ -4,7 +4,8 @@
     "en": "Grape Pekmez (Grape Molasses)",
     "ar": "دبس العنب",
     "de": "Trauben-Pekmez (Traubensirup)",
-    "ko": "포도 페크메즈(포도 당밀)"
+    "ko": "포도 페크메즈(포도 당밀)",
+    "ja": "ブドウペクメズ（ブドウ糖蜜）"
   },
   "status": "play",
   "category": "c12sut",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, Grape Pekmez, Pekmez & Syrups, pekmez, carob pekmez, fruit syrup",
     "ar": "Tufan Organik, غورون/سيواس, أغذية طبيعية, دبس العنب, الدبس والشراب, دبس, دبس الخروب, شراب فواكه",
     "de": "Tufan Organik, Gürün/Sivas, Naturkost, Trauben-Pekmez, Pekmez & Sirupe, Pekmez, Johannisbrot-Pekmez, Fruchtsirup",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ブドウペクメズ（ブドウ糖蜜）, ペクメズ、タヒニ、ハルヴァ",
     "ko": "Tufan Organik, 귀륀/시바스, 자연식품, 포도 페크메즈, 페크메즈 및 시럽, 페크메즈, 캐럽 페크메즈, 과일 시럽"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Grape Pekmez is a village-grape molasses from our Pekmez & Syrups range, offered in 400 g / 800 g, a natural food rooted in Gürün/Sivas.",
     "ar": "Tufan Organik دبس العنب: دبس من عنب القرى ضمن مجموعة الدبس والشراب، يُقدَّم بوزن 400 g / 800 g، وهو غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Trauben-Pekmez ist ein Traubensirup aus Dorftrauben aus der Gruppe Pekmez & Sirupe, erhältlich in 400 g / 800 g – ein Naturprodukt mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 포도 페크메즈는 페크메즈 및 시럽류에 속하는 시골 포도 당밀로, 400 g / 800 g 중량으로 제공되는 귀륀/시바스 출신의 자연식품입니다."
+    "ko": "Tufan Organik 포도 페크메즈는 페크메즈 및 시럽류에 속하는 시골 포도 당밀로, 400 g / 800 g 중량으로 제공되는 귀륀/시바스 출신의 자연식품입니다.",
+    "ja": "Tufan Organik ブドウペクメズ（ブドウ糖蜜）は、ペクメズ、タヒニ、ハルヴァカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "index": 161,
   "icon": "water_drop",
@@ -43,7 +45,7 @@
     "en": "Grape Pekmez (Grape Molasses) | Tufan Organik",
     "ar": "دبس العنب | Tufan Organik",
     "de": "Trauben-Pekmez (Traubensirup) | Tufan Organik",
-    "ja": "",
+    "ja": "ブドウペクメズ（ブドウ糖蜜） | Tufan Organik",
     "ko": "포도 페크메즈(포도 당밀) | Tufan Organik"
   },
   "text": {
@@ -51,7 +53,7 @@
     "en": "<h2>Grape Pekmez: Dark and Flowing, from Village Grapes</h2>\n<p>Grape Pekmez is a traditional sweetener made from village grapes, with dark brown tones and a flowing consistency. Its taste is deep and slightly caramel-like; the fruity aroma of the grape comes through right on the spoon. From breakfast to desserts, it can easily be used instead of or alongside sugar in many recipes of Turkish cuisine.</p>\n<p>In Gaziantep, pekmez is one of the best-known staples of winter preparations and the breakfast table. Tufan Organik offers this tradition in two sizes: a 400-gram and an 800-gram option. Whether by the spoonful or with bread dipped into it, you will find the same familiar taste in both sizes.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Mix with tahini to make the classic tahini-pekmez spread for bread at breakfast.</li>\n<li>Use in place of part of the sugar in cookie and cake doughs for a dark color and deep flavor.</li>\n<li>Drizzle over clotted cream or yogurt and top with chopped walnuts for a sweet breakfast treat.</li>\n</ul>\n<p><strong>Size:</strong> 400 g / 800 g</p>",
     "ar": "<h2>دبس العنب: داكن وانسيابي من عنب القرى</h2>\n<p>دبس العنب مُحلٍّ تقليدي يُحضَّر من عنب القرى، بدرجات بنية داكنة وقوام انسيابي. طعمه عميق ويشبه الكراميل قليلًا، وتظهر نكهة العنب الفاكهية فور تذوقه بالملعقة. ويمكن استخدامه بسهولة بدلًا من السكر أو إلى جانبه في كثير من وصفات المطبخ التركي، من الفطور إلى الحلويات.</p>\n<p>في غازي عنتاب، يُعدّ الدبس من أشهر مؤن الشتاء وأصناف مائدة الفطور. وتقدّم Tufan Organik هذه العادة بوزنين: عبوة 400 g وعبوة 800 g. وسواء تناولته بالملعقة أو غمست فيه الخبز، ستجد الطعم المألوف نفسه في كلا الوزنين.</p>\n<h3>اقتراحات الاستخدام</h3>\n<ul>\n<li>امزجه مع الطحينة لتحضير خليط الطحينة والدبس الكلاسيكي لدهنه على الخبز في الفطور.</li>\n<li>استخدمه بدلًا من جزء من السكر في عجائن البسكويت والكيك لإضفاء لون داكن ونكهة عميقة.</li>\n<li>رُشّه فوق القشطة أو الزبادي وأضف الجوز المفروم لتحضير طبق فطور حلو.</li>\n</ul>\n<p><strong>الوزن:</strong> 400 g / 800 g</p>",
     "de": "<h2>Trauben-Pekmez: dunkel und flüssig, aus Dorftrauben</h2>\n<p>Trauben-Pekmez ist ein traditionelles Süßungsmittel aus Dorftrauben mit dunkelbraunen Tönen und flüssiger Konsistenz. Sein Geschmack ist tief und leicht karamellartig; das fruchtige Aroma der Traube ist schon auf dem Löffel spürbar. Vom Frühstück bis zum Dessert lässt er sich in vielen Rezepten der türkischen Küche problemlos anstelle von Zucker oder ergänzend dazu verwenden.</p>\n<p>In Gaziantep gehört Pekmez zu den bekanntesten Bestandteilen der Wintervorräte und des Frühstückstisches. Tufan Organik bietet diese Tradition in zwei Größen an: als 400-Gramm- und als 800-Gramm-Variante. Ob direkt vom Löffel oder mit eingetunktem Brot – in beiden Größen finden Sie denselben vertrauten Geschmack.</p>\n<h3>Verwendungstipps</h3>\n<ul>\n<li>Mit Tahini verrühren und so den klassischen Tahini-Pekmez-Aufstrich fürs Frühstücksbrot zubereiten.</li>\n<li>In Keks- und Kuchenteigen einen Teil des Zuckers ersetzen – für dunkle Farbe und tiefen Geschmack.</li>\n<li>Über dicken Rahm oder Joghurt träufeln und mit gehackten Walnüssen als süßes Frühstück genießen.</li>\n</ul>\n<p><strong>Füllmenge:</strong> 400 g / 800 g</p>",
-    "ja": "",
+    "ja": "<h2>ブドウペクメズ（ブドウ糖蜜）：村のブドウから作られた、濃厚でとろりとした味わい</h2>\n<p>ブドウペクメズ（ブドウ糖蜜）は、村のブドウから作られる伝統的な甘味料で、深い茶色をしています。とろりとした質感があり、味わいは深みのある、少しキャラメルのような風味です。スプーンですくうと、ブドウのフルーティーな香りが広がります。朝食からデザートまで、トルコ料理の多くのレシピで、砂糖の代わりとして、あるいは砂糖と一緒に簡単にお使いいただけます。</p>\n<p>ガズィアンテップにおいて、ペクメズは冬の準備や朝食の定番として最もよく知られています。トゥファン・オルガニックでは、この伝統を400gと800gの2つのサイズで提供しています。スプーンですくっても、パンにつけて食べても、どちらのサイズでも変わらない馴染み深い味わいをお楽しみいただけます。</p>\n<h3>おすすめのお召し上がり方</h3>\n<ul>\n<li>タヒニと混ぜて、朝食のパンに塗る定番のタヒニ・ペクメズ・スプレッドに。</li>\n<li>クッキーやケーキの生地の砂糖の一部として代用することで、深みのある色合いと豊かな風味を楽しめます。</li>\n<li>クローテッドクリームやヨーグルトにかけて、刻んだクルミをトッピングすれば、甘い朝食の楽しみになります。</li>\n</ul>\n<p><strong>サイズ:</strong> 400 g / 800 g</p>",
     "ko": "<h2>포도 페크메즈: 시골 포도로 만든 진하고 흐르는 질감</h2>\n<p>포도 페크메즈는 시골 포도로 만든 전통 감미료로, 짙은 갈색 빛깔과 흐르는 듯한 농도를 지녔습니다. 맛은 깊고 은은한 캐러멜 풍미가 있으며, 숟가락에 뜨는 순간 포도의 과일 향이 느껴집니다. 아침 식사부터 디저트까지 튀르키예 요리의 다양한 레시피에서 설탕 대신 또는 설탕과 함께 손쉽게 사용할 수 있습니다.</p>\n<p>가지안테프에서 페크메즈는 겨울 준비와 아침 식탁에서 가장 잘 알려진 품목 중 하나입니다. Tufan Organik는 이 익숙한 식문화를 400 g과 800 g 두 가지 중량으로 선보입니다. 숟가락으로 떠먹든 빵을 찍어 먹든, 두 중량 모두에서 똑같이 친숙한 맛을 만날 수 있습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>타히니와 섞어 아침 식사 때 빵에 발라 먹는 클래식 타히니-페크메즈를 만들어 보세요.</li>\n<li>쿠키와 케이크 반죽에 설탕 일부 대신 넣어 짙은 색과 깊은 맛을 더해 보세요.</li>\n<li>카이막이나 요거트 위에 뿌리고 다진 호두를 올려 달콤한 아침 메뉴로 즐겨 보세요.</li>\n</ul>\n<p><strong>중량:</strong> 400 g / 800 g</p>"
   },
   "update": "2026-10-28T09:07:44.670Z",

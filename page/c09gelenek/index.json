@@ -4,7 +4,8 @@
     "en": "Jams and Marmalades",
     "ar": "المربيات ومربى الحمضيات",
     "de": "Konfitüren und Marmeladen",
-    "ko": "잼 및 마멀레이드"
+    "ko": "잼 및 마멀레이드",
+    "ja": "ジャムとマーマレード"
   },
   "status": "play",
   "category": "",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Jams and Marmalades",
     "ar": "Tufan Organik, المربيات ومربى الحمضيات",
     "de": "Tufan Organik, Konfitüren und Marmeladen",
-    "ja": "",
+    "ja": "Tufan Organik, ジャムとマーマレード",
     "ko": "Tufan Organik, 잼 및 마멀레이드"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Jams and Marmalades product group.",
     "ar": "مجموعة منتجات المربيات ومربى الحمضيات من توفان أورغانيك.",
     "de": "Tufan Organik Produktgruppe Konfitüren und Marmeladen.",
-    "ko": "투판 오가닉 잼 및 마멀레이드 제품군."
+    "ko": "투판 오가닉 잼 및 마멀레이드 제품군.",
+    "ja": "Tufan Organik ジャムとマーマレードの製品グループです。"
   },
   "index": 8,
   "icon": "category",
@@ -39,7 +41,7 @@
     "en": "Jams and Marmalades | Tufan Organik",
     "ar": "المربيات ومربى الحمضيات | Tufan Organik",
     "de": "Konfitüren und Marmeladen | Tufan Organik",
-    "ja": "",
+    "ja": "ジャムとマーマレード | Tufan Organik",
     "ko": "잼 및 마멀레이드 | Tufan Organik"
   },
   "text": {

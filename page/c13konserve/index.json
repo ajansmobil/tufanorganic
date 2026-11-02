@@ -4,7 +4,8 @@
     "en": "Dried Fruits",
     "ar": "الفواكه المجففة",
     "de": "Trockenfrüchte",
-    "ko": "건조 과일"
+    "ko": "건조 과일",
+    "ja": "ドライフルーツ"
   },
   "status": "play",
   "category": "",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Dried Fruits",
     "ar": "Tufan Organik, الفواكه المجففة",
     "de": "Tufan Organik, Trockenfrüchte",
-    "ja": "",
+    "ja": "Tufan Organik, ドライフルーツ",
     "ko": "Tufan Organik, 건조 과일"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Dried Fruits product group.",
     "ar": "مجموعة منتجات الفواكه المجففة من توفان أورغانيك.",
     "de": "Tufan Organik Produktgruppe Trockenfrüchte.",
-    "ko": "투판 오가닉 건조 과일 제품군."
+    "ko": "투판 오가닉 건조 과일 제품군.",
+    "ja": "Tufan Organik ドライフルーツの製品グループです。"
   },
   "index": 12,
   "icon": "category",
@@ -39,7 +41,7 @@
     "en": "Dried Fruits | Tufan Organik",
     "ar": "الفواكه المجففة | Tufan Organik",
     "de": "Trockenfrüchte | Tufan Organik",
-    "ja": "",
+    "ja": "ドライフルーツ | Tufan Organik",
     "ko": "건조 과일 | Tufan Organik"
   },
   "text": {

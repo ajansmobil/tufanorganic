@@ -4,7 +4,8 @@
     "en": "Lemonade (Lemon Juice)",
     "ar": "ليموناضة (عصير الليمون)",
     "de": "Limonade (Zitronensaft)",
-    "ko": "레모네이드 (레몬 주스)"
+    "ko": "레모네이드 (레몬 주스)",
+    "ja": "レモネード（レモンジュース）"
   },
   "status": "play",
   "category": "c10meyves",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Gürün/Sivas, natural food, Lemonade (Lemon Juice), Fruit Juices, fruit juice, pomegranate juice, natural fruit juice, additive-free drink",
     "ar": "Tufan Organik, غورون/سيواس, أغذية طبيعية, ليموناضة (عصير الليمون), عصائر الفواكه, عصير فواكه, عصير الرمان, عصير فواكه طبيعي, مشروب خالٍ من الإضافات",
     "de": "Tufan Organik, Gürün/Sivas, Naturkost, Limonade (Zitronensaft), Fruchtsäfte, Fruchtsaft, Granatapfelsaft, natürlicher Fruchtsaft, Getränk ohne Zusatzstoffe",
-    "ja": "",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, レモネード（レモンジュース）, フルーツジュース",
     "ko": "Tufan Organik, 귀륀/시바스, 자연 식품, 레모네이드 (레몬 주스), 과일 주스, 과일즙, 석류 주스, 천연 과일 주스, 무첨가 음료"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Lemonade (Lemon Juice) is a drink based on homemade lemonade from the Fruit Juices range, offered in 1 L as a natural food rooted in Gürün/Sivas.",
     "ar": "Tufan Organik — ليموناضة (عصير الليمون): مشروب يعتمد على الليموناضة المنزلية ضمن فئة عصائر الفواكه، يُقدَّم بسعة 1 L، وهو غذاء طبيعي أصله من غورون/سيواس.",
     "de": "Tufan Organik Limonade (Zitronensaft) – ein Getränk auf Basis hausgemachter Limonade aus der Kategorie Fruchtsäfte, angeboten in 1 L, ein Naturprodukt mit Wurzeln in Gürün/Sivas.",
-    "ko": "Tufan Organik 레모네이드 (레몬 주스)는 과일 주스 카테고리의 홈메이드 레모네이드를 바탕으로 한 음료로, 1 L 용량으로 제공되는 귀륀/시바스 출신의 자연 식품입니다."
+    "ko": "Tufan Organik 레모네이드 (레몬 주스)는 과일 주스 카테고리의 홈메이드 레모네이드를 바탕으로 한 음료로, 1 L 용량으로 제공되는 귀륀/시바스 출신의 자연 식품입니다.",
+    "ja": "Tufan Organik レモネード（レモンジュース）は、フルーツジュースカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。"
   },
   "index": 151,
   "icon": "local_bar",
@@ -43,7 +45,7 @@
     "en": "Lemonade (Lemon Juice) | Tufan Organik",
     "ar": "ليموناضة (عصير الليمون) | Tufan Organik",
     "de": "Limonade (Zitronensaft) | Tufan Organik",
-    "ja": "",
+    "ja": "レモネード（レモンジュース） | Tufan Organik",
     "ko": "레모네이드 (레몬 주스) | Tufan Organik"
   },
   "text": {
@@ -51,7 +53,7 @@
     "en": "<h2>Lemonade (Lemon Juice): A Refreshing Homestyle Taste</h2>\n<p>Lemonade (Lemon Juice) is a cooling drink whose taste, based on homemade lemonade, softens the sharp sourness of lemon with sweetness. The first sip brings the fresh, lively scent of lemon, followed by a balanced sweetness. Drunk cold with ice, it is an option that brings refreshment in the summer heat and adds lightness to the table.</p>\n<p>On hot summer afternoons in Gaziantep, a glass of cold lemonade is one of the drinks most often chosen in the courtyard or in a shady corner. Tufan Organik reduces the effort of preparation by offering this familiar homemade taste in a 1 L bottle. It is also open to personal touches with mint, mineral water or fruit slices.</p>\n<h3>Serving Suggestions</h3>\n<ul>\n<li>Serve in tall glasses with fresh mint leaves and plenty of ice.</li>\n<li>Mix with mineral water to make a fizzy lemonade.</li>\n<li>Add strawberry or watermelon slices to prepare a fruity lemonade in a pitcher for summer gatherings.</li>\n</ul>\n<p><strong>Volume:</strong> 1 L</p>",
     "ar": "<h2>ليموناضة (عصير الليمون): مذاق منعش على الطريقة المنزلية</h2>\n<p>الليموناضة (عصير الليمون) مشروب منعش يعتمد مذاقه على الليموناضة المنزلية، فيلطّف حموضة الليمون الحادة بالحلاوة. في الرشفة الأولى تُحَسّ رائحة الليمون الطازجة والحيوية، تليها حلاوة متوازنة. وعند شربها باردة مع الثلج تكون خيارًا يمنح الانتعاش في حر الصيف ويضفي خفة على المائدة.</p>\n<p>في فترات ما بعد الظهر الحارة صيفًا في غازي عنتاب، يُعدّ كأس الليموناضة الباردة من المشروبات الأكثر تفضيلًا في الفناء أو في ركن ظليل. وتقدّم Tufan Organik هذا المذاق المنزلي المألوف في زجاجة سعة 1 L، فتخفف عناء التحضير. كما تتقبل اللمسات الشخصية بالنعناع أو المياه المعدنية أو شرائح الفاكهة.</p>\n<h3>اقتراحات التقديم</h3>\n<ul>\n<li>قدّمها في كؤوس طويلة مع أوراق النعناع الطازجة والكثير من الثلج.</li>\n<li>امزجها بالمياه المعدنية لتحصل على ليموناضة فوّارة.</li>\n<li>أضف شرائح الفراولة أو البطيخ وحضّر في إبريق ليموناضة بالفواكه لدعوات الصيف.</li>\n</ul>\n<p><strong>الحجم:</strong> 1 L</p>",
     "de": "<h2>Limonade (Zitronensaft): Ein erfrischender Geschmack wie hausgemacht</h2>\n<p>Limonade (Zitronensaft) ist ein erfrischendes Getränk, dessen auf hausgemachter Limonade basierender Geschmack die scharfe Säure der Zitrone mit Süße abmildert. Beim ersten Schluck ist der frische, lebendige Duft der Zitrone zu spüren, gefolgt von einer ausgewogenen Süße. Kalt mit Eis getrunken, sorgt sie bei Sommerhitze für Erfrischung und bringt Leichtigkeit auf den Tisch.</p>\n<p>An heißen Sommernachmittagen in Gaziantep gehört ein Glas kalte Limonade im Innenhof oder in einer schattigen Ecke zu den beliebtesten Getränken. Tufan Organik bietet diesen vertrauten hausgemachten Geschmack in der 1-L-Flasche an und erspart so die Mühe der Zubereitung. Auch für persönliche Akzente mit Minze, Mineralwasser oder Obstscheiben ist sie offen.</p>\n<h3>Serviervorschläge</h3>\n<ul>\n<li>Mit frischen Minzblättern und reichlich Eis in hohen Gläsern servieren.</li>\n<li>Mit Mineralwasser mischen und so eine sprudelnde Limonade zubereiten.</li>\n<li>Erdbeer- oder Wassermelonenscheiben hinzufügen und für Sommerfeste eine fruchtige Limonade in der Karaffe zubereiten.</li>\n</ul>\n<p><strong>Inhalt:</strong> 1 L</p>",
-    "ja": "",
+    "ja": "<h2>レモネード（レモンジュース）：リフレッシュできる手作りの味わい</h2>\n<p>レモネード（レモンジュース）は、手作りレモネードをベースにした、レモンの鋭い酸味を甘みでまろやかに仕上げた爽やかな飲み物です。一口飲むと、レモンの新鮮で生き生きとした香りが広がり、その後にバランスの取れた甘みが続きます。氷を入れて冷たく飲むことで、夏の暑さの中に爽快感をもたらし、食卓に軽やかさを添えてくれます。</p>\n<p>ガズィアンテプの暑い夏の午後、中庭や日陰の隅でよく選ばれる飲み物の一つが、冷たいレモネードです。トゥファン・オルガニックは、この馴染み深い手作りの味を1 Lボトルで提供することで、準備の手間を省きます。ミントや炭酸水、フルーツスライスを加えて、自分好みにアレンジすることも可能です。</p>\n<h3>おすすめの召し上がり方</h3>\n<ul>\n<li>背の高いグラスに、新鮮なミントの葉とたっぷりの氷を入れてお召し上がりください。</li>\n<li>炭酸水と混ぜて、炭酸の効いたレモネードにしてみてください。</li>\n<li>夏の集まりには、ピッチャーにイチゴやスイカのスライスを加えて、フルーティーなレモネードにするのもおすすめです。</li>\n</ul>\n<p><strong >内容量：</strong> 1 L</p>",
     "ko": "<h2>레모네이드 (레몬 주스): 집에서 만든 듯한 상쾌한 맛</h2>\n<p>레모네이드 (레몬 주스)는 홈메이드 레모네이드를 바탕으로 한 맛으로, 레몬의 날카로운 신맛을 단맛으로 부드럽게 감싼 시원한 음료입니다. 첫 모금에는 레몬의 신선하고 생기 있는 향이, 이어서 균형 잡힌 단맛이 느껴집니다. 얼음과 함께 차갑게 마시면 한여름 더위에 청량감을 주고 식탁에 가벼움을 더하는 선택지입니다.</p>\n<p>가지안테프의 무더운 여름 오후, 시원한 레모네이드 한 잔은 안뜰이나 그늘진 구석에서 즐겨 찾는 음료 중 하나입니다. Tufan Organik는 이 친숙한 집의 맛을 1 L 병에 담아 준비하는 수고를 덜어 줍니다. 민트, 탄산수, 과일 슬라이스로 나만의 변화를 주기에도 좋습니다.</p>\n<h3>활용 제안</h3>\n<ul>\n<li>신선한 민트 잎과 넉넉한 얼음을 넣어 긴 잔에 내기 좋습니다.</li>\n<li>탄산수와 섞으면 톡 쏘는 스파클링 레모네이드가 됩니다.</li>\n<li>딸기나 수박 슬라이스를 넣어 여름 모임용 과일 레모네이드를 피처에 준비할 수 있습니다.</li>\n</ul>\n<p><strong>용량:</strong> 1 L</p>"
   },
   "update": "2026-10-28T09:07:30.997Z",

@@ -4,7 +4,8 @@
     "en": "Dried Vegetables",
     "ar": "الخضروات المجففة",
     "de": "Getrocknetes Gemüse",
-    "ko": "건조 채소"
+    "ko": "건조 채소",
+    "ja": "ドライ野菜"
   },
   "status": "play",
   "category": "",
@@ -16,7 +17,7 @@
     "en": "Tufan Organik, Dried Vegetables",
     "ar": "Tufan Organik, الخضروات المجففة",
     "de": "Tufan Organik, Getrocknetes Gemüse",
-    "ja": "",
+    "ja": "Tufan Organik, ドライ野菜",
     "ko": "Tufan Organik, 건조 채소"
   },
   "description": {
@@ -24,7 +25,8 @@
     "en": "Tufan Organik Dried Vegetables product group.",
     "ar": "مجموعة منتجات الخضروات المجففة من توفان أورغانيك.",
     "de": "Tufan Organik Produktgruppe Getrocknetes Gemüse.",
-    "ko": "투판 오가닉 건조 채소 제품군."
+    "ko": "투판 오가닉 건조 채소 제품군.",
+    "ja": "Tufan Organik ドライ野菜の製品グループです。"
   },
   "index": 14,
   "icon": "category",
@@ -39,7 +41,7 @@
     "en": "Dried Vegetables | Tufan Organik",
     "ar": "الخضروات المجففة | Tufan Organik",
     "de": "Getrocknetes Gemüse | Tufan Organik",
-    "ja": "",
+    "ja": "ドライ野菜 | Tufan Organik",
     "ko": "건조 채소 | Tufan Organik"
   },
   "text": {
