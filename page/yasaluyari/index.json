@@ -5,7 +5,7 @@
     "ar": "إشعار قانوني",
     "de": "Rechtlicher Hinweis",
     "ko": "법적 고지",
-    "ja": "法的通知"
+    "ja": "法的注意"
   },
   "status": "play",
   "id": "yasaluyari",
@@ -25,7 +25,7 @@
     "footer": []
   },
   "desc": {},
-  "index": 7,
+  "index": 8,
   "icon": "home",
   "title": {
     "tr": "Yasal Uyarı | Tufan Organik",
@@ -41,7 +41,7 @@
     "ar": "Tufan Organik – إشعار قانوني: شروط استخدام الموقع الإلكتروني وحدود المسؤولية القانونية.",
     "de": "Tufan Organik – rechtlicher Hinweis: Nutzungsbedingungen der Website und Grenzen der rechtlichen Haftung.",
     "ko": "Tufan Organik 법적 고지로, 웹사이트 이용 약관과 법적 책임의 한계를 안내합니다.",
-    "ja": "Tufan Organikのウェブサイトに関する法的通知と利用上の注意です。"
+    "ja": "Tufan Organikの法的注意。ウェブサイトの利用規約と法的責任の範囲。"
   },
   "keyword": {
     "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, yasal uyarı, sorumluluk reddi, site kullanım şartları",

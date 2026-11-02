@@ -5,7 +5,7 @@
     "ar": "البيانات الشخصية",
     "de": "Personenbezogene Daten",
     "ko": "개인정보",
-    "ja": "個人データ"
+    "ja": "個人情報"
   },
   "status": "play",
   "id": "kisiselveriler",
@@ -25,7 +25,7 @@
     "footer": []
   },
   "desc": {},
-  "index": 5,
+  "index": 6,
   "icon": "home",
   "title": {
     "tr": "Kişisel Veriler | Tufan Organik",
@@ -41,7 +41,7 @@
     "ar": "Tufan Organik – نص الإفصاح عن البيانات الشخصية: معلومات المسؤول عن البيانات بموجب قانون حماية البيانات الشخصية رقم 6698.",
     "de": "Tufan Organik – Informationstext zu personenbezogenen Daten: Angaben zum Verantwortlichen gemäß dem Gesetz Nr. 6698 zum Schutz personenbezogener Daten (KVKK).",
     "ko": "Tufan Organik 개인정보 고지문으로, 제6698호 개인정보보호법(KVKK)에 따른 개인정보 처리자 정보를 안내합니다.",
-    "ja": "Tufan Organikにおける個人データの取り扱いに関するお知らせです。"
+    "ja": "Tufan Organikの個人情報開示文書。KVKK（6698号法）に基づくデータ責任者情報。"
   },
   "keyword": {
     "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, kişisel veriler, KVKK aydınlatma, veri işleme",

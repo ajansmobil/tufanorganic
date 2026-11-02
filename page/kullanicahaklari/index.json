@@ -5,7 +5,7 @@
     "ar": "حقوق المستخدم",
     "de": "Nutzerrechte",
     "ko": "이용자 권리",
-    "ja": "ユーザーの権利"
+    "ja": "利用者の権利"
   },
   "status": "play",
   "id": "kullanicahaklari",
@@ -25,7 +25,7 @@
     "footer": []
   },
   "desc": {},
-  "index": 6,
+  "index": 7,
   "icon": "home",
   "title": {
     "tr": "Kullanıcı Hakları | Tufan Organik",
@@ -41,7 +41,7 @@
     "ar": "Tufan Organik – حقوق المستخدم: معلومات حول حقوق المستهلك وإجراءات الطلب والإرجاع.",
     "de": "Tufan Organik – Nutzerrechte: Informationen zu Verbraucherrechten sowie zu Bestell- und Rückgabeverfahren.",
     "ko": "Tufan Organik 이용자 권리 안내로, 소비자 권리와 주문 및 반품 절차에 관한 정보를 제공합니다.",
-    "ja": "Tufan Organikにおけるユーザーの権利と、その行使方法について説明します。"
+    "ja": "Tufan Organikの利用者権利。消費者権、注文および返品手続きに関する情報。"
   },
   "keyword": {
     "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, kullanıcı hakları, mesafeli satış, iade koşulları",
