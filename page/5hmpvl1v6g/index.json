@@ -27,13 +27,13 @@
   "path": "kizilcik-ozu",
   "icon": "breakfast_dining",
   "category": "c11pekmez",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 33,
+  "index": 285,
   "url": "",
   "text": {
     "tr": "<h2>Ekşi Tatlı Dengesiyle Kızılcık Özü</h2>\n<p>Kızılcık Özü, kızılcığın keskin ekşiliğini ve parlak kırmızı rengini yoğun bir kıvamda bir araya getirir. Az miktarı bile içeceklere, soslara ve tatlılara belirgin bir tat verir. Ekşi ile tatlı arasında gidip gelen karakteri, onu hem serinletici bardaklarda hem de tencerede değerlendirmeye uygun kılar.</p>\n<p>Tufan Organik olarak kızılcığın tadını her mevsim mutfağınızda tutabilmeniz için bu özü sunuyoruz. Yoğun bir ürün olduğundan suyla seyreltilerek kullanılması önerilir; oranı damak zevkinize göre ayarlayabilirsiniz. Açıldıktan sonra kapağını sıkıca kapatıp serin bir yerde saklamak tazeliğini korumaya yardımcı olur.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Soğuk su ve buzla seyrelterek ferah bir kızılcık şerbeti hazırlayın.</li>\n<li>Et marinasyonuna ya da yeşil salata sosuna ekşi bir dokunuş olarak ekleyin.</li>\n<li>Muhallebi ve sütlü tatlıların üzerine birkaç damla gezdirerek renk katın.</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "コーネリアンチェリーエキス | Tufan Organik"
   },
   "date": "2026-10-28T08:16:26.537Z",
-  "update": "2026-10-28T09:07:26.083Z",
+  "update": "2026-11-06T07:34:57.682Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

@@ -45,14 +45,14 @@
     "ko": "우유 및 유제품 | Tufan Organik"
   },
   "text": {
-    "tr": "",
-    "en": "",
-    "ar": "",
-    "de": "",
-    "ja": "",
-    "ko": ""
+    "tr": "<section class=\"kategori-qr\" style=\"display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center;margin:10px 0 20px\"><a href=\"https://tufanorganic.com/tr/sut-ve-sut-urunleri/\"><img src=\"/img/qr/sut-ve-sut-urunleri.png\" alt=\"Süt ve Süt Ürünleri - QR kodu\" width=\"180\" height=\"180\" loading=\"lazy\" style=\"background:#fff;padding:8px;border-radius:10px;border:1px solid #ddd\"></a><p>Bu kategoriye doğrudan ulaşmak için QR kodu telefonunuzla okutun.</p></section>",
+    "en": "<section class=\"kategori-qr\" style=\"display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center;margin:10px 0 20px\"><a href=\"https://tufanorganic.com/tr/sut-ve-sut-urunleri/\"><img src=\"/img/qr/sut-ve-sut-urunleri.png\" alt=\"Milk and Dairy Products - QR code\" width=\"180\" height=\"180\" loading=\"lazy\" style=\"background:#fff;padding:8px;border-radius:10px;border:1px solid #ddd\"></a><p>Scan the QR code with your phone to go straight to this category.</p></section>",
+    "ar": "<section class=\"kategori-qr\" dir=\"rtl\" style=\"display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center;margin:10px 0 20px\"><a href=\"https://tufanorganic.com/tr/sut-ve-sut-urunleri/\"><img src=\"/img/qr/sut-ve-sut-urunleri.png\" alt=\"الحليب ومنتجات الألبان - رمز QR\" width=\"180\" height=\"180\" loading=\"lazy\" style=\"background:#fff;padding:8px;border-radius:10px;border:1px solid #ddd\"></a><p>امسح رمز QR بهاتفك للوصول مباشرة إلى هذه الفئة.</p></section>",
+    "de": "<section class=\"kategori-qr\" style=\"display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center;margin:10px 0 20px\"><a href=\"https://tufanorganic.com/tr/sut-ve-sut-urunleri/\"><img src=\"/img/qr/sut-ve-sut-urunleri.png\" alt=\"Milch und Milchprodukte - QR-Code\" width=\"180\" height=\"180\" loading=\"lazy\" style=\"background:#fff;padding:8px;border-radius:10px;border:1px solid #ddd\"></a><p>Scannen Sie den QR-Code mit Ihrem Telefon, um direkt zu dieser Kategorie zu gelangen.</p></section>",
+    "ja": "<section class=\"kategori-qr\" style=\"display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center;margin:10px 0 20px\"><a href=\"https://tufanorganic.com/tr/sut-ve-sut-urunleri/\"><img src=\"/img/qr/sut-ve-sut-urunleri.png\" alt=\"乳製品 - QRコード\" width=\"180\" height=\"180\" loading=\"lazy\" style=\"background:#fff;padding:8px;border-radius:10px;border:1px solid #ddd\"></a><p>スマートフォンでQRコードを読み取ると、このカテゴリーに直接移動できます。</p></section>",
+    "ko": "<section class=\"kategori-qr\" style=\"display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center;margin:10px 0 20px\"><a href=\"https://tufanorganic.com/tr/sut-ve-sut-urunleri/\"><img src=\"/img/qr/sut-ve-sut-urunleri.png\" alt=\"우유 및 유제품 - QR 코드\" width=\"180\" height=\"180\" loading=\"lazy\" style=\"background:#fff;padding:8px;border-radius:10px;border:1px solid #ddd\"></a><p>휴대폰으로 QR 코드를 스캔하면 이 카테고리로 바로 이동합니다.</p></section>"
   },
-  "update": "2026-10-28T08:07:44.330Z",
+  "update": "2026-11-06T07:12:21.769Z",
   "date": "2026-05-20T09:54:46.197Z",
   "categorypage": "products",
   "slider": []

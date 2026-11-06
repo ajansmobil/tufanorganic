@@ -27,13 +27,13 @@
   "path": "keciboynuzu-ozu",
   "icon": "breakfast_dining",
   "category": "c11pekmez",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 36,
+  "index": 288,
   "url": "",
   "text": {
     "tr": "<h2>Keçiboynuzu Özü ile Kakao Notalı Bir Tatlılık</h2><p>Keçiboynuzu özü, keçiboynuzu meyvesinden elde edilen koyu kahverengi, yoğun kıvamlı bir şuruptur. Tadında karamel ve kakaoyu hatırlatan tatlı, hafif buruk notalar bulunur. Pekmeze benzer bir akışkanlığı vardır; kaşıktan ağır ağır süzülür ve eklendiği her tarife derin bir renk getirir.</p><p>Geleneksel olarak kahvaltıda tahinle karıştırılıp ekmekle yenir. Bunun yanında süte, yulaf lapasına ya da kek hamuruna eklenerek tatlandırmak için kullanılabilir. Tufan Organik meyve özü grubunda yer alan bu ürün, kahvaltı sofrasına ve ev tatlılarına koyu, kakaomsu bir tat eklemek isteyenlere hitap ediyor.</p><h3>Kullanım Önerileri</h3><ul><li>Bir kaşık tahinle karıştırıp kızarmış ekmeğe sürerek klasik bir kahvaltılık hazırlayın.</li><li>Ilık süte ya da yulaf lapasına ekleyerek kakaomsu bir tat verin.</li><li>Kek ve kurabiye hamurunda şekerin bir kısmı yerine kullanarak koyu renk ve derin bir aroma kazandırın.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "イナゴマメエキス | Tufan Organik"
   },
   "date": "2026-10-28T08:16:25.935Z",
-  "update": "2026-10-28T09:07:25.540Z",
+  "update": "2026-11-06T07:35:01.340Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

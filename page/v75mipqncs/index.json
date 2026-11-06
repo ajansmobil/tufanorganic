@@ -27,13 +27,13 @@
   "path": "yaban-mersini-ozu",
   "icon": "breakfast_dining",
   "category": "c11pekmez",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 32,
+  "index": 284,
   "url": "",
   "text": {
     "tr": "<h2>Yaban Mersini Özü: Meyvenin Yoğun Hali</h2><p>Küçük, lacivert tonlu yaban mersinleri bu özde koyu mor renkli, yoğun bir kıvama kavuşur. Tadı tatlı ile mayhoş arasında gidip gelir ve hafif buruk bir bitişle tamamlanır. Az bir miktarı bile bir bardak suya ya da bir kase yoğurda belirgin bir renk ve meyve aroması kazandırmaya yeter.</p><p>Seyreltilerek serinletici bir içeceğe dönüştürülebilir, tatlı soslarda ve hamur işlerinde aroma vermek için kullanılabilir. Yoğun olduğu için azar azar eklemek ve tadarak ilerlemek en doğru yoldur. Tufan Organik meyve özü grubundaki bu ürünü, meyve tadını mutfakta pratik biçimde kullanmak isteyenler için sunuyor.</p><h3>Kullanım Önerileri</h3><ul><li>Soğuk su, buz ve birkaç nane yaprağıyla seyrelterek bir yaz içeceği hazırlayın.</li><li>Süzme yoğurdun ya da yulaf ezmesinin üzerine gezdirerek renkli bir kahvaltı kasesi oluşturun.</li><li>Peynirli tatlıların ya da muhallebinin üzerine sos olarak dökün.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "ブルーベリーエキス | Tufan Organik"
   },
   "date": "2026-10-28T08:16:26.718Z",
-  "update": "2026-10-28T09:08:05.209Z",
+  "update": "2026-11-06T07:34:56.418Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

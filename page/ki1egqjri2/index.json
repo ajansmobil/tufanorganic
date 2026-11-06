@@ -1,0 +1,62 @@
+{
+  "id": "ki1egqjri2",
+  "name": {
+    "tr": "Organik Kırmızı Mercimek Unu",
+    "en": "Organic Red Lentil Flour",
+    "ar": "دقيق عدس أحمر عضوي",
+    "de": "Bio-Rotlinsenmehl",
+    "ja": "有機赤レンズ豆粉",
+    "ko": "유기농 붉은 렌틸콩 가루"
+  },
+  "description": {
+    "tr": "Tufan Organik Kırmızı Mercimek Unu, Bakliyat Grubu ve Ürünleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Red Lentil Flour, from the Pulses and Pulse Products range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik دقيق عدس أحمر عضوي، من مجموعة البقوليات ومنتجاتها، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Bio-Rotlinsenmehl aus der Gruppe Hülsenfrüchte und Produkte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 有機赤レンズ豆粉は、豆類とその製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 유기농 붉은 렌틸콩 가루은(는) 두류 및 두류 제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Organik Kırmızı Mercimek Unu, Bakliyat Grubu ve Ürünleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Organic Red Lentil Flour, Pulses and Pulse Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, دقيق عدس أحمر عضوي, البقوليات ومنتجاتها",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Bio-Rotlinsenmehl, Hülsenfrüchte und Produkte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 有機赤レンズ豆粉, 豆類とその製品",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 유기농 붉은 렌틸콩 가루, 두류 및 두류 제품"
+  },
+  "path": "organik-kirmizi-mercimek-unu",
+  "icon": "breakfast_dining",
+  "category": "c02findik",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 231,
+  "url": "",
+  "text": {
+    "tr": "<h2>Organik Kırmızı Mercimek Unu</h2><p>Tufan Organik Kırmızı Mercimek Unu, Bakliyat Grubu ve Ürünleri grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Organic Red Lentil Flour</h2><p>Tufan Organik Red Lentil Flour belongs to the Pulses and Pulse Products range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>دقيق عدس أحمر عضوي</h2><p>دقيق عدس أحمر عضوي من توفان أورغانيك ضمن مجموعة البقوليات ومنتجاتها. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Bio-Rotlinsenmehl</h2><p>Tufan Organik Bio-Rotlinsenmehl gehört zur Gruppe Hülsenfrüchte und Produkte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>有機赤レンズ豆粉</h2><p>Tufan Organik 有機赤レンズ豆粉は豆類とその製品カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>유기농 붉은 렌틸콩 가루</h2><p>Tufan Organik 유기농 붉은 렌틸콩 가루은(는) 두류 및 두류 제품군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Organik Kırmızı Mercimek Unu | Tufan Organik",
+    "en": "Organic Red Lentil Flour | Tufan Organik",
+    "ar": "دقيق عدس أحمر عضوي | Tufan Organik",
+    "de": "Bio-Rotlinsenmehl | Tufan Organik",
+    "ja": "有機赤レンズ豆粉 | Tufan Organik",
+    "ko": "유기농 붉은 렌틸콩 가루 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:26:51.486Z",
+  "update": "2026-11-06T07:33:36.957Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "z68i98exda",
+  "name": {
+    "tr": "Bademli Tahin Helvası",
+    "en": "Almond Tahini Halva",
+    "ar": "حلاوة طحينية باللوز",
+    "de": "Tahin-Halva mit Mandeln",
+    "ja": "アーモンド入りタヒニハルヴァ",
+    "ko": "아몬드 타히니 할바"
+  },
+  "description": {
+    "tr": "Tufan Organik Bademli Tahin Helvası, Pekmez Çeşitleri, Tahin ve Helva grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Almond Tahini Halva, from the Molasses, Tahini and Halva range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik حلاوة طحينية باللوز، من مجموعة أنواع الدبس والطحينة والحلاوة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Tahin-Halva mit Mandeln aus der Gruppe Pekmez, Tahin und Halva – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik アーモンド入りタヒニハルヴァは、ペクメズ、タヒニ、ハルヴァカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 아몬드 타히니 할바은(는) 페크메즈, 타힌 및 할바군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Bademli Tahin Helvası, Pekmez Çeşitleri, Tahin ve Helva",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Almond Tahini Halva, Molasses, Tahini and Halva",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, حلاوة طحينية باللوز, أنواع الدبس والطحينة والحلاوة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Tahin-Halva mit Mandeln, Pekmez, Tahin und Halva",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, アーモンド入りタヒニハルヴァ, ペクメズ、タヒニ、ハルヴァ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 아몬드 타히니 할바, 페크메즈, 타힌 및 할바"
+  },
+  "path": "bademli-tahin-helvasi",
+  "icon": "cake",
+  "category": "c12sut",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 114,
+  "url": "",
+  "text": {
+    "tr": "<h2>Bademli Tahin Helvası</h2><p>Tufan Organik Bademli Tahin Helvası, Pekmez Çeşitleri, Tahin ve Helva grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Almond Tahini Halva</h2><p>Tufan Organik Almond Tahini Halva belongs to the Molasses, Tahini and Halva range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>حلاوة طحينية باللوز</h2><p>حلاوة طحينية باللوز من توفان أورغانيك ضمن مجموعة أنواع الدبس والطحينة والحلاوة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Tahin-Halva mit Mandeln</h2><p>Tufan Organik Tahin-Halva mit Mandeln gehört zur Gruppe Pekmez, Tahin und Halva. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>アーモンド入りタヒニハルヴァ</h2><p>Tufan Organik アーモンド入りタヒニハルヴァはペクメズ、タヒニ、ハルヴァカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>아몬드 타히니 할바</h2><p>Tufan Organik 아몬드 타히니 할바은(는) 페크메즈, 타힌 및 할바군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Bademli Tahin Helvası | Tufan Organik",
+    "en": "Almond Tahini Halva | Tufan Organik",
+    "ar": "حلاوة طحينية باللوز | Tufan Organik",
+    "de": "Tahin-Halva mit Mandeln | Tufan Organik",
+    "ja": "アーモンド入りタヒニハルヴァ | Tufan Organik",
+    "ko": "아몬드 타히니 할바 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:29:09.015Z",
+  "update": "2026-11-06T07:29:09.882Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

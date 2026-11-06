@@ -1,0 +1,62 @@
+{
+  "id": "5ia71753oq",
+  "name": {
+    "tr": "Organik Erişte",
+    "en": "Organic Erişte (Turkish Egg Noodles)",
+    "ar": "إريشته عضوية (نودلز تركية بالبيض)",
+    "de": "Bio-Erişte (türkische Eiernudeln)",
+    "ja": "有機エリシテ（トルコ風卵麺）",
+    "ko": "유기농 에리시테 (터키식 달걀 국수)"
+  },
+  "description": {
+    "tr": "Tufan Organik Erişte, Makarna Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Erişte (Turkish Egg Noodles), from the Pasta Group range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik إريشته عضوية (نودلز تركية بالبيض)، من مجموعة مجموعة المعكرونة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Bio-Erişte (türkische Eiernudeln) aus der Gruppe Nudeln und Teigwaren – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 有機エリシテ（トルコ風卵麺）は、パスタカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 유기농 에리시테 (터키식 달걀 국수)은(는) 파스타 그룹군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Organik Erişte, Makarna Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Organic Erişte (Turkish Egg Noodles), Pasta Group",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, إريشته عضوية (نودلز تركية بالبيض), مجموعة المعكرونة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Bio-Erişte (türkische Eiernudeln), Nudeln und Teigwaren",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 有機エリシテ（トルコ風卵麺）, パスタ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 유기농 에리시테 (터키식 달걀 국수), 파스타 그룹"
+  },
+  "path": "organik-eriste",
+  "icon": "breakfast_dining",
+  "category": "c04yerfist",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 210,
+  "url": "",
+  "text": {
+    "tr": "<h2>Organik Erişte</h2><p>Tufan Organik Erişte, Makarna Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Organic Erişte (Turkish Egg Noodles)</h2><p>Tufan Organik Erişte (Turkish Egg Noodles) belongs to the Pasta Group range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>إريشته عضوية (نودلز تركية بالبيض)</h2><p>إريشته عضوية (نودلز تركية بالبيض) من توفان أورغانيك ضمن مجموعة مجموعة المعكرونة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Bio-Erişte (türkische Eiernudeln)</h2><p>Tufan Organik Bio-Erişte (türkische Eiernudeln) gehört zur Gruppe Nudeln und Teigwaren. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>有機エリシテ（トルコ風卵麺）</h2><p>Tufan Organik 有機エリシテ（トルコ風卵麺）はパスタカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>유기농 에리시테 (터키식 달걀 국수)</h2><p>Tufan Organik 유기농 에리시테 (터키식 달걀 국수)은(는) 파스타 그룹군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Organik Erişte | Tufan Organik",
+    "en": "Organic Erişte (Turkish Egg Noodles) | Tufan Organik",
+    "ar": "إريشته عضوية (نودلز تركية بالبيض) | Tufan Organik",
+    "de": "Bio-Erişte (türkische Eiernudeln) | Tufan Organik",
+    "ja": "有機エリシテ（トルコ風卵麺） | Tufan Organik",
+    "ko": "유기농 에리시테 (터키식 달걀 국수) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:27:10.120Z",
+  "update": "2026-11-06T07:34:02.940Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

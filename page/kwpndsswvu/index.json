@@ -27,13 +27,13 @@
   "path": "karabugday-unu",
   "icon": "breakfast_dining",
   "category": "c01fistik",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 67,
+  "index": 319,
   "url": "",
   "text": {
     "tr": "<h2>Karabuğday Unu: Krep ve Gözlemelerde Farklı Bir Lezzet</h2>\n<p>Karabuğday, adına rağmen buğdayla akraba olmayan, üçgen biçimli taneleri olan bir bitkidir. Öğütülmesiyle elde edilen un grimsi kahverengi bir renge ve hafif topraksı, fındıksı bir aromaya sahiptir. İnce dokusu sayesinde sıvılarla kolayca karışır ve hamura kendine has bir tat verir.</p>\n<p>Tufan Organik kataloğunda karabuğday unu, mutfağında yeni tatlar denemeyi sevenler için yer alıyor. Tek başına kullanıldığında hamur daha kırılgan olabileceğinden, ekmek ve kek tariflerinde başka unlarla birlikte kullanmak pratik bir çözümdür. Krep gibi akışkan hamurlarda ise tek başına da rahatça kullanılır.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Peynir, ıspanak ya da mantarla doldurulan ince karabuğday krepleri</li>\n<li>Buğday unuyla karıştırılarak yapılan kahvaltılık pankek</li>\n<li>Mısır unu ve yoğurtla hazırlanan tuzlu kek ya da çörekler</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "そば粉 | Tufan Organik"
   },
   "date": "2026-10-28T08:16:20.745Z",
-  "update": "2026-10-28T09:07:49.085Z",
+  "update": "2026-11-06T07:35:29.711Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

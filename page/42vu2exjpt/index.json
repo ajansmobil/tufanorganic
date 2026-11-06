@@ -27,13 +27,13 @@
   "path": "maras-dondurmali-kizartma-kadayif",
   "icon": "breakfast_dining",
   "category": "hntjm9xwyu",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 19,
+  "index": 271,
   "url": "",
   "text": {
     "tr": "<h2>Maraş Dondurmalı Kızartma Kadayıf: Sıcakla Soğuğun Buluşması</h2>\n<p>Maraş dondurmalı kızartma kadayıf, tel kadayıfın içine Maraş dondurması yerleştirilip kızartılmasıyla hazırlanan bir tatlıdır. Dışı altın renginde ve çıtır, içi ise soğuk ve sakızlı dokusunu koruyan dondurmayla yumuşaktır. Tek lokmada sıcak ile soğuğu, çıtırlık ile kremamsı kıvamı bir arada sunar.</p>\n<p>Tufan Organik kadayıf çeşitleri içinde bu tatlı, misafir sofralarını farklı bir finalle kapatmak isteyenler için yer alıyor. Sıcak ve soğuk arasındaki karşıtlık en iyi ilk dakikalarda hissedildiği için tabağa alır almaz servis etmek gerekir. Yanına sade bir Türk kahvesi iyi eşlik eder.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Üzerine ince dövülmüş Antep fıstığı serpilerek tatlı tabağında sunum</li>\n<li>Bir kaşık kaymak ve vişne sosuyla zenginleştirilmiş servis</li>\n<li>Akşam yemeği sonrası Türk kahvesi ya da demli çayla ikram</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "マラシュアイス入り揚げカダイフ | Tufan Organik"
   },
   "date": "2026-10-28T08:16:29.460Z",
-  "update": "2026-10-28T09:07:23.100Z",
+  "update": "2026-11-06T07:34:44.096Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

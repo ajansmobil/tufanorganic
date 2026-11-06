@@ -1,0 +1,62 @@
+{
+  "id": "3s7v144t8k",
+  "name": {
+    "tr": "Ahududu Reçeli",
+    "en": "Raspberry Jam",
+    "ar": "مربى توت العليق (الفرامبواز)",
+    "de": "Himbeerkonfitüre",
+    "ja": "ラズベリージャム",
+    "ko": "라즈베리잼"
+  },
+  "description": {
+    "tr": "Tufan Organik Ahududu Reçeli, Reçel ve Marmelatlar grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Raspberry Jam, from the Jams and Marmalades range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik مربى توت العليق (الفرامبواز)، من مجموعة المربيات ومربى الحمضيات، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Himbeerkonfitüre aus der Gruppe Konfitüren und Marmeladen – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik ラズベリージャムは、ジャムとマーマレードカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 라즈베리잼은(는) 잼 및 마멀레이드군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Ahududu Reçeli, Reçel ve Marmelatlar",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Raspberry Jam, Jams and Marmalades",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, مربى توت العليق (الفرامبواز), المربيات ومربى الحمضيات",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Himbeerkonfitüre, Konfitüren und Marmeladen",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ラズベリージャム, ジャムとマーマレード",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 라즈베리잼, 잼 및 마멀레이드"
+  },
+  "path": "ahududu-receli",
+  "icon": "breakfast_dining",
+  "category": "c09gelenek",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 151,
+  "url": "",
+  "text": {
+    "tr": "<h2>Ahududu Reçeli</h2><p>Tufan Organik Ahududu Reçeli, Reçel ve Marmelatlar grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Raspberry Jam</h2><p>Tufan Organik Raspberry Jam belongs to the Jams and Marmalades range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>مربى توت العليق (الفرامبواز)</h2><p>مربى توت العليق (الفرامبواز) من توفان أورغانيك ضمن مجموعة المربيات ومربى الحمضيات. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Himbeerkonfitüre</h2><p>Tufan Organik Himbeerkonfitüre gehört zur Gruppe Konfitüren und Marmeladen. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>ラズベリージャム</h2><p>Tufan Organik ラズベリージャムはジャムとマーマレードカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>라즈베리잼</h2><p>Tufan Organik 라즈베리잼은(는) 잼 및 마멀레이드군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Ahududu Reçeli | Tufan Organik",
+    "en": "Raspberry Jam | Tufan Organik",
+    "ar": "مربى توت العليق (الفرامبواز) | Tufan Organik",
+    "de": "Himbeerkonfitüre | Tufan Organik",
+    "ja": "ラズベリージャム | Tufan Organik",
+    "ko": "라즈베리잼 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:28:16.082Z",
+  "update": "2026-11-06T07:28:16.782Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

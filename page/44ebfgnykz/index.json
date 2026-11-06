@@ -1,0 +1,62 @@
+{
+  "id": "44ebfgnykz",
+  "name": {
+    "tr": "Koyun Peyniri (Otlu&Otsuz)",
+    "en": "Sheep's Milk Cheese (With Herbs & Plain)",
+    "ar": "جبنة حليب الغنم (بالأعشاب وبدون أعشاب)",
+    "de": "Schafskäse (mit Kräutern & natur)",
+    "ja": "羊乳チーズ（ハーブ入り・プレーン）",
+    "ko": "양유 치즈 (허브 넣은 것 & 플레인)"
+  },
+  "description": {
+    "tr": "Tufan Organik Koyun Peyniri (Otlu&Otsuz), Süt ve Süt Ürünleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Sheep's Milk Cheese (With Herbs & Plain), from the Milk and Dairy Products range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik جبنة حليب الغنم (بالأعشاب وبدون أعشاب)، من مجموعة الحليب ومنتجات الألبان، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Schafskäse (mit Kräutern & natur) aus der Gruppe Milch und Milchprodukte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 羊乳チーズ（ハーブ入り・プレーン）は、乳製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 양유 치즈 (허브 넣은 것 & 플레인)은(는) 우유 및 유제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Koyun Peyniri (Otlu&Otsuz), Süt ve Süt Ürünleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Sheep's Milk Cheese (With Herbs & Plain), Milk and Dairy Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, جبنة حليب الغنم (بالأعشاب وبدون أعشاب), الحليب ومنتجات الألبان",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Schafskäse (mit Kräutern & natur), Milch und Milchprodukte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 羊乳チーズ（ハーブ入り・プレーン）, 乳製品",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 양유 치즈 (허브 넣은 것 & 플레인), 우유 및 유제품"
+  },
+  "path": "koyun-peyniri",
+  "icon": "egg",
+  "category": "c07kuruseb",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 190,
+  "url": "",
+  "text": {
+    "tr": "<h2>Koyun Peyniri (Otlu&Otsuz)</h2><p>Tufan Organik Koyun Peyniri (Otlu&Otsuz), Süt ve Süt Ürünleri grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Sheep's Milk Cheese (With Herbs & Plain)</h2><p>Tufan Organik Sheep's Milk Cheese (With Herbs & Plain) belongs to the Milk and Dairy Products range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>جبنة حليب الغنم (بالأعشاب وبدون أعشاب)</h2><p>جبنة حليب الغنم (بالأعشاب وبدون أعشاب) من توفان أورغانيك ضمن مجموعة الحليب ومنتجات الألبان. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Schafskäse (mit Kräutern & natur)</h2><p>Tufan Organik Schafskäse (mit Kräutern & natur) gehört zur Gruppe Milch und Milchprodukte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>羊乳チーズ（ハーブ入り・プレーン）</h2><p>Tufan Organik 羊乳チーズ（ハーブ入り・プレーン）は乳製品カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>양유 치즈 (허브 넣은 것 & 플레인)</h2><p>Tufan Organik 양유 치즈 (허브 넣은 것 & 플레인)은(는) 우유 및 유제품군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Koyun Peyniri (Otlu&Otsuz) | Tufan Organik",
+    "en": "Sheep's Milk Cheese (With Herbs & Plain) | Tufan Organik",
+    "ar": "جبنة حليب الغنم (بالأعشاب وبدون أعشاب) | Tufan Organik",
+    "de": "Schafskäse (mit Kräutern & natur) | Tufan Organik",
+    "ja": "羊乳チーズ（ハーブ入り・プレーン） | Tufan Organik",
+    "ko": "양유 치즈 (허브 넣은 것 & 플레인) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:27:29.556Z",
+  "update": "2026-11-06T07:27:30.141Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

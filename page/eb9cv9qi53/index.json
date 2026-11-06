@@ -1,0 +1,62 @@
+{
+  "id": "eb9cv9qi53",
+  "name": {
+    "tr": "Organik İnce Uzun",
+    "en": "Organic Thin Long Pasta (Spaghettini)",
+    "ar": "معكرونة عضوية رفيعة طويلة (سباغيتيني)",
+    "de": "Bio-Dünne Langnudeln (Spaghettini)",
+    "ja": "有機細長パスタ（スパゲッティーニ）",
+    "ko": "유기농 가늘고 긴 파스타 (스파게티니)"
+  },
+  "description": {
+    "tr": "Tufan Organik İnce Uzun, Makarna Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Thin Long Pasta (Spaghettini), from the Pasta Group range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik معكرونة عضوية رفيعة طويلة (سباغيتيني)، من مجموعة مجموعة المعكرونة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Bio-Dünne Langnudeln (Spaghettini) aus der Gruppe Nudeln und Teigwaren – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 有機細長パスタ（スパゲッティーニ）は、パスタカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 유기농 가늘고 긴 파스타 (스파게티니)은(는) 파스타 그룹군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Organik İnce Uzun, Makarna Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Organic Thin Long Pasta (Spaghettini), Pasta Group",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, معكرونة عضوية رفيعة طويلة (سباغيتيني), مجموعة المعكرونة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Bio-Dünne Langnudeln (Spaghettini), Nudeln und Teigwaren",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 有機細長パスタ（スパゲッティーニ）, パスタ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 유기농 가늘고 긴 파스타 (스파게티니), 파스타 그룹"
+  },
+  "path": "organik-ince-uzun",
+  "icon": "breakfast_dining",
+  "category": "c04yerfist",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 221,
+  "url": "",
+  "text": {
+    "tr": "<h2>Organik İnce Uzun</h2><p>Tufan Organik İnce Uzun, Makarna Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Organic Thin Long Pasta (Spaghettini)</h2><p>Tufan Organik Thin Long Pasta (Spaghettini) belongs to the Pasta Group range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>معكرونة عضوية رفيعة طويلة (سباغيتيني)</h2><p>معكرونة عضوية رفيعة طويلة (سباغيتيني) من توفان أورغانيك ضمن مجموعة مجموعة المعكرونة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Bio-Dünne Langnudeln (Spaghettini)</h2><p>Tufan Organik Bio-Dünne Langnudeln (Spaghettini) gehört zur Gruppe Nudeln und Teigwaren. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>有機細長パスタ（スパゲッティーニ）</h2><p>Tufan Organik 有機細長パスタ（スパゲッティーニ）はパスタカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>유기농 가늘고 긴 파스타 (스파게티니)</h2><p>Tufan Organik 유기농 가늘고 긴 파스타 (스파게티니)은(는) 파스타 그룹군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Organik İnce Uzun | Tufan Organik",
+    "en": "Organic Thin Long Pasta (Spaghettini) | Tufan Organik",
+    "ar": "معكرونة عضوية رفيعة طويلة (سباغيتيني) | Tufan Organik",
+    "de": "Bio-Dünne Langnudeln (Spaghettini) | Tufan Organik",
+    "ja": "有機細長パスタ（スパゲッティーニ） | Tufan Organik",
+    "ko": "유기농 가늘고 긴 파스타 (스파게티니) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:26:59.937Z",
+  "update": "2026-11-06T07:33:49.608Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

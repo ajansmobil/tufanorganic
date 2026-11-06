@@ -1,0 +1,62 @@
+{
+  "id": "wwlqp2wx41",
+  "name": {
+    "tr": "Eski Kaşar Peyniri",
+    "en": "Aged Kashar Cheese",
+    "ar": "جبنة قشقوان معتقة",
+    "de": "Gereifter Kaşar-Käse",
+    "ja": "熟成カシャルチーズ",
+    "ko": "숙성 카샤르 치즈"
+  },
+  "description": {
+    "tr": "Tufan Organik Eski Kaşar Peyniri, Süt ve Süt Ürünleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Aged Kashar Cheese, from the Milk and Dairy Products range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik جبنة قشقوان معتقة، من مجموعة الحليب ومنتجات الألبان، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Gereifter Kaşar-Käse aus der Gruppe Milch und Milchprodukte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 熟成カシャルチーズは、乳製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 숙성 카샤르 치즈은(는) 우유 및 유제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Eski Kaşar Peyniri, Süt ve Süt Ürünleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Aged Kashar Cheese, Milk and Dairy Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, جبنة قشقوان معتقة, الحليب ومنتجات الألبان",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Gereifter Kaşar-Käse, Milch und Milchprodukte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 熟成カシャルチーズ, 乳製品",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 숙성 카샤르 치즈, 우유 및 유제품"
+  },
+  "path": "eski-kasar-peyniri",
+  "icon": "egg",
+  "category": "c07kuruseb",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 177,
+  "url": "",
+  "text": {
+    "tr": "<h2>Eski Kaşar Peyniri</h2><p>Tufan Organik Eski Kaşar Peyniri, Süt ve Süt Ürünleri grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Aged Kashar Cheese</h2><p>Tufan Organik Aged Kashar Cheese belongs to the Milk and Dairy Products range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>جبنة قشقوان معتقة</h2><p>جبنة قشقوان معتقة من توفان أورغانيك ضمن مجموعة الحليب ومنتجات الألبان. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Gereifter Kaşar-Käse</h2><p>Tufan Organik Gereifter Kaşar-Käse gehört zur Gruppe Milch und Milchprodukte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>熟成カシャルチーズ</h2><p>Tufan Organik 熟成カシャルチーズは乳製品カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>숙성 카샤르 치즈</h2><p>Tufan Organik 숙성 카샤르 치즈은(는) 우유 및 유제품군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Eski Kaşar Peyniri | Tufan Organik",
+    "en": "Aged Kashar Cheese | Tufan Organik",
+    "ar": "جبنة قشقوان معتقة | Tufan Organik",
+    "de": "Gereifter Kaşar-Käse | Tufan Organik",
+    "ja": "熟成カシャルチーズ | Tufan Organik",
+    "ko": "숙성 카샤르 치즈 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:27:44.025Z",
+  "update": "2026-11-06T07:27:44.598Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

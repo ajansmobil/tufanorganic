@@ -1,0 +1,62 @@
+{
+  "id": "zcrz0zj7b4",
+  "name": {
+    "tr": "Organik Domates Püresi",
+    "en": "Organic Tomato Purée",
+    "ar": "هريس طماطم عضوي (بيوريه)",
+    "de": "Bio-Tomatenpüree",
+    "ja": "有機トマトピューレ",
+    "ko": "유기농 토마토 퓌레"
+  },
+  "description": {
+    "tr": "Tufan Organik Domates Püresi, Salça ve Soslar grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Tomato Purée, from the Pastes and Sauces range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik هريس طماطم عضوي (بيوريه)، من مجموعة المعجونات والصلصات، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Bio-Tomatenpüree aus der Gruppe Pasten und Saucen – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 有機トマトピューレは、トマトソースと調味料カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 유기농 토마토 퓌레은(는) 페이스트 및 소스군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Organik Domates Püresi, Salça ve Soslar",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Organic Tomato Purée, Pastes and Sauces",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, هريس طماطم عضوي (بيوريه), المعجونات والصلصات",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Bio-Tomatenpüree, Pasten und Saucen",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 有機トマトピューレ, トマトソースと調味料",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 유기농 토마토 퓌레, 페이스트 및 소스"
+  },
+  "path": "organik-domates-puresi",
+  "icon": "lunch_dining",
+  "category": "c05kurumey",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 197,
+  "url": "",
+  "text": {
+    "tr": "<h2>Organik Domates Püresi</h2><p>Tufan Organik Domates Püresi, Salça ve Soslar grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Organic Tomato Purée</h2><p>Tufan Organik Tomato Purée belongs to the Pastes and Sauces range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>هريس طماطم عضوي (بيوريه)</h2><p>هريس طماطم عضوي (بيوريه) من توفان أورغانيك ضمن مجموعة المعجونات والصلصات. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Bio-Tomatenpüree</h2><p>Tufan Organik Bio-Tomatenpüree gehört zur Gruppe Pasten und Saucen. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>有機トマトピューレ</h2><p>Tufan Organik 有機トマトピューレはトマトソースと調味料カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>유기농 토마토 퓌레</h2><p>Tufan Organik 유기농 토마토 퓌레은(는) 페이스트 및 소스군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Organik Domates Püresi | Tufan Organik",
+    "en": "Organic Tomato Purée | Tufan Organik",
+    "ar": "هريس طماطم عضوي (بيوريه) | Tufan Organik",
+    "de": "Bio-Tomatenpüree | Tufan Organik",
+    "ja": "有機トマトピューレ | Tufan Organik",
+    "ko": "유기농 토마토 퓌레 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:27:22.314Z",
+  "update": "2026-11-06T07:34:18.851Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

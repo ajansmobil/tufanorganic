@@ -1,0 +1,62 @@
+{
+  "id": "xpn8dy451g",
+  "name": {
+    "tr": "Cevizli Pişmaniye",
+    "en": "Walnut Pişmaniye (Turkish Floss Halva)",
+    "ar": "بشمانية بالجوز (حلوى غزل البنات التركية)",
+    "de": "Pişmaniye mit Walnüssen (türkisches Fadenhalva)",
+    "ja": "クルミ入りピシュマニエ（トルコ風綿菓子ハルヴァ）",
+    "ko": "호두 피시마니예 (터키식 실타래 할바)"
+  },
+  "description": {
+    "tr": "Tufan Organik Cevizli Pişmaniye, Pekmez Çeşitleri, Tahin ve Helva grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Walnut Pişmaniye (Turkish Floss Halva), from the Molasses, Tahini and Halva range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik بشمانية بالجوز (حلوى غزل البنات التركية)، من مجموعة أنواع الدبس والطحينة والحلاوة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Pişmaniye mit Walnüssen (türkisches Fadenhalva) aus der Gruppe Pekmez, Tahin und Halva – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik クルミ入りピシュマニエ（トルコ風綿菓子ハルヴァ）は、ペクメズ、タヒニ、ハルヴァカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 호두 피시마니예 (터키식 실타래 할바)은(는) 페크메즈, 타힌 및 할바군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Cevizli Pişmaniye, Pekmez Çeşitleri, Tahin ve Helva",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Walnut Pişmaniye (Turkish Floss Halva), Molasses, Tahini and Halva",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, بشمانية بالجوز (حلوى غزل البنات التركية), أنواع الدبس والطحينة والحلاوة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Pişmaniye mit Walnüssen (türkisches Fadenhalva), Pekmez, Tahin und Halva",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, クルミ入りピシュマニエ（トルコ風綿菓子ハルヴァ）, ペクメズ、タヒニ、ハルヴァ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 호두 피시마니예 (터키식 실타래 할바), 페크메즈, 타힌 및 할바"
+  },
+  "path": "cevizli-pismaniye",
+  "icon": "cake",
+  "category": "c12sut",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 120,
+  "url": "",
+  "text": {
+    "tr": "<h2>Cevizli Pişmaniye</h2><p>Tufan Organik Cevizli Pişmaniye, Pekmez Çeşitleri, Tahin ve Helva grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Walnut Pişmaniye (Turkish Floss Halva)</h2><p>Tufan Organik Walnut Pişmaniye (Turkish Floss Halva) belongs to the Molasses, Tahini and Halva range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>بشمانية بالجوز (حلوى غزل البنات التركية)</h2><p>بشمانية بالجوز (حلوى غزل البنات التركية) من توفان أورغانيك ضمن مجموعة أنواع الدبس والطحينة والحلاوة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Pişmaniye mit Walnüssen (türkisches Fadenhalva)</h2><p>Tufan Organik Pişmaniye mit Walnüssen (türkisches Fadenhalva) gehört zur Gruppe Pekmez, Tahin und Halva. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>クルミ入りピシュマニエ（トルコ風綿菓子ハルヴァ）</h2><p>Tufan Organik クルミ入りピシュマニエ（トルコ風綿菓子ハルヴァ）はペクメズ、タヒニ、ハルヴァカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>호두 피시마니예 (터키식 실타래 할바)</h2><p>Tufan Organik 호두 피시마니예 (터키식 실타래 할바)은(는) 페크메즈, 타힌 및 할바군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Cevizli Pişmaniye | Tufan Organik",
+    "en": "Walnut Pişmaniye (Turkish Floss Halva) | Tufan Organik",
+    "ar": "بشمانية بالجوز (حلوى غزل البنات التركية) | Tufan Organik",
+    "de": "Pişmaniye mit Walnüssen (türkisches Fadenhalva) | Tufan Organik",
+    "ja": "クルミ入りピシュマニエ（トルコ風綿菓子ハルヴァ） | Tufan Organik",
+    "ko": "호두 피시마니예 (터키식 실타래 할바) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:28:59.857Z",
+  "update": "2026-11-06T07:29:00.689Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

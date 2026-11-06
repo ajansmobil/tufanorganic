@@ -1,0 +1,62 @@
+{
+  "id": "3sntsm3hxr",
+  "name": {
+    "tr": "Kuru Yassı Taş Kadayıf (Fıstıklı, Cevizli, Fındıklı, Bademli)",
+    "en": "Dried Flat Taş Kadayif (With Pistachio, Walnut, Hazelnut, Almond)",
+    "ar": "قطايف طاش المسطحة المجففة (بالفستق، بالجوز، بالبندق، باللوز)",
+    "de": "Getrocknetes flaches Taş-Kadayif (mit Pistazien, Walnüssen, Haselnüssen, Mandeln)",
+    "ja": "乾燥フラット・タシュカダイフ（ピスタチオ・クルミ・ヘーゼルナッツ・アーモンド入り）",
+    "ko": "건조 납작 타시 카다이프 (피스타치오, 호두, 헤이즐넛, 아몬드)"
+  },
+  "description": {
+    "tr": "Tufan Organik Kuru Yassı Taş Kadayıf (Fıstıklı, Cevizli, Fındıklı, Bademli), Kadayıf Çeşitleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Dried Flat Taş Kadayif (With Pistachio, Walnut, Hazelnut, Almond), from the Kadayıf Varieties range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik قطايف طاش المسطحة المجففة (بالفستق، بالجوز، بالبندق، باللوز)، من مجموعة أنواع القطايف، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Getrocknetes flaches Taş-Kadayif (mit Pistazien, Walnüssen, Haselnüssen, Mandeln) aus der Gruppe Kadayıf-Sorten – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 乾燥フラット・タシュカダイフ（ピスタチオ・クルミ・ヘーゼルナッツ・アーモンド入り）は、カダイフカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 건조 납작 타시 카다이프 (피스타치오, 호두, 헤이즐넛, 아몬드)은(는) 카다이프 종류군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Kuru Yassı Taş Kadayıf (Fıstıklı, Cevizli, Fındıklı, Bademli), Kadayıf Çeşitleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Dried Flat Taş Kadayif (With Pistachio, Walnut, Hazelnut, Almond), Kadayıf Varieties",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, قطايف طاش المسطحة المجففة (بالفستق، بالجوز، بالبندق، باللوز), أنواع القطايف",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Getrocknetes flaches Taş-Kadayif (mit Pistazien, Walnüssen, Haselnüssen, Mandeln), Kadayıf-Sorten",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 乾燥フラット・タシュカダイフ（ピスタチオ・クルミ・ヘーゼルナッツ・アーモンド入り）, カダイフ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 건조 납작 타시 카다이프 (피스타치오, 호두, 헤이즐넛, 아몬드), 카다이프 종류"
+  },
+  "path": "kuru-yassi-tas-kadayif",
+  "icon": "breakfast_dining",
+  "category": "hntjm9xwyu",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 25,
+  "url": "",
+  "text": {
+    "tr": "<h2>Kuru Yassı Taş Kadayıf (Fıstıklı, Cevizli, Fındıklı, Bademli)</h2><p>Tufan Organik Kuru Yassı Taş Kadayıf (Fıstıklı, Cevizli, Fındıklı, Bademli), Kadayıf Çeşitleri grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Dried Flat Taş Kadayif (With Pistachio, Walnut, Hazelnut, Almond)</h2><p>Tufan Organik Dried Flat Taş Kadayif (With Pistachio, Walnut, Hazelnut, Almond) belongs to the Kadayıf Varieties range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>قطايف طاش المسطحة المجففة (بالفستق، بالجوز، بالبندق، باللوز)</h2><p>قطايف طاش المسطحة المجففة (بالفستق، بالجوز، بالبندق، باللوز) من توفان أورغانيك ضمن مجموعة أنواع القطايف. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Getrocknetes flaches Taş-Kadayif (mit Pistazien, Walnüssen, Haselnüssen, Mandeln)</h2><p>Tufan Organik Getrocknetes flaches Taş-Kadayif (mit Pistazien, Walnüssen, Haselnüssen, Mandeln) gehört zur Gruppe Kadayıf-Sorten. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>乾燥フラット・タシュカダイフ（ピスタチオ・クルミ・ヘーゼルナッツ・アーモンド入り）</h2><p>Tufan Organik 乾燥フラット・タシュカダイフ（ピスタチオ・クルミ・ヘーゼルナッツ・アーモンド入り）はカダイフカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>건조 납작 타시 카다이프 (피스타치오, 호두, 헤이즐넛, 아몬드)</h2><p>Tufan Organik 건조 납작 타시 카다이프 (피스타치오, 호두, 헤이즐넛, 아몬드)은(는) 카다이프 종류군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Kuru Yassı Taş Kadayıf (Fıstıklı, Cevizli, Fındıklı, Bademli) | Tufan Organik",
+    "en": "Dried Flat Taş Kadayif (With Pistachio, Walnut, Hazelnut, Almond) | Tufan Organik",
+    "ar": "قطايف طاش المسطحة المجففة (بالفستق، بالجوز، بالبندق، باللوز) | Tufan Organik",
+    "de": "Getrocknetes flaches Taş-Kadayif (mit Pistazien, Walnüssen, Haselnüssen, Mandeln) | Tufan Organik",
+    "ja": "乾燥フラット・タシュカダイフ（ピスタチオ・クルミ・ヘーゼルナッツ・アーモンド入り） | Tufan Organik",
+    "ko": "건조 납작 타시 카다이프 (피스타치오, 호두, 헤이즐넛, 아몬드) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:31:57.975Z",
+  "update": "2026-11-06T07:31:59.138Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

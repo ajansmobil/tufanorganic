@@ -1,0 +1,62 @@
+{
+  "id": "lzzo4zv29v",
+  "name": {
+    "tr": "Organik Penne",
+    "en": "Organic Penne",
+    "ar": "بيني عضوية",
+    "de": "Bio-Penne",
+    "ja": "有機ペンネ",
+    "ko": "유기농 펜네"
+  },
+  "description": {
+    "tr": "Tufan Organik Penne, Makarna Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Penne, from the Pasta Group range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik بيني عضوية، من مجموعة مجموعة المعكرونة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Bio-Penne aus der Gruppe Nudeln und Teigwaren – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 有機ペンネは、パスタカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 유기농 펜네은(는) 파스타 그룹군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Organik Penne, Makarna Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Organic Penne, Pasta Group",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, بيني عضوية, مجموعة المعكرونة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Bio-Penne, Nudeln und Teigwaren",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 有機ペンネ, パスタ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 유기농 펜네, 파스타 그룹"
+  },
+  "path": "organik-penne",
+  "icon": "breakfast_dining",
+  "category": "c04yerfist",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 215,
+  "url": "",
+  "text": {
+    "tr": "<h2>Organik Penne</h2><p>Tufan Organik Penne, Makarna Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Organic Penne</h2><p>Tufan Organik Penne belongs to the Pasta Group range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>بيني عضوية</h2><p>بيني عضوية من توفان أورغانيك ضمن مجموعة مجموعة المعكرونة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Bio-Penne</h2><p>Tufan Organik Bio-Penne gehört zur Gruppe Nudeln und Teigwaren. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>有機ペンネ</h2><p>Tufan Organik 有機ペンネはパスタカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>유기농 펜네</h2><p>Tufan Organik 유기농 펜네은(는) 파스타 그룹군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Organik Penne | Tufan Organik",
+    "en": "Organic Penne | Tufan Organik",
+    "ar": "بيني عضوية | Tufan Organik",
+    "de": "Bio-Penne | Tufan Organik",
+    "ja": "有機ペンネ | Tufan Organik",
+    "ko": "유기농 펜네 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:27:05.452Z",
+  "update": "2026-11-06T07:33:56.843Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

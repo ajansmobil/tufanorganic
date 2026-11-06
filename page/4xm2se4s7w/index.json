@@ -1,0 +1,62 @@
+{
+  "id": "4xm2se4s7w",
+  "name": {
+    "tr": "Kurutulmuş Bamya (Tane)",
+    "en": "Dried Okra (Whole)",
+    "ar": "بامية مجففة (حبات كاملة)",
+    "de": "Getrocknete Okraschoten (ganz)",
+    "ja": "乾燥オクラ（ホール）",
+    "ko": "건오크라 (통)"
+  },
+  "description": {
+    "tr": "Tufan Organik Kurutulmuş Bamya (Tane), Kurutulmuş Sebze Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Dried Okra (Whole), from the Dried Vegetables range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik بامية مجففة (حبات كاملة)، من مجموعة الخضروات المجففة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Getrocknete Okraschoten (ganz) aus der Gruppe Getrocknetes Gemüse – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 乾燥オクラ（ホール）は、ドライ野菜カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 건오크라 (통)은(는) 건조 채소군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Kurutulmuş Bamya (Tane), Kurutulmuş Sebze Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Dried Okra (Whole), Dried Vegetables",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, بامية مجففة (حبات كاملة), الخضروات المجففة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Getrocknete Okraschoten (ganz), Getrocknetes Gemüse",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 乾燥オクラ（ホール）, ドライ野菜",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 건오크라 (통), 건조 채소"
+  },
+  "path": "kurutulmus-bamya",
+  "icon": "grass",
+  "category": "c15aromya",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 61,
+  "url": "",
+  "text": {
+    "tr": "<h2>Kurutulmuş Bamya (Tane)</h2><p>Tufan Organik Kurutulmuş Bamya (Tane), Kurutulmuş Sebze Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Dried Okra (Whole)</h2><p>Tufan Organik Dried Okra (Whole) belongs to the Dried Vegetables range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>بامية مجففة (حبات كاملة)</h2><p>بامية مجففة (حبات كاملة) من توفان أورغانيك ضمن مجموعة الخضروات المجففة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Getrocknete Okraschoten (ganz)</h2><p>Tufan Organik Getrocknete Okraschoten (ganz) gehört zur Gruppe Getrocknetes Gemüse. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>乾燥オクラ（ホール）</h2><p>Tufan Organik 乾燥オクラ（ホール）はドライ野菜カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>건오크라 (통)</h2><p>Tufan Organik 건오크라 (통)은(는) 건조 채소군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Kurutulmuş Bamya (Tane) | Tufan Organik",
+    "en": "Dried Okra (Whole) | Tufan Organik",
+    "ar": "بامية مجففة (حبات كاملة) | Tufan Organik",
+    "de": "Getrocknete Okraschoten (ganz) | Tufan Organik",
+    "ja": "乾燥オクラ（ホール） | Tufan Organik",
+    "ko": "건오크라 (통) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:30:40.685Z",
+  "update": "2026-11-06T07:30:41.725Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

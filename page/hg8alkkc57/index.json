@@ -1,0 +1,62 @@
+{
+  "id": "hg8alkkc57",
+  "name": {
+    "tr": "Köy Tandır ve Taş Fırın Ekmeği",
+    "en": "Village Tandoor and Stone-Oven Bread",
+    "ar": "خبز القرية في التنور والفرن الحجري",
+    "de": "Dorfbrot aus dem Tandır- und Steinofen",
+    "ja": "村のタンドゥール窯・石窯パン",
+    "ko": "시골 탄드르 화덕 & 돌가마 빵"
+  },
+  "description": {
+    "tr": "Tufan Organik Köy Tandır ve Taş Fırın Ekmeği, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Village Tandoor and Stone-Oven Bread, from the Flour & Flour Products range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik خبز القرية في التنور والفرن الحجري، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Dorfbrot aus dem Tandır- und Steinofen aus der Gruppe Mehl & Mehlprodukte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 村のタンドゥール窯・石窯パンは、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 시골 탄드르 화덕 & 돌가마 빵은(는) 밀가루 및 가루 제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Köy Tandır ve Taş Fırın Ekmeği, Unlu Mamulleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Village Tandoor and Stone-Oven Bread, Flour & Flour Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, خبز القرية في التنور والفرن الحجري, الدقيق ومشتقاته",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Dorfbrot aus dem Tandır- und Steinofen, Mehl & Mehlprodukte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 村のタンドゥール窯・石窯パン, 小麦粉・粉類製品",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 시골 탄드르 화덕 & 돌가마 빵, 밀가루 및 가루 제품"
+  },
+  "path": "koy-tandir-ve-tas-firin-ekmegi",
+  "icon": "grain",
+  "category": "c17iqfmey",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 40,
+  "url": "",
+  "text": {
+    "tr": "<h2>Köy Tandır ve Taş Fırın Ekmeği</h2><p>Tufan Organik Köy Tandır ve Taş Fırın Ekmeği, Unlu Mamulleri grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Village Tandoor and Stone-Oven Bread</h2><p>Tufan Organik Village Tandoor and Stone-Oven Bread belongs to the Flour & Flour Products range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>خبز القرية في التنور والفرن الحجري</h2><p>خبز القرية في التنور والفرن الحجري من توفان أورغانيك ضمن مجموعة الدقيق ومشتقاته. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Dorfbrot aus dem Tandır- und Steinofen</h2><p>Tufan Organik Dorfbrot aus dem Tandır- und Steinofen gehört zur Gruppe Mehl & Mehlprodukte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>村のタンドゥール窯・石窯パン</h2><p>Tufan Organik 村のタンドゥール窯・石窯パンは小麦粉・粉類製品カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>시골 탄드르 화덕 & 돌가마 빵</h2><p>Tufan Organik 시골 탄드르 화덕 & 돌가마 빵은(는) 밀가루 및 가루 제품군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Köy Tandır ve Taş Fırın Ekmeği | Tufan Organik",
+    "en": "Village Tandoor and Stone-Oven Bread | Tufan Organik",
+    "ar": "خبز القرية في التنور والفرن الحجري | Tufan Organik",
+    "de": "Dorfbrot aus dem Tandır- und Steinofen | Tufan Organik",
+    "ja": "村のタンドゥール窯・石窯パン | Tufan Organik",
+    "ko": "시골 탄드르 화덕 & 돌가마 빵 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:31:25.253Z",
+  "update": "2026-11-06T07:31:26.316Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

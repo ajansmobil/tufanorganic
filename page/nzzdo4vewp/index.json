@@ -1,0 +1,62 @@
+{
+  "id": "nzzdo4vewp",
+  "name": {
+    "tr": "Kaplamalı Leblebi (Baharatlı + Şekerli + Vanilyalı + Ballı)",
+    "en": "Coated Leblebi – Roasted Chickpeas (Spiced + Sugared + Vanilla + Honey)",
+    "ar": "قضامة (لبلبي) مغلفة (بالبهارات + بالسكر + بالفانيليا + بالعسل)",
+    "de": "Überzogene Leblebi – geröstete Kichererbsen (gewürzt + gezuckert + Vanille + Honig)",
+    "ja": "コーティングレブレビ（ローストひよこ豆）（スパイス＋砂糖＋バニラ＋ハチミツ）",
+    "ko": "코팅 레블레비 – 볶은 병아리콩 (향신료 + 설탕 + 바닐라 + 꿀)"
+  },
+  "description": {
+    "tr": "Tufan Organik Kaplamalı Leblebi (Baharatlı + Şekerli + Vanilyalı + Ballı), Kuruyemiş Grubu ve Ürünleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Coated Leblebi – Roasted Chickpeas (Spiced + Sugared + Vanilla + Honey), from the Nuts and Nut Products range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik قضامة (لبلبي) مغلفة (بالبهارات + بالسكر + بالفانيليا + بالعسل)، من مجموعة المكسرات ومنتجاتها، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Überzogene Leblebi – geröstete Kichererbsen (gewürzt + gezuckert + Vanille + Honig) aus der Gruppe Nüsse und Nussprodukte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik コーティングレブレビ（ローストひよこ豆）（スパイス＋砂糖＋バニラ＋ハチミツ）は、ナッツとその製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 코팅 레블레비 – 볶은 병아리콩 (향신료 + 설탕 + 바닐라 + 꿀)은(는) 견과류 및 제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Kaplamalı Leblebi (Baharatlı + Şekerli + Vanilyalı + Ballı), Kuruyemiş Grubu ve Ürünleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Coated Leblebi – Roasted Chickpeas (Spiced + Sugared + Vanilla + Honey), Nuts and Nut Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, قضامة (لبلبي) مغلفة (بالبهارات + بالسكر + بالفانيليا + بالعسل), المكسرات ومنتجاتها",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Überzogene Leblebi – geröstete Kichererbsen (gewürzt + gezuckert + Vanille + Honig), Nüsse und Nussprodukte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, コーティングレブレビ（ローストひよこ豆）（スパイス＋砂糖＋バニラ＋ハチミツ）, ナッツとその製品",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 코팅 레블레비 – 볶은 병아리콩 (향신료 + 설탕 + 바닐라 + 꿀), 견과류 및 제품"
+  },
+  "path": "kaplamali-leblebi",
+  "icon": "breakfast_dining",
+  "category": "c08recel",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 159,
+  "url": "",
+  "text": {
+    "tr": "<h2>Kaplamalı Leblebi (Baharatlı + Şekerli + Vanilyalı + Ballı)</h2><p>Tufan Organik Kaplamalı Leblebi (Baharatlı + Şekerli + Vanilyalı + Ballı), Kuruyemiş Grubu ve Ürünleri grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Coated Leblebi – Roasted Chickpeas (Spiced + Sugared + Vanilla + Honey)</h2><p>Tufan Organik Coated Leblebi – Roasted Chickpeas (Spiced + Sugared + Vanilla + Honey) belongs to the Nuts and Nut Products range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>قضامة (لبلبي) مغلفة (بالبهارات + بالسكر + بالفانيليا + بالعسل)</h2><p>قضامة (لبلبي) مغلفة (بالبهارات + بالسكر + بالفانيليا + بالعسل) من توفان أورغانيك ضمن مجموعة المكسرات ومنتجاتها. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Überzogene Leblebi – geröstete Kichererbsen (gewürzt + gezuckert + Vanille + Honig)</h2><p>Tufan Organik Überzogene Leblebi – geröstete Kichererbsen (gewürzt + gezuckert + Vanille + Honig) gehört zur Gruppe Nüsse und Nussprodukte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>コーティングレブレビ（ローストひよこ豆）（スパイス＋砂糖＋バニラ＋ハチミツ）</h2><p>Tufan Organik コーティングレブレビ（ローストひよこ豆）（スパイス＋砂糖＋バニラ＋ハチミツ）はナッツとその製品カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>코팅 레블레비 – 볶은 병아리콩 (향신료 + 설탕 + 바닐라 + 꿀)</h2><p>Tufan Organik 코팅 레블레비 – 볶은 병아리콩 (향신료 + 설탕 + 바닐라 + 꿀)은(는) 견과류 및 제품군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Kaplamalı Leblebi (Baharatlı + Şekerli + Vanilyalı + Ballı) | Tufan Organik",
+    "en": "Coated Leblebi – Roasted Chickpeas (Spiced + Sugared + Vanilla + Honey) | Tufan Organik",
+    "ar": "قضامة (لبلبي) مغلفة (بالبهارات + بالسكر + بالفانيليا + بالعسل) | Tufan Organik",
+    "de": "Überzogene Leblebi – geröstete Kichererbsen (gewürzt + gezuckert + Vanille + Honig) | Tufan Organik",
+    "ja": "コーティングレブレビ（ローストひよこ豆）（スパイス＋砂糖＋バニラ＋ハチミツ） | Tufan Organik",
+    "ko": "코팅 레블레비 – 볶은 병아리콩 (향신료 + 설탕 + 바닐라 + 꿀) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:28:05.627Z",
+  "update": "2026-11-06T07:28:06.304Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

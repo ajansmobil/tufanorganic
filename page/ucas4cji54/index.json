@@ -27,13 +27,13 @@
   "path": "kuru-alic",
   "icon": "breakfast_dining",
   "category": "c13konserve",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 25,
+  "index": 277,
   "url": "",
   "text": {
     "tr": "<h2>Mayhoş Bir Atıştırmalık: Kuru Alıç</h2>\n<p>Kuru Alıç, alıç meyvesinin kurutulmasıyla elde edilen küçük, kırmızımsı kahverengi tanelerden oluşur. Tadı ekşimsi ile tatlı arasında gezinir, dokusu ise hafif unludur. Ağızda yavaş yavaş yumuşayan bu taneler, sohbet eşliğinde ya da çay yanında tüketilen sade bir atıştırmalık olarak sofrada yerini alır.</p>\n<p>Tufan Organik olarak kuru alıcı, kurutulmuş meyve seçkimizin daha az bilinen ama sevilen ürünlerinden biri olarak sunuyoruz. Alıç, mutfakta çay olarak da demlenir; kaynar suda bekletildiğinde açık kırmızı renkli, hafif ekşi bir içecek elde edilir. Tarçın ya da ıhlamurla da güzel bir uyum yakalar.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Ceviz içi ve kuru üzümle karıştırarak ikindi çayına eşlik eden bir kuruyemiş tabağı hazırlayın.</li>\n<li>Bir avuç kuru alıcı kaynar suda on dakika demleyip tarçın çubuğuyla servis edin.</li>\n<li>Kayısı ve elma kurusuyla birlikte hoşaf tenceresine ekleyerek mayhoş bir tat katın.</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "乾燥サンザシ | Tufan Organik"
   },
   "date": "2026-10-28T08:16:28.152Z",
-  "update": "2026-10-28T09:08:03.744Z",
+  "update": "2026-11-06T07:34:48.938Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

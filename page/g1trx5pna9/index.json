@@ -1,0 +1,62 @@
+{
+  "id": "g1trx5pna9",
+  "name": {
+    "tr": "Fındık Püresi (%100 Türk Fındığı / Çok Kavrulmuş, Orta Kavrulmuş, Az Kavrulmuş + Katkısız, Koruyucusuz, Şekersiz ve Doğal)",
+    "en": "Hazelnut Paste (100% Turkish Hazelnuts / Dark Roasted, Medium Roasted, Light Roasted + No Additives, No Preservatives, No Added Sugar and Natural)",
+    "ar": "معجون البندق (بندق تركي 100% / محمص غامق، محمص متوسط، محمص خفيف + بدون إضافات، بدون مواد حافظة، بدون سكر وطبيعي)",
+    "de": "Haselnussmus (100 % türkische Haselnüsse / stark geröstet, mittel geröstet, leicht geröstet + ohne Zusatzstoffe, ohne Konservierungsstoffe, ohne Zucker und natürlich)",
+    "ja": "ヘーゼルナッツペースト（トルコ産ヘーゼルナッツ100％／深煎り・中煎り・浅煎り＋無添加・保存料不使用・砂糖不使用・天然）",
+    "ko": "헤이즐넛 퓌레 (터키산 헤이즐넛 100% / 강배전, 중배전, 약배전 + 무첨가, 무방부제, 무설탕, 천연)"
+  },
+  "description": {
+    "tr": "Tufan Organik Fındık Püresi (%100 Türk Fındığı / Çok Kavrulmuş, Orta Kavrulmuş, Az Kavrulmuş + Katkısız, Koruyucusuz, Şekersiz ve Doğal), Kahvaltılık Ürünler grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Hazelnut Paste (100% Turkish Hazelnuts / Dark Roasted, Medium Roasted, Light Roasted + No Additives, No Preservatives, No Added Sugar and Natural), from the Breakfast Products range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik معجون البندق (بندق تركي 100% / محمص غامق، محمص متوسط، محمص خفيف + بدون إضافات، بدون مواد حافظة، بدون سكر وطبيعي)، من مجموعة منتجات الإفطار، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Haselnussmus (100 % türkische Haselnüsse / stark geröstet, mittel geröstet, leicht geröstet + ohne Zusatzstoffe, ohne Konservierungsstoffe, ohne Zucker und natürlich) aus der Gruppe Frühstücksprodukte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik ヘーゼルナッツペースト（トルコ産ヘーゼルナッツ100％／深煎り・中煎り・浅煎り＋無添加・保存料不使用・砂糖不使用・天然）は、朝食メニューカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 헤이즐넛 퓌레 (터키산 헤이즐넛 100% / 강배전, 중배전, 약배전 + 무첨가, 무방부제, 무설탕, 천연)은(는) 아침식사 제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Fındık Püresi (%100 Türk Fındığı / Çok Kavrulmuş, Orta Kavrulmuş, Az Kavrulmuş + Katkısız, Koruyucusuz, Şekersiz ve Doğal), Kahvaltılık Ürünler",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Hazelnut Paste (100% Turkish Hazelnuts / Dark Roasted, Medium Roasted, Light Roasted + No Additives, No Preservatives, No Added Sugar and Natural), Breakfast Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, معجون البندق (بندق تركي 100% / محمص غامق، محمص متوسط، محمص خفيف + بدون إضافات، بدون مواد حافظة، بدون سكر وطبيعي), منتجات الإفطار",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Haselnussmus (100 % türkische Haselnüsse / stark geröstet, mittel geröstet, leicht geröstet + ohne Zusatzstoffe, ohne Konservierungsstoffe, ohne Zucker und natürlich), Frühstücksprodukte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ヘーゼルナッツペースト（トルコ産ヘーゼルナッツ100％／深煎り・中煎り・浅煎り＋無添加・保存料不使用・砂糖不使用・天然）, 朝食メニュー",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 헤이즐넛 퓌레 (터키산 헤이즐넛 100% / 강배전, 중배전, 약배전 + 무첨가, 무방부제, 무설탕, 천연), 아침식사 제품"
+  },
+  "path": "findik-puresi",
+  "icon": "nutrition",
+  "category": "c06meycip",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 195,
+  "url": "",
+  "text": {
+    "tr": "<h2>Fındık Püresi (%100 Türk Fındığı / Çok Kavrulmuş, Orta Kavrulmuş, Az Kavrulmuş + Katkısız, Koruyucusuz, Şekersiz ve Doğal)</h2><p>Tufan Organik Fındık Püresi (%100 Türk Fındığı / Çok Kavrulmuş, Orta Kavrulmuş, Az Kavrulmuş + Katkısız, Koruyucusuz, Şekersiz ve Doğal), Kahvaltılık Ürünler grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Hazelnut Paste (100% Turkish Hazelnuts / Dark Roasted, Medium Roasted, Light Roasted + No Additives, No Preservatives, No Added Sugar and Natural)</h2><p>Tufan Organik Hazelnut Paste (100% Turkish Hazelnuts / Dark Roasted, Medium Roasted, Light Roasted + No Additives, No Preservatives, No Added Sugar and Natural) belongs to the Breakfast Products range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>معجون البندق (بندق تركي 100% / محمص غامق، محمص متوسط، محمص خفيف + بدون إضافات، بدون مواد حافظة، بدون سكر وطبيعي)</h2><p>معجون البندق (بندق تركي 100% / محمص غامق، محمص متوسط، محمص خفيف + بدون إضافات، بدون مواد حافظة، بدون سكر وطبيعي) من توفان أورغانيك ضمن مجموعة منتجات الإفطار. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Haselnussmus (100 % türkische Haselnüsse / stark geröstet, mittel geröstet, leicht geröstet + ohne Zusatzstoffe, ohne Konservierungsstoffe, ohne Zucker und natürlich)</h2><p>Tufan Organik Haselnussmus (100 % türkische Haselnüsse / stark geröstet, mittel geröstet, leicht geröstet + ohne Zusatzstoffe, ohne Konservierungsstoffe, ohne Zucker und natürlich) gehört zur Gruppe Frühstücksprodukte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>ヘーゼルナッツペースト（トルコ産ヘーゼルナッツ100％／深煎り・中煎り・浅煎り＋無添加・保存料不使用・砂糖不使用・天然）</h2><p>Tufan Organik ヘーゼルナッツペースト（トルコ産ヘーゼルナッツ100％／深煎り・中煎り・浅煎り＋無添加・保存料不使用・砂糖不使用・天然）は朝食メニューカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>헤이즐넛 퓌레 (터키산 헤이즐넛 100% / 강배전, 중배전, 약배전 + 무첨가, 무방부제, 무설탕, 천연)</h2><p>Tufan Organik 헤이즐넛 퓌레 (터키산 헤이즐넛 100% / 강배전, 중배전, 약배전 + 무첨가, 무방부제, 무설탕, 천연)은(는) 아침식사 제품군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Fındık Püresi (%100 Türk Fındığı / Çok Kavrulmuş, Orta Kavrulmuş, Az Kavrulmuş + Katkısız, Koruyucusuz, Şekersiz ve Doğal) | Tufan Organik",
+    "en": "Hazelnut Paste (100% Turkish Hazelnuts / Dark Roasted, Medium Roasted, Light Roasted + No Additives, No Preservatives, No Added Sugar and Natural) | Tufan Organik",
+    "ar": "معجون البندق (بندق تركي 100% / محمص غامق، محمص متوسط، محمص خفيف + بدون إضافات، بدون مواد حافظة، بدون سكر وطبيعي) | Tufan Organik",
+    "de": "Haselnussmus (100 % türkische Haselnüsse / stark geröstet, mittel geröstet, leicht geröstet + ohne Zusatzstoffe, ohne Konservierungsstoffe, ohne Zucker und natürlich) | Tufan Organik",
+    "ja": "ヘーゼルナッツペースト（トルコ産ヘーゼルナッツ100％／深煎り・中煎り・浅煎り＋無添加・保存料不使用・砂糖不使用・天然） | Tufan Organik",
+    "ko": "헤이즐넛 퓌레 (터키산 헤이즐넛 100% / 강배전, 중배전, 약배전 + 무첨가, 무방부제, 무설탕, 천연) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:27:24.298Z",
+  "update": "2026-11-06T07:27:24.833Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "3cli5pfbac",
+  "name": {
+    "tr": "Nohut Mayalı Ekmekler",
+    "en": "Chickpea-Leavened Breads",
+    "ar": "خبز مخمر بخميرة الحمص",
+    "de": "Brote mit Kichererbsen-Sauerteig",
+    "ja": "ひよこ豆酵母パン",
+    "ko": "병아리콩 발효종 빵"
+  },
+  "description": {
+    "tr": "Tufan Organik Nohut Mayalı Ekmekler, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Chickpea-Leavened Breads, from the Flour & Flour Products range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik خبز مخمر بخميرة الحمص، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Brote mit Kichererbsen-Sauerteig aus der Gruppe Mehl & Mehlprodukte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik ひよこ豆酵母パンは、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 병아리콩 발효종 빵은(는) 밀가루 및 가루 제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Nohut Mayalı Ekmekler, Unlu Mamulleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Chickpea-Leavened Breads, Flour & Flour Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, خبز مخمر بخميرة الحمص, الدقيق ومشتقاته",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Brote mit Kichererbsen-Sauerteig, Mehl & Mehlprodukte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ひよこ豆酵母パン, 小麦粉・粉類製品",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 병아리콩 발효종 빵, 밀가루 및 가루 제품"
+  },
+  "path": "nohut-mayali-ekmekler",
+  "icon": "grain",
+  "category": "c17iqfmey",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 37,
+  "url": "",
+  "text": {
+    "tr": "<h2>Nohut Mayalı Ekmekler</h2><p>Tufan Organik Nohut Mayalı Ekmekler, Unlu Mamulleri grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Chickpea-Leavened Breads</h2><p>Tufan Organik Chickpea-Leavened Breads belongs to the Flour & Flour Products range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>خبز مخمر بخميرة الحمص</h2><p>خبز مخمر بخميرة الحمص من توفان أورغانيك ضمن مجموعة الدقيق ومشتقاته. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Brote mit Kichererbsen-Sauerteig</h2><p>Tufan Organik Brote mit Kichererbsen-Sauerteig gehört zur Gruppe Mehl & Mehlprodukte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>ひよこ豆酵母パン</h2><p>Tufan Organik ひよこ豆酵母パンは小麦粉・粉類製品カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>병아리콩 발효종 빵</h2><p>Tufan Organik 병아리콩 발효종 빵은(는) 밀가루 및 가루 제품군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Nohut Mayalı Ekmekler | Tufan Organik",
+    "en": "Chickpea-Leavened Breads | Tufan Organik",
+    "ar": "خبز مخمر بخميرة الحمص | Tufan Organik",
+    "de": "Brote mit Kichererbsen-Sauerteig | Tufan Organik",
+    "ja": "ひよこ豆酵母パン | Tufan Organik",
+    "ko": "병아리콩 발효종 빵 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:31:31.381Z",
+  "update": "2026-11-06T07:31:32.498Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "ofckar41k3",
+  "name": {
+    "tr": "Kızılcık Şerbeti",
+    "en": "Cornelian Cherry Sherbet (Şerbet)",
+    "ar": "شربات القرانيا",
+    "de": "Kornelkirschen-Şerbet",
+    "ja": "セイヨウサンシュユのシェルベット",
+    "ko": "코넬리안 체리 셰르베트"
+  },
+  "description": {
+    "tr": "Tufan Organik Kızılcık Şerbeti, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Cornelian Cherry Sherbet (Şerbet), from the Sour, Hot and Sweet Special Sauces, Vinegars and Beverages range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik شربات القرانيا، من مجموعة الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Kornelkirschen-Şerbet aus der Gruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik セイヨウサンシュユのシェルベットは、酸味・辛味・甘味の特別ソース、酢、飲料カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 코넬리안 체리 셰르베트은(는) 새콤·매콤·달콤 특선 소스, 식초 및 음료군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Kızılcık Şerbeti, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Cornelian Cherry Sherbet (Şerbet), Sour, Hot and Sweet Special Sauces, Vinegars and Beverages",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, شربات القرانيا, الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Kornelkirschen-Şerbet, Saure, scharfe und süße Spezialsaucen, Essig und Getränke",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, セイヨウサンシュユのシェルベット, 酸味・辛味・甘味の特別ソース、酢、飲料",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 코넬리안 체리 셰르베트, 새콤·매콤·달콤 특선 소스, 식초 및 음료"
+  },
+  "path": "kizilcik-serbeti",
+  "icon": "lunch_dining",
+  "category": "obbkh64oa1",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 12,
+  "url": "",
+  "text": {
+    "tr": "<h2>Kızılcık Şerbeti</h2><p>Tufan Organik Kızılcık Şerbeti, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Cornelian Cherry Sherbet (Şerbet)</h2><p>Tufan Organik Cornelian Cherry Sherbet (Şerbet) belongs to the Sour, Hot and Sweet Special Sauces, Vinegars and Beverages range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>شربات القرانيا</h2><p>شربات القرانيا من توفان أورغانيك ضمن مجموعة الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Kornelkirschen-Şerbet</h2><p>Tufan Organik Kornelkirschen-Şerbet gehört zur Gruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>セイヨウサンシュユのシェルベット</h2><p>Tufan Organik セイヨウサンシュユのシェルベットは酸味・辛味・甘味の特別ソース、酢、飲料カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>코넬리안 체리 셰르베트</h2><p>Tufan Organik 코넬리안 체리 셰르베트은(는) 새콤·매콤·달콤 특선 소스, 식초 및 음료군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Kızılcık Şerbeti | Tufan Organik",
+    "en": "Cornelian Cherry Sherbet (Şerbet) | Tufan Organik",
+    "ar": "شربات القرانيا | Tufan Organik",
+    "de": "Kornelkirschen-Şerbet | Tufan Organik",
+    "ja": "セイヨウサンシュユのシェルベット | Tufan Organik",
+    "ko": "코넬리안 체리 셰르베트 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:32:27.947Z",
+  "update": "2026-11-06T07:32:29.130Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

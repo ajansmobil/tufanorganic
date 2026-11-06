@@ -1,0 +1,62 @@
+{
+  "id": "p7yvyrakzg",
+  "name": {
+    "tr": "Organik Karışık Salça (Kapya Biber ve Domates)",
+    "en": "Organic Mixed Paste (Kapia Pepper and Tomato)",
+    "ar": "معجون مشكل عضوي (فلفل كابيا وطماطم)",
+    "de": "Bio-Gemischtes Mark (Kapia-Paprika und Tomate)",
+    "ja": "有機ミックスペースト（カピアピーマンとトマト）",
+    "ko": "유기농 혼합 페이스트 (카피아 고추와 토마토)"
+  },
+  "description": {
+    "tr": "Tufan Organik Karışık Salça (Kapya Biber ve Domates), Salça ve Soslar grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Mixed Paste (Kapia Pepper and Tomato), from the Pastes and Sauces range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik معجون مشكل عضوي (فلفل كابيا وطماطم)، من مجموعة المعجونات والصلصات، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Bio-Gemischtes Mark (Kapia-Paprika und Tomate) aus der Gruppe Pasten und Saucen – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 有機ミックスペースト（カピアピーマンとトマト）は、トマトソースと調味料カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 유기농 혼합 페이스트 (카피아 고추와 토마토)은(는) 페이스트 및 소스군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Organik Karışık Salça (Kapya Biber ve Domates), Salça ve Soslar",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Organic Mixed Paste (Kapia Pepper and Tomato), Pastes and Sauces",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, معجون مشكل عضوي (فلفل كابيا وطماطم), المعجونات والصلصات",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Bio-Gemischtes Mark (Kapia-Paprika und Tomate), Pasten und Saucen",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 有機ミックスペースト（カピアピーマンとトマト）, トマトソースと調味料",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 유기농 혼합 페이스트 (카피아 고추와 토마토), 페이스트 및 소스"
+  },
+  "path": "organik-karisik-salca",
+  "icon": "lunch_dining",
+  "category": "c05kurumey",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 201,
+  "url": "",
+  "text": {
+    "tr": "<h2>Organik Karışık Salça (Kapya Biber ve Domates)</h2><p>Tufan Organik Karışık Salça (Kapya Biber ve Domates), Salça ve Soslar grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Organic Mixed Paste (Kapia Pepper and Tomato)</h2><p>Tufan Organik Mixed Paste (Kapia Pepper and Tomato) belongs to the Pastes and Sauces range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>معجون مشكل عضوي (فلفل كابيا وطماطم)</h2><p>معجون مشكل عضوي (فلفل كابيا وطماطم) من توفان أورغانيك ضمن مجموعة المعجونات والصلصات. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Bio-Gemischtes Mark (Kapia-Paprika und Tomate)</h2><p>Tufan Organik Bio-Gemischtes Mark (Kapia-Paprika und Tomate) gehört zur Gruppe Pasten und Saucen. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>有機ミックスペースト（カピアピーマンとトマト）</h2><p>Tufan Organik 有機ミックスペースト（カピアピーマンとトマト）はトマトソースと調味料カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>유기농 혼합 페이스트 (카피아 고추와 토마토)</h2><p>Tufan Organik 유기농 혼합 페이스트 (카피아 고추와 토마토)은(는) 페이스트 및 소스군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Organik Karışık Salça (Kapya Biber ve Domates) | Tufan Organik",
+    "en": "Organic Mixed Paste (Kapia Pepper and Tomato) | Tufan Organik",
+    "ar": "معجون مشكل عضوي (فلفل كابيا وطماطم) | Tufan Organik",
+    "de": "Bio-Gemischtes Mark (Kapia-Paprika und Tomate) | Tufan Organik",
+    "ja": "有機ミックスペースト（カピアピーマンとトマト） | Tufan Organik",
+    "ko": "유기농 혼합 페이스트 (카피아 고추와 토마토) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:27:18.414Z",
+  "update": "2026-11-06T07:34:13.895Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

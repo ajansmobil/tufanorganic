@@ -1,0 +1,62 @@
+{
+  "id": "b1ld2sme0i",
+  "name": {
+    "tr": "Kuru Fincan Kadayıf (Fıstıklı, Cevizli, Fındıklı, Bademli)",
+    "en": "Dried Fincan (Cup) Kadayif (With Pistachio, Walnut, Hazelnut, Almond)",
+    "ar": "كنافة الفنجان المجففة (بالفستق، بالجوز، بالبندق، باللوز)",
+    "de": "Getrocknetes Fincan-Kadayif (Tassenform; mit Pistazien, Walnüssen, Haselnüssen, Mandeln)",
+    "ja": "乾燥フィンジャン（カップ形）カダイフ（ピスタチオ・クルミ・ヘーゼルナッツ・アーモンド入り）",
+    "ko": "건조 핀잔(컵 모양) 카다이프 (피스타치오, 호두, 헤이즐넛, 아몬드)"
+  },
+  "description": {
+    "tr": "Tufan Organik Kuru Fincan Kadayıf (Fıstıklı, Cevizli, Fındıklı, Bademli), Kadayıf Çeşitleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Dried Fincan (Cup) Kadayif (With Pistachio, Walnut, Hazelnut, Almond), from the Kadayıf Varieties range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik كنافة الفنجان المجففة (بالفستق، بالجوز، بالبندق، باللوز)، من مجموعة أنواع القطايف، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Getrocknetes Fincan-Kadayif (Tassenform; mit Pistazien, Walnüssen, Haselnüssen, Mandeln) aus der Gruppe Kadayıf-Sorten – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 乾燥フィンジャン（カップ形）カダイフ（ピスタチオ・クルミ・ヘーゼルナッツ・アーモンド入り）は、カダイフカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 건조 핀잔(컵 모양) 카다이프 (피스타치오, 호두, 헤이즐넛, 아몬드)은(는) 카다이프 종류군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Kuru Fincan Kadayıf (Fıstıklı, Cevizli, Fındıklı, Bademli), Kadayıf Çeşitleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Dried Fincan (Cup) Kadayif (With Pistachio, Walnut, Hazelnut, Almond), Kadayıf Varieties",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, كنافة الفنجان المجففة (بالفستق، بالجوز، بالبندق، باللوز), أنواع القطايف",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Getrocknetes Fincan-Kadayif (Tassenform; mit Pistazien, Walnüssen, Haselnüssen, Mandeln), Kadayıf-Sorten",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 乾燥フィンジャン（カップ形）カダイフ（ピスタチオ・クルミ・ヘーゼルナッツ・アーモンド入り）, カダイフ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 건조 핀잔(컵 모양) 카다이프 (피스타치오, 호두, 헤이즐넛, 아몬드), 카다이프 종류"
+  },
+  "path": "kuru-fincan-kadayif",
+  "icon": "breakfast_dining",
+  "category": "hntjm9xwyu",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 26,
+  "url": "",
+  "text": {
+    "tr": "<h2>Kuru Fincan Kadayıf (Fıstıklı, Cevizli, Fındıklı, Bademli)</h2><p>Tufan Organik Kuru Fincan Kadayıf (Fıstıklı, Cevizli, Fındıklı, Bademli), Kadayıf Çeşitleri grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Dried Fincan (Cup) Kadayif (With Pistachio, Walnut, Hazelnut, Almond)</h2><p>Tufan Organik Dried Fincan (Cup) Kadayif (With Pistachio, Walnut, Hazelnut, Almond) belongs to the Kadayıf Varieties range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>كنافة الفنجان المجففة (بالفستق، بالجوز، بالبندق، باللوز)</h2><p>كنافة الفنجان المجففة (بالفستق، بالجوز، بالبندق، باللوز) من توفان أورغانيك ضمن مجموعة أنواع القطايف. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Getrocknetes Fincan-Kadayif (Tassenform; mit Pistazien, Walnüssen, Haselnüssen, Mandeln)</h2><p>Tufan Organik Getrocknetes Fincan-Kadayif (Tassenform; mit Pistazien, Walnüssen, Haselnüssen, Mandeln) gehört zur Gruppe Kadayıf-Sorten. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>乾燥フィンジャン（カップ形）カダイフ（ピスタチオ・クルミ・ヘーゼルナッツ・アーモンド入り）</h2><p>Tufan Organik 乾燥フィンジャン（カップ形）カダイフ（ピスタチオ・クルミ・ヘーゼルナッツ・アーモンド入り）はカダイフカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>건조 핀잔(컵 모양) 카다이프 (피스타치오, 호두, 헤이즐넛, 아몬드)</h2><p>Tufan Organik 건조 핀잔(컵 모양) 카다이프 (피스타치오, 호두, 헤이즐넛, 아몬드)은(는) 카다이프 종류군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Kuru Fincan Kadayıf (Fıstıklı, Cevizli, Fındıklı, Bademli) | Tufan Organik",
+    "en": "Dried Fincan (Cup) Kadayif (With Pistachio, Walnut, Hazelnut, Almond) | Tufan Organik",
+    "ar": "كنافة الفنجان المجففة (بالفستق، بالجوز، بالبندق، باللوز) | Tufan Organik",
+    "de": "Getrocknetes Fincan-Kadayif (Tassenform; mit Pistazien, Walnüssen, Haselnüssen, Mandeln) | Tufan Organik",
+    "ja": "乾燥フィンジャン（カップ形）カダイフ（ピスタチオ・クルミ・ヘーゼルナッツ・アーモンド入り） | Tufan Organik",
+    "ko": "건조 핀잔(컵 모양) 카다이프 (피스타치오, 호두, 헤이즐넛, 아몬드) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:31:55.713Z",
+  "update": "2026-11-06T07:31:56.895Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

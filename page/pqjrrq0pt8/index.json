@@ -27,13 +27,13 @@
   "path": "ev-eristesi",
   "icon": "breakfast_dining",
   "category": "c04yerfist",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 51,
+  "index": 303,
   "url": "",
   "text": {
     "tr": "<h2>Ev Eriştesi Çeşitleriyle Sofraya Tanıdık Bir Sıcaklık</h2>\n<p>Ev eriştesi, açılan hamurun ince şeritler ya da küçük kareler halinde kesilip kurutulmasıyla bilinen, Türk mutfağının en sevilen hamur işlerinden biridir. Pişince yumuşak ama diri kalan bir doku kazanır ve tereyağı, ceviz ya da peynirle buluştuğunda doyurucu bir tabağa dönüşür.</p>\n<p>Tufan Organik erişte seçkisinde farklı kesim ve kalınlıkta seçenekler bulabilirsiniz. Eriştelerin bir kısmını tereyağında hafifçe kavurup ardından pirinçle pilav yapmak ya da çorbalara eklemek yaygın kullanımlardandır. Haşlarken suyu bol ve tuzlu tutmak, eriştenin yapışmadan pişmesini sağlar.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Tereyağında kavrulup pirinçle pişirilen erişteli pilav</li>\n<li>Haşlandıktan sonra eritilmiş tereyağı, ceviz ve ezilmiş peynirle servis edilen erişte</li>\n<li>Yeşil mercimek ve naneyle hazırlanan erişteli çorba</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "家庭風エリシュテ（トルコ風麺） | Tufan Organik"
   },
   "date": "2026-10-28T08:16:23.242Z",
-  "update": "2026-10-28T09:07:55.885Z",
+  "update": "2026-11-06T07:35:13.699Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

@@ -27,13 +27,13 @@
   "path": "taze-kunefe",
   "icon": "breakfast_dining",
   "category": "hntjm9xwyu",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 21,
+  "index": 273,
   "url": "",
   "text": {
     "tr": "<h2>Taze Künefe ile Evde Sıcak Bir Tatlı</h2>\n<p>Taze Künefe, ince tel kadayıfın tuzsuz peynirle buluştuğu, sıcak servis edilen sevilen tatlının temelidir. Tereyağıyla tavada ya da fırında pişirildiğinde altı altın rengini alıp çıtırlaşır, içindeki peynir ise uzayarak erir. Üzerine dökülen şerbet, tel kadayıfın çıtırlığıyla peynirin yumuşaklığı arasında hoş bir denge kurar.</p>\n<p>Tufan Organik olarak künefeyi, evde kısa sürede hazırlanabilecek bir ikram olarak öneriyoruz. Şerbeti önceden hazırlayıp soğumaya bırakmak, sıcak künefeyle buluştuğunda çıtırlığın korunmasını sağlar. Taze bir ürün olduğu için en iyi sonucu, elinize ulaştıktan kısa süre sonra pişirerek alırsınız.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Künefe tavasında tereyağıyla iki yüzünü kızartıp soğuk şerbetle buluşturun.</li>\n<li>Servis etmeden önce üzerine bolca dövülmüş antep fıstığı serpin.</li>\n<li>Sıcak künefeyi bir kaşık kaymak ya da sade dondurmayla birlikte sunun.</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "生クネフェ | Tufan Organik"
   },
   "date": "2026-10-28T08:16:29.016Z",
-  "update": "2026-10-28T09:08:07.172Z",
+  "update": "2026-11-06T07:34:45.281Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

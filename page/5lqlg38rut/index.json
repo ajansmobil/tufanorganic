@@ -1,0 +1,62 @@
+{
+  "id": "5lqlg38rut",
+  "name": {
+    "tr": "Organik Şili Biber Salçası (Acı)",
+    "en": "Organic Chili Pepper Paste (Hot)",
+    "ar": "معجون الفلفل الحار (تشيلي) العضوي (حار)",
+    "de": "Bio-Chilipaprikamark (scharf)",
+    "ja": "有機チリペッパーペースト（辛口）",
+    "ko": "유기농 칠리 고추 페이스트 (매운맛)"
+  },
+  "description": {
+    "tr": "Tufan Organik Şili Biber Salçası (Acı), Salça ve Soslar grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Chili Pepper Paste (Hot), from the Pastes and Sauces range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik معجون الفلفل الحار (تشيلي) العضوي (حار)، من مجموعة المعجونات والصلصات، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Bio-Chilipaprikamark (scharf) aus der Gruppe Pasten und Saucen – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 有機チリペッパーペースト（辛口）は、トマトソースと調味料カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 유기농 칠리 고추 페이스트 (매운맛)은(는) 페이스트 및 소스군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Organik Şili Biber Salçası (Acı), Salça ve Soslar",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Organic Chili Pepper Paste (Hot), Pastes and Sauces",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, معجون الفلفل الحار (تشيلي) العضوي (حار), المعجونات والصلصات",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Bio-Chilipaprikamark (scharf), Pasten und Saucen",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 有機チリペッパーペースト（辛口）, トマトソースと調味料",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 유기농 칠리 고추 페이스트 (매운맛), 페이스트 및 소스"
+  },
+  "path": "organik-sili-biber-salcasi",
+  "icon": "lunch_dining",
+  "category": "c05kurumey",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 202,
+  "url": "",
+  "text": {
+    "tr": "<h2>Organik Şili Biber Salçası (Acı)</h2><p>Tufan Organik Şili Biber Salçası (Acı), Salça ve Soslar grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Organic Chili Pepper Paste (Hot)</h2><p>Tufan Organik Chili Pepper Paste (Hot) belongs to the Pastes and Sauces range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>معجون الفلفل الحار (تشيلي) العضوي (حار)</h2><p>معجون الفلفل الحار (تشيلي) العضوي (حار) من توفان أورغانيك ضمن مجموعة المعجونات والصلصات. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Bio-Chilipaprikamark (scharf)</h2><p>Tufan Organik Bio-Chilipaprikamark (scharf) gehört zur Gruppe Pasten und Saucen. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>有機チリペッパーペースト（辛口）</h2><p>Tufan Organik 有機チリペッパーペースト（辛口）はトマトソースと調味料カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>유기농 칠리 고추 페이스트 (매운맛)</h2><p>Tufan Organik 유기농 칠리 고추 페이스트 (매운맛)은(는) 페이스트 및 소스군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Organik Şili Biber Salçası (Acı) | Tufan Organik",
+    "en": "Organic Chili Pepper Paste (Hot) | Tufan Organik",
+    "ar": "معجون الفلفل الحار (تشيلي) العضوي (حار) | Tufan Organik",
+    "de": "Bio-Chilipaprikamark (scharf) | Tufan Organik",
+    "ja": "有機チリペッパーペースト（辛口） | Tufan Organik",
+    "ko": "유기농 칠리 고추 페이스트 (매운맛) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:27:17.454Z",
+  "update": "2026-11-06T07:34:12.708Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

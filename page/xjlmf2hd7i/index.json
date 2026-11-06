@@ -27,13 +27,13 @@
   "path": "karabugday-bulguru",
   "icon": "breakfast_dining",
   "category": "c01fistik",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 63,
+  "index": 315,
   "url": "",
   "text": {
     "tr": "<h2>Karabuğday Bulguru ile Sofraya Yeni Bir Pilav</h2>\n<p>Karabuğday bulguru, karabuğday tanelerinden elde edilen ve bulgur gibi pişirilen iri taneli bir üründür. Pişince taneleri birbirinden ayrı kalır, hafif kavrulmuş bir aroma ve yumuşak ama diri bir doku sunar. Alışılmış buğday bulgurunun yerine kullanıldığında tanıdık tariflere farklı bir renk ve tat getirir.</p>\n<p>Tufan Organik olarak bu ürünü, bulgur sofralarına alternatif arayanlar için seçtik. Pişirmeden önce taneleri kuru tavada birkaç dakika çevirmek aromayı belirginleştirir. Bir ölçü bulgura yaklaşık iki ölçü sıcak su ya da et suyu eklemek genellikle yeterli olur; demlenmesi için kapağını kapatıp dinlendirin.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Domates salçası ve biberle pişirilen karabuğday bulgur pilavı</li>\n<li>Közlenmiş sebzeler ve yoğurtla servis edilen ılık salata</li>\n<li>Kıyma ve soğanla hazırlanan doyurucu sebze dolması harcı</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "そばブルグル | Tufan Organik"
   },
   "date": "2026-10-28T08:16:21.325Z",
-  "update": "2026-10-28T09:08:09.620Z",
+  "update": "2026-11-06T07:35:24.902Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

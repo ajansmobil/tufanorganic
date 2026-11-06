@@ -27,13 +27,13 @@
   "path": "tam-bugday-unu",
   "icon": "grain",
   "category": "c17iqfmey",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 237,
+  "index": 489,
   "url": "",
   "text": {
     "tr": "<h2>Tam Buğday Unu</h2><p>Buğdayın kepeği ve ruhuyla birlikte öğütülmesiyle elde edilen, lif ve besin değeri yüksek un. Ekmek, kek ve kurabiyelere dolgun bir tat ve koyu renk kazandırır.</p><h3>Kullanım Önerisi</h3><ul><li>Beyaz unla yarı yarıya karıştırarak daha yumuşak bir ekmek elde edin.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "全粒粉 | Tufan Organik"
   },
   "date": "2026-11-02T10:45:16.000Z",
-  "update": "2026-11-02T10:45:16.000Z",
+  "update": "2026-11-06T07:38:15.304Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

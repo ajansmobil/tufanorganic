@@ -1,0 +1,62 @@
+{
+  "id": "y1u11iiw0s",
+  "name": {
+    "tr": "Çikolatalı Pişmaniye",
+    "en": "Chocolate Pişmaniye (Turkish Floss Halva)",
+    "ar": "بشمانية بالشوكولاتة (حلوى غزل البنات التركية)",
+    "de": "Pişmaniye mit Schokolade (türkisches Fadenhalva)",
+    "ja": "チョコレート入りピシュマニエ（トルコ風綿菓子ハルヴァ）",
+    "ko": "초콜릿 피시마니예 (터키식 실타래 할바)"
+  },
+  "description": {
+    "tr": "Tufan Organik Çikolatalı Pişmaniye, Pekmez Çeşitleri, Tahin ve Helva grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Chocolate Pişmaniye (Turkish Floss Halva), from the Molasses, Tahini and Halva range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik بشمانية بالشوكولاتة (حلوى غزل البنات التركية)، من مجموعة أنواع الدبس والطحينة والحلاوة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Pişmaniye mit Schokolade (türkisches Fadenhalva) aus der Gruppe Pekmez, Tahin und Halva – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik チョコレート入りピシュマニエ（トルコ風綿菓子ハルヴァ）は、ペクメズ、タヒニ、ハルヴァカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 초콜릿 피시마니예 (터키식 실타래 할바)은(는) 페크메즈, 타힌 및 할바군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Çikolatalı Pişmaniye, Pekmez Çeşitleri, Tahin ve Helva",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Chocolate Pişmaniye (Turkish Floss Halva), Molasses, Tahini and Halva",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, بشمانية بالشوكولاتة (حلوى غزل البنات التركية), أنواع الدبس والطحينة والحلاوة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Pişmaniye mit Schokolade (türkisches Fadenhalva), Pekmez, Tahin und Halva",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, チョコレート入りピシュマニエ（トルコ風綿菓子ハルヴァ）, ペクメズ、タヒニ、ハルヴァ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 초콜릿 피시마니예 (터키식 실타래 할바), 페크메즈, 타힌 및 할바"
+  },
+  "path": "cikolatali-pismaniye",
+  "icon": "cake",
+  "category": "c12sut",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 118,
+  "url": "",
+  "text": {
+    "tr": "<h2>Çikolatalı Pişmaniye</h2><p>Tufan Organik Çikolatalı Pişmaniye, Pekmez Çeşitleri, Tahin ve Helva grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Chocolate Pişmaniye (Turkish Floss Halva)</h2><p>Tufan Organik Chocolate Pişmaniye (Turkish Floss Halva) belongs to the Molasses, Tahini and Halva range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>بشمانية بالشوكولاتة (حلوى غزل البنات التركية)</h2><p>بشمانية بالشوكولاتة (حلوى غزل البنات التركية) من توفان أورغانيك ضمن مجموعة أنواع الدبس والطحينة والحلاوة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Pişmaniye mit Schokolade (türkisches Fadenhalva)</h2><p>Tufan Organik Pişmaniye mit Schokolade (türkisches Fadenhalva) gehört zur Gruppe Pekmez, Tahin und Halva. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>チョコレート入りピシュマニエ（トルコ風綿菓子ハルヴァ）</h2><p>Tufan Organik チョコレート入りピシュマニエ（トルコ風綿菓子ハルヴァ）はペクメズ、タヒニ、ハルヴァカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>초콜릿 피시마니예 (터키식 실타래 할바)</h2><p>Tufan Organik 초콜릿 피시마니예 (터키식 실타래 할바)은(는) 페크메즈, 타힌 및 할바군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Çikolatalı Pişmaniye | Tufan Organik",
+    "en": "Chocolate Pişmaniye (Turkish Floss Halva) | Tufan Organik",
+    "ar": "بشمانية بالشوكولاتة (حلوى غزل البنات التركية) | Tufan Organik",
+    "de": "Pişmaniye mit Schokolade (türkisches Fadenhalva) | Tufan Organik",
+    "ja": "チョコレート入りピシュマニエ（トルコ風綿菓子ハルヴァ） | Tufan Organik",
+    "ko": "초콜릿 피시마니예 (터키식 실타래 할바) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:29:02.907Z",
+  "update": "2026-11-06T07:29:03.673Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

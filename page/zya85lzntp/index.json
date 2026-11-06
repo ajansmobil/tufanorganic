@@ -1,0 +1,62 @@
+{
+  "id": "zya85lzntp",
+  "name": {
+    "tr": "Nar Posası (Çekirdeksiz)",
+    "en": "Pomegranate Pulp (Seedless)",
+    "ar": "لب الرمان (بدون بذور)",
+    "de": "Granatapfelmark (kernlos)",
+    "ja": "ザクロパルプ（種なし）",
+    "ko": "석류 펄프 (씨 없음)"
+  },
+  "description": {
+    "tr": "Tufan Organik Nar Posası (Çekirdeksiz), Meyve Özü Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Pomegranate Pulp (Seedless), from the Fruit Extracts range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik لب الرمان (بدون بذور)، من مجموعة مستخلصات الفاكهة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Granatapfelmark (kernlos) aus der Gruppe Fruchtextrakte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik ザクロパルプ（種なし）は、フルーツエキスカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 석류 펄프 (씨 없음)은(는) 과일 추출물군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Nar Posası (Çekirdeksiz), Meyve Özü Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Pomegranate Pulp (Seedless), Fruit Extracts",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, لب الرمان (بدون بذور), مستخلصات الفاكهة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Granatapfelmark (kernlos), Fruchtextrakte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ザクロパルプ（種なし）, フルーツエキス",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 석류 펄프 (씨 없음), 과일 추출물"
+  },
+  "path": "nar-posasi",
+  "icon": "water_drop",
+  "category": "c11pekmez",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 140,
+  "url": "",
+  "text": {
+    "tr": "<h2>Nar Posası (Çekirdeksiz)</h2><p>Tufan Organik Nar Posası (Çekirdeksiz), Meyve Özü Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Pomegranate Pulp (Seedless)</h2><p>Tufan Organik Pomegranate Pulp (Seedless) belongs to the Fruit Extracts range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>لب الرمان (بدون بذور)</h2><p>لب الرمان (بدون بذور) من توفان أورغانيك ضمن مجموعة مستخلصات الفاكهة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Granatapfelmark (kernlos)</h2><p>Tufan Organik Granatapfelmark (kernlos) gehört zur Gruppe Fruchtextrakte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>ザクロパルプ（種なし）</h2><p>Tufan Organik ザクロパルプ（種なし）はフルーツエキスカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>석류 펄프 (씨 없음)</h2><p>Tufan Organik 석류 펄프 (씨 없음)은(는) 과일 추출물군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Nar Posası (Çekirdeksiz) | Tufan Organik",
+    "en": "Pomegranate Pulp (Seedless) | Tufan Organik",
+    "ar": "لب الرمان (بدون بذور) | Tufan Organik",
+    "de": "Granatapfelmark (kernlos) | Tufan Organik",
+    "ja": "ザクロパルプ（種なし） | Tufan Organik",
+    "ko": "석류 펄프 (씨 없음) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:28:30.718Z",
+  "update": "2026-11-06T07:28:31.433Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

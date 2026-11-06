@@ -1,0 +1,62 @@
+{
+  "id": "ec3t5frxhm",
+  "name": {
+    "tr": "Mısır Yağı (Rafine Edilmiş / Yemeklik)",
+    "en": "Corn Oil (Refined / Cooking Oil)",
+    "ar": "زيت الذرة (مكرر / للطهي)",
+    "de": "Maiskeimöl (raffiniert / Speiseöl)",
+    "ja": "コーン油（精製済み／食用）",
+    "ko": "옥수수유 (정제 / 식용)"
+  },
+  "description": {
+    "tr": "Tufan Organik Mısır Yağı (Rafine Edilmiş / Yemeklik), Zeytin Yağı ve Avakado Yağı grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Corn Oil (Refined / Cooking Oil), from the Olive Oil and Avocado Oil range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik زيت الذرة (مكرر / للطهي)، من مجموعة زيت الزيتون وزيت الأفوكادو، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Maiskeimöl (raffiniert / Speiseöl) aus der Gruppe Olivenöl und Avocadoöl – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik コーン油（精製済み／食用）は、オリーブオイル・アボカドオイルカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 옥수수유 (정제 / 식용)은(는) 올리브 오일 및 아보카도 오일군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Mısır Yağı (Rafine Edilmiş / Yemeklik), Zeytin Yağı ve Avakado Yağı",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Corn Oil (Refined / Cooking Oil), Olive Oil and Avocado Oil",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, زيت الذرة (مكرر / للطهي), زيت الزيتون وزيت الأفوكادو",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Maiskeimöl (raffiniert / Speiseöl), Olivenöl und Avocadoöl",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, コーン油（精製済み／食用）, オリーブオイル・アボカドオイル",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 옥수수유 (정제 / 식용), 올리브 오일 및 아보카도 오일"
+  },
+  "path": "misir-yagi",
+  "icon": "opacity",
+  "category": "te81hka2g5",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 20,
+  "url": "",
+  "text": {
+    "tr": "<h2>Mısır Yağı (Rafine Edilmiş / Yemeklik)</h2><p>Tufan Organik Mısır Yağı (Rafine Edilmiş / Yemeklik), Zeytin Yağı ve Avakado Yağı grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Corn Oil (Refined / Cooking Oil)</h2><p>Tufan Organik Corn Oil (Refined / Cooking Oil) belongs to the Olive Oil and Avocado Oil range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>زيت الذرة (مكرر / للطهي)</h2><p>زيت الذرة (مكرر / للطهي) من توفان أورغانيك ضمن مجموعة زيت الزيتون وزيت الأفوكادو. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Maiskeimöl (raffiniert / Speiseöl)</h2><p>Tufan Organik Maiskeimöl (raffiniert / Speiseöl) gehört zur Gruppe Olivenöl und Avocadoöl. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>コーン油（精製済み／食用）</h2><p>Tufan Organik コーン油（精製済み／食用）はオリーブオイル・アボカドオイルカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>옥수수유 (정제 / 식용)</h2><p>Tufan Organik 옥수수유 (정제 / 식용)은(는) 올리브 오일 및 아보카도 오일군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Mısır Yağı (Rafine Edilmiş / Yemeklik) | Tufan Organik",
+    "en": "Corn Oil (Refined / Cooking Oil) | Tufan Organik",
+    "ar": "زيت الذرة (مكرر / للطهي) | Tufan Organik",
+    "de": "Maiskeimöl (raffiniert / Speiseöl) | Tufan Organik",
+    "ja": "コーン油（精製済み／食用） | Tufan Organik",
+    "ko": "옥수수유 (정제 / 식용) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:32:09.497Z",
+  "update": "2026-11-06T07:32:10.634Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

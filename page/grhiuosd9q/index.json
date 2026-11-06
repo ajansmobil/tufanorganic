@@ -27,13 +27,13 @@
   "path": "sumak-yagi",
   "icon": "breakfast_dining",
   "category": "zsyqc5i9oe",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 5,
+  "index": 257,
   "url": "",
   "text": {
     "tr": "<h2>Soğuk Sıkım Sumak Yağı</h2>\n<p>Sumak Yağı, sumak tanelerinin taş değirmende öğütülüp soğuk sıkımla yağının alınmasıyla elde edilir. Sumağı hatırlatan, hafif mayhoş bir kokusu ve koyu bir rengi vardır. Yoğun karakteri nedeniyle mutfakta az miktarda, çoğunlukla pişirilmeden ve yemeğin son dokunuşu olarak kullanılır.</p>\n<p>Tufan Organik olarak sumak yağını, aromatik yağlarla mutfakta yeni tatlar denemek isteyenler için sunuyoruz. Soğuk sıkım bir yağ olduğundan yüksek ısıda kızartma yerine salata, meze ve hazır yemeklerin üzerine gezdirilerek kullanılması daha uygundur. Işık almayan, serin bir yerde saklamanızı öneririz.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Zeytinyağıyla karıştırıp çoban salatasının üzerine birkaç damla gezdirin.</li>\n<li>Humus ya da közlenmiş patlıcan mezesinin üzerine son dokunuş olarak ekleyin.</li>\n<li>Pul biber ve kekikle karıştırarak sıcak ekmek için batırmalık hazırlayın.</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "スマックオイル | Tufan Organik"
   },
   "date": "2026-10-28T08:16:32.727Z",
-  "update": "2026-10-28T09:07:42.729Z",
+  "update": "2026-11-06T07:34:33.216Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

@@ -1,0 +1,62 @@
+{
+  "id": "cudrwsdwag",
+  "name": {
+    "tr": "Ananas Suyu",
+    "en": "Pineapple Juice",
+    "ar": "عصير الأناناس",
+    "de": "Ananassaft",
+    "ja": "パイナップルジュース",
+    "ko": "파인애플 주스"
+  },
+  "description": {
+    "tr": "Tufan Organik Ananas Suyu, Meyve Suyu Çeşitleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Pineapple Juice, from the Fruit Juices range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik عصير الأناناس، من مجموعة عصائر الفاكهة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Ananassaft aus der Gruppe Fruchtsäfte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik パイナップルジュースは、フルーツジュースカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 파인애플 주스은(는) 과일 주스군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Ananas Suyu, Meyve Suyu Çeşitleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Pineapple Juice, Fruit Juices",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, عصير الأناناس, عصائر الفاكهة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Ananassaft, Fruchtsäfte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, パイナップルジュース, フルーツジュース",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 파인애플 주스, 과일 주스"
+  },
+  "path": "ananas-suyu",
+  "icon": "local_bar",
+  "category": "c10meyves",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 143,
+  "url": "",
+  "text": {
+    "tr": "<h2>Ananas Suyu</h2><p>Tufan Organik Ananas Suyu, Meyve Suyu Çeşitleri grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Pineapple Juice</h2><p>Tufan Organik Pineapple Juice belongs to the Fruit Juices range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>عصير الأناناس</h2><p>عصير الأناناس من توفان أورغانيك ضمن مجموعة عصائر الفاكهة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Ananassaft</h2><p>Tufan Organik Ananassaft gehört zur Gruppe Fruchtsäfte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>パイナップルジュース</h2><p>Tufan Organik パイナップルジュースはフルーツジュースカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>파인애플 주스</h2><p>Tufan Organik 파인애플 주스은(는) 과일 주스군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Ananas Suyu | Tufan Organik",
+    "en": "Pineapple Juice | Tufan Organik",
+    "ar": "عصير الأناناس | Tufan Organik",
+    "de": "Ananassaft | Tufan Organik",
+    "ja": "パイナップルジュース | Tufan Organik",
+    "ko": "파인애플 주스 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:28:26.702Z",
+  "update": "2026-11-06T07:28:27.377Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

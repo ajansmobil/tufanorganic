@@ -1,0 +1,62 @@
+{
+  "id": "r9fo5ymvi4",
+  "name": {
+    "tr": "Uşkun Sirkesi",
+    "en": "Uşkun (Wild Rhubarb) Vinegar",
+    "ar": "خل الراوند البري (أوشكون)",
+    "de": "Uşkun-Essig (Wilder Rhabarber)",
+    "ja": "ウシュクン（野生ルバーブ）ビネガー",
+    "ko": "우시쿤(야생 대황) 식초"
+  },
+  "description": {
+    "tr": "Tufan Organik Uşkun Sirkesi, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Uşkun (Wild Rhubarb) Vinegar, from the Sour, Hot and Sweet Special Sauces, Vinegars and Beverages range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik خل الراوند البري (أوشكون)، من مجموعة الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Uşkun-Essig (Wilder Rhabarber) aus der Gruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik ウシュクン（野生ルバーブ）ビネガーは、酸味・辛味・甘味の特別ソース、酢、飲料カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 우시쿤(야생 대황) 식초은(는) 새콤·매콤·달콤 특선 소스, 식초 및 음료군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Uşkun Sirkesi, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Uşkun (Wild Rhubarb) Vinegar, Sour, Hot and Sweet Special Sauces, Vinegars and Beverages",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, خل الراوند البري (أوشكون), الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Uşkun-Essig (Wilder Rhabarber), Saure, scharfe und süße Spezialsaucen, Essig und Getränke",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ウシュクン（野生ルバーブ）ビネガー, 酸味・辛味・甘味の特別ソース、酢、飲料",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 우시쿤(야생 대황) 식초, 새콤·매콤·달콤 특선 소스, 식초 및 음료"
+  },
+  "path": "uskun-sirkesi",
+  "icon": "breakfast_dining",
+  "category": "obbkh64oa1",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 15,
+  "url": "",
+  "text": {
+    "tr": "<h2>Uşkun Sirkesi</h2><p>Tufan Organik Uşkun Sirkesi, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Uşkun (Wild Rhubarb) Vinegar</h2><p>Tufan Organik Uşkun (Wild Rhubarb) Vinegar belongs to the Sour, Hot and Sweet Special Sauces, Vinegars and Beverages range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>خل الراوند البري (أوشكون)</h2><p>خل الراوند البري (أوشكون) من توفان أورغانيك ضمن مجموعة الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Uşkun-Essig (Wilder Rhabarber)</h2><p>Tufan Organik Uşkun-Essig (Wilder Rhabarber) gehört zur Gruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>ウシュクン（野生ルバーブ）ビネガー</h2><p>Tufan Organik ウシュクン（野生ルバーブ）ビネガーは酸味・辛味・甘味の特別ソース、酢、飲料カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>우시쿤(야생 대황) 식초</h2><p>Tufan Organik 우시쿤(야생 대황) 식초은(는) 새콤·매콤·달콤 특선 소스, 식초 및 음료군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Uşkun Sirkesi | Tufan Organik",
+    "en": "Uşkun (Wild Rhubarb) Vinegar | Tufan Organik",
+    "ar": "خل الراوند البري (أوشكون) | Tufan Organik",
+    "de": "Uşkun-Essig (Wilder Rhabarber) | Tufan Organik",
+    "ja": "ウシュクン（野生ルバーブ）ビネガー | Tufan Organik",
+    "ko": "우시쿤(야생 대황) 식초 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:32:21.035Z",
+  "update": "2026-11-06T07:32:22.226Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

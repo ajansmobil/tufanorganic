@@ -1,0 +1,62 @@
+{
+  "id": "snfqu0geco",
+  "name": {
+    "tr": "Çiğ Kadayıf (Dondurulmuş)",
+    "en": "Raw Shredded Kadayif (Frozen)",
+    "ar": "كنافة شعر نيئة (مجمدة)",
+    "de": "Rohes Kadayif-Engelshaar (tiefgefroren)",
+    "ja": "生カダイフ（冷凍）",
+    "ko": "생 카다이프 (냉동)"
+  },
+  "description": {
+    "tr": "Tufan Organik Çiğ Kadayıf (Dondurulmuş), Kadayıf Çeşitleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Raw Shredded Kadayif (Frozen), from the Kadayıf Varieties range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik كنافة شعر نيئة (مجمدة)، من مجموعة أنواع القطايف، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Rohes Kadayif-Engelshaar (tiefgefroren) aus der Gruppe Kadayıf-Sorten – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 生カダイフ（冷凍）は、カダイフカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 생 카다이프 (냉동)은(는) 카다이프 종류군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Çiğ Kadayıf (Dondurulmuş), Kadayıf Çeşitleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Raw Shredded Kadayif (Frozen), Kadayıf Varieties",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, كنافة شعر نيئة (مجمدة), أنواع القطايف",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Rohes Kadayif-Engelshaar (tiefgefroren), Kadayıf-Sorten",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 生カダイフ（冷凍）, カダイフ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 생 카다이프 (냉동), 카다이프 종류"
+  },
+  "path": "cig-kadayif",
+  "icon": "breakfast_dining",
+  "category": "hntjm9xwyu",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 30,
+  "url": "",
+  "text": {
+    "tr": "<h2>Çiğ Kadayıf (Dondurulmuş)</h2><p>Tufan Organik Çiğ Kadayıf (Dondurulmuş), Kadayıf Çeşitleri grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Raw Shredded Kadayif (Frozen)</h2><p>Tufan Organik Raw Shredded Kadayif (Frozen) belongs to the Kadayıf Varieties range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>كنافة شعر نيئة (مجمدة)</h2><p>كنافة شعر نيئة (مجمدة) من توفان أورغانيك ضمن مجموعة أنواع القطايف. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Rohes Kadayif-Engelshaar (tiefgefroren)</h2><p>Tufan Organik Rohes Kadayif-Engelshaar (tiefgefroren) gehört zur Gruppe Kadayıf-Sorten. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>生カダイフ（冷凍）</h2><p>Tufan Organik 生カダイフ（冷凍）はカダイフカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>생 카다이프 (냉동)</h2><p>Tufan Organik 생 카다이프 (냉동)은(는) 카다이프 종류군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Çiğ Kadayıf (Dondurulmuş) | Tufan Organik",
+    "en": "Raw Shredded Kadayif (Frozen) | Tufan Organik",
+    "ar": "كنافة شعر نيئة (مجمدة) | Tufan Organik",
+    "de": "Rohes Kadayif-Engelshaar (tiefgefroren) | Tufan Organik",
+    "ja": "生カダイフ（冷凍） | Tufan Organik",
+    "ko": "생 카다이프 (냉동) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:31:46.804Z",
+  "update": "2026-11-06T07:31:47.903Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "4euoqo8a9u",
+  "name": {
+    "tr": "Dondurulmuş Bezelye (Tane)",
+    "en": "Frozen Green Peas (Whole)",
+    "ar": "بازلاء مجمدة (حبات)",
+    "de": "Tiefgefrorene Erbsen (ganz)",
+    "ja": "冷凍グリーンピース（ホール）",
+    "ko": "냉동 완두콩 (통알)"
+  },
+  "description": {
+    "tr": "Tufan Organik Dondurulmuş Bezelye (Tane), Dondurulmuş Sebze Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Frozen Green Peas (Whole), from the Frozen Vegetables range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik بازلاء مجمدة (حبات)، من مجموعة الخضروات المجمدة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Tiefgefrorene Erbsen (ganz) aus der Gruppe Tiefkühl-Gemüse – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 冷凍グリーンピース（ホール）は、凍結野菜カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 냉동 완두콩 (통알)은(는) 냉동 채소군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Dondurulmuş Bezelye (Tane), Dondurulmuş Sebze Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Frozen Green Peas (Whole), Frozen Vegetables",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, بازلاء مجمدة (حبات), الخضروات المجمدة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Tiefgefrorene Erbsen (ganz), Tiefkühl-Gemüse",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 冷凍グリーンピース（ホール）, 凍結野菜",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 냉동 완두콩 (통알), 냉동 채소"
+  },
+  "path": "dondurulmus-bezelye",
+  "icon": "ac_unit",
+  "category": "c16iqfseb",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 53,
+  "url": "",
+  "text": {
+    "tr": "<h2>Dondurulmuş Bezelye (Tane)</h2><p>Tufan Organik Dondurulmuş Bezelye (Tane), Dondurulmuş Sebze Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Frozen Green Peas (Whole)</h2><p>Tufan Organik Frozen Green Peas (Whole) belongs to the Frozen Vegetables range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>بازلاء مجمدة (حبات)</h2><p>بازلاء مجمدة (حبات) من توفان أورغانيك ضمن مجموعة الخضروات المجمدة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Tiefgefrorene Erbsen (ganz)</h2><p>Tufan Organik Tiefgefrorene Erbsen (ganz) gehört zur Gruppe Tiefkühl-Gemüse. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>冷凍グリーンピース（ホール）</h2><p>Tufan Organik 冷凍グリーンピース（ホール）は凍結野菜カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>냉동 완두콩 (통알)</h2><p>Tufan Organik 냉동 완두콩 (통알)은(는) 냉동 채소군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Dondurulmuş Bezelye (Tane) | Tufan Organik",
+    "en": "Frozen Green Peas (Whole) | Tufan Organik",
+    "ar": "بازلاء مجمدة (حبات) | Tufan Organik",
+    "de": "Tiefgefrorene Erbsen (ganz) | Tufan Organik",
+    "ja": "冷凍グリーンピース（ホール） | Tufan Organik",
+    "ko": "냉동 완두콩 (통알) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:30:57.324Z",
+  "update": "2026-11-06T07:30:58.443Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

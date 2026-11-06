@@ -1,0 +1,62 @@
+{
+  "id": "zhjhzsqnsy",
+  "name": {
+    "tr": "Dondurulmuş Patates (İnce Uzun ve Küp Kesim)",
+    "en": "Frozen Potatoes (French Fry Cut and Diced)",
+    "ar": "بطاطس مجمدة (أصابع رفيعة طويلة ومكعبات)",
+    "de": "Tiefgefrorene Kartoffeln (Pommes-frites-Schnitt und Würfel)",
+    "ja": "冷凍ポテト（細長フライカット・ダイスカット）",
+    "ko": "냉동 감자 (가늘고 긴 프렌치프라이 컷 & 큐브 컷)"
+  },
+  "description": {
+    "tr": "Tufan Organik Dondurulmuş Patates (İnce Uzun ve Küp Kesim), Dondurulmuş Sebze Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Frozen Potatoes (French Fry Cut and Diced), from the Frozen Vegetables range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik بطاطس مجمدة (أصابع رفيعة طويلة ومكعبات)، من مجموعة الخضروات المجمدة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Tiefgefrorene Kartoffeln (Pommes-frites-Schnitt und Würfel) aus der Gruppe Tiefkühl-Gemüse – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 冷凍ポテト（細長フライカット・ダイスカット）は、凍結野菜カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 냉동 감자 (가늘고 긴 프렌치프라이 컷 & 큐브 컷)은(는) 냉동 채소군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Dondurulmuş Patates (İnce Uzun ve Küp Kesim), Dondurulmuş Sebze Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Frozen Potatoes (French Fry Cut and Diced), Frozen Vegetables",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, بطاطس مجمدة (أصابع رفيعة طويلة ومكعبات), الخضروات المجمدة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Tiefgefrorene Kartoffeln (Pommes-frites-Schnitt und Würfel), Tiefkühl-Gemüse",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 冷凍ポテト（細長フライカット・ダイスカット）, 凍結野菜",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 냉동 감자 (가늘고 긴 프렌치프라이 컷 & 큐브 컷), 냉동 채소"
+  },
+  "path": "dondurulmus-patates",
+  "icon": "ac_unit",
+  "category": "c16iqfseb",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 48,
+  "url": "",
+  "text": {
+    "tr": "<h2>Dondurulmuş Patates (İnce Uzun ve Küp Kesim)</h2><p>Tufan Organik Dondurulmuş Patates (İnce Uzun ve Küp Kesim), Dondurulmuş Sebze Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Frozen Potatoes (French Fry Cut and Diced)</h2><p>Tufan Organik Frozen Potatoes (French Fry Cut and Diced) belongs to the Frozen Vegetables range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>بطاطس مجمدة (أصابع رفيعة طويلة ومكعبات)</h2><p>بطاطس مجمدة (أصابع رفيعة طويلة ومكعبات) من توفان أورغانيك ضمن مجموعة الخضروات المجمدة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Tiefgefrorene Kartoffeln (Pommes-frites-Schnitt und Würfel)</h2><p>Tufan Organik Tiefgefrorene Kartoffeln (Pommes-frites-Schnitt und Würfel) gehört zur Gruppe Tiefkühl-Gemüse. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>冷凍ポテト（細長フライカット・ダイスカット）</h2><p>Tufan Organik 冷凍ポテト（細長フライカット・ダイスカット）は凍結野菜カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>냉동 감자 (가늘고 긴 프렌치프라이 컷 & 큐브 컷)</h2><p>Tufan Organik 냉동 감자 (가늘고 긴 프렌치프라이 컷 & 큐브 컷)은(는) 냉동 채소군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Dondurulmuş Patates (İnce Uzun ve Küp Kesim) | Tufan Organik",
+    "en": "Frozen Potatoes (French Fry Cut and Diced) | Tufan Organik",
+    "ar": "بطاطس مجمدة (أصابع رفيعة طويلة ومكعبات) | Tufan Organik",
+    "de": "Tiefgefrorene Kartoffeln (Pommes-frites-Schnitt und Würfel) | Tufan Organik",
+    "ja": "冷凍ポテト（細長フライカット・ダイスカット） | Tufan Organik",
+    "ko": "냉동 감자 (가늘고 긴 프렌치프라이 컷 & 큐브 컷) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:31:07.966Z",
+  "update": "2026-11-06T07:31:09.076Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

@@ -27,13 +27,13 @@
   "path": "sade-lavas",
   "icon": "breakfast_dining",
   "category": "v8t42mspj8",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 16,
+  "index": 268,
   "url": "",
   "text": {
     "tr": "<h2>Sade Lavaş: Dürümden Sofraya İnce ve Esnek</h2><p>İnce açılmış, yumuşak ve kolayca katlanan sade lavaş, dürümlerin ve sarma tarzı yemeklerin en yakın yardımcısıdır. Yırtılmadan sarılabilen esnek bir dokusu vardır. Tadı sade ve nötr olduğu için içine konan etin, sebzenin ya da peynirin lezzetini bastırmadan taşır ve her türlü harçla uyum sağlar.</p><p>Kebap ve ızgara yemeklerin altına serilerek ya da yanında ekmek olarak sofraya gelir. Bir süre açıkta kalıp kuruyan lavaşı birkaç saniye tavada ısıtmak ya da hafifçe nemlendirmek yumuşaklığını geri getirir. Kebap kültürü güçlü bir şehirden gelen Tufan Organik, lavaşı bu sofraların vazgeçilmez tamamlayıcısı olarak kataloğunda tutuyor.</p><h3>Kullanım Önerileri</h3><ul><li>Izgara tavuk, domates, marul ve yoğurtlu sosla sıkı bir dürüm sarın.</li><li>Lavaşı üçgenler halinde kesip fırında kurutarak meze ve humusun yanına çıtır cips hazırlayın.</li><li>Kaşar ve sucukla doldurup katlayarak tavada kısa sürede pratik bir kahvaltılık yapın.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "プレーンラヴァッシュ | Tufan Organik"
   },
   "date": "2026-10-28T08:16:30.127Z",
-  "update": "2026-10-28T09:08:10.364Z",
+  "update": "2026-11-06T07:34:41.715Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

@@ -1,0 +1,62 @@
+{
+  "id": "6ysr4lciac",
+  "name": {
+    "tr": "Alıç Reçeli",
+    "en": "Hawthorn Jam",
+    "ar": "مربى الزعرور",
+    "de": "Weißdornkonfitüre",
+    "ja": "サンザシジャム",
+    "ko": "산사나무 열매잼"
+  },
+  "description": {
+    "tr": "Tufan Organik Alıç Reçeli, Reçel ve Marmelatlar grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Hawthorn Jam, from the Jams and Marmalades range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik مربى الزعرور، من مجموعة المربيات ومربى الحمضيات، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Weißdornkonfitüre aus der Gruppe Konfitüren und Marmeladen – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik サンザシジャムは、ジャムとマーマレードカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 산사나무 열매잼은(는) 잼 및 마멀레이드군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Alıç Reçeli, Reçel ve Marmelatlar",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Hawthorn Jam, Jams and Marmalades",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, مربى الزعرور, المربيات ومربى الحمضيات",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Weißdornkonfitüre, Konfitüren und Marmeladen",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, サンザシジャム, ジャムとマーマレード",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 산사나무 열매잼, 잼 및 마멀레이드"
+  },
+  "path": "alic-receli",
+  "icon": "bakery_dining",
+  "category": "c09gelenek",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 149,
+  "url": "",
+  "text": {
+    "tr": "<h2>Alıç Reçeli</h2><p>Tufan Organik Alıç Reçeli, Reçel ve Marmelatlar grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Hawthorn Jam</h2><p>Tufan Organik Hawthorn Jam belongs to the Jams and Marmalades range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>مربى الزعرور</h2><p>مربى الزعرور من توفان أورغانيك ضمن مجموعة المربيات ومربى الحمضيات. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Weißdornkonfitüre</h2><p>Tufan Organik Weißdornkonfitüre gehört zur Gruppe Konfitüren und Marmeladen. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>サンザシジャム</h2><p>Tufan Organik サンザシジャムはジャムとマーマレードカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>산사나무 열매잼</h2><p>Tufan Organik 산사나무 열매잼은(는) 잼 및 마멀레이드군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Alıç Reçeli | Tufan Organik",
+    "en": "Hawthorn Jam | Tufan Organik",
+    "ar": "مربى الزعرور | Tufan Organik",
+    "de": "Weißdornkonfitüre | Tufan Organik",
+    "ja": "サンザシジャム | Tufan Organik",
+    "ko": "산사나무 열매잼 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:28:18.697Z",
+  "update": "2026-11-06T07:28:19.381Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

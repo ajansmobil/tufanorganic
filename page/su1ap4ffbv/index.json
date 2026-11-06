@@ -27,13 +27,13 @@
   "path": "yesil-mercimek",
   "icon": "breakfast_dining",
   "category": "c02findik",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 62,
+  "index": 314,
   "url": "",
   "text": {
     "tr": "<h2>Yeşil Mercimek ile Doyurucu Ev Yemekleri</h2>\n<p>Yeşil mercimek, pişince şeklini koruyan, yassı ve iri taneli bir bakliyattır. Kırmızı mercimeğe göre daha toprağımsı bir tada ve daha sıkı bir dokuya sahiptir. Bu yüzden ezilmeden kalması istenen yemeklerde, salatalarda ve pilavlarda tercih edilir; zeytinyağlılardan etli tencere yemeklerine kadar pek çok tarife uyum sağlar.</p>\n<p>Tufan Organik'in bakliyat grubunda yer alan yeşil mercimek, çoğu tarifte ıslatmaya gerek duyulmadan pişirilebilir. Haşlarken suya bir defne yaprağı eklemek aromasını derinleştirir. Pişen taneleri süzüp ayırarak hem sıcak hem soğuk tariflerde değerlendirebilir, haftalık mutfak planınıza esnek bir malzeme katabilirsiniz.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Bulgur ve kızartılmış soğanla mercimekli bulgur pilavı hazırlayın.</li>\n<li>Haşlanmış mercimeği domates, salatalık, maydanoz ve limonla salata olarak sunun.</li>\n<li>Kıyma ve sebzelerle tencerede sulu bir yeşil mercimek yemeği pişirin.</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "グリーンレンズ | Tufan Organik"
   },
   "date": "2026-10-28T08:16:21.490Z",
-  "update": "2026-10-28T09:08:02.517Z",
+  "update": "2026-11-06T07:35:23.681Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

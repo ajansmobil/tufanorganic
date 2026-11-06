@@ -1,0 +1,62 @@
+{
+  "id": "secnlkkqk6",
+  "name": {
+    "tr": "Cevizli Tahin Helvası",
+    "en": "Walnut Tahini Halva",
+    "ar": "حلاوة طحينية بالجوز",
+    "de": "Tahin-Halva mit Walnüssen",
+    "ja": "クルミ入りタヒニハルヴァ",
+    "ko": "호두 타히니 할바"
+  },
+  "description": {
+    "tr": "Tufan Organik Cevizli Tahin Helvası, Pekmez Çeşitleri, Tahin ve Helva grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Walnut Tahini Halva, from the Molasses, Tahini and Halva range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik حلاوة طحينية بالجوز، من مجموعة أنواع الدبس والطحينة والحلاوة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Tahin-Halva mit Walnüssen aus der Gruppe Pekmez, Tahin und Halva – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik クルミ入りタヒニハルヴァは、ペクメズ、タヒニ、ハルヴァカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 호두 타히니 할바은(는) 페크메즈, 타힌 및 할바군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Cevizli Tahin Helvası, Pekmez Çeşitleri, Tahin ve Helva",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Walnut Tahini Halva, Molasses, Tahini and Halva",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, حلاوة طحينية بالجوز, أنواع الدبس والطحينة والحلاوة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Tahin-Halva mit Walnüssen, Pekmez, Tahin und Halva",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, クルミ入りタヒニハルヴァ, ペクメズ、タヒニ、ハルヴァ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 호두 타히니 할바, 페크메즈, 타힌 및 할바"
+  },
+  "path": "cevizli-tahin-helvasi",
+  "icon": "cake",
+  "category": "c12sut",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 113,
+  "url": "",
+  "text": {
+    "tr": "<h2>Cevizli Tahin Helvası</h2><p>Tufan Organik Cevizli Tahin Helvası, Pekmez Çeşitleri, Tahin ve Helva grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Walnut Tahini Halva</h2><p>Tufan Organik Walnut Tahini Halva belongs to the Molasses, Tahini and Halva range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>حلاوة طحينية بالجوز</h2><p>حلاوة طحينية بالجوز من توفان أورغانيك ضمن مجموعة أنواع الدبس والطحينة والحلاوة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Tahin-Halva mit Walnüssen</h2><p>Tufan Organik Tahin-Halva mit Walnüssen gehört zur Gruppe Pekmez, Tahin und Halva. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>クルミ入りタヒニハルヴァ</h2><p>Tufan Organik クルミ入りタヒニハルヴァはペクメズ、タヒニ、ハルヴァカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>호두 타히니 할바</h2><p>Tufan Organik 호두 타히니 할바은(는) 페크메즈, 타힌 및 할바군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Cevizli Tahin Helvası | Tufan Organik",
+    "en": "Walnut Tahini Halva | Tufan Organik",
+    "ar": "حلاوة طحينية بالجوز | Tufan Organik",
+    "de": "Tahin-Halva mit Walnüssen | Tufan Organik",
+    "ja": "クルミ入りタヒニハルヴァ | Tufan Organik",
+    "ko": "호두 타히니 할바 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:29:10.630Z",
+  "update": "2026-11-06T07:29:11.408Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

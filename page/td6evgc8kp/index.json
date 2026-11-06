@@ -1,0 +1,62 @@
+{
+  "id": "td6evgc8kp",
+  "name": {
+    "tr": "Tane Dondurulmuş Nar",
+    "en": "IQF Frozen Pomegranate Arils",
+    "ar": "حبوب رمان مجمدة فردياً (IQF)",
+    "de": "IQF-tiefgefrorene Granatapfelkerne",
+    "ja": "IQF冷凍ザクロ粒",
+    "ko": "IQF 개별 급속 냉동 석류알"
+  },
+  "description": {
+    "tr": "Tufan Organik Tane Dondurulmuş Nar, Dondurulmuş Meyve Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik IQF Frozen Pomegranate Arils, from the Frozen Fruits range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik حبوب رمان مجمدة فردياً (IQF)، من مجموعة الفواكه المجمدة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik IQF-tiefgefrorene Granatapfelkerne aus der Gruppe Tiefkühl-Obst – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik IQF冷凍ザクロ粒は、凍結フルーツカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik IQF 개별 급속 냉동 석류알은(는) 냉동 과일군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Tane Dondurulmuş Nar, Dondurulmuş Meyve Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, IQF Frozen Pomegranate Arils, Frozen Fruits",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, حبوب رمان مجمدة فردياً (IQF), الفواكه المجمدة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, IQF-tiefgefrorene Granatapfelkerne, Tiefkühl-Obst",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, IQF冷凍ザクロ粒, 凍結フルーツ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, IQF 개별 급속 냉동 석류알, 냉동 과일"
+  },
+  "path": "tane-dondurulmus-nar",
+  "icon": "ac_unit",
+  "category": "c14siviya",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 76,
+  "url": "",
+  "text": {
+    "tr": "<h2>Tane Dondurulmuş Nar</h2><p>Tufan Organik Tane Dondurulmuş Nar, Dondurulmuş Meyve Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>IQF Frozen Pomegranate Arils</h2><p>Tufan Organik IQF Frozen Pomegranate Arils belongs to the Frozen Fruits range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>حبوب رمان مجمدة فردياً (IQF)</h2><p>حبوب رمان مجمدة فردياً (IQF) من توفان أورغانيك ضمن مجموعة الفواكه المجمدة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>IQF-tiefgefrorene Granatapfelkerne</h2><p>Tufan Organik IQF-tiefgefrorene Granatapfelkerne gehört zur Gruppe Tiefkühl-Obst. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>IQF冷凍ザクロ粒</h2><p>Tufan Organik IQF冷凍ザクロ粒は凍結フルーツカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>IQF 개별 급속 냉동 석류알</h2><p>Tufan Organik IQF 개별 급속 냉동 석류알은(는) 냉동 과일군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Tane Dondurulmuş Nar | Tufan Organik",
+    "en": "IQF Frozen Pomegranate Arils | Tufan Organik",
+    "ar": "حبوب رمان مجمدة فردياً (IQF) | Tufan Organik",
+    "de": "IQF-tiefgefrorene Granatapfelkerne | Tufan Organik",
+    "ja": "IQF冷凍ザクロ粒 | Tufan Organik",
+    "ko": "IQF 개별 급속 냉동 석류알 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:30:12.176Z",
+  "update": "2026-11-06T07:30:13.092Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

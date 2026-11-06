@@ -1,0 +1,62 @@
+{
+  "id": "krse3flbmu",
+  "name": {
+    "tr": "Armut Reçeli",
+    "en": "Pear Jam",
+    "ar": "مربى الكمثرى",
+    "de": "Birnenkonfitüre",
+    "ja": "洋梨ジャム",
+    "ko": "배잼"
+  },
+  "description": {
+    "tr": "Tufan Organik Armut Reçeli, Reçel ve Marmelatlar grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Pear Jam, from the Jams and Marmalades range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik مربى الكمثرى، من مجموعة المربيات ومربى الحمضيات، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Birnenkonfitüre aus der Gruppe Konfitüren und Marmeladen – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 洋梨ジャムは、ジャムとマーマレードカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 배잼은(는) 잼 및 마멀레이드군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Armut Reçeli, Reçel ve Marmelatlar",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Pear Jam, Jams and Marmalades",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, مربى الكمثرى, المربيات ومربى الحمضيات",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Birnenkonfitüre, Konfitüren und Marmeladen",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 洋梨ジャム, ジャムとマーマレード",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 배잼, 잼 및 마멀레이드"
+  },
+  "path": "armut-receli",
+  "icon": "breakfast_dining",
+  "category": "c09gelenek",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 148,
+  "url": "",
+  "text": {
+    "tr": "<h2>Armut Reçeli</h2><p>Tufan Organik Armut Reçeli, Reçel ve Marmelatlar grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Pear Jam</h2><p>Tufan Organik Pear Jam belongs to the Jams and Marmalades range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>مربى الكمثرى</h2><p>مربى الكمثرى من توفان أورغانيك ضمن مجموعة المربيات ومربى الحمضيات. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Birnenkonfitüre</h2><p>Tufan Organik Birnenkonfitüre gehört zur Gruppe Konfitüren und Marmeladen. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>洋梨ジャム</h2><p>Tufan Organik 洋梨ジャムはジャムとマーマレードカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>배잼</h2><p>Tufan Organik 배잼은(는) 잼 및 마멀레이드군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Armut Reçeli | Tufan Organik",
+    "en": "Pear Jam | Tufan Organik",
+    "ar": "مربى الكمثرى | Tufan Organik",
+    "de": "Birnenkonfitüre | Tufan Organik",
+    "ja": "洋梨ジャム | Tufan Organik",
+    "ko": "배잼 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:28:20.012Z",
+  "update": "2026-11-06T07:28:20.681Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

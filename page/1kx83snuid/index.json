@@ -1,0 +1,62 @@
+{
+  "id": "1kx83snuid",
+  "name": {
+    "tr": "Taze Kaşar Peyniri",
+    "en": "Fresh Kashar Cheese",
+    "ar": "جبنة قشقوان طازجة",
+    "de": "Junger Kaşar-Käse",
+    "ja": "フレッシュ・カシャルチーズ",
+    "ko": "프레시 카샤르 치즈"
+  },
+  "description": {
+    "tr": "Tufan Organik Taze Kaşar Peyniri, Süt ve Süt Ürünleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Fresh Kashar Cheese, from the Milk and Dairy Products range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik جبنة قشقوان طازجة، من مجموعة الحليب ومنتجات الألبان، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Junger Kaşar-Käse aus der Gruppe Milch und Milchprodukte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik フレッシュ・カシャルチーズは、乳製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 프레시 카샤르 치즈은(는) 우유 및 유제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Taze Kaşar Peyniri, Süt ve Süt Ürünleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Fresh Kashar Cheese, Milk and Dairy Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, جبنة قشقوان طازجة, الحليب ومنتجات الألبان",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Junger Kaşar-Käse, Milch und Milchprodukte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, フレッシュ・カシャルチーズ, 乳製品",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 프레시 카샤르 치즈, 우유 및 유제품"
+  },
+  "path": "taze-kasar-peyniri",
+  "icon": "egg",
+  "category": "c07kuruseb",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 178,
+  "url": "",
+  "text": {
+    "tr": "<h2>Taze Kaşar Peyniri</h2><p>Tufan Organik Taze Kaşar Peyniri, Süt ve Süt Ürünleri grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Fresh Kashar Cheese</h2><p>Tufan Organik Fresh Kashar Cheese belongs to the Milk and Dairy Products range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>جبنة قشقوان طازجة</h2><p>جبنة قشقوان طازجة من توفان أورغانيك ضمن مجموعة الحليب ومنتجات الألبان. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Junger Kaşar-Käse</h2><p>Tufan Organik Junger Kaşar-Käse gehört zur Gruppe Milch und Milchprodukte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>フレッシュ・カシャルチーズ</h2><p>Tufan Organik フレッシュ・カシャルチーズは乳製品カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>프레시 카샤르 치즈</h2><p>Tufan Organik 프레시 카샤르 치즈은(는) 우유 및 유제품군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Taze Kaşar Peyniri | Tufan Organik",
+    "en": "Fresh Kashar Cheese | Tufan Organik",
+    "ar": "جبنة قشقوان طازجة | Tufan Organik",
+    "de": "Junger Kaşar-Käse | Tufan Organik",
+    "ja": "フレッシュ・カシャルチーズ | Tufan Organik",
+    "ko": "프레시 카샤르 치즈 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:27:42.909Z",
+  "update": "2026-11-06T07:27:43.488Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

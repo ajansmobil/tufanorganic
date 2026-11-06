@@ -1,0 +1,62 @@
+{
+  "id": "ffn0lrmiin",
+  "name": {
+    "tr": "Kuşburnu Reçeli",
+    "en": "Rosehip Jam",
+    "ar": "مربى ثمر الورد البري",
+    "de": "Hagebuttenkonfitüre",
+    "ja": "ローズヒップジャム",
+    "ko": "로즈힙잼"
+  },
+  "description": {
+    "tr": "Tufan Organik Kuşburnu Reçeli, Reçel ve Marmelatlar grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Rosehip Jam, from the Jams and Marmalades range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik مربى ثمر الورد البري، من مجموعة المربيات ومربى الحمضيات، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Hagebuttenkonfitüre aus der Gruppe Konfitüren und Marmeladen – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik ローズヒップジャムは、ジャムとマーマレードカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 로즈힙잼은(는) 잼 및 마멀레이드군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Kuşburnu Reçeli, Reçel ve Marmelatlar",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Rosehip Jam, Jams and Marmalades",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, مربى ثمر الورد البري, المربيات ومربى الحمضيات",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Hagebuttenkonfitüre, Konfitüren und Marmeladen",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ローズヒップジャム, ジャムとマーマレード",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 로즈힙잼, 잼 및 마멀레이드"
+  },
+  "path": "kusburnu-receli",
+  "icon": "bakery_dining",
+  "category": "c09gelenek",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 153,
+  "url": "",
+  "text": {
+    "tr": "<h2>Kuşburnu Reçeli</h2><p>Tufan Organik Kuşburnu Reçeli, Reçel ve Marmelatlar grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Rosehip Jam</h2><p>Tufan Organik Rosehip Jam belongs to the Jams and Marmalades range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>مربى ثمر الورد البري</h2><p>مربى ثمر الورد البري من توفان أورغانيك ضمن مجموعة المربيات ومربى الحمضيات. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Hagebuttenkonfitüre</h2><p>Tufan Organik Hagebuttenkonfitüre gehört zur Gruppe Konfitüren und Marmeladen. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>ローズヒップジャム</h2><p>Tufan Organik ローズヒップジャムはジャムとマーマレードカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>로즈힙잼</h2><p>Tufan Organik 로즈힙잼은(는) 잼 및 마멀레이드군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Kuşburnu Reçeli | Tufan Organik",
+    "en": "Rosehip Jam | Tufan Organik",
+    "ar": "مربى ثمر الورد البري | Tufan Organik",
+    "de": "Hagebuttenkonfitüre | Tufan Organik",
+    "ja": "ローズヒップジャム | Tufan Organik",
+    "ko": "로즈힙잼 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:28:13.536Z",
+  "update": "2026-11-06T07:28:14.185Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

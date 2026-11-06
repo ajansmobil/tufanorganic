@@ -27,13 +27,13 @@
   "path": "galeta-unu",
   "icon": "grain",
   "category": "c17iqfmey",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 235,
+  "index": 487,
   "url": "",
   "text": {
     "tr": "<h2>Galeta Unu</h2><p>Kurutulmuş ekmeğin öğütülmesiyle hazırlanan, altın sarısı renkli galeta unu. Kızartma ve fırın yemeklerinde çıtır bir kaplama sağlar.</p><h3>Kullanım Önerisi</h3><ul><li>Önce una, sonra yumurtaya, en son galeta ununa bulayın.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "パン粉（ガレタ粉） | Tufan Organik"
   },
   "date": "2026-11-02T10:42:45.000Z",
-  "update": "2026-11-02T10:42:45.000Z",
+  "update": "2026-11-06T07:38:12.911Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

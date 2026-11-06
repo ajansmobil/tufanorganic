@@ -1,0 +1,62 @@
+{
+  "id": "2x8cpput25",
+  "name": {
+    "tr": "Hurma Suyu",
+    "en": "Date Juice",
+    "ar": "عصير التمر",
+    "de": "Dattelsaft",
+    "ja": "デーツジュース",
+    "ko": "대추야자 주스"
+  },
+  "description": {
+    "tr": "Tufan Organik Hurma Suyu, Meyve Suyu Çeşitleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Date Juice, from the Fruit Juices range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik عصير التمر، من مجموعة عصائر الفاكهة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Dattelsaft aus der Gruppe Fruchtsäfte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik デーツジュースは、フルーツジュースカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 대추야자 주스은(는) 과일 주스군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Hurma Suyu, Meyve Suyu Çeşitleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Date Juice, Fruit Juices",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, عصير التمر, عصائر الفاكهة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Dattelsaft, Fruchtsäfte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, デーツジュース, フルーツジュース",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 대추야자 주스, 과일 주스"
+  },
+  "path": "hurma-suyu",
+  "icon": "local_bar",
+  "category": "c10meyves",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 142,
+  "url": "",
+  "text": {
+    "tr": "<h2>Hurma Suyu</h2><p>Tufan Organik Hurma Suyu, Meyve Suyu Çeşitleri grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Date Juice</h2><p>Tufan Organik Date Juice belongs to the Fruit Juices range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>عصير التمر</h2><p>عصير التمر من توفان أورغانيك ضمن مجموعة عصائر الفاكهة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Dattelsaft</h2><p>Tufan Organik Dattelsaft gehört zur Gruppe Fruchtsäfte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>デーツジュース</h2><p>Tufan Organik デーツジュースはフルーツジュースカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>대추야자 주스</h2><p>Tufan Organik 대추야자 주스은(는) 과일 주스군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Hurma Suyu | Tufan Organik",
+    "en": "Date Juice | Tufan Organik",
+    "ar": "عصير التمر | Tufan Organik",
+    "de": "Dattelsaft | Tufan Organik",
+    "ja": "デーツジュース | Tufan Organik",
+    "ko": "대추야자 주스 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:28:28.013Z",
+  "update": "2026-11-06T07:28:28.727Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

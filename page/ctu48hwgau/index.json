@@ -27,13 +27,13 @@
   "path": "menengic-kahvesi",
   "icon": "breakfast_dining",
   "category": "c08recel",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 41,
+  "index": 293,
   "url": "",
   "text": {
     "tr": "<h2>Kavrulmuş Taneden Menengiç Kahvesi</h2>\n<p>Menengiç Kahvesi, yabani fıstık olarak da bilinen menengiç ağacının kavrulmuş tanelerinden hazırlanır. Koyu ve yağlı bir kıvamı, reçinemsi ve hafif fıstıksı bir aroması vardır. Fincanda kadifemsi bir köpük bırakır; tadı alışılmış kahveden belirgin biçimde ayrılır ve ilk yudumda kendini tanıtır.</p>\n<p>Tufan Organik olarak, ikram sofralarının bu sevilen içeceğini fincanınıza taşıyoruz. Menengiç kahvesi çoğunlukla sütle, cezvede ağır ateşte karıştırılarak pişirilir; köpürmeye başladığında ocaktan alınır. Dilerseniz şekerle tatlandırabilir, daha hafif bir içim için sütün bir kısmı yerine su kullanabilirsiniz.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Cezvede sütle pişirip lokum ya da kuru meyve eşliğinde ikram edin.</li>\n<li>Su ile hazırlayarak öğleden sonraları daha hafif bir fincan deneyin.</li>\n<li>Kış akşamlarında üzerine bir tutam tarçın serperek sıcak sıcak servis edin.</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "メネンジッチコーヒー（テレビンノキの実のコーヒー） | Tufan Organik"
   },
   "date": "2026-10-28T08:16:24.991Z",
-  "update": "2026-10-28T09:07:37.464Z",
+  "update": "2026-11-06T07:35:05.130Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

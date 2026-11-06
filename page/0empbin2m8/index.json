@@ -1,0 +1,62 @@
+{
+  "id": "0empbin2m8",
+  "name": {
+    "tr": "Organik Pirinç Unu (Glutensiz)",
+    "en": "Organic Rice Flour (Gluten-Free)",
+    "ar": "دقيق أرز عضوي (خالٍ من الغلوتين)",
+    "de": "Bio-Reismehl (glutenfrei)",
+    "ja": "有機米粉（グルテンフリー）",
+    "ko": "유기농 쌀가루 (글루텐 프리)"
+  },
+  "description": {
+    "tr": "Tufan Organik Pirinç Unu (Glutensiz), Tahıl Grubu ve Unları grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Rice Flour (Gluten-Free), from the Cereals and Flours range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik دقيق أرز عضوي (خالٍ من الغلوتين)، من مجموعة الحبوب والدقيق، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Bio-Reismehl (glutenfrei) aus der Gruppe Getreide und Mehle – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 有機米粉（グルテンフリー）は、穀物と粉カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 유기농 쌀가루 (글루텐 프리)은(는) 곡물 및 밀가루군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Organik Pirinç Unu (Glutensiz), Tahıl Grubu ve Unları",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Organic Rice Flour (Gluten-Free), Cereals and Flours",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, دقيق أرز عضوي (خالٍ من الغلوتين), الحبوب والدقيق",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Bio-Reismehl (glutenfrei), Getreide und Mehle",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 有機米粉（グルテンフリー）, 穀物と粉",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 유기농 쌀가루 (글루텐 프리), 곡물 및 밀가루"
+  },
+  "path": "organik-pirinc-unu",
+  "icon": "breakfast_dining",
+  "category": "c01fistik",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 239,
+  "url": "",
+  "text": {
+    "tr": "<h2>Organik Pirinç Unu (Glutensiz)</h2><p>Tufan Organik Pirinç Unu (Glutensiz), Tahıl Grubu ve Unları grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Organic Rice Flour (Gluten-Free)</h2><p>Tufan Organik Rice Flour (Gluten-Free) belongs to the Cereals and Flours range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>دقيق أرز عضوي (خالٍ من الغلوتين)</h2><p>دقيق أرز عضوي (خالٍ من الغلوتين) من توفان أورغانيك ضمن مجموعة الحبوب والدقيق. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Bio-Reismehl (glutenfrei)</h2><p>Tufan Organik Bio-Reismehl (glutenfrei) gehört zur Gruppe Getreide und Mehle. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>有機米粉（グルテンフリー）</h2><p>Tufan Organik 有機米粉（グルテンフリー）は穀物と粉カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>유기농 쌀가루 (글루텐 프리)</h2><p>Tufan Organik 유기농 쌀가루 (글루텐 프리)은(는) 곡물 및 밀가루군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Organik Pirinç Unu (Glutensiz) | Tufan Organik",
+    "en": "Organic Rice Flour (Gluten-Free) | Tufan Organik",
+    "ar": "دقيق أرز عضوي (خالٍ من الغلوتين) | Tufan Organik",
+    "de": "Bio-Reismehl (glutenfrei) | Tufan Organik",
+    "ja": "有機米粉（グルテンフリー） | Tufan Organik",
+    "ko": "유기농 쌀가루 (글루텐 프리) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:26:40.729Z",
+  "update": "2026-11-06T07:33:28.144Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

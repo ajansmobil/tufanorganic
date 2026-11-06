@@ -1,0 +1,62 @@
+{
+  "id": "oha19dso5a",
+  "name": {
+    "tr": "Organik Ekmeklik Buğday",
+    "en": "Organic Bread Wheat",
+    "ar": "قمح الخبز العضوي",
+    "de": "Bio-Brotweizen",
+    "ja": "有機パン用小麦",
+    "ko": "유기농 제빵용 밀"
+  },
+  "description": {
+    "tr": "Tufan Organik Ekmeklik Buğday, Tahıl Grubu ve Unları grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Bread Wheat, from the Cereals and Flours range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik قمح الخبز العضوي، من مجموعة الحبوب والدقيق، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Bio-Brotweizen aus der Gruppe Getreide und Mehle – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 有機パン用小麦は、穀物と粉カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 유기농 제빵용 밀은(는) 곡물 및 밀가루군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Organik Ekmeklik Buğday, Tahıl Grubu ve Unları",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Organic Bread Wheat, Cereals and Flours",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, قمح الخبز العضوي, الحبوب والدقيق",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Bio-Brotweizen, Getreide und Mehle",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 有機パン用小麦, 穀物と粉",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 유기농 제빵용 밀, 곡물 및 밀가루"
+  },
+  "path": "organik-ekmeklik-bugday",
+  "icon": "breakfast_dining",
+  "category": "c01fistik",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 251,
+  "url": "",
+  "text": {
+    "tr": "<h2>Organik Ekmeklik Buğday</h2><p>Tufan Organik Ekmeklik Buğday, Tahıl Grubu ve Unları grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Organic Bread Wheat</h2><p>Tufan Organik Bread Wheat belongs to the Cereals and Flours range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>قمح الخبز العضوي</h2><p>قمح الخبز العضوي من توفان أورغانيك ضمن مجموعة الحبوب والدقيق. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Bio-Brotweizen</h2><p>Tufan Organik Bio-Brotweizen gehört zur Gruppe Getreide und Mehle. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>有機パン用小麦</h2><p>Tufan Organik 有機パン用小麦は穀物と粉カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>유기농 제빵용 밀</h2><p>Tufan Organik 유기농 제빵용 밀은(는) 곡물 및 밀가루군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Organik Ekmeklik Buğday | Tufan Organik",
+    "en": "Organic Bread Wheat | Tufan Organik",
+    "ar": "قمح الخبز العضوي | Tufan Organik",
+    "de": "Bio-Brotweizen | Tufan Organik",
+    "ja": "有機パン用小麦 | Tufan Organik",
+    "ko": "유기농 제빵용 밀 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:26:01.520Z",
+  "update": "2026-11-06T07:33:12.969Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

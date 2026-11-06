@@ -1,0 +1,62 @@
+{
+  "id": "nvuo23tqb3",
+  "name": {
+    "tr": "Taze Ceviz Reçeli",
+    "en": "Green (Fresh) Walnut Jam",
+    "ar": "مربى الجوز الأخضر (الطازج)",
+    "de": "Konfitüre aus grünen (frischen) Walnüssen",
+    "ja": "青クルミ（生クルミ）ジャム",
+    "ko": "풋호두잼"
+  },
+  "description": {
+    "tr": "Tufan Organik Taze Ceviz Reçeli, Meyve Özü Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Green (Fresh) Walnut Jam, from the Fruit Extracts range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik مربى الجوز الأخضر (الطازج)، من مجموعة مستخلصات الفاكهة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Konfitüre aus grünen (frischen) Walnüssen aus der Gruppe Fruchtextrakte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 青クルミ（生クルミ）ジャムは、フルーツエキスカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 풋호두잼은(는) 과일 추출물군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Taze Ceviz Reçeli, Meyve Özü Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Green (Fresh) Walnut Jam, Fruit Extracts",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, مربى الجوز الأخضر (الطازج), مستخلصات الفاكهة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Konfitüre aus grünen (frischen) Walnüssen, Fruchtextrakte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 青クルミ（生クルミ）ジャム, フルーツエキス",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 풋호두잼, 과일 추출물"
+  },
+  "path": "taze-ceviz-receli-2",
+  "icon": "breakfast_dining",
+  "category": "c11pekmez",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 128,
+  "url": "",
+  "text": {
+    "tr": "<h2>Taze Ceviz Reçeli</h2><p>Tufan Organik Taze Ceviz Reçeli, Meyve Özü Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Green (Fresh) Walnut Jam</h2><p>Tufan Organik Green (Fresh) Walnut Jam belongs to the Fruit Extracts range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>مربى الجوز الأخضر (الطازج)</h2><p>مربى الجوز الأخضر (الطازج) من توفان أورغانيك ضمن مجموعة مستخلصات الفاكهة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Konfitüre aus grünen (frischen) Walnüssen</h2><p>Tufan Organik Konfitüre aus grünen (frischen) Walnüssen gehört zur Gruppe Fruchtextrakte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>青クルミ（生クルミ）ジャム</h2><p>Tufan Organik 青クルミ（生クルミ）ジャムはフルーツエキスカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>풋호두잼</h2><p>Tufan Organik 풋호두잼은(는) 과일 추출물군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Taze Ceviz Reçeli | Tufan Organik",
+    "en": "Green (Fresh) Walnut Jam | Tufan Organik",
+    "ar": "مربى الجوز الأخضر (الطازج) | Tufan Organik",
+    "de": "Konfitüre aus grünen (frischen) Walnüssen | Tufan Organik",
+    "ja": "青クルミ（生クルミ）ジャム | Tufan Organik",
+    "ko": "풋호두잼 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:28:47.910Z",
+  "update": "2026-11-06T07:28:48.702Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

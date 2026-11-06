@@ -27,13 +27,13 @@
   "path": "sebze-unlu-makarna",
   "icon": "breakfast_dining",
   "category": "c04yerfist",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 53,
+  "index": 305,
   "url": "",
   "text": {
     "tr": "<h2>Renkli Tabaklar İçin Sebze Unlu Makarna</h2>\n<p>Sebze Unlu Makarna, hamuruna sebze unu katılan ve rengiyle tabağa canlılık getiren bir makarna çeşididir. Pişirildiğinde dişe gelen dokusunu korur, damakta hafif sebzemsi bir tat bırakır. Sade bir tereyağıyla da, bol malzemeli bir sosla da uyumlu biçimde buluşur ve gündelik sofralara renk katar.</p>\n<p>Tufan Organik olarak sofrasına biraz renk katmak isteyenler için bu makarnayı seçkimize ekledik. Bol ve tuzlu suda, ara ara tadına bakarak pişirmek dokusunu korumanın en kolay yoludur. Süzerken bir kepçe haşlama suyu ayırmak, sosun makarnaya daha iyi tutunmasını sağlar. Çocukların tabağında da ilgiyle karşılanır.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Zeytinyağı, sarımsak ve közlenmiş biberle hafif bir sos hazırlayıp üzerine gezdirin.</li>\n<li>Haşlayıp soğuttuktan sonra mısır, salatalık ve beyaz peynirle makarna salatası yapın.</li>\n<li>Fesleğenli domates sosu ve rendelenmiş kaşarla fırında kısa süre gratine edin.</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "野菜粉入りパスタ | Tufan Organik"
   },
   "date": "2026-10-28T08:16:22.922Z",
-  "update": "2026-10-28T09:07:20.711Z",
+  "update": "2026-11-06T07:35:16.241Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

@@ -1,0 +1,62 @@
+{
+  "id": "ephzo2gfzr",
+  "name": {
+    "tr": "Tane Dondurulmuş Çilek",
+    "en": "IQF Frozen Strawberries",
+    "ar": "فراولة مجمدة فردياً (IQF)",
+    "de": "IQF-tiefgefrorene Erdbeeren",
+    "ja": "IQF冷凍イチゴ",
+    "ko": "IQF 개별 급속 냉동 딸기"
+  },
+  "description": {
+    "tr": "Tufan Organik Tane Dondurulmuş Çilek, Dondurulmuş Meyve Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik IQF Frozen Strawberries, from the Frozen Fruits range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik فراولة مجمدة فردياً (IQF)، من مجموعة الفواكه المجمدة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik IQF-tiefgefrorene Erdbeeren aus der Gruppe Tiefkühl-Obst – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik IQF冷凍イチゴは、凍結フルーツカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik IQF 개별 급속 냉동 딸기은(는) 냉동 과일군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Tane Dondurulmuş Çilek, Dondurulmuş Meyve Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, IQF Frozen Strawberries, Frozen Fruits",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, فراولة مجمدة فردياً (IQF), الفواكه المجمدة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, IQF-tiefgefrorene Erdbeeren, Tiefkühl-Obst",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, IQF冷凍イチゴ, 凍結フルーツ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, IQF 개별 급속 냉동 딸기, 냉동 과일"
+  },
+  "path": "tane-dondurulmus-cilek",
+  "icon": "ac_unit",
+  "category": "c14siviya",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 72,
+  "url": "",
+  "text": {
+    "tr": "<h2>Tane Dondurulmuş Çilek</h2><p>Tufan Organik Tane Dondurulmuş Çilek, Dondurulmuş Meyve Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>IQF Frozen Strawberries</h2><p>Tufan Organik IQF Frozen Strawberries belongs to the Frozen Fruits range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>فراولة مجمدة فردياً (IQF)</h2><p>فراولة مجمدة فردياً (IQF) من توفان أورغانيك ضمن مجموعة الفواكه المجمدة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>IQF-tiefgefrorene Erdbeeren</h2><p>Tufan Organik IQF-tiefgefrorene Erdbeeren gehört zur Gruppe Tiefkühl-Obst. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>IQF冷凍イチゴ</h2><p>Tufan Organik IQF冷凍イチゴは凍結フルーツカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>IQF 개별 급속 냉동 딸기</h2><p>Tufan Organik IQF 개별 급속 냉동 딸기은(는) 냉동 과일군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Tane Dondurulmuş Çilek | Tufan Organik",
+    "en": "IQF Frozen Strawberries | Tufan Organik",
+    "ar": "فراولة مجمدة فردياً (IQF) | Tufan Organik",
+    "de": "IQF-tiefgefrorene Erdbeeren | Tufan Organik",
+    "ja": "IQF冷凍イチゴ | Tufan Organik",
+    "ko": "IQF 개별 급속 냉동 딸기 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:30:19.564Z",
+  "update": "2026-11-06T07:30:20.503Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

@@ -27,13 +27,13 @@
   "path": "aci-biber-sosu",
   "icon": "breakfast_dining",
   "category": "obbkh64oa1",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 12,
+  "index": 264,
   "url": "",
   "text": {
     "tr": "<h2>Acı Biber Sosu ile Tabağa Canlı Bir Acılık</h2><p>Birkaç damlayla bir tabağın karakterini değiştirebilen acı biber sosu, acı biberin tadını akışkan ve kullanımı kolay bir kıvamda bir araya getirir. Ağızda hemen hissedilen yakıcılığın ardından biberin meyvemsi aroması öne çıkar. Bu yüzden az miktarla başlayıp tadarak artırmak, acılık düzeyini ayarlamanın en iyi yoludur.</p><p>Izgara etlerden yumurtaya, pizzadan çorbaya kadar pek çok yemeğe son dokunuş olarak eklenebilir; marinasyonlarda ve soslarda da acılık vermek için kullanılır. Gürün/Sivas'ta kurulu Tufan Organik, bu sosu ekşi, acı ve tatlı özel soslar arasında, yemeklerine canlılık katmak isteyenler için sunuyor.</p><h3>Kullanım Önerileri</h3><ul><li>Mercimek ya da ezogelin çorbasının üzerine servis öncesi birkaç damla ekleyin.</li><li>Tavuk kanatlarını sos, sarımsak ve zeytinyağıyla marine edip fırında pişirin.</li><li>Mayonez ya da süzme yoğurtla karıştırarak dürüm ve burgerler için acılı bir sos hazırlayın.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "辛口ピーマンソース | Tufan Organik"
   },
   "date": "2026-10-28T08:16:31.050Z",
-  "update": "2026-10-28T09:08:00.055Z",
+  "update": "2026-11-06T07:34:39.254Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

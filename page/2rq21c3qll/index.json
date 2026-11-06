@@ -1,0 +1,62 @@
+{
+  "id": "2rq21c3qll",
+  "name": {
+    "tr": "Kurutulmuş Beyaz Üzüm (Tane ve Çekirdeksiz-Sarı Sultani)",
+    "en": "Dried White Raisins (Whole, Seedless – Golden Sultanas)",
+    "ar": "زبيب أبيض (حبات كاملة وبدون بذور – سلطانة ذهبية)",
+    "de": "Helle Rosinen (ganz, kernlos – goldgelbe Sultaninen)",
+    "ja": "白レーズン（ホール・種なし－ゴールデンサルタナ）",
+    "ko": "청포도 건포도 (통, 씨 없음 – 골든 술타나)"
+  },
+  "description": {
+    "tr": "Tufan Organik Kurutulmuş Beyaz Üzüm (Tane ve Çekirdeksiz-Sarı Sultani), Kurutulmuş Meyve Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Dried White Raisins (Whole, Seedless – Golden Sultanas), from the Dried Fruits range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik زبيب أبيض (حبات كاملة وبدون بذور – سلطانة ذهبية)، من مجموعة الفواكه المجففة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Helle Rosinen (ganz, kernlos – goldgelbe Sultaninen) aus der Gruppe Trockenfrüchte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 白レーズン（ホール・種なし－ゴールデンサルタナ）は、ドライフルーツカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 청포도 건포도 (통, 씨 없음 – 골든 술타나)은(는) 건조 과일군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Kurutulmuş Beyaz Üzüm (Tane ve Çekirdeksiz-Sarı Sultani), Kurutulmuş Meyve Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Dried White Raisins (Whole, Seedless – Golden Sultanas), Dried Fruits",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, زبيب أبيض (حبات كاملة وبدون بذور – سلطانة ذهبية), الفواكه المجففة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Helle Rosinen (ganz, kernlos – goldgelbe Sultaninen), Trockenfrüchte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 白レーズン（ホール・種なし－ゴールデンサルタナ）, ドライフルーツ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 청포도 건포도 (통, 씨 없음 – 골든 술타나), 건조 과일"
+  },
+  "path": "kurutulmus-beyaz-uzum-3",
+  "icon": "spa",
+  "category": "c13konserve",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 82,
+  "url": "",
+  "text": {
+    "tr": "<h2>Kurutulmuş Beyaz Üzüm (Tane ve Çekirdeksiz-Sarı Sultani)</h2><p>Tufan Organik Kurutulmuş Beyaz Üzüm (Tane ve Çekirdeksiz-Sarı Sultani), Kurutulmuş Meyve Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Dried White Raisins (Whole, Seedless – Golden Sultanas)</h2><p>Tufan Organik Dried White Raisins (Whole, Seedless – Golden Sultanas) belongs to the Dried Fruits range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>زبيب أبيض (حبات كاملة وبدون بذور – سلطانة ذهبية)</h2><p>زبيب أبيض (حبات كاملة وبدون بذور – سلطانة ذهبية) من توفان أورغانيك ضمن مجموعة الفواكه المجففة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Helle Rosinen (ganz, kernlos – goldgelbe Sultaninen)</h2><p>Tufan Organik Helle Rosinen (ganz, kernlos – goldgelbe Sultaninen) gehört zur Gruppe Trockenfrüchte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>白レーズン（ホール・種なし－ゴールデンサルタナ）</h2><p>Tufan Organik 白レーズン（ホール・種なし－ゴールデンサルタナ）はドライフルーツカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>청포도 건포도 (통, 씨 없음 – 골든 술타나)</h2><p>Tufan Organik 청포도 건포도 (통, 씨 없음 – 골든 술타나)은(는) 건조 과일군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Kurutulmuş Beyaz Üzüm (Tane ve Çekirdeksiz-Sarı Sultani) | Tufan Organik",
+    "en": "Dried White Raisins (Whole, Seedless – Golden Sultanas) | Tufan Organik",
+    "ar": "زبيب أبيض (حبات كاملة وبدون بذور – سلطانة ذهبية) | Tufan Organik",
+    "de": "Helle Rosinen (ganz, kernlos – goldgelbe Sultaninen) | Tufan Organik",
+    "ja": "白レーズン（ホール・種なし－ゴールデンサルタナ） | Tufan Organik",
+    "ko": "청포도 건포도 (통, 씨 없음 – 골든 술타나) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:30:01.419Z",
+  "update": "2026-11-06T07:30:02.344Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

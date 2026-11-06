@@ -1,0 +1,62 @@
+{
+  "id": "23achbts7l",
+  "name": {
+    "tr": "Dut Şerbeti",
+    "en": "Mulberry Sherbet (Şerbet)",
+    "ar": "شربات التوت",
+    "de": "Maulbeer-Şerbet",
+    "ja": "桑の実のシェルベット",
+    "ko": "오디 셰르베트"
+  },
+  "description": {
+    "tr": "Tufan Organik Dut Şerbeti, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Mulberry Sherbet (Şerbet), from the Sour, Hot and Sweet Special Sauces, Vinegars and Beverages range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik شربات التوت، من مجموعة الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Maulbeer-Şerbet aus der Gruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 桑の実のシェルベットは、酸味・辛味・甘味の特別ソース、酢、飲料カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 오디 셰르베트은(는) 새콤·매콤·달콤 특선 소스, 식초 및 음료군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Dut Şerbeti, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Mulberry Sherbet (Şerbet), Sour, Hot and Sweet Special Sauces, Vinegars and Beverages",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, شربات التوت, الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Maulbeer-Şerbet, Saure, scharfe und süße Spezialsaucen, Essig und Getränke",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 桑の実のシェルベット, 酸味・辛味・甘味の特別ソース、酢、飲料",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 오디 셰르베트, 새콤·매콤·달콤 특선 소스, 식초 및 음료"
+  },
+  "path": "dut-serbeti",
+  "icon": "breakfast_dining",
+  "category": "obbkh64oa1",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 8,
+  "url": "",
+  "text": {
+    "tr": "<h2>Dut Şerbeti</h2><p>Tufan Organik Dut Şerbeti, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Mulberry Sherbet (Şerbet)</h2><p>Tufan Organik Mulberry Sherbet (Şerbet) belongs to the Sour, Hot and Sweet Special Sauces, Vinegars and Beverages range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>شربات التوت</h2><p>شربات التوت من توفان أورغانيك ضمن مجموعة الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Maulbeer-Şerbet</h2><p>Tufan Organik Maulbeer-Şerbet gehört zur Gruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>桑の実のシェルベット</h2><p>Tufan Organik 桑の実のシェルベットは酸味・辛味・甘味の特別ソース、酢、飲料カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>오디 셰르베트</h2><p>Tufan Organik 오디 셰르베트은(는) 새콤·매콤·달콤 특선 소스, 식초 및 음료군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Dut Şerbeti | Tufan Organik",
+    "en": "Mulberry Sherbet (Şerbet) | Tufan Organik",
+    "ar": "شربات التوت | Tufan Organik",
+    "de": "Maulbeer-Şerbet | Tufan Organik",
+    "ja": "桑の実のシェルベット | Tufan Organik",
+    "ko": "오디 셰르베트 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:32:37.685Z",
+  "update": "2026-11-06T07:32:38.966Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

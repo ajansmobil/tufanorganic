@@ -1,0 +1,62 @@
+{
+  "id": "48p8afjufd",
+  "name": {
+    "tr": "Reyhan Şerbeti",
+    "en": "Purple Basil Sherbet (Şerbet)",
+    "ar": "شربات الريحان",
+    "de": "Reyhan-Şerbet (Purpurbasilikum)",
+    "ja": "紫バジル（レイハン）のシェルベット",
+    "ko": "보라 바질(레이한) 셰르베트"
+  },
+  "description": {
+    "tr": "Tufan Organik Reyhan Şerbeti, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Purple Basil Sherbet (Şerbet), from the Sour, Hot and Sweet Special Sauces, Vinegars and Beverages range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik شربات الريحان، من مجموعة الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Reyhan-Şerbet (Purpurbasilikum) aus der Gruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 紫バジル（レイハン）のシェルベットは、酸味・辛味・甘味の特別ソース、酢、飲料カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 보라 바질(레이한) 셰르베트은(는) 새콤·매콤·달콤 특선 소스, 식초 및 음료군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Reyhan Şerbeti, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Purple Basil Sherbet (Şerbet), Sour, Hot and Sweet Special Sauces, Vinegars and Beverages",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, شربات الريحان, الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Reyhan-Şerbet (Purpurbasilikum), Saure, scharfe und süße Spezialsaucen, Essig und Getränke",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 紫バジル（レイハン）のシェルベット, 酸味・辛味・甘味の特別ソース、酢、飲料",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 보라 바질(레이한) 셰르베트, 새콤·매콤·달콤 특선 소스, 식초 및 음료"
+  },
+  "path": "reyhan-serbeti",
+  "icon": "breakfast_dining",
+  "category": "obbkh64oa1",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 11,
+  "url": "",
+  "text": {
+    "tr": "<h2>Reyhan Şerbeti</h2><p>Tufan Organik Reyhan Şerbeti, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Purple Basil Sherbet (Şerbet)</h2><p>Tufan Organik Purple Basil Sherbet (Şerbet) belongs to the Sour, Hot and Sweet Special Sauces, Vinegars and Beverages range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>شربات الريحان</h2><p>شربات الريحان من توفان أورغانيك ضمن مجموعة الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Reyhan-Şerbet (Purpurbasilikum)</h2><p>Tufan Organik Reyhan-Şerbet (Purpurbasilikum) gehört zur Gruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>紫バジル（レイハン）のシェルベット</h2><p>Tufan Organik 紫バジル（レイハン）のシェルベットは酸味・辛味・甘味の特別ソース、酢、飲料カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>보라 바질(레이한) 셰르베트</h2><p>Tufan Organik 보라 바질(레이한) 셰르베트은(는) 새콤·매콤·달콤 특선 소스, 식초 및 음료군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Reyhan Şerbeti | Tufan Organik",
+    "en": "Purple Basil Sherbet (Şerbet) | Tufan Organik",
+    "ar": "شربات الريحان | Tufan Organik",
+    "de": "Reyhan-Şerbet (Purpurbasilikum) | Tufan Organik",
+    "ja": "紫バジル（レイハン）のシェルベット | Tufan Organik",
+    "ko": "보라 바질(레이한) 셰르베트 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:32:30.266Z",
+  "update": "2026-11-06T07:32:31.501Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

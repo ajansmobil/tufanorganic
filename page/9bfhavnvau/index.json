@@ -1,0 +1,62 @@
+{
+  "id": "9bfhavnvau",
+  "name": {
+    "tr": "Malt Unlu Ekmekler",
+    "en": "Malt Flour Breads",
+    "ar": "خبز بدقيق الشعير المملّت (المالت)",
+    "de": "Malzmehlbrote",
+    "ja": "モルト粉パン",
+    "ko": "맥아가루 빵"
+  },
+  "description": {
+    "tr": "Tufan Organik Malt Unlu Ekmekler, Unlu Mamulleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Malt Flour Breads, from the Flour & Flour Products range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik خبز بدقيق الشعير المملّت (المالت)، من مجموعة الدقيق ومشتقاته، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Malzmehlbrote aus der Gruppe Mehl & Mehlprodukte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik モルト粉パンは、小麦粉・粉類製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 맥아가루 빵은(는) 밀가루 및 가루 제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Malt Unlu Ekmekler, Unlu Mamulleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Malt Flour Breads, Flour & Flour Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, خبز بدقيق الشعير المملّت (المالت), الدقيق ومشتقاته",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Malzmehlbrote, Mehl & Mehlprodukte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, モルト粉パン, 小麦粉・粉類製品",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 맥아가루 빵, 밀가루 및 가루 제품"
+  },
+  "path": "malt-unlu-ekmekler",
+  "icon": "grain",
+  "category": "c17iqfmey",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 41,
+  "url": "",
+  "text": {
+    "tr": "<h2>Malt Unlu Ekmekler</h2><p>Tufan Organik Malt Unlu Ekmekler, Unlu Mamulleri grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Malt Flour Breads</h2><p>Tufan Organik Malt Flour Breads belongs to the Flour & Flour Products range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>خبز بدقيق الشعير المملّت (المالت)</h2><p>خبز بدقيق الشعير المملّت (المالت) من توفان أورغانيك ضمن مجموعة الدقيق ومشتقاته. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Malzmehlbrote</h2><p>Tufan Organik Malzmehlbrote gehört zur Gruppe Mehl & Mehlprodukte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>モルト粉パン</h2><p>Tufan Organik モルト粉パンは小麦粉・粉類製品カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>맥아가루 빵</h2><p>Tufan Organik 맥아가루 빵은(는) 밀가루 및 가루 제품군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Malt Unlu Ekmekler | Tufan Organik",
+    "en": "Malt Flour Breads | Tufan Organik",
+    "ar": "خبز بدقيق الشعير المملّت (المالت) | Tufan Organik",
+    "de": "Malzmehlbrote | Tufan Organik",
+    "ja": "モルト粉パン | Tufan Organik",
+    "ko": "맥아가루 빵 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:31:23.166Z",
+  "update": "2026-11-06T07:31:24.251Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

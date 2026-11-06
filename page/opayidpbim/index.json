@@ -27,13 +27,13 @@
   "path": "inek-sutu-kaymagi",
   "icon": "breakfast_dining",
   "category": "c07kuruseb",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 0,
+  "index": 252,
   "url": "",
   "text": {
     "tr": "<h2>İnek Sütü Kaymağı ile Kahvaltıya Yumuşak Bir Dokunuş</h2><p>Kahvaltı denince akla gelen ilk lezzetlerden biri olan inek sütü kaymağı, sütün yüzeyinde toplanan yağlı tabakadan elde edilen, krem rengi ve yoğun kıvamlı bir süt ürünüdür. Dokusu kadifemsi, tadı hafif tatlımsı ve süt kokuludur. Kaşıkla alındığında katmanlı yapısı belirginleşir, ağızda ise yavaşça erir.</p><p>Bal, reçel ya da pekmezle eşleşen klasik bir kahvaltılıktır; şerbetli tatlıların, özellikle kadayıf ve künefenin yanında da servis edilir. Buzdolabından çıkarıp birkaç dakika beklettikten sonra sunmak, dokusunun yumuşamasını sağlar. Tufan Organik, kaymağı tatlı ve kahvaltı ürünlerinin en yakın eşlikçisi olarak süt ürünleri grubunda sunuyor.</p><h3>Kullanım Önerileri</h3><ul><li>Sıcak ekmeğe kaymak sürüp üzerine bal ya da dut pekmezi gezdirin.</li><li>Fıstıklı kadayıf veya künefenin yanına bir kaşık kaymak koyarak servis edin.</li><li>Ayva ya da kabak tatlısının üzerine kaymak ekleyerek tabağı tamamlayın.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "牛乳カイマック（クロテッドクリーム） | Tufan Organik"
   },
   "date": "2026-10-28T08:16:34.013Z",
-  "update": "2026-10-28T09:07:53.932Z",
+  "update": "2026-11-06T07:34:28.177Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

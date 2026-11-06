@@ -27,13 +27,13 @@
   "path": "sumak-sosu",
   "icon": "breakfast_dining",
   "category": "c05kurumey",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 46,
+  "index": 298,
   "url": "",
   "text": {
     "tr": "<h2>Sumak Sosu: Güneşte Kıvam Bulan Ekşi Lezzet</h2>\n<p>Sumak sosu, doğadan toplanan sumak meyvelerinden elde edilen ve güneşte kıvam alan koyu kırmızı renkli bir sostur. Ekşiliği limondan daha yumuşak, meyvemsi ve hafif buruktur. Salatalara, mezelere ve et yemeklerine akışkan bir ekşilik vermek için kullanılır; birkaç damlası bile tabağın tadını değiştirir.</p>\n<p>Tufan Organik, sumağı toz halinde kullanmaya alışmış olanlara onu sıvı bir sos olarak da sunar. Kıvamlı yapısı sayesinde tabağın üzerine ince bir şerit halinde gezdirmek kolaydır ve zeytinyağıyla çırpıldığında salatalar için pratik bir sos tabanına dönüşür. Ekşi tatları seven sofralarda limonun yerine rahatlıkla kullanılabilir.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Soğan piyazına ve çoban salatasına birkaç kaşık sumak sosu gezdirin.</li>\n<li>Izgara etlerin yanında sunulan soğanı sumak sosu ve maydanozla harmanlayın.</li>\n<li>Haşlanmış nohut ya da fasulye salatalarına zeytinyağıyla birlikte ekleyin.</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "スマックソース | Tufan Organik"
   },
   "date": "2026-10-28T08:16:24.093Z",
-  "update": "2026-10-28T09:07:26.635Z",
+  "update": "2026-11-06T07:35:08.785Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

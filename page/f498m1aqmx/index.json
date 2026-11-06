@@ -27,13 +27,13 @@
   "path": "cok-amacli-beyaz-un",
   "icon": "grain",
   "category": "c17iqfmey",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 229,
+  "index": 481,
   "url": "",
   "text": {
     "tr": "<h2>Çok Amaçlı Beyaz Un</h2><p>Börek, kek, kurabiye, bulamaç ve günlük mutfak ihtiyaçları için uygun, ince öğütülmüş beyaz un. Topaksız yapısıyla hamura kolay karışır.</p><h3>Kullanım Önerisi</h3><ul><li>Kullanmadan önce eleyerek hava almasını sağlayın.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "万能小麦粉 | Tufan Organik"
   },
   "date": "2026-11-02T10:42:45.000Z",
-  "update": "2026-11-02T10:42:45.000Z",
+  "update": "2026-11-06T07:38:06.914Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

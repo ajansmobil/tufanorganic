@@ -27,13 +27,13 @@
   "path": "irmik",
   "icon": "grain",
   "category": "c17iqfmey",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 236,
+  "index": 488,
   "url": "",
   "text": {
     "tr": "<h2>İrmik</h2><p>Sert buğdayın iri taneli öğütülmesiyle elde edilen irmik; helva, revani, irmik tatlısı ve çorbalarda kullanılır. Kum gibi tanecikli yapısı pişince yumuşar.</p><h3>Kullanım Önerisi</h3><ul><li>Tereyağında kavurup sütle pişirerek irmik helvası yapın.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "セモリナ | Tufan Organik"
   },
   "date": "2026-11-02T10:42:45.000Z",
-  "update": "2026-11-02T10:42:45.000Z",
+  "update": "2026-11-06T07:38:14.110Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

@@ -1,0 +1,62 @@
+{
+  "id": "ft1k5pega0",
+  "name": {
+    "tr": "Gül Şerbeti",
+    "en": "Rose Sherbet (Şerbet)",
+    "ar": "شربات الورد",
+    "de": "Rosen-Şerbet",
+    "ja": "ローズのシェルベット",
+    "ko": "장미 셰르베트"
+  },
+  "description": {
+    "tr": "Tufan Organik Gül Şerbeti, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Rose Sherbet (Şerbet), from the Sour, Hot and Sweet Special Sauces, Vinegars and Beverages range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik شربات الورد، من مجموعة الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Rosen-Şerbet aus der Gruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik ローズのシェルベットは、酸味・辛味・甘味の特別ソース、酢、飲料カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 장미 셰르베트은(는) 새콤·매콤·달콤 특선 소스, 식초 및 음료군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Gül Şerbeti, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Rose Sherbet (Şerbet), Sour, Hot and Sweet Special Sauces, Vinegars and Beverages",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, شربات الورد, الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Rosen-Şerbet, Saure, scharfe und süße Spezialsaucen, Essig und Getränke",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ローズのシェルベット, 酸味・辛味・甘味の特別ソース、酢、飲料",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 장미 셰르베트, 새콤·매콤·달콤 특선 소스, 식초 및 음료"
+  },
+  "path": "gul-serbeti",
+  "icon": "breakfast_dining",
+  "category": "obbkh64oa1",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 9,
+  "url": "",
+  "text": {
+    "tr": "<h2>Gül Şerbeti</h2><p>Tufan Organik Gül Şerbeti, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Rose Sherbet (Şerbet)</h2><p>Tufan Organik Rose Sherbet (Şerbet) belongs to the Sour, Hot and Sweet Special Sauces, Vinegars and Beverages range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>شربات الورد</h2><p>شربات الورد من توفان أورغانيك ضمن مجموعة الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Rosen-Şerbet</h2><p>Tufan Organik Rosen-Şerbet gehört zur Gruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>ローズのシェルベット</h2><p>Tufan Organik ローズのシェルベットは酸味・辛味・甘味の特別ソース、酢、飲料カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>장미 셰르베트</h2><p>Tufan Organik 장미 셰르베트은(는) 새콤·매콤·달콤 특선 소스, 식초 및 음료군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Gül Şerbeti | Tufan Organik",
+    "en": "Rose Sherbet (Şerbet) | Tufan Organik",
+    "ar": "شربات الورد | Tufan Organik",
+    "de": "Rosen-Şerbet | Tufan Organik",
+    "ja": "ローズのシェルベット | Tufan Organik",
+    "ko": "장미 셰르베트 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:32:35.055Z",
+  "update": "2026-11-06T07:32:36.434Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

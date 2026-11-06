@@ -1,0 +1,62 @@
+{
+  "id": "hu0jpcl730",
+  "name": {
+    "tr": "Vişne Reçeli",
+    "en": "Sour Cherry Jam",
+    "ar": "مربى الكرز الحامض (الوشنة)",
+    "de": "Sauerkirschkonfitüre",
+    "ja": "サワーチェリージャム",
+    "ko": "사워체리잼"
+  },
+  "description": {
+    "tr": "Tufan Organik Vişne Reçeli, Meyve Özü Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Sour Cherry Jam, from the Fruit Extracts range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik مربى الكرز الحامض (الوشنة)، من مجموعة مستخلصات الفاكهة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Sauerkirschkonfitüre aus der Gruppe Fruchtextrakte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik サワーチェリージャムは、フルーツエキスカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 사워체리잼은(는) 과일 추출물군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Vişne Reçeli, Meyve Özü Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Sour Cherry Jam, Fruit Extracts",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, مربى الكرز الحامض (الوشنة), مستخلصات الفاكهة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Sauerkirschkonfitüre, Fruchtextrakte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, サワーチェリージャム, フルーツエキス",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 사워체리잼, 과일 추출물"
+  },
+  "path": "visne-receli-2",
+  "icon": "breakfast_dining",
+  "category": "c11pekmez",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 139,
+  "url": "",
+  "text": {
+    "tr": "<h2>Vişne Reçeli</h2><p>Tufan Organik Vişne Reçeli, Meyve Özü Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Sour Cherry Jam</h2><p>Tufan Organik Sour Cherry Jam belongs to the Fruit Extracts range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>مربى الكرز الحامض (الوشنة)</h2><p>مربى الكرز الحامض (الوشنة) من توفان أورغانيك ضمن مجموعة مستخلصات الفاكهة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Sauerkirschkonfitüre</h2><p>Tufan Organik Sauerkirschkonfitüre gehört zur Gruppe Fruchtextrakte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>サワーチェリージャム</h2><p>Tufan Organik サワーチェリージャムはフルーツエキスカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>사워체리잼</h2><p>Tufan Organik 사워체리잼은(는) 과일 추출물군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Vişne Reçeli | Tufan Organik",
+    "en": "Sour Cherry Jam | Tufan Organik",
+    "ar": "مربى الكرز الحامض (الوشنة) | Tufan Organik",
+    "de": "Sauerkirschkonfitüre | Tufan Organik",
+    "ja": "サワーチェリージャム | Tufan Organik",
+    "ko": "사워체리잼 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:28:32.093Z",
+  "update": "2026-11-06T07:28:32.801Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

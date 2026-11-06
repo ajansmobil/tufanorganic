@@ -1,0 +1,62 @@
+{
+  "id": "v2jyx26377",
+  "name": {
+    "tr": "Tane Dondurulmuş İncir",
+    "en": "IQF Frozen Figs",
+    "ar": "تين مجمد فردياً (IQF)",
+    "de": "IQF-tiefgefrorene Feigen",
+    "ja": "IQF冷凍イチジク",
+    "ko": "IQF 개별 급속 냉동 무화과"
+  },
+  "description": {
+    "tr": "Tufan Organik Tane Dondurulmuş İncir, Dondurulmuş Meyve Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik IQF Frozen Figs, from the Frozen Fruits range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik تين مجمد فردياً (IQF)، من مجموعة الفواكه المجمدة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik IQF-tiefgefrorene Feigen aus der Gruppe Tiefkühl-Obst – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik IQF冷凍イチジクは、凍結フルーツカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik IQF 개별 급속 냉동 무화과은(는) 냉동 과일군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Tane Dondurulmuş İncir, Dondurulmuş Meyve Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, IQF Frozen Figs, Frozen Fruits",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, تين مجمد فردياً (IQF), الفواكه المجمدة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, IQF-tiefgefrorene Feigen, Tiefkühl-Obst",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, IQF冷凍イチジク, 凍結フルーツ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, IQF 개별 급속 냉동 무화과, 냉동 과일"
+  },
+  "path": "tane-dondurulmus-incir",
+  "icon": "ac_unit",
+  "category": "c14siviya",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 69,
+  "url": "",
+  "text": {
+    "tr": "<h2>Tane Dondurulmuş İncir</h2><p>Tufan Organik Tane Dondurulmuş İncir, Dondurulmuş Meyve Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>IQF Frozen Figs</h2><p>Tufan Organik IQF Frozen Figs belongs to the Frozen Fruits range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>تين مجمد فردياً (IQF)</h2><p>تين مجمد فردياً (IQF) من توفان أورغانيك ضمن مجموعة الفواكه المجمدة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>IQF-tiefgefrorene Feigen</h2><p>Tufan Organik IQF-tiefgefrorene Feigen gehört zur Gruppe Tiefkühl-Obst. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>IQF冷凍イチジク</h2><p>Tufan Organik IQF冷凍イチジクは凍結フルーツカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>IQF 개별 급속 냉동 무화과</h2><p>Tufan Organik IQF 개별 급속 냉동 무화과은(는) 냉동 과일군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Tane Dondurulmuş İncir | Tufan Organik",
+    "en": "IQF Frozen Figs | Tufan Organik",
+    "ar": "تين مجمد فردياً (IQF) | Tufan Organik",
+    "de": "IQF-tiefgefrorene Feigen | Tufan Organik",
+    "ja": "IQF冷凍イチジク | Tufan Organik",
+    "ko": "IQF 개별 급속 냉동 무화과 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:30:25.092Z",
+  "update": "2026-11-06T07:30:26.029Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

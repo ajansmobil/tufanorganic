@@ -1,0 +1,62 @@
+{
+  "id": "4ms8dfpjl4",
+  "name": {
+    "tr": "Izgara Peynir",
+    "en": "Grilling Cheese",
+    "ar": "جبنة للشوي",
+    "de": "Grillkäse",
+    "ja": "グリル用チーズ",
+    "ko": "구이용 치즈"
+  },
+  "description": {
+    "tr": "Tufan Organik Izgara Peynir, Süt ve Süt Ürünleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Grilling Cheese, from the Milk and Dairy Products range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik جبنة للشوي، من مجموعة الحليب ومنتجات الألبان، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Grillkäse aus der Gruppe Milch und Milchprodukte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik グリル用チーズは、乳製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 구이용 치즈은(는) 우유 및 유제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Izgara Peynir, Süt ve Süt Ürünleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Grilling Cheese, Milk and Dairy Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, جبنة للشوي, الحليب ومنتجات الألبان",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Grillkäse, Milch und Milchprodukte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, グリル用チーズ, 乳製品",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 구이용 치즈, 우유 및 유제품"
+  },
+  "path": "izgara-peynir",
+  "icon": "egg",
+  "category": "c07kuruseb",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 182,
+  "url": "",
+  "text": {
+    "tr": "<h2>Izgara Peynir</h2><p>Tufan Organik Izgara Peynir, Süt ve Süt Ürünleri grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Grilling Cheese</h2><p>Tufan Organik Grilling Cheese belongs to the Milk and Dairy Products range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>جبنة للشوي</h2><p>جبنة للشوي من توفان أورغانيك ضمن مجموعة الحليب ومنتجات الألبان. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Grillkäse</h2><p>Tufan Organik Grillkäse gehört zur Gruppe Milch und Milchprodukte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>グリル用チーズ</h2><p>Tufan Organik グリル用チーズは乳製品カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>구이용 치즈</h2><p>Tufan Organik 구이용 치즈은(는) 우유 및 유제품군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Izgara Peynir | Tufan Organik",
+    "en": "Grilling Cheese | Tufan Organik",
+    "ar": "جبنة للشوي | Tufan Organik",
+    "de": "Grillkäse | Tufan Organik",
+    "ja": "グリル用チーズ | Tufan Organik",
+    "ko": "구이용 치즈 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:27:38.566Z",
+  "update": "2026-11-06T07:27:39.139Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "sygvlbg2pm",
+  "name": {
+    "tr": "Kurutulmuş Cennet Hurması (Tane / Küp / İnce Yassı Dilimli)",
+    "en": "Dried Persimmon (Whole / Diced / Thin Flat Sliced)",
+    "ar": "كاكا مجفف (البرسيمون) (حبات كاملة / مكعبات / شرائح رقيقة مسطحة)",
+    "de": "Getrocknete Kaki (ganz / gewürfelt / in dünnen flachen Scheiben)",
+    "ja": "干し柿（ホール／ダイス／薄切りフラットスライス）",
+    "ko": "건감 (통 / 큐브 / 얇은 납작 슬라이스)"
+  },
+  "description": {
+    "tr": "Tufan Organik Kurutulmuş Cennet Hurması (Tane / Küp / İnce Yassı Dilimli), Kurutulmuş Meyve Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Dried Persimmon (Whole / Diced / Thin Flat Sliced), from the Dried Fruits range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik كاكا مجفف (البرسيمون) (حبات كاملة / مكعبات / شرائح رقيقة مسطحة)، من مجموعة الفواكه المجففة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Getrocknete Kaki (ganz / gewürfelt / in dünnen flachen Scheiben) aus der Gruppe Trockenfrüchte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 干し柿（ホール／ダイス／薄切りフラットスライス）は、ドライフルーツカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 건감 (통 / 큐브 / 얇은 납작 슬라이스)은(는) 건조 과일군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Kurutulmuş Cennet Hurması (Tane / Küp / İnce Yassı Dilimli), Kurutulmuş Meyve Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Dried Persimmon (Whole / Diced / Thin Flat Sliced), Dried Fruits",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, كاكا مجفف (البرسيمون) (حبات كاملة / مكعبات / شرائح رقيقة مسطحة), الفواكه المجففة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Getrocknete Kaki (ganz / gewürfelt / in dünnen flachen Scheiben), Trockenfrüchte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 干し柿（ホール／ダイス／薄切りフラットスライス）, ドライフルーツ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 건감 (통 / 큐브 / 얇은 납작 슬라이스), 건조 과일"
+  },
+  "path": "kurutulmus-cennet-hurmasi",
+  "icon": "spa",
+  "category": "c13konserve",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 94,
+  "url": "",
+  "text": {
+    "tr": "<h2>Kurutulmuş Cennet Hurması (Tane / Küp / İnce Yassı Dilimli)</h2><p>Tufan Organik Kurutulmuş Cennet Hurması (Tane / Küp / İnce Yassı Dilimli), Kurutulmuş Meyve Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Dried Persimmon (Whole / Diced / Thin Flat Sliced)</h2><p>Tufan Organik Dried Persimmon (Whole / Diced / Thin Flat Sliced) belongs to the Dried Fruits range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>كاكا مجفف (البرسيمون) (حبات كاملة / مكعبات / شرائح رقيقة مسطحة)</h2><p>كاكا مجفف (البرسيمون) (حبات كاملة / مكعبات / شرائح رقيقة مسطحة) من توفان أورغانيك ضمن مجموعة الفواكه المجففة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Getrocknete Kaki (ganz / gewürfelt / in dünnen flachen Scheiben)</h2><p>Tufan Organik Getrocknete Kaki (ganz / gewürfelt / in dünnen flachen Scheiben) gehört zur Gruppe Trockenfrüchte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>干し柿（ホール／ダイス／薄切りフラットスライス）</h2><p>Tufan Organik 干し柿（ホール／ダイス／薄切りフラットスライス）はドライフルーツカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>건감 (통 / 큐브 / 얇은 납작 슬라이스)</h2><p>Tufan Organik 건감 (통 / 큐브 / 얇은 납작 슬라이스)은(는) 건조 과일군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Kurutulmuş Cennet Hurması (Tane / Küp / İnce Yassı Dilimli) | Tufan Organik",
+    "en": "Dried Persimmon (Whole / Diced / Thin Flat Sliced) | Tufan Organik",
+    "ar": "كاكا مجفف (البرسيمون) (حبات كاملة / مكعبات / شرائح رقيقة مسطحة) | Tufan Organik",
+    "de": "Getrocknete Kaki (ganz / gewürfelt / in dünnen flachen Scheiben) | Tufan Organik",
+    "ja": "干し柿（ホール／ダイス／薄切りフラットスライス） | Tufan Organik",
+    "ko": "건감 (통 / 큐브 / 얇은 납작 슬라이스) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:29:40.930Z",
+  "update": "2026-11-06T07:29:41.788Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

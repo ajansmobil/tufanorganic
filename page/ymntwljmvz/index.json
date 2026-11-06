@@ -27,13 +27,13 @@
   "path": "sari-mercimek",
   "icon": "breakfast_dining",
   "category": "c02findik",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 60,
+  "index": 312,
   "url": "",
   "text": {
     "tr": "<h2>Sarı Mercimek: Kadifemsi Çorbaların Altın Tanesi</h2><p>Kabuğu alınıp ikiye ayrılmış küçük, altın sarısı taneler: sarı mercimek bakliyat dolabının en pratik üyelerinden biridir. Kırmızı mercimeğe göre biraz daha geç dağılır ve pişince yumuşak, hafif tereyağımsı bir tat verir. Tamamen ezilmeden de kıvam bulduğu için hem pürüzsüz çorbalara hem de taneli yemeklere uyum sağlar.</p><p>Hint mutfağının dal yemeklerinden Anadolu'nun ezogelin benzeri çorbalarına kadar geniş bir kullanım alanı vardır. Pişirmeden önce birkaç kez yıkamak köpüğü azaltır, kısa bir ıslatma ise süreyi kısaltır. Tufan Organik bakliyat grubunda yer alan sarı mercimek, kilerde her zaman el altında durabilecek temel bir malzeme olarak düşünüldü.</p><h3>Kullanım Önerileri</h3><ul><li>Zerdeçal, kimyon ve kızarmış sarımsakla tatlandırılmış bir sarı mercimek çorbası hazırlayın.</li><li>Hindistan cevizi sütü ve ıspanakla kremamsı bir dal yemeği pişirin.</li><li>Haşlanmış mercimeği köfte harcına ya da sebze püresine ekleyerek kıvam verin.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "イエローレンズ | Tufan Organik"
   },
   "date": "2026-10-28T08:16:21.781Z",
-  "update": "2026-10-28T09:08:10.852Z",
+  "update": "2026-11-06T07:35:22.485Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

@@ -1,0 +1,62 @@
+{
+  "id": "t5y18cdfla",
+  "name": {
+    "tr": "Hardaliye Şurubu",
+    "en": "Hardaliye Syrup (Grape and Mustard Seed Drink)",
+    "ar": "شراب هارداليه (مشروب العنب وبذور الخردل)",
+    "de": "Hardaliye-Sirup (Traubengetränk mit Senfsaat)",
+    "ja": "ハルダリエ・シロップ（ブドウとマスタードシードの伝統飲料）",
+    "ko": "하르달리예 시럽 (포도와 겨자씨 전통 음료)"
+  },
+  "description": {
+    "tr": "Tufan Organik Hardaliye Şurubu, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Hardaliye Syrup (Grape and Mustard Seed Drink), from the Sour, Hot and Sweet Special Sauces, Vinegars and Beverages range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik شراب هارداليه (مشروب العنب وبذور الخردل)، من مجموعة الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Hardaliye-Sirup (Traubengetränk mit Senfsaat) aus der Gruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik ハルダリエ・シロップ（ブドウとマスタードシードの伝統飲料）は、酸味・辛味・甘味の特別ソース、酢、飲料カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 하르달리예 시럽 (포도와 겨자씨 전통 음료)은(는) 새콤·매콤·달콤 특선 소스, 식초 및 음료군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Hardaliye Şurubu, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Hardaliye Syrup (Grape and Mustard Seed Drink), Sour, Hot and Sweet Special Sauces, Vinegars and Beverages",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, شراب هارداليه (مشروب العنب وبذور الخردل), الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Hardaliye-Sirup (Traubengetränk mit Senfsaat), Saure, scharfe und süße Spezialsaucen, Essig und Getränke",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ハルダリエ・シロップ（ブドウとマスタードシードの伝統飲料）, 酸味・辛味・甘味の特別ソース、酢、飲料",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 하르달리예 시럽 (포도와 겨자씨 전통 음료), 새콤·매콤·달콤 특선 소스, 식초 및 음료"
+  },
+  "path": "hardaliye-surubu",
+  "icon": "breakfast_dining",
+  "category": "obbkh64oa1",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 13,
+  "url": "",
+  "text": {
+    "tr": "<h2>Hardaliye Şurubu</h2><p>Tufan Organik Hardaliye Şurubu, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Hardaliye Syrup (Grape and Mustard Seed Drink)</h2><p>Tufan Organik Hardaliye Syrup (Grape and Mustard Seed Drink) belongs to the Sour, Hot and Sweet Special Sauces, Vinegars and Beverages range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>شراب هارداليه (مشروب العنب وبذور الخردل)</h2><p>شراب هارداليه (مشروب العنب وبذور الخردل) من توفان أورغانيك ضمن مجموعة الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Hardaliye-Sirup (Traubengetränk mit Senfsaat)</h2><p>Tufan Organik Hardaliye-Sirup (Traubengetränk mit Senfsaat) gehört zur Gruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>ハルダリエ・シロップ（ブドウとマスタードシードの伝統飲料）</h2><p>Tufan Organik ハルダリエ・シロップ（ブドウとマスタードシードの伝統飲料）は酸味・辛味・甘味の特別ソース、酢、飲料カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>하르달리예 시럽 (포도와 겨자씨 전통 음료)</h2><p>Tufan Organik 하르달리예 시럽 (포도와 겨자씨 전통 음료)은(는) 새콤·매콤·달콤 특선 소스, 식초 및 음료군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Hardaliye Şurubu | Tufan Organik",
+    "en": "Hardaliye Syrup (Grape and Mustard Seed Drink) | Tufan Organik",
+    "ar": "شراب هارداليه (مشروب العنب وبذور الخردل) | Tufan Organik",
+    "de": "Hardaliye-Sirup (Traubengetränk mit Senfsaat) | Tufan Organik",
+    "ja": "ハルダリエ・シロップ（ブドウとマスタードシードの伝統飲料） | Tufan Organik",
+    "ko": "하르달리예 시럽 (포도와 겨자씨 전통 음료) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:32:25.638Z",
+  "update": "2026-11-06T07:32:26.824Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

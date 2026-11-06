@@ -27,13 +27,13 @@
   "path": "yemeklik-avokado-yagi",
   "icon": "breakfast_dining",
   "category": "te81hka2g5",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 15,
+  "index": 267,
   "url": "",
   "text": {
     "tr": "<h2>Yemeklik Avokado Yağı ile Sıcak ve Soğuk Tariflerde Hafif Bir Tat</h2>\n<p>Avokado yağı, avokado meyvesinin etli kısmından elde edilen, açık yeşilden altın sarısına uzanan renkte bir yemeklik yağdır. Tadı oldukça yumuşaktır, tereyağımsı ve otsu notalar taşır; yemeklerin kendi aromasını bastırmaz. Bu yönüyle hem sıcak pişirmelerde hem de soğuk tabaklarda rahatça kullanılabilir.</p>\n<p>Tufan Organik yağ grubunda avokado yağı, zeytinyağının yanında farklı bir seçenek arayan mutfaklar için yer alıyor. Sotelerde, ızgara sebzelerde ve fırın yemeklerinde kullanılabileceği gibi salata sosuna da hafif bir yağ tabanı olur. Şişeyi ışıktan uzak, serin bir dolapta saklamak tadını korur.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Sebze ve tavuk sotelerinde pişirme yağı olarak</li>\n<li>Limon suyu ve hardalla çırpılarak hazırlanan salata sosu</li>\n<li>Fırına girmeden önce patates ve kök sebzelere sürülerek</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "調理用アボカドオイル | Tufan Organik"
   },
   "date": "2026-10-28T08:16:30.365Z",
-  "update": "2026-10-28T09:08:02.270Z",
+  "update": "2026-11-06T07:34:40.503Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

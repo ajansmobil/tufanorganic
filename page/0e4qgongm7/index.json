@@ -27,13 +27,13 @@
   "path": "dovme-bulgur",
   "icon": "breakfast_dining",
   "category": "c01fistik",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 64,
+  "index": 316,
   "url": "",
   "text": {
     "tr": "<h2>Dövme Bulgur ile Doyurucu Tencere Yemekleri</h2><p>Dövme, kabuğu alınmış buğday tanelerinden oluşan, bütün ya da iri kırık halde kullanılan bir bulgur çeşididir. İnce bulgura göre daha uzun pişer; pişerken taneler şişer, yumuşar ama dağılmaz. Tok ve hafif tatlımsı bir buğday tadı vardır, yemeğe hem belirgin bir doku hem de dolgunluk katar.</p><p>Etli ya da nohutlu yemeklerde, yoğurtlu çorbalarda ve aşure gibi tatlılarda sıkça tercih edilir. Pişirmeden önce birkaç saat suda bekletmek pişirme süresini kısaltır ve tanelerin eşit yumuşamasına yardımcı olur. Ev mutfaklarının bu tanıdık malzemesini Tufan Organik, kışlık tencere yemeklerinden bayram tatlılarına uzanan bir kullanım için sunuyor.</p><h3>Kullanım Önerileri</h3><ul><li>Kuzu eti ve nohutla ağır ateşte pişirerek doyurucu bir dövme aşı hazırlayın.</li><li>Yoğurt, kuru nane ve haşlanmış dövmeyle sıcak bir yayla çorbası yapın.</li><li>Aşure ya da buğday tatlısında dövmeyi kuru meyve ve cevizle birleştirin.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "ドヴェメブルグル（脱殻小麦） | Tufan Organik"
   },
   "date": "2026-10-28T08:16:21.169Z",
-  "update": "2026-10-28T09:07:17.023Z",
+  "update": "2026-11-06T07:35:26.087Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

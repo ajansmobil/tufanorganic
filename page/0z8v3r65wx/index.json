@@ -1,0 +1,62 @@
+{
+  "id": "0z8v3r65wx",
+  "name": {
+    "tr": "Kurutulmuş Kayısı (Gün Kurusu)",
+    "en": "Dried Apricots (Sun-Dried, Natural)",
+    "ar": "مشمش مجفف (مجفف بالشمس، طبيعي)",
+    "de": "Getrocknete Aprikosen (sonnengetrocknet, naturbelassen)",
+    "ja": "ドライアプリコット（天日干し・ナチュラル）",
+    "ko": "건살구 (자연 햇볕 건조)"
+  },
+  "description": {
+    "tr": "Tufan Organik Kurutulmuş Kayısı (Gün Kurusu), Kurutulmuş Meyve Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Dried Apricots (Sun-Dried, Natural), from the Dried Fruits range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik مشمش مجفف (مجفف بالشمس، طبيعي)، من مجموعة الفواكه المجففة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Getrocknete Aprikosen (sonnengetrocknet, naturbelassen) aus der Gruppe Trockenfrüchte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik ドライアプリコット（天日干し・ナチュラル）は、ドライフルーツカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 건살구 (자연 햇볕 건조)은(는) 건조 과일군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Kurutulmuş Kayısı (Gün Kurusu), Kurutulmuş Meyve Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Dried Apricots (Sun-Dried, Natural), Dried Fruits",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, مشمش مجفف (مجفف بالشمس، طبيعي), الفواكه المجففة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Getrocknete Aprikosen (sonnengetrocknet, naturbelassen), Trockenfrüchte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ドライアプリコット（天日干し・ナチュラル）, ドライフルーツ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 건살구 (자연 햇볕 건조), 건조 과일"
+  },
+  "path": "kurutulmus-kayisi-2",
+  "icon": "spa",
+  "category": "c13konserve",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 97,
+  "url": "",
+  "text": {
+    "tr": "<h2>Kurutulmuş Kayısı (Gün Kurusu)</h2><p>Tufan Organik Kurutulmuş Kayısı (Gün Kurusu), Kurutulmuş Meyve Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Dried Apricots (Sun-Dried, Natural)</h2><p>Tufan Organik Dried Apricots (Sun-Dried, Natural) belongs to the Dried Fruits range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>مشمش مجفف (مجفف بالشمس، طبيعي)</h2><p>مشمش مجفف (مجفف بالشمس، طبيعي) من توفان أورغانيك ضمن مجموعة الفواكه المجففة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Getrocknete Aprikosen (sonnengetrocknet, naturbelassen)</h2><p>Tufan Organik Getrocknete Aprikosen (sonnengetrocknet, naturbelassen) gehört zur Gruppe Trockenfrüchte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>ドライアプリコット（天日干し・ナチュラル）</h2><p>Tufan Organik ドライアプリコット（天日干し・ナチュラル）はドライフルーツカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>건살구 (자연 햇볕 건조)</h2><p>Tufan Organik 건살구 (자연 햇볕 건조)은(는) 건조 과일군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Kurutulmuş Kayısı (Gün Kurusu) | Tufan Organik",
+    "en": "Dried Apricots (Sun-Dried, Natural) | Tufan Organik",
+    "ar": "مشمش مجفف (مجفف بالشمس، طبيعي) | Tufan Organik",
+    "de": "Getrocknete Aprikosen (sonnengetrocknet, naturbelassen) | Tufan Organik",
+    "ja": "ドライアプリコット（天日干し・ナチュラル） | Tufan Organik",
+    "ko": "건살구 (자연 햇볕 건조) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:29:35.929Z",
+  "update": "2026-11-06T07:29:36.791Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

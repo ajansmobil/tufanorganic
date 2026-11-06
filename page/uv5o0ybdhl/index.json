@@ -1,0 +1,62 @@
+{
+  "id": "uv5o0ybdhl",
+  "name": {
+    "tr": "Mihaliç Peyniri",
+    "en": "Mihaliç Cheese",
+    "ar": "جبنة ميهاليتش",
+    "de": "Mihaliç-Käse",
+    "ja": "ミハリチチーズ",
+    "ko": "미할르치 치즈"
+  },
+  "description": {
+    "tr": "Tufan Organik Mihaliç Peyniri, Süt ve Süt Ürünleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Mihaliç Cheese, from the Milk and Dairy Products range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik جبنة ميهاليتش، من مجموعة الحليب ومنتجات الألبان، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Mihaliç-Käse aus der Gruppe Milch und Milchprodukte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik ミハリチチーズは、乳製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 미할르치 치즈은(는) 우유 및 유제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Mihaliç Peyniri, Süt ve Süt Ürünleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Mihaliç Cheese, Milk and Dairy Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, جبنة ميهاليتش, الحليب ومنتجات الألبان",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Mihaliç-Käse, Milch und Milchprodukte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ミハリチチーズ, 乳製品",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 미할르치 치즈, 우유 및 유제품"
+  },
+  "path": "mihalic-peyniri",
+  "icon": "egg",
+  "category": "c07kuruseb",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 186,
+  "url": "",
+  "text": {
+    "tr": "<h2>Mihaliç Peyniri</h2><p>Tufan Organik Mihaliç Peyniri, Süt ve Süt Ürünleri grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Mihaliç Cheese</h2><p>Tufan Organik Mihaliç Cheese belongs to the Milk and Dairy Products range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>جبنة ميهاليتش</h2><p>جبنة ميهاليتش من توفان أورغانيك ضمن مجموعة الحليب ومنتجات الألبان. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Mihaliç-Käse</h2><p>Tufan Organik Mihaliç-Käse gehört zur Gruppe Milch und Milchprodukte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>ミハリチチーズ</h2><p>Tufan Organik ミハリチチーズは乳製品カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>미할르치 치즈</h2><p>Tufan Organik 미할르치 치즈은(는) 우유 및 유제품군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Mihaliç Peyniri | Tufan Organik",
+    "en": "Mihaliç Cheese | Tufan Organik",
+    "ar": "جبنة ميهاليتش | Tufan Organik",
+    "de": "Mihaliç-Käse | Tufan Organik",
+    "ja": "ミハリチチーズ | Tufan Organik",
+    "ko": "미할르치 치즈 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:27:34.057Z",
+  "update": "2026-11-06T07:27:34.652Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

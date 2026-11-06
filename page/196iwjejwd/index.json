@@ -27,13 +27,13 @@
   "path": "kirmizi-mercimek-unlu-makarna",
   "icon": "breakfast_dining",
   "category": "c04yerfist",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 55,
+  "index": 307,
   "url": "",
   "text": {
     "tr": "<h2>Kırmızı Mercimek Unlu Makarna: Renkli ve Doyurucu</h2>\n<p>Kırmızı mercimek unlu makarna, mercimek unu kullanılarak hazırlanan, turuncumsu rengiyle tabakta hemen fark edilen bir makarna çeşididir. Hafif bakliyat aroması taşır, pişince yumuşak ama dağılmayan bir yapı kazanır. Sade tereyağlı tabaklarla da yoğun domates soslarıyla da iyi anlaşır.</p>\n<p>Tufan Organik makarna grubunda bu ürün, alışılmış makarnaya farklı bir seçenek arayanlar için yer alıyor. Bakliyat unlu makarnalar buğday makarnasından daha çabuk pişebildiğinden, ambalajdaki süreyi takip edip birkaç dakika önce tadına bakmak iyi olur. Pişirme suyunu bol tutmak yapışmayı önler.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Zeytinyağı, sarımsak ve kırmızı pul biberle hızlı bir akşam yemeği</li>\n<li>Sarımsaklı yoğurt ve tereyağlı sosla mantı usulü servis</li>\n<li>Ton balığı, mısır ve yeşilliklerle soğuk makarna salatası</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "赤レンズ豆粉入りパスタ | Tufan Organik"
   },
   "date": "2026-10-28T08:16:22.599Z",
-  "update": "2026-10-28T09:07:17.806Z",
+  "update": "2026-11-06T07:35:18.825Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

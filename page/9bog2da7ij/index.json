@@ -1,0 +1,62 @@
+{
+  "id": "9bog2da7ij",
+  "name": {
+    "tr": "Fındıklı Sucuk (Talep Üzerine Her Türlü Meyve Pekmezleri Kullanılır.)",
+    "en": "Hazelnut Sucuk (Molasses-Coated Nut Roll) – All Kinds of Fruit Molasses Can Be Used Upon Request",
+    "ar": "سجق الفواكه بالبندق (سوجوك – بندق مغلف بالدبس) – يمكن استخدام جميع أنواع دبس الفواكه حسب الطلب",
+    "de": "Haselnuss-Sucuk (Nussstrang in Fruchtsirup) – Auf Wunsch kann jede Art von Fruchtsirup (Pekmez) verwendet werden",
+    "ja": "ヘーゼルナッツ・スジュク（ナッツのペクメズ包み菓子）（ご要望に応じてあらゆる種類の果実ペクメズ（濃縮果汁シロップ）を使用可能）",
+    "ko": "헤이즐넛 수죽 (과일 당밀을 입힌 견과 막대) – 요청 시 모든 종류의 과일 페크메즈(과일 당밀) 사용 가능"
+  },
+  "description": {
+    "tr": "Tufan Organik Fındıklı Sucuk (Talep Üzerine Her Türlü Meyve Pekmezleri Kullanılır.), Pekmez Çeşitleri, Tahin ve Helva grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Hazelnut Sucuk (Molasses-Coated Nut Roll) – All Kinds of Fruit Molasses Can Be Used Upon Request, from the Molasses, Tahini and Halva range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik سجق الفواكه بالبندق (سوجوك – بندق مغلف بالدبس) – يمكن استخدام جميع أنواع دبس الفواكه حسب الطلب، من مجموعة أنواع الدبس والطحينة والحلاوة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Haselnuss-Sucuk (Nussstrang in Fruchtsirup) – Auf Wunsch kann jede Art von Fruchtsirup (Pekmez) verwendet werden aus der Gruppe Pekmez, Tahin und Halva – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik ヘーゼルナッツ・スジュク（ナッツのペクメズ包み菓子）（ご要望に応じてあらゆる種類の果実ペクメズ（濃縮果汁シロップ）を使用可能）は、ペクメズ、タヒニ、ハルヴァカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 헤이즐넛 수죽 (과일 당밀을 입힌 견과 막대) – 요청 시 모든 종류의 과일 페크메즈(과일 당밀) 사용 가능은(는) 페크메즈, 타힌 및 할바군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Fındıklı Sucuk (Talep Üzerine Her Türlü Meyve Pekmezleri Kullanılır.), Pekmez Çeşitleri, Tahin ve Helva",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Hazelnut Sucuk (Molasses-Coated Nut Roll) – All Kinds of Fruit Molasses Can Be Used Upon Request, Molasses, Tahini and Halva",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, سجق الفواكه بالبندق (سوجوك – بندق مغلف بالدبس) – يمكن استخدام جميع أنواع دبس الفواكه حسب الطلب, أنواع الدبس والطحينة والحلاوة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Haselnuss-Sucuk (Nussstrang in Fruchtsirup) – Auf Wunsch kann jede Art von Fruchtsirup (Pekmez) verwendet werden, Pekmez, Tahin und Halva",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ヘーゼルナッツ・スジュク（ナッツのペクメズ包み菓子）（ご要望に応じてあらゆる種類の果実ペクメズ（濃縮果汁シロップ）を使用可能）, ペクメズ、タヒニ、ハルヴァ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 헤이즐넛 수죽 (과일 당밀을 입힌 견과 막대) – 요청 시 모든 종류의 과일 페크메즈(과일 당밀) 사용 가능, 페크메즈, 타힌 및 할바"
+  },
+  "path": "findikli-sucuk",
+  "icon": "water_drop",
+  "category": "c12sut",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 106,
+  "url": "",
+  "text": {
+    "tr": "<h2>Fındıklı Sucuk (Talep Üzerine Her Türlü Meyve Pekmezleri Kullanılır.)</h2><p>Tufan Organik Fındıklı Sucuk (Talep Üzerine Her Türlü Meyve Pekmezleri Kullanılır.), Pekmez Çeşitleri, Tahin ve Helva grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Hazelnut Sucuk (Molasses-Coated Nut Roll) – All Kinds of Fruit Molasses Can Be Used Upon Request</h2><p>Tufan Organik Hazelnut Sucuk (Molasses-Coated Nut Roll) – All Kinds of Fruit Molasses Can Be Used Upon Request belongs to the Molasses, Tahini and Halva range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>سجق الفواكه بالبندق (سوجوك – بندق مغلف بالدبس) – يمكن استخدام جميع أنواع دبس الفواكه حسب الطلب</h2><p>سجق الفواكه بالبندق (سوجوك – بندق مغلف بالدبس) – يمكن استخدام جميع أنواع دبس الفواكه حسب الطلب من توفان أورغانيك ضمن مجموعة أنواع الدبس والطحينة والحلاوة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Haselnuss-Sucuk (Nussstrang in Fruchtsirup) – Auf Wunsch kann jede Art von Fruchtsirup (Pekmez) verwendet werden</h2><p>Tufan Organik Haselnuss-Sucuk (Nussstrang in Fruchtsirup) – Auf Wunsch kann jede Art von Fruchtsirup (Pekmez) verwendet werden gehört zur Gruppe Pekmez, Tahin und Halva. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>ヘーゼルナッツ・スジュク（ナッツのペクメズ包み菓子）（ご要望に応じてあらゆる種類の果実ペクメズ（濃縮果汁シロップ）を使用可能）</h2><p>Tufan Organik ヘーゼルナッツ・スジュク（ナッツのペクメズ包み菓子）（ご要望に応じてあらゆる種類の果実ペクメズ（濃縮果汁シロップ）を使用可能）はペクメズ、タヒニ、ハルヴァカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>헤이즐넛 수죽 (과일 당밀을 입힌 견과 막대) – 요청 시 모든 종류의 과일 페크메즈(과일 당밀) 사용 가능</h2><p>Tufan Organik 헤이즐넛 수죽 (과일 당밀을 입힌 견과 막대) – 요청 시 모든 종류의 과일 페크메즈(과일 당밀) 사용 가능은(는) 페크메즈, 타힌 및 할바군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Fındıklı Sucuk (Talep Üzerine Her Türlü Meyve Pekmezleri Kullanılır.) | Tufan Organik",
+    "en": "Hazelnut Sucuk (Molasses-Coated Nut Roll) – All Kinds of Fruit Molasses Can Be Used Upon Request | Tufan Organik",
+    "ar": "سجق الفواكه بالبندق (سوجوك – بندق مغلف بالدبس) – يمكن استخدام جميع أنواع دبس الفواكه حسب الطلب | Tufan Organik",
+    "de": "Haselnuss-Sucuk (Nussstrang in Fruchtsirup) – Auf Wunsch kann jede Art von Fruchtsirup (Pekmez) verwendet werden | Tufan Organik",
+    "ja": "ヘーゼルナッツ・スジュク（ナッツのペクメズ包み菓子）（ご要望に応じてあらゆる種類の果実ペクメズ（濃縮果汁シロップ）を使用可能） | Tufan Organik",
+    "ko": "헤이즐넛 수죽 (과일 당밀을 입힌 견과 막대) – 요청 시 모든 종류의 과일 페크메즈(과일 당밀) 사용 가능 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:29:21.386Z",
+  "update": "2026-11-06T07:29:22.193Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

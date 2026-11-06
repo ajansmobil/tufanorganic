@@ -1,0 +1,62 @@
+{
+  "id": "4n5nd5hfrd",
+  "name": {
+    "tr": "Organik Dilimlenmiş Domates",
+    "en": "Organic Sliced Tomatoes",
+    "ar": "طماطم عضوية مقطعة شرائح",
+    "de": "Bio-Tomaten in Scheiben",
+    "ja": "有機スライストマト",
+    "ko": "유기농 슬라이스 토마토"
+  },
+  "description": {
+    "tr": "Tufan Organik Dilimlenmiş Domates, Salça ve Soslar grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Sliced Tomatoes, from the Pastes and Sauces range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik طماطم عضوية مقطعة شرائح، من مجموعة المعجونات والصلصات، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Bio-Tomaten in Scheiben aus der Gruppe Pasten und Saucen – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 有機スライストマトは、トマトソースと調味料カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 유기농 슬라이스 토마토은(는) 페이스트 및 소스군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Organik Dilimlenmiş Domates, Salça ve Soslar",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Organic Sliced Tomatoes, Pastes and Sauces",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, طماطم عضوية مقطعة شرائح, المعجونات والصلصات",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Bio-Tomaten in Scheiben, Pasten und Saucen",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 有機スライストマト, トマトソースと調味料",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 유기농 슬라이스 토마토, 페이스트 및 소스"
+  },
+  "path": "organik-dilimlenmis-domates",
+  "icon": "lunch_dining",
+  "category": "c05kurumey",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 196,
+  "url": "",
+  "text": {
+    "tr": "<h2>Organik Dilimlenmiş Domates</h2><p>Tufan Organik Dilimlenmiş Domates, Salça ve Soslar grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Organic Sliced Tomatoes</h2><p>Tufan Organik Sliced Tomatoes belongs to the Pastes and Sauces range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>طماطم عضوية مقطعة شرائح</h2><p>طماطم عضوية مقطعة شرائح من توفان أورغانيك ضمن مجموعة المعجونات والصلصات. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Bio-Tomaten in Scheiben</h2><p>Tufan Organik Bio-Tomaten in Scheiben gehört zur Gruppe Pasten und Saucen. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>有機スライストマト</h2><p>Tufan Organik 有機スライストマトはトマトソースと調味料カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>유기농 슬라이스 토마토</h2><p>Tufan Organik 유기농 슬라이스 토마토은(는) 페이스트 및 소스군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Organik Dilimlenmiş Domates | Tufan Organik",
+    "en": "Organic Sliced Tomatoes | Tufan Organik",
+    "ar": "طماطم عضوية مقطعة شرائح | Tufan Organik",
+    "de": "Bio-Tomaten in Scheiben | Tufan Organik",
+    "ja": "有機スライストマト | Tufan Organik",
+    "ko": "유기농 슬라이스 토마토 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:27:23.274Z",
+  "update": "2026-11-06T07:34:20.165Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "80bs3wnfez",
+  "name": {
+    "tr": "Maltlanmış Organik Tam Buğday (Dinkel) Unu",
+    "en": "Malted Organic Whole Wheat (Dinkel/Spelt) Flour",
+    "ar": "دقيق قمح كامل عضوي مُملَّت (دينكل/الحنطة الإسبلتية)",
+    "de": "Gemälztes Bio-Vollkornmehl (Dinkel)",
+    "ja": "麦芽化有機全粒小麦（ディンケル／スペルト小麦）粉",
+    "ko": "맥아 처리 유기농 통밀 (딩켈/스펠트밀) 가루"
+  },
+  "description": {
+    "tr": "Tufan Organik Maltlanmış Organik Tam Buğday (Dinkel) Unu, Tahıl Grubu ve Unları grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Malted Organic Whole Wheat (Dinkel/Spelt) Flour, from the Cereals and Flours range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik دقيق قمح كامل عضوي مُملَّت (دينكل/الحنطة الإسبلتية)، من مجموعة الحبوب والدقيق، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Gemälztes Bio-Vollkornmehl (Dinkel) aus der Gruppe Getreide und Mehle – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 麦芽化有機全粒小麦（ディンケル／スペルト小麦）粉は、穀物と粉カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 맥아 처리 유기농 통밀 (딩켈/스펠트밀) 가루은(는) 곡물 및 밀가루군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Maltlanmış Organik Tam Buğday (Dinkel) Unu, Tahıl Grubu ve Unları",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Malted Organic Whole Wheat (Dinkel/Spelt) Flour, Cereals and Flours",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, دقيق قمح كامل عضوي مُملَّت (دينكل/الحنطة الإسبلتية), الحبوب والدقيق",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Gemälztes Bio-Vollkornmehl (Dinkel), Getreide und Mehle",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 麦芽化有機全粒小麦（ディンケル／スペルト小麦）粉, 穀物と粉",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 맥아 처리 유기농 통밀 (딩켈/스펠트밀) 가루, 곡물 및 밀가루"
+  },
+  "path": "maltlanmis-organik-tam-bugday-unu",
+  "icon": "breakfast_dining",
+  "category": "c01fistik",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 238,
+  "url": "",
+  "text": {
+    "tr": "<h2>Maltlanmış Organik Tam Buğday (Dinkel) Unu</h2><p>Tufan Organik Maltlanmış Organik Tam Buğday (Dinkel) Unu, Tahıl Grubu ve Unları grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Malted Organic Whole Wheat (Dinkel/Spelt) Flour</h2><p>Tufan Organik Malted Organic Whole Wheat (Dinkel/Spelt) Flour belongs to the Cereals and Flours range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>دقيق قمح كامل عضوي مُملَّت (دينكل/الحنطة الإسبلتية)</h2><p>دقيق قمح كامل عضوي مُملَّت (دينكل/الحنطة الإسبلتية) من توفان أورغانيك ضمن مجموعة الحبوب والدقيق. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Gemälztes Bio-Vollkornmehl (Dinkel)</h2><p>Tufan Organik Gemälztes Bio-Vollkornmehl (Dinkel) gehört zur Gruppe Getreide und Mehle. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>麦芽化有機全粒小麦（ディンケル／スペルト小麦）粉</h2><p>Tufan Organik 麦芽化有機全粒小麦（ディンケル／スペルト小麦）粉は穀物と粉カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>맥아 처리 유기농 통밀 (딩켈/스펠트밀) 가루</h2><p>Tufan Organik 맥아 처리 유기농 통밀 (딩켈/스펠트밀) 가루은(는) 곡물 및 밀가루군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Maltlanmış Organik Tam Buğday (Dinkel) Unu | Tufan Organik",
+    "en": "Malted Organic Whole Wheat (Dinkel/Spelt) Flour | Tufan Organik",
+    "ar": "دقيق قمح كامل عضوي مُملَّت (دينكل/الحنطة الإسبلتية) | Tufan Organik",
+    "de": "Gemälztes Bio-Vollkornmehl (Dinkel) | Tufan Organik",
+    "ja": "麦芽化有機全粒小麦（ディンケル／スペルト小麦）粉 | Tufan Organik",
+    "ko": "맥아 처리 유기농 통밀 (딩켈/스펠트밀) 가루 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:26:41.475Z",
+  "update": "2026-11-06T07:26:41.873Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

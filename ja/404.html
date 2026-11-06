@@ -7,11 +7,11 @@
 <title>404 — Tufan Organik</title>
 </head>
 <body>
-<link rel="stylesheet" href="/src/rubik.css?v=a9fy6" />
+<link rel="stylesheet" href="/src/rubik.css?v=u0l56" />
 <nav>
   <div href="/" class="menu">
     <a href="/" class="website_name"
-      ><img src="/img/logo.png?v=a9fy6" width="300" alt="Tufan Organik Logo"
+      ><img src="/img/logo.png?v=u0l56" width="300" alt="Tufan Organik Logo"
     /></a>
   </div>
 </nav>
@@ -46,9 +46,9 @@
     <div class="text">
       <article>
         <p>
-          Sorry! The page you are looking for could not be found. <br />Click to return to the home page.
+          申し訳ありません。お探しのページは見つかりませんでした。 <br />ホームページに戻るにはクリックしてください。
         </p>
-        <a href="/ja/">Home</a>
+        <a href="/ja/">ホーム</a>
       </article>
     </div>
   </div>
@@ -829,10 +829,8 @@
   setTimeout(function() {
     var currentPath = window.location.pathname;
     var rtlLanguages = ['ar', 'he', 'fa']; // RTL diller: Arapça, İbranice, Farsça
-
     var langMatch = currentPath.match(/^\/([a-z]{2})\//);
     var currentLang = langMatch ? langMatch[1] : '';
-
     if (rtlLanguages.indexOf(currentLang) !== -1) {
       document.documentElement.setAttribute('dir', 'rtl');
     } else {

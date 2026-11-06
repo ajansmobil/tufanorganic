@@ -27,13 +27,13 @@
   "path": "tel-kadayif",
   "icon": "breakfast_dining",
   "category": "hntjm9xwyu",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 24,
+  "index": 276,
   "url": "",
   "text": {
     "tr": "<h2>Tel Kadayıf ile Çıtır Tatlıların Temeli</h2><p>Şerbetli tatlıların en tanıdık malzemelerinden biri olan tel kadayıf, ince iplikler halindeki hamurdan oluşur. Birbirine dolanmış telleri tereyağıyla harmanlanıp fırınlandığında altın renginde, çıtır bir doku kazanır. Şerbeti emerken bile bu çıtırlığını bir süre korur ve her lokmada hafif bir hışırtı bırakır.</p><p>Fıstıklı kadayıf, burma kadayıf ve künefe gibi tatlılar tel kadayıfla hazırlanır. Kullanmadan önce telleri elle açıp kabartmak, yağın her yere eşit dağılmasını sağlar. Antep fıstığıyla sıkça buluşan bu tatlıların ana malzemesini Tufan Organik, kadayıf çeşitleri arasında evde tatlı yapmayı sevenler için sunuyor.</p><h3>Kullanım Önerileri</h3><ul><li>Telleri tereyağıyla harmanlayıp arasına Antep fıstığı serperek tepside fıstıklı kadayıf pişirin.</li><li>İnce bir çubuk etrafına sararak burma kadayıf şekli verin ve fırından çıkınca şerbetleyin.</li><li>Tavada tereyağıyla kızartıp dondurma ya da muhallebinin üzerine çıtır bir katman olarak ekleyin.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "テルカダイフ | Tufan Organik"
   },
   "date": "2026-10-28T08:16:28.362Z",
-  "update": "2026-10-28T09:07:52.253Z",
+  "update": "2026-11-06T07:34:47.697Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

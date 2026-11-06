@@ -1,0 +1,62 @@
+{
+  "id": "vwrcccmsw4",
+  "name": {
+    "tr": "Erik Ekşisi",
+    "en": "Sour Plum Concentrate (Ekşi)",
+    "ar": "مركّز البرقوق الحامض (إكشي)",
+    "de": "Saures Pflaumenkonzentrat (Ekşi)",
+    "ja": "プラム酸味濃縮液（エクシ）",
+    "ko": "새콤한 자두 농축액 (에크시)"
+  },
+  "description": {
+    "tr": "Tufan Organik Erik Ekşisi, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Sour Plum Concentrate (Ekşi), from the Sour, Hot and Sweet Special Sauces, Vinegars and Beverages range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik مركّز البرقوق الحامض (إكشي)، من مجموعة الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Saures Pflaumenkonzentrat (Ekşi) aus der Gruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik プラム酸味濃縮液（エクシ）は、酸味・辛味・甘味の特別ソース、酢、飲料カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 새콤한 자두 농축액 (에크시)은(는) 새콤·매콤·달콤 특선 소스, 식초 및 음료군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Erik Ekşisi, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Sour Plum Concentrate (Ekşi), Sour, Hot and Sweet Special Sauces, Vinegars and Beverages",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, مركّز البرقوق الحامض (إكشي), الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Saures Pflaumenkonzentrat (Ekşi), Saure, scharfe und süße Spezialsaucen, Essig und Getränke",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, プラム酸味濃縮液（エクシ）, 酸味・辛味・甘味の特別ソース、酢、飲料",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 새콤한 자두 농축액 (에크시), 새콤·매콤·달콤 특선 소스, 식초 및 음료"
+  },
+  "path": "erik-eksisi",
+  "icon": "breakfast_dining",
+  "category": "obbkh64oa1",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 19,
+  "url": "",
+  "text": {
+    "tr": "<h2>Erik Ekşisi</h2><p>Tufan Organik Erik Ekşisi, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Sour Plum Concentrate (Ekşi)</h2><p>Tufan Organik Sour Plum Concentrate (Ekşi) belongs to the Sour, Hot and Sweet Special Sauces, Vinegars and Beverages range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>مركّز البرقوق الحامض (إكشي)</h2><p>مركّز البرقوق الحامض (إكشي) من توفان أورغانيك ضمن مجموعة الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Saures Pflaumenkonzentrat (Ekşi)</h2><p>Tufan Organik Saures Pflaumenkonzentrat (Ekşi) gehört zur Gruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>プラム酸味濃縮液（エクシ）</h2><p>Tufan Organik プラム酸味濃縮液（エクシ）は酸味・辛味・甘味の特別ソース、酢、飲料カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>새콤한 자두 농축액 (에크시)</h2><p>Tufan Organik 새콤한 자두 농축액 (에크시)은(는) 새콤·매콤·달콤 특선 소스, 식초 및 음료군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Erik Ekşisi | Tufan Organik",
+    "en": "Sour Plum Concentrate (Ekşi) | Tufan Organik",
+    "ar": "مركّز البرقوق الحامض (إكشي) | Tufan Organik",
+    "de": "Saures Pflaumenkonzentrat (Ekşi) | Tufan Organik",
+    "ja": "プラム酸味濃縮液（エクシ） | Tufan Organik",
+    "ko": "새콤한 자두 농축액 (에크시) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:32:11.749Z",
+  "update": "2026-11-06T07:32:12.900Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

@@ -27,13 +27,13 @@
   "path": "karakovan-sepet-bali",
   "icon": "breakfast_dining",
   "category": "c06meycip",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 45,
+  "index": 297,
   "url": "",
   "text": {
     "tr": "<h2>Petekten Sofraya Karakovan Sepet Balı</h2>\n<p>Karakovan Sepet Balı, peteğiyle birlikte sunulan, dokusu ve görünümüyle kahvaltı sofralarında hemen dikkat çeken bir baldır. Petek ağızda yumuşakça dağılır, bal ise yoğun ve tatlı aromasıyla damakta uzun süre kalır. Tadı ve rengi, arıların ziyaret ettiği çiçeklere göre farklılık gösterebilir.</p>\n<p>Tufan Organik olarak bu balı, kahvaltıyı biraz daha özenli kurmak isteyenler için ayırıyoruz. Peteği kesmek için ılık suya batırılmış bir bıçak kullanmak işinizi kolaylaştırır. Bal zamanla kristalleşebilir; böyle bir durumda kabı ılık su banyosunda bir süre bekletmek akışkanlığını geri getirir.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Peteği tereyağı ve sıcak köy ekmeğiyle birlikte kahvaltı tabağına yerleştirin.</li>\n<li>Kaymak ya da lor peyniri yanında küçük bir petek dilimiyle sunun.</li>\n<li>Süzme yoğurdun üzerine bal gezdirip iri kırılmış ceviz serpin.</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "カラコバン巣蜜（バスケット入り） | Tufan Organik"
   },
   "date": "2026-10-28T08:16:24.268Z",
-  "update": "2026-10-28T09:07:49.563Z",
+  "update": "2026-11-06T07:35:07.525Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

@@ -1,0 +1,62 @@
+{
+  "id": "nzmxtt3x93",
+  "name": {
+    "tr": "Beyaz Dut Reçeli",
+    "en": "White Mulberry Jam",
+    "ar": "مربى التوت الأبيض",
+    "de": "Weiße Maulbeerkonfitüre",
+    "ja": "白桑の実ジャム",
+    "ko": "흰 오디잼"
+  },
+  "description": {
+    "tr": "Tufan Organik Beyaz Dut Reçeli, Meyve Özü Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik White Mulberry Jam, from the Fruit Extracts range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik مربى التوت الأبيض، من مجموعة مستخلصات الفاكهة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Weiße Maulbeerkonfitüre aus der Gruppe Fruchtextrakte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 白桑の実ジャムは、フルーツエキスカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 흰 오디잼은(는) 과일 추출물군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Beyaz Dut Reçeli, Meyve Özü Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, White Mulberry Jam, Fruit Extracts",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, مربى التوت الأبيض, مستخلصات الفاكهة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Weiße Maulbeerkonfitüre, Fruchtextrakte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 白桑の実ジャム, フルーツエキス",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 흰 오디잼, 과일 추출물"
+  },
+  "path": "beyaz-dut-receli-2",
+  "icon": "breakfast_dining",
+  "category": "c11pekmez",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 130,
+  "url": "",
+  "text": {
+    "tr": "<h2>Beyaz Dut Reçeli</h2><p>Tufan Organik Beyaz Dut Reçeli, Meyve Özü Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>White Mulberry Jam</h2><p>Tufan Organik White Mulberry Jam belongs to the Fruit Extracts range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>مربى التوت الأبيض</h2><p>مربى التوت الأبيض من توفان أورغانيك ضمن مجموعة مستخلصات الفاكهة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Weiße Maulbeerkonfitüre</h2><p>Tufan Organik Weiße Maulbeerkonfitüre gehört zur Gruppe Fruchtextrakte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>白桑の実ジャム</h2><p>Tufan Organik 白桑の実ジャムはフルーツエキスカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>흰 오디잼</h2><p>Tufan Organik 흰 오디잼은(는) 과일 추출물군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Beyaz Dut Reçeli | Tufan Organik",
+    "en": "White Mulberry Jam | Tufan Organik",
+    "ar": "مربى التوت الأبيض | Tufan Organik",
+    "de": "Weiße Maulbeerkonfitüre | Tufan Organik",
+    "ja": "白桑の実ジャム | Tufan Organik",
+    "ko": "흰 오디잼 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:28:44.918Z",
+  "update": "2026-11-06T07:28:45.634Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

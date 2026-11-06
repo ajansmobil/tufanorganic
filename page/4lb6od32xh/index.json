@@ -1,0 +1,62 @@
+{
+  "id": "4lb6od32xh",
+  "name": {
+    "tr": "Organik Kışlık Domates Sosu (Tatlı)",
+    "en": "Organic Winter-Preserved Tomato Sauce (Sweet)",
+    "ar": "صلصة طماطم عضوية للمؤونة الشتوية (حلوة)",
+    "de": "Bio-Tomatensauce als Wintervorrat (mild)",
+    "ja": "有機冬季保存用トマトソース（甘口）",
+    "ko": "유기농 겨울 저장용 토마토 소스 (단맛)"
+  },
+  "description": {
+    "tr": "Tufan Organik Kışlık Domates Sosu (Tatlı), Salça ve Soslar grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Winter-Preserved Tomato Sauce (Sweet), from the Pastes and Sauces range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik صلصة طماطم عضوية للمؤونة الشتوية (حلوة)، من مجموعة المعجونات والصلصات، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Bio-Tomatensauce als Wintervorrat (mild) aus der Gruppe Pasten und Saucen – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 有機冬季保存用トマトソース（甘口）は、トマトソースと調味料カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 유기농 겨울 저장용 토마토 소스 (단맛)은(는) 페이스트 및 소스군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Organik Kışlık Domates Sosu (Tatlı), Salça ve Soslar",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Organic Winter-Preserved Tomato Sauce (Sweet), Pastes and Sauces",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, صلصة طماطم عضوية للمؤونة الشتوية (حلوة), المعجونات والصلصات",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Bio-Tomatensauce als Wintervorrat (mild), Pasten und Saucen",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 有機冬季保存用トマトソース（甘口）, トマトソースと調味料",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 유기농 겨울 저장용 토마토 소스 (단맛), 페이스트 및 소스"
+  },
+  "path": "organik-kislik-domates-sosu",
+  "icon": "lunch_dining",
+  "category": "c05kurumey",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 200,
+  "url": "",
+  "text": {
+    "tr": "<h2>Organik Kışlık Domates Sosu (Tatlı)</h2><p>Tufan Organik Kışlık Domates Sosu (Tatlı), Salça ve Soslar grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Organic Winter-Preserved Tomato Sauce (Sweet)</h2><p>Tufan Organik Winter-Preserved Tomato Sauce (Sweet) belongs to the Pastes and Sauces range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>صلصة طماطم عضوية للمؤونة الشتوية (حلوة)</h2><p>صلصة طماطم عضوية للمؤونة الشتوية (حلوة) من توفان أورغانيك ضمن مجموعة المعجونات والصلصات. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Bio-Tomatensauce als Wintervorrat (mild)</h2><p>Tufan Organik Bio-Tomatensauce als Wintervorrat (mild) gehört zur Gruppe Pasten und Saucen. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>有機冬季保存用トマトソース（甘口）</h2><p>Tufan Organik 有機冬季保存用トマトソース（甘口）はトマトソースと調味料カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>유기농 겨울 저장용 토마토 소스 (단맛)</h2><p>Tufan Organik 유기농 겨울 저장용 토마토 소스 (단맛)은(는) 페이스트 및 소스군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Organik Kışlık Domates Sosu (Tatlı) | Tufan Organik",
+    "en": "Organic Winter-Preserved Tomato Sauce (Sweet) | Tufan Organik",
+    "ar": "صلصة طماطم عضوية للمؤونة الشتوية (حلوة) | Tufan Organik",
+    "de": "Bio-Tomatensauce als Wintervorrat (mild) | Tufan Organik",
+    "ja": "有機冬季保存用トマトソース（甘口） | Tufan Organik",
+    "ko": "유기농 겨울 저장용 토마토 소스 (단맛) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:27:19.420Z",
+  "update": "2026-11-06T07:34:15.097Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

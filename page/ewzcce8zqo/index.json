@@ -27,13 +27,13 @@
   "path": "yulaf-unu",
   "icon": "grain",
   "category": "c17iqfmey",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 231,
+  "index": 483,
   "url": "",
   "text": {
     "tr": "<h2>Yulaf Unu</h2><p>Yulaf tanelerinin ince öğütülmesiyle hazırlanan, hafif tatlımsı aromalı un. Kek, krep, pankek ve kurabiye tariflerinde kullanılır.</p><h3>Kullanım Önerisi</h3><ul><li>Süt ve muzla karıştırıp sabah pankeki yapın.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "オーツ麦粉 | Tufan Organik"
   },
   "date": "2026-11-02T10:42:45.000Z",
-  "update": "2026-11-02T10:42:45.000Z",
+  "update": "2026-11-06T07:38:09.310Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

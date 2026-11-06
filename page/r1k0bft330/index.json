@@ -27,13 +27,13 @@
   "path": "alic-ozu",
   "icon": "breakfast_dining",
   "category": "c11pekmez",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 31,
+  "index": 283,
   "url": "",
   "text": {
     "tr": "<h2>Alıç Özü ile Küçük Kırmızı Meyvenin Mayhoş Tadı</h2>\n<p>Alıç, küçük kırmızı ya da sarı taneleri olan, sonbaharda olgunlaşan bir meyvedir. Alıç özü bu meyveden elde edilen, koyu kıvamlı ve hafif buruk tatlı bir üründür. Tadında elmayı hatırlatan bir yumuşaklık ve meyvenin kendine özgü ekşiliği bir arada bulunur. Az miktarda kullanıldığında bile belirgin bir aroma bırakır.</p>\n<p>Tufan Organik, alıç özünü bu az bilinen meyvenin tadını mutfağa taşımak isteyenler için kataloğuna aldı. Geleneksel olarak suyla seyreltilip şerbet gibi içilir ya da kahvaltıda ekmek banılarak tüketilir. Kavanozu açtıktan sonra serin bir yerde ya da buzdolabında saklamak uygundur.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Soğuk suyla seyreltilip limon dilimiyle hazırlanan alıç şerbeti</li>\n<li>Tahin ya da kaymakla buluşturulan kahvaltılık</li>\n<li>Et marinasyonlarında ve salata soslarında mayhoş bir dokunuş</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "サンザシエキス | Tufan Organik"
   },
   "date": "2026-10-28T08:16:26.908Z",
-  "update": "2026-10-28T09:07:58.344Z",
+  "update": "2026-11-06T07:34:55.173Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

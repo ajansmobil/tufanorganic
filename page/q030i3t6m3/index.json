@@ -1,0 +1,62 @@
+{
+  "id": "q030i3t6m3",
+  "name": {
+    "tr": "Organik Mısır",
+    "en": "Organic Corn (Maize)",
+    "ar": "ذرة عضوية",
+    "de": "Bio-Mais",
+    "ja": "有機トウモロコシ",
+    "ko": "유기농 옥수수"
+  },
+  "description": {
+    "tr": "Tufan Organik Mısır, Tahıl Grubu ve Unları grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Corn (Maize), from the Cereals and Flours range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik ذرة عضوية، من مجموعة الحبوب والدقيق، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Bio-Mais aus der Gruppe Getreide und Mehle – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 有機トウモロコシは、穀物と粉カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 유기농 옥수수은(는) 곡물 및 밀가루군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Organik Mısır, Tahıl Grubu ve Unları",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Organic Corn (Maize), Cereals and Flours",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, ذرة عضوية, الحبوب والدقيق",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Bio-Mais, Getreide und Mehle",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 有機トウモロコシ, 穀物と粉",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 유기농 옥수수, 곡물 및 밀가루"
+  },
+  "path": "organik-misir",
+  "icon": "breakfast_dining",
+  "category": "c01fistik",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 246,
+  "url": "",
+  "text": {
+    "tr": "<h2>Organik Mısır</h2><p>Tufan Organik Mısır, Tahıl Grubu ve Unları grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Organic Corn (Maize)</h2><p>Tufan Organik Corn (Maize) belongs to the Cereals and Flours range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>ذرة عضوية</h2><p>ذرة عضوية من توفان أورغانيك ضمن مجموعة الحبوب والدقيق. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Bio-Mais</h2><p>Tufan Organik Bio-Mais gehört zur Gruppe Getreide und Mehle. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>有機トウモロコシ</h2><p>Tufan Organik 有機トウモロコシは穀物と粉カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>유기농 옥수수</h2><p>Tufan Organik 유기농 옥수수은(는) 곡물 및 밀가루군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Organik Mısır | Tufan Organik",
+    "en": "Organic Corn (Maize) | Tufan Organik",
+    "ar": "ذرة عضوية | Tufan Organik",
+    "de": "Bio-Mais | Tufan Organik",
+    "ja": "有機トウモロコシ | Tufan Organik",
+    "ko": "유기농 옥수수 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:26:35.629Z",
+  "update": "2026-11-06T07:33:19.080Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

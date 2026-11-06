@@ -1,0 +1,62 @@
+{
+  "id": "zbmpjiqhlx",
+  "name": {
+    "tr": "Kurutulmuş Beyaz Dut (Tane)",
+    "en": "Dried White Mulberries (Whole)",
+    "ar": "توت أبيض مجفف (حبات كاملة)",
+    "de": "Getrocknete weiße Maulbeeren (ganz)",
+    "ja": "ドライ白桑の実（ホール）",
+    "ko": "건 흰 오디 (통)"
+  },
+  "description": {
+    "tr": "Tufan Organik Kurutulmuş Beyaz Dut (Tane), Kurutulmuş Meyve Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Dried White Mulberries (Whole), from the Dried Fruits range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik توت أبيض مجفف (حبات كاملة)، من مجموعة الفواكه المجففة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Getrocknete weiße Maulbeeren (ganz) aus der Gruppe Trockenfrüchte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik ドライ白桑の実（ホール）は、ドライフルーツカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 건 흰 오디 (통)은(는) 건조 과일군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Kurutulmuş Beyaz Dut (Tane), Kurutulmuş Meyve Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Dried White Mulberries (Whole), Dried Fruits",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, توت أبيض مجفف (حبات كاملة), الفواكه المجففة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Getrocknete weiße Maulbeeren (ganz), Trockenfrüchte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ドライ白桑の実（ホール）, ドライフルーツ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 건 흰 오디 (통), 건조 과일"
+  },
+  "path": "kurutulmus-beyaz-dut",
+  "icon": "spa",
+  "category": "c13konserve",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 92,
+  "url": "",
+  "text": {
+    "tr": "<h2>Kurutulmuş Beyaz Dut (Tane)</h2><p>Tufan Organik Kurutulmuş Beyaz Dut (Tane), Kurutulmuş Meyve Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Dried White Mulberries (Whole)</h2><p>Tufan Organik Dried White Mulberries (Whole) belongs to the Dried Fruits range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>توت أبيض مجفف (حبات كاملة)</h2><p>توت أبيض مجفف (حبات كاملة) من توفان أورغانيك ضمن مجموعة الفواكه المجففة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Getrocknete weiße Maulbeeren (ganz)</h2><p>Tufan Organik Getrocknete weiße Maulbeeren (ganz) gehört zur Gruppe Trockenfrüchte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>ドライ白桑の実（ホール）</h2><p>Tufan Organik ドライ白桑の実（ホール）はドライフルーツカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>건 흰 오디 (통)</h2><p>Tufan Organik 건 흰 오디 (통)은(는) 건조 과일군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Kurutulmuş Beyaz Dut (Tane) | Tufan Organik",
+    "en": "Dried White Mulberries (Whole) | Tufan Organik",
+    "ar": "توت أبيض مجفف (حبات كاملة) | Tufan Organik",
+    "de": "Getrocknete weiße Maulbeeren (ganz) | Tufan Organik",
+    "ja": "ドライ白桑の実（ホール） | Tufan Organik",
+    "ko": "건 흰 오디 (통) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:29:44.337Z",
+  "update": "2026-11-06T07:29:45.219Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "d7wjtst2ox",
+  "name": {
+    "tr": "Ceviz İçi (Kelebek, Parçalı ve Öğütülmüş)",
+    "en": "Walnut Kernels (Halves, Pieces and Ground)",
+    "ar": "لب الجوز (أنصاف، قطع ومطحون)",
+    "de": "Walnusskerne (Hälften, Bruch und gemahlen)",
+    "ja": "クルミ実（ハーフ・ピース・粉末）",
+    "ko": "호두 알맹이 (반태, 분태, 가루)"
+  },
+  "description": {
+    "tr": "Tufan Organik Ceviz İçi (Kelebek, Parçalı ve Öğütülmüş), Kuruyemiş Grubu ve Ürünleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Walnut Kernels (Halves, Pieces and Ground), from the Nuts and Nut Products range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik لب الجوز (أنصاف، قطع ومطحون)، من مجموعة المكسرات ومنتجاتها، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Walnusskerne (Hälften, Bruch und gemahlen) aus der Gruppe Nüsse und Nussprodukte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik クルミ実（ハーフ・ピース・粉末）は、ナッツとその製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 호두 알맹이 (반태, 분태, 가루)은(는) 견과류 및 제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Ceviz İçi (Kelebek, Parçalı ve Öğütülmüş), Kuruyemiş Grubu ve Ürünleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Walnut Kernels (Halves, Pieces and Ground), Nuts and Nut Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, لب الجوز (أنصاف، قطع ومطحون), المكسرات ومنتجاتها",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Walnusskerne (Hälften, Bruch und gemahlen), Nüsse und Nussprodukte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, クルミ実（ハーフ・ピース・粉末）, ナッツとその製品",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 호두 알맹이 (반태, 분태, 가루), 견과류 및 제품"
+  },
+  "path": "ceviz-ici",
+  "icon": "breakfast_dining",
+  "category": "c08recel",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 166,
+  "url": "",
+  "text": {
+    "tr": "<h2>Ceviz İçi (Kelebek, Parçalı ve Öğütülmüş)</h2><p>Tufan Organik Ceviz İçi (Kelebek, Parçalı ve Öğütülmüş), Kuruyemiş Grubu ve Ürünleri grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Walnut Kernels (Halves, Pieces and Ground)</h2><p>Tufan Organik Walnut Kernels (Halves, Pieces and Ground) belongs to the Nuts and Nut Products range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>لب الجوز (أنصاف، قطع ومطحون)</h2><p>لب الجوز (أنصاف، قطع ومطحون) من توفان أورغانيك ضمن مجموعة المكسرات ومنتجاتها. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Walnusskerne (Hälften, Bruch und gemahlen)</h2><p>Tufan Organik Walnusskerne (Hälften, Bruch und gemahlen) gehört zur Gruppe Nüsse und Nussprodukte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>クルミ実（ハーフ・ピース・粉末）</h2><p>Tufan Organik クルミ実（ハーフ・ピース・粉末）はナッツとその製品カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>호두 알맹이 (반태, 분태, 가루)</h2><p>Tufan Organik 호두 알맹이 (반태, 분태, 가루)은(는) 견과류 및 제품군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Ceviz İçi (Kelebek, Parçalı ve Öğütülmüş) | Tufan Organik",
+    "en": "Walnut Kernels (Halves, Pieces and Ground) | Tufan Organik",
+    "ar": "لب الجوز (أنصاف، قطع ومطحون) | Tufan Organik",
+    "de": "Walnusskerne (Hälften, Bruch und gemahlen) | Tufan Organik",
+    "ja": "クルミ実（ハーフ・ピース・粉末） | Tufan Organik",
+    "ko": "호두 알맹이 (반태, 분태, 가루) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:27:56.867Z",
+  "update": "2026-11-06T07:27:57.484Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

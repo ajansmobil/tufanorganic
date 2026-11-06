@@ -1,0 +1,62 @@
+{
+  "id": "ihlsj0xv92",
+  "name": {
+    "tr": "Kars Gravyer Peyniri",
+    "en": "Kars Gruyère Cheese",
+    "ar": "جبنة غرويير قارص",
+    "de": "Kars-Gruyère-Käse",
+    "ja": "カルス・グリュイエールチーズ",
+    "ko": "카르스 그뤼에르 치즈"
+  },
+  "description": {
+    "tr": "Tufan Organik Kars Gravyer Peyniri, Süt ve Süt Ürünleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Kars Gruyère Cheese, from the Milk and Dairy Products range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik جبنة غرويير قارص، من مجموعة الحليب ومنتجات الألبان، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Kars-Gruyère-Käse aus der Gruppe Milch und Milchprodukte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik カルス・グリュイエールチーズは、乳製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 카르스 그뤼에르 치즈은(는) 우유 및 유제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Kars Gravyer Peyniri, Süt ve Süt Ürünleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Kars Gruyère Cheese, Milk and Dairy Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, جبنة غرويير قارص, الحليب ومنتجات الألبان",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Kars-Gruyère-Käse, Milch und Milchprodukte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, カルス・グリュイエールチーズ, 乳製品",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 카르스 그뤼에르 치즈, 우유 및 유제품"
+  },
+  "path": "kars-gravyer-peyniri",
+  "icon": "egg",
+  "category": "c07kuruseb",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 181,
+  "url": "",
+  "text": {
+    "tr": "<h2>Kars Gravyer Peyniri</h2><p>Tufan Organik Kars Gravyer Peyniri, Süt ve Süt Ürünleri grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Kars Gruyère Cheese</h2><p>Tufan Organik Kars Gruyère Cheese belongs to the Milk and Dairy Products range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>جبنة غرويير قارص</h2><p>جبنة غرويير قارص من توفان أورغانيك ضمن مجموعة الحليب ومنتجات الألبان. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Kars-Gruyère-Käse</h2><p>Tufan Organik Kars-Gruyère-Käse gehört zur Gruppe Milch und Milchprodukte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>カルス・グリュイエールチーズ</h2><p>Tufan Organik カルス・グリュイエールチーズは乳製品カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>카르스 그뤼에르 치즈</h2><p>Tufan Organik 카르스 그뤼에르 치즈은(는) 우유 및 유제품군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Kars Gravyer Peyniri | Tufan Organik",
+    "en": "Kars Gruyère Cheese | Tufan Organik",
+    "ar": "جبنة غرويير قارص | Tufan Organik",
+    "de": "Kars-Gruyère-Käse | Tufan Organik",
+    "ja": "カルス・グリュイエールチーズ | Tufan Organik",
+    "ko": "카르스 그뤼에르 치즈 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:27:39.651Z",
+  "update": "2026-11-06T07:27:40.211Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

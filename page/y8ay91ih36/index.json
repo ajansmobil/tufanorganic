@@ -27,13 +27,13 @@
   "path": "karabugday",
   "icon": "breakfast_dining",
   "category": "c01fistik",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 68,
+  "index": 320,
   "url": "",
   "text": {
     "tr": "<h2>Karabuğday: Kavrulmamış Taneleriyle Çok Yönlü Bir Tohum</h2><p>Adında buğday geçse de karabuğday aslında bir tahıl değil, üçgen biçimli küçük tanelere sahip bir bitkinin tohumudur. Bu ürün kavrulmamış olduğu için rengi açık, yeşilimsi bejdir; tadı da kavrulmuş haline göre daha yumuşak ve hafif topraksıdır. Pişince taneler birbirinden ayrı kalır ve dişe gelen hoş bir doku verir.</p><p>Pilav, salata ve çorba gibi yemeklerde bulgur ya da pirinç yerine rahatlıkla kullanılır. Daha belirgin bir aroma isteyenler, pişirmeden önce taneleri kuru tavada birkaç dakika çevirebilir. Tufan Organik kataloğunda tahıl grubunda yer alan karabuğday, mutfağına farklı bir tane eklemek isteyenler için iyi bir başlangıç noktasıdır.</p><h3>Kullanım Önerileri</h3><ul><li>Taneleri soğan ve havuçla kavurup sıcak suyla pişirerek sebzeli karabuğday pilavı hazırlayın.</li><li>Haşlanmış karabuğdayı nar, maydanoz ve zeytinyağıyla karıştırıp ferah bir salata yapın.</li><li>Haşlanmış taneleri kahvaltıda yoğurt, bal ve mevsim meyveleriyle aynı kaseye ekleyin.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "そば | Tufan Organik"
   },
   "date": "2026-10-28T08:16:20.600Z",
-  "update": "2026-10-28T09:08:10.108Z",
+  "update": "2026-11-06T07:35:30.905Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

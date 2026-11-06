@@ -1,0 +1,62 @@
+{
+  "id": "4r766iyge1",
+  "name": {
+    "tr": "Dondurulmuş Tulumba Tatlısı",
+    "en": "Frozen Tulumba Dessert (Fried Syrup Pastry)",
+    "ar": "حلوى طولومبا المجمدة (عجينة مقلية بالقطر)",
+    "de": "Tiefgefrorenes Tulumba-Dessert (frittiertes Sirupgebäck)",
+    "ja": "冷凍トゥルンバ・タトゥルス（シロップ漬け揚げ菓子）",
+    "ko": "냉동 툴룸바 디저트 (시럽 튀김 과자)"
+  },
+  "description": {
+    "tr": "Tufan Organik Dondurulmuş Tulumba Tatlısı, Kadayıf Çeşitleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Frozen Tulumba Dessert (Fried Syrup Pastry), from the Kadayıf Varieties range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik حلوى طولومبا المجمدة (عجينة مقلية بالقطر)، من مجموعة أنواع القطايف، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Tiefgefrorenes Tulumba-Dessert (frittiertes Sirupgebäck) aus der Gruppe Kadayıf-Sorten – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 冷凍トゥルンバ・タトゥルス（シロップ漬け揚げ菓子）は、カダイフカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 냉동 툴룸바 디저트 (시럽 튀김 과자)은(는) 카다이프 종류군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Dondurulmuş Tulumba Tatlısı, Kadayıf Çeşitleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Frozen Tulumba Dessert (Fried Syrup Pastry), Kadayıf Varieties",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, حلوى طولومبا المجمدة (عجينة مقلية بالقطر), أنواع القطايف",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Tiefgefrorenes Tulumba-Dessert (frittiertes Sirupgebäck), Kadayıf-Sorten",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 冷凍トゥルンバ・タトゥルス（シロップ漬け揚げ菓子）, カダイフ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 냉동 툴룸바 디저트 (시럽 튀김 과자), 카다이프 종류"
+  },
+  "path": "dondurulmus-tulumba-tatlisi",
+  "icon": "breakfast_dining",
+  "category": "hntjm9xwyu",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 24,
+  "url": "",
+  "text": {
+    "tr": "<h2>Dondurulmuş Tulumba Tatlısı</h2><p>Tufan Organik Dondurulmuş Tulumba Tatlısı, Kadayıf Çeşitleri grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Frozen Tulumba Dessert (Fried Syrup Pastry)</h2><p>Tufan Organik Frozen Tulumba Dessert (Fried Syrup Pastry) belongs to the Kadayıf Varieties range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>حلوى طولومبا المجمدة (عجينة مقلية بالقطر)</h2><p>حلوى طولومبا المجمدة (عجينة مقلية بالقطر) من توفان أورغانيك ضمن مجموعة أنواع القطايف. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Tiefgefrorenes Tulumba-Dessert (frittiertes Sirupgebäck)</h2><p>Tufan Organik Tiefgefrorenes Tulumba-Dessert (frittiertes Sirupgebäck) gehört zur Gruppe Kadayıf-Sorten. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>冷凍トゥルンバ・タトゥルス（シロップ漬け揚げ菓子）</h2><p>Tufan Organik 冷凍トゥルンバ・タトゥルス（シロップ漬け揚げ菓子）はカダイフカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>냉동 툴룸바 디저트 (시럽 튀김 과자)</h2><p>Tufan Organik 냉동 툴룸바 디저트 (시럽 튀김 과자)은(는) 카다이프 종류군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Dondurulmuş Tulumba Tatlısı | Tufan Organik",
+    "en": "Frozen Tulumba Dessert (Fried Syrup Pastry) | Tufan Organik",
+    "ar": "حلوى طولومبا المجمدة (عجينة مقلية بالقطر) | Tufan Organik",
+    "de": "Tiefgefrorenes Tulumba-Dessert (frittiertes Sirupgebäck) | Tufan Organik",
+    "ja": "冷凍トゥルンバ・タトゥルス（シロップ漬け揚げ菓子） | Tufan Organik",
+    "ko": "냉동 툴룸바 디저트 (시럽 튀김 과자) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:32:00.249Z",
+  "update": "2026-11-06T07:32:01.503Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "3zh85rrwm7",
+  "name": {
+    "tr": "Tane Dondurulmuş Vişne",
+    "en": "IQF Frozen Sour Cherries",
+    "ar": "كرز حامض (وشنة) مجمد فردياً (IQF)",
+    "de": "IQF-tiefgefrorene Sauerkirschen",
+    "ja": "IQF冷凍サワーチェリー",
+    "ko": "IQF 개별 급속 냉동 사워체리"
+  },
+  "description": {
+    "tr": "Tufan Organik Tane Dondurulmuş Vişne, Dondurulmuş Meyve Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik IQF Frozen Sour Cherries, from the Frozen Fruits range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik كرز حامض (وشنة) مجمد فردياً (IQF)، من مجموعة الفواكه المجمدة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik IQF-tiefgefrorene Sauerkirschen aus der Gruppe Tiefkühl-Obst – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik IQF冷凍サワーチェリーは、凍結フルーツカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik IQF 개별 급속 냉동 사워체리은(는) 냉동 과일군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Tane Dondurulmuş Vişne, Dondurulmuş Meyve Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, IQF Frozen Sour Cherries, Frozen Fruits",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, كرز حامض (وشنة) مجمد فردياً (IQF), الفواكه المجمدة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, IQF-tiefgefrorene Sauerkirschen, Tiefkühl-Obst",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, IQF冷凍サワーチェリー, 凍結フルーツ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, IQF 개별 급속 냉동 사워체리, 냉동 과일"
+  },
+  "path": "tane-dondurulmus-visne",
+  "icon": "ac_unit",
+  "category": "c14siviya",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 75,
+  "url": "",
+  "text": {
+    "tr": "<h2>Tane Dondurulmuş Vişne</h2><p>Tufan Organik Tane Dondurulmuş Vişne, Dondurulmuş Meyve Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>IQF Frozen Sour Cherries</h2><p>Tufan Organik IQF Frozen Sour Cherries belongs to the Frozen Fruits range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>كرز حامض (وشنة) مجمد فردياً (IQF)</h2><p>كرز حامض (وشنة) مجمد فردياً (IQF) من توفان أورغانيك ضمن مجموعة الفواكه المجمدة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>IQF-tiefgefrorene Sauerkirschen</h2><p>Tufan Organik IQF-tiefgefrorene Sauerkirschen gehört zur Gruppe Tiefkühl-Obst. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>IQF冷凍サワーチェリー</h2><p>Tufan Organik IQF冷凍サワーチェリーは凍結フルーツカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>IQF 개별 급속 냉동 사워체리</h2><p>Tufan Organik IQF 개별 급속 냉동 사워체리은(는) 냉동 과일군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Tane Dondurulmuş Vişne | Tufan Organik",
+    "en": "IQF Frozen Sour Cherries | Tufan Organik",
+    "ar": "كرز حامض (وشنة) مجمد فردياً (IQF) | Tufan Organik",
+    "de": "IQF-tiefgefrorene Sauerkirschen | Tufan Organik",
+    "ja": "IQF冷凍サワーチェリー | Tufan Organik",
+    "ko": "IQF 개별 급속 냉동 사워체리 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:30:14.018Z",
+  "update": "2026-11-06T07:30:15.018Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

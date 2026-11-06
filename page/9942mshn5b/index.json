@@ -1,0 +1,62 @@
+{
+  "id": "9942mshn5b",
+  "name": {
+    "tr": "Portakal Reçeli",
+    "en": "Orange Jam (Marmalade)",
+    "ar": "مربى البرتقال",
+    "de": "Orangenkonfitüre (Marmelade)",
+    "ja": "オレンジジャム（マーマレード）",
+    "ko": "오렌지잼 (마멀레이드)"
+  },
+  "description": {
+    "tr": "Tufan Organik Portakal Reçeli, Meyve Özü Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Orange Jam (Marmalade), from the Fruit Extracts range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik مربى البرتقال، من مجموعة مستخلصات الفاكهة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Orangenkonfitüre (Marmelade) aus der Gruppe Fruchtextrakte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik オレンジジャム（マーマレード）は、フルーツエキスカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 오렌지잼 (마멀레이드)은(는) 과일 추출물군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Portakal Reçeli, Meyve Özü Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Orange Jam (Marmalade), Fruit Extracts",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, مربى البرتقال, مستخلصات الفاكهة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Orangenkonfitüre (Marmelade), Fruchtextrakte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, オレンジジャム（マーマレード）, フルーツエキス",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 오렌지잼 (마멀레이드), 과일 추출물"
+  },
+  "path": "portakal-receli-2",
+  "icon": "water_drop",
+  "category": "c11pekmez",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 135,
+  "url": "",
+  "text": {
+    "tr": "<h2>Portakal Reçeli</h2><p>Tufan Organik Portakal Reçeli, Meyve Özü Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Orange Jam (Marmalade)</h2><p>Tufan Organik Orange Jam (Marmalade) belongs to the Fruit Extracts range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>مربى البرتقال</h2><p>مربى البرتقال من توفان أورغانيك ضمن مجموعة مستخلصات الفاكهة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Orangenkonfitüre (Marmelade)</h2><p>Tufan Organik Orangenkonfitüre (Marmelade) gehört zur Gruppe Fruchtextrakte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>オレンジジャム（マーマレード）</h2><p>Tufan Organik オレンジジャム（マーマレード）はフルーツエキスカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>오렌지잼 (마멀레이드)</h2><p>Tufan Organik 오렌지잼 (마멀레이드)은(는) 과일 추출물군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Portakal Reçeli | Tufan Organik",
+    "en": "Orange Jam (Marmalade) | Tufan Organik",
+    "ar": "مربى البرتقال | Tufan Organik",
+    "de": "Orangenkonfitüre (Marmelade) | Tufan Organik",
+    "ja": "オレンジジャム（マーマレード） | Tufan Organik",
+    "ko": "오렌지잼 (마멀레이드) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:28:37.588Z",
+  "update": "2026-11-06T07:28:38.332Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

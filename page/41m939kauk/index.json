@@ -1,0 +1,62 @@
+{
+  "id": "41m939kauk",
+  "name": {
+    "tr": "Kurutulmuş Şili Biber (Tane&Acı)",
+    "en": "Dried Chili Peppers (Whole & Hot)",
+    "ar": "فلفل تشيلي مجفف (حبات كاملة وحار)",
+    "de": "Getrocknete Chilischoten (ganz & scharf)",
+    "ja": "乾燥チリペッパー（ホール・辛口）",
+    "ko": "건 칠리 고추 (통 & 매운맛)"
+  },
+  "description": {
+    "tr": "Tufan Organik Kurutulmuş Şili Biber (Tane&Acı), Kurutulmuş Sebze Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Dried Chili Peppers (Whole & Hot), from the Dried Vegetables range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik فلفل تشيلي مجفف (حبات كاملة وحار)، من مجموعة الخضروات المجففة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Getrocknete Chilischoten (ganz & scharf) aus der Gruppe Getrocknetes Gemüse – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 乾燥チリペッパー（ホール・辛口）は、ドライ野菜カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 건 칠리 고추 (통 & 매운맛)은(는) 건조 채소군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Kurutulmuş Şili Biber (Tane&Acı), Kurutulmuş Sebze Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Dried Chili Peppers (Whole & Hot), Dried Vegetables",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, فلفل تشيلي مجفف (حبات كاملة وحار), الخضروات المجففة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Getrocknete Chilischoten (ganz & scharf), Getrocknetes Gemüse",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 乾燥チリペッパー（ホール・辛口）, ドライ野菜",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 건 칠리 고추 (통 & 매운맛), 건조 채소"
+  },
+  "path": "kurutulmus-sili-biber",
+  "icon": "grass",
+  "category": "c15aromya",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 63,
+  "url": "",
+  "text": {
+    "tr": "<h2>Kurutulmuş Şili Biber (Tane&Acı)</h2><p>Tufan Organik Kurutulmuş Şili Biber (Tane&Acı), Kurutulmuş Sebze Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Dried Chili Peppers (Whole & Hot)</h2><p>Tufan Organik Dried Chili Peppers (Whole & Hot) belongs to the Dried Vegetables range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>فلفل تشيلي مجفف (حبات كاملة وحار)</h2><p>فلفل تشيلي مجفف (حبات كاملة وحار) من توفان أورغانيك ضمن مجموعة الخضروات المجففة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Getrocknete Chilischoten (ganz & scharf)</h2><p>Tufan Organik Getrocknete Chilischoten (ganz & scharf) gehört zur Gruppe Getrocknetes Gemüse. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>乾燥チリペッパー（ホール・辛口）</h2><p>Tufan Organik 乾燥チリペッパー（ホール・辛口）はドライ野菜カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>건 칠리 고추 (통 & 매운맛)</h2><p>Tufan Organik 건 칠리 고추 (통 & 매운맛)은(는) 건조 채소군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Kurutulmuş Şili Biber (Tane&Acı) | Tufan Organik",
+    "en": "Dried Chili Peppers (Whole & Hot) | Tufan Organik",
+    "ar": "فلفل تشيلي مجفف (حبات كاملة وحار) | Tufan Organik",
+    "de": "Getrocknete Chilischoten (ganz & scharf) | Tufan Organik",
+    "ja": "乾燥チリペッパー（ホール・辛口） | Tufan Organik",
+    "ko": "건 칠리 고추 (통 & 매운맛) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:30:36.616Z",
+  "update": "2026-11-06T07:30:37.616Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "1yit5880kc",
+  "name": {
+    "tr": "Dil Peyniri",
+    "en": "Dil Cheese (Turkish String Cheese)",
+    "ar": "جبنة ديل (جبنة الخيوط التركية)",
+    "de": "Dil-Käse (türkischer Fadenkäse)",
+    "ja": "ディルチーズ（トルコ風ストリングチーズ）",
+    "ko": "딜 치즈 (터키식 스트링 치즈)"
+  },
+  "description": {
+    "tr": "Tufan Organik Dil Peyniri, Süt ve Süt Ürünleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Dil Cheese (Turkish String Cheese), from the Milk and Dairy Products range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik جبنة ديل (جبنة الخيوط التركية)، من مجموعة الحليب ومنتجات الألبان، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Dil-Käse (türkischer Fadenkäse) aus der Gruppe Milch und Milchprodukte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik ディルチーズ（トルコ風ストリングチーズ）は、乳製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 딜 치즈 (터키식 스트링 치즈)은(는) 우유 및 유제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Dil Peyniri, Süt ve Süt Ürünleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Dil Cheese (Turkish String Cheese), Milk and Dairy Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, جبنة ديل (جبنة الخيوط التركية), الحليب ومنتجات الألبان",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Dil-Käse (türkischer Fadenkäse), Milch und Milchprodukte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ディルチーズ（トルコ風ストリングチーズ）, 乳製品",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 딜 치즈 (터키식 스트링 치즈), 우유 및 유제품"
+  },
+  "path": "dil-peyniri",
+  "icon": "egg",
+  "category": "c07kuruseb",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 183,
+  "url": "",
+  "text": {
+    "tr": "<h2>Dil Peyniri</h2><p>Tufan Organik Dil Peyniri, Süt ve Süt Ürünleri grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Dil Cheese (Turkish String Cheese)</h2><p>Tufan Organik Dil Cheese (Turkish String Cheese) belongs to the Milk and Dairy Products range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>جبنة ديل (جبنة الخيوط التركية)</h2><p>جبنة ديل (جبنة الخيوط التركية) من توفان أورغانيك ضمن مجموعة الحليب ومنتجات الألبان. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Dil-Käse (türkischer Fadenkäse)</h2><p>Tufan Organik Dil-Käse (türkischer Fadenkäse) gehört zur Gruppe Milch und Milchprodukte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>ディルチーズ（トルコ風ストリングチーズ）</h2><p>Tufan Organik ディルチーズ（トルコ風ストリングチーズ）は乳製品カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>딜 치즈 (터키식 스트링 치즈)</h2><p>Tufan Organik 딜 치즈 (터키식 스트링 치즈)은(는) 우유 및 유제품군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Dil Peyniri | Tufan Organik",
+    "en": "Dil Cheese (Turkish String Cheese) | Tufan Organik",
+    "ar": "جبنة ديل (جبنة الخيوط التركية) | Tufan Organik",
+    "de": "Dil-Käse (türkischer Fadenkäse) | Tufan Organik",
+    "ja": "ディルチーズ（トルコ風ストリングチーズ） | Tufan Organik",
+    "ko": "딜 치즈 (터키식 스트링 치즈) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:27:37.443Z",
+  "update": "2026-11-06T07:27:38.037Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

@@ -27,13 +27,13 @@
   "path": "arpa-unu",
   "icon": "grain",
   "category": "c17iqfmey",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 232,
+  "index": 484,
   "url": "",
   "text": {
     "tr": "<h2>Arpa Unu</h2><p>Arpanın öğütülmesiyle elde edilen, ekmeğe doyurucu ve hafif tatlı bir tat veren geleneksel un. Karışık ekmek ve çorbalarda kullanılır.</p><h3>Kullanım Önerisi</h3><ul><li>Çorbaları kıvamlandırmak için birkaç yemek kaşığı ekleyin.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "大麦粉 | Tufan Organik"
   },
   "date": "2026-11-02T10:42:45.000Z",
-  "update": "2026-11-02T10:42:45.000Z",
+  "update": "2026-11-06T07:38:10.514Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

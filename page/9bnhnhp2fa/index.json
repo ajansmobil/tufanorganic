@@ -1,0 +1,62 @@
+{
+  "id": "9bnhnhp2fa",
+  "name": {
+    "tr": "Kara Dut Ekşisi",
+    "en": "Black Mulberry Concentrate (Ekşi)",
+    "ar": "مركّز التوت الأسود الحامض (إكشي)",
+    "de": "Schwarzes Maulbeerkonzentrat (Ekşi)",
+    "ja": "黒桑の実酸味濃縮液（エクシ）",
+    "ko": "검은 오디 농축액 (에크시)"
+  },
+  "description": {
+    "tr": "Tufan Organik Kara Dut Ekşisi, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Black Mulberry Concentrate (Ekşi), from the Sour, Hot and Sweet Special Sauces, Vinegars and Beverages range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik مركّز التوت الأسود الحامض (إكشي)، من مجموعة الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Schwarzes Maulbeerkonzentrat (Ekşi) aus der Gruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 黒桑の実酸味濃縮液（エクシ）は、酸味・辛味・甘味の特別ソース、酢、飲料カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 검은 오디 농축액 (에크시)은(는) 새콤·매콤·달콤 특선 소스, 식초 및 음료군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Kara Dut Ekşisi, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Black Mulberry Concentrate (Ekşi), Sour, Hot and Sweet Special Sauces, Vinegars and Beverages",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, مركّز التوت الأسود الحامض (إكشي), الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Schwarzes Maulbeerkonzentrat (Ekşi), Saure, scharfe und süße Spezialsaucen, Essig und Getränke",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 黒桑の実酸味濃縮液（エクシ）, 酸味・辛味・甘味の特別ソース、酢、飲料",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 검은 오디 농축액 (에크시), 새콤·매콤·달콤 특선 소스, 식초 및 음료"
+  },
+  "path": "kara-dut-eksisi",
+  "icon": "breakfast_dining",
+  "category": "obbkh64oa1",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 17,
+  "url": "",
+  "text": {
+    "tr": "<h2>Kara Dut Ekşisi</h2><p>Tufan Organik Kara Dut Ekşisi, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Black Mulberry Concentrate (Ekşi)</h2><p>Tufan Organik Black Mulberry Concentrate (Ekşi) belongs to the Sour, Hot and Sweet Special Sauces, Vinegars and Beverages range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>مركّز التوت الأسود الحامض (إكشي)</h2><p>مركّز التوت الأسود الحامض (إكشي) من توفان أورغانيك ضمن مجموعة الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Schwarzes Maulbeerkonzentrat (Ekşi)</h2><p>Tufan Organik Schwarzes Maulbeerkonzentrat (Ekşi) gehört zur Gruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>黒桑の実酸味濃縮液（エクシ）</h2><p>Tufan Organik 黒桑の実酸味濃縮液（エクシ）は酸味・辛味・甘味の特別ソース、酢、飲料カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>검은 오디 농축액 (에크시)</h2><p>Tufan Organik 검은 오디 농축액 (에크시)은(는) 새콤·매콤·달콤 특선 소스, 식초 및 음료군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Kara Dut Ekşisi | Tufan Organik",
+    "en": "Black Mulberry Concentrate (Ekşi) | Tufan Organik",
+    "ar": "مركّز التوت الأسود الحامض (إكشي) | Tufan Organik",
+    "de": "Schwarzes Maulbeerkonzentrat (Ekşi) | Tufan Organik",
+    "ja": "黒桑の実酸味濃縮液（エクシ） | Tufan Organik",
+    "ko": "검은 오디 농축액 (에크시) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:32:16.215Z",
+  "update": "2026-11-06T07:32:17.458Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

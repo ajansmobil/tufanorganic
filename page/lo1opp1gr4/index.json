@@ -1,0 +1,62 @@
+{
+  "id": "lo1opp1gr4",
+  "name": {
+    "tr": "Dondurulmuş Kabak (Yassı ve Küp Dilimlenmiş)",
+    "en": "Frozen Zucchini (Flat Sliced and Diced)",
+    "ar": "كوسا مجمدة (شرائح مسطحة ومكعبات)",
+    "de": "Tiefgefrorene Zucchini (in flachen Scheiben und gewürfelt)",
+    "ja": "冷凍ズッキーニ（フラットスライス・ダイスカット）",
+    "ko": "냉동 호박 (납작 슬라이스 & 큐브)"
+  },
+  "description": {
+    "tr": "Tufan Organik Dondurulmuş Kabak (Yassı ve Küp Dilimlenmiş), Dondurulmuş Sebze Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Frozen Zucchini (Flat Sliced and Diced), from the Frozen Vegetables range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik كوسا مجمدة (شرائح مسطحة ومكعبات)، من مجموعة الخضروات المجمدة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Tiefgefrorene Zucchini (in flachen Scheiben und gewürfelt) aus der Gruppe Tiefkühl-Gemüse – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 冷凍ズッキーニ（フラットスライス・ダイスカット）は、凍結野菜カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 냉동 호박 (납작 슬라이스 & 큐브)은(는) 냉동 채소군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Dondurulmuş Kabak (Yassı ve Küp Dilimlenmiş), Dondurulmuş Sebze Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Frozen Zucchini (Flat Sliced and Diced), Frozen Vegetables",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, كوسا مجمدة (شرائح مسطحة ومكعبات), الخضروات المجمدة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Tiefgefrorene Zucchini (in flachen Scheiben und gewürfelt), Tiefkühl-Gemüse",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 冷凍ズッキーニ（フラットスライス・ダイスカット）, 凍結野菜",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 냉동 호박 (납작 슬라이스 & 큐브), 냉동 채소"
+  },
+  "path": "dondurulmus-kabak",
+  "icon": "ac_unit",
+  "category": "c16iqfseb",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 59,
+  "url": "",
+  "text": {
+    "tr": "<h2>Dondurulmuş Kabak (Yassı ve Küp Dilimlenmiş)</h2><p>Tufan Organik Dondurulmuş Kabak (Yassı ve Küp Dilimlenmiş), Dondurulmuş Sebze Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Frozen Zucchini (Flat Sliced and Diced)</h2><p>Tufan Organik Frozen Zucchini (Flat Sliced and Diced) belongs to the Frozen Vegetables range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>كوسا مجمدة (شرائح مسطحة ومكعبات)</h2><p>كوسا مجمدة (شرائح مسطحة ومكعبات) من توفان أورغانيك ضمن مجموعة الخضروات المجمدة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Tiefgefrorene Zucchini (in flachen Scheiben und gewürfelt)</h2><p>Tufan Organik Tiefgefrorene Zucchini (in flachen Scheiben und gewürfelt) gehört zur Gruppe Tiefkühl-Gemüse. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>冷凍ズッキーニ（フラットスライス・ダイスカット）</h2><p>Tufan Organik 冷凍ズッキーニ（フラットスライス・ダイスカット）は凍結野菜カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>냉동 호박 (납작 슬라이스 & 큐브)</h2><p>Tufan Organik 냉동 호박 (납작 슬라이스 & 큐브)은(는) 냉동 채소군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Dondurulmuş Kabak (Yassı ve Küp Dilimlenmiş) | Tufan Organik",
+    "en": "Frozen Zucchini (Flat Sliced and Diced) | Tufan Organik",
+    "ar": "كوسا مجمدة (شرائح مسطحة ومكعبات) | Tufan Organik",
+    "de": "Tiefgefrorene Zucchini (in flachen Scheiben und gewürfelt) | Tufan Organik",
+    "ja": "冷凍ズッキーニ（フラットスライス・ダイスカット） | Tufan Organik",
+    "ko": "냉동 호박 (납작 슬라이스 & 큐브) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:30:44.743Z",
+  "update": "2026-11-06T07:30:45.758Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

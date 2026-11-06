@@ -27,13 +27,13 @@
   "path": "baharat-unlu-makarna",
   "icon": "breakfast_dining",
   "category": "c04yerfist",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 52,
+  "index": 304,
   "url": "",
   "text": {
     "tr": "<h2>Baharat Unlu Makarna ile Sade Tabaklara Aroma</h2><p>Hamuruna öğütülmüş baharat katılarak hazırlanan bu makarna, sos eklenmeden önce bile kendine ait hafif bir aroma taşır. Haşlandığında dişe gelen kıvamını korur, yüzeyindeki küçük baharat zerrecikleri de tabakta hoş bir görünüm oluşturur. Gündelik makarnadan biraz farklı bir şey arayanlar için kolay bir değişikliktir.</p><p>Kendi aroması olduğu için ağır soslara ihtiyaç duymaz; zeytinyağı, tereyağı ya da hafif bir domates sosu çoğu zaman yeterlidir. Haşlarken ara ara tadarak süreyi ayarlamak, kıvamını korumanın en kolay yoludur. Tufan Organik makarna grubunda bu çeşidi, sade tariflerle bile farklı bir sonuç almak isteyenler için öneriyor.</p><h3>Kullanım Önerileri</h3><ul><li>Tereyağında çevrilmiş sarımsak ve pul biberle kısa sürede doyurucu bir tabak hazırlayın.</li><li>Soğuk makarna salatasında közlenmiş biber, zeytin ve beyaz peynirle birleştirin.</li><li>Fırında sebzeli makarna için kabak, patlıcan ve domatesle kat kat dizin.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "スパイス入り小麦粉パスタ | Tufan Organik"
   },
   "date": "2026-10-28T08:16:23.079Z",
-  "update": "2026-10-28T09:07:29.000Z",
+  "update": "2026-11-06T07:35:14.928Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

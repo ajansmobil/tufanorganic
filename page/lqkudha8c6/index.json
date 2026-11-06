@@ -27,13 +27,13 @@
   "path": "kizilcik-suyu",
   "icon": "breakfast_dining",
   "category": "c10meyves",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 38,
+  "index": 290,
   "url": "",
   "text": {
     "tr": "<h2>Kızılcık Suyu: Ekşi ve Tatlı Bir Serinlik</h2>\n<p>Kızılcık suyu, parlak kırmızı renkli yaban meyvesi kızılcıktan hazırlanan bir içecektir. Tadı belirgin biçimde ekşidir ve arkasından gelen hafif bir tatlılıkla dengelenir. Soğuk servis edildiğinde ferahlatıcıdır; geleneksel olarak sofralarda şerbet gibi içilir, kahvaltıdan akşam yemeğine kadar farklı öğünlere eşlik eder.</p>\n<p>Tufan Organik'in meyve suyu çeşitleri arasında yer alan kızılcık suyu, keskin ve canlı tatları sevenler için iyi bir seçenektir. Şişeyi açmadan önce hafifçe çalkalamak, meyve kısmının içeceğe eşit dağılmasını sağlar. Doğrudan içilebildiği gibi maden suyu ya da buzla inceltilerek de servis edilebilir.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Buz, nane yaprağı ve maden suyuyla ferah bir yaz içeceği hazırlayın.</li>\n<li>Kızılcık suyunu nişastayla kıvamlandırıp hafif bir meyve pelteği yapın.</li>\n<li>Misafir sofralarında soğuk bardaklarda şerbet gibi ikram edin.</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "コーネリアンチェリージュース | Tufan Organik"
   },
   "date": "2026-10-28T08:16:25.556Z",
-  "update": "2026-10-28T09:07:50.546Z",
+  "update": "2026-11-06T07:35:03.834Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

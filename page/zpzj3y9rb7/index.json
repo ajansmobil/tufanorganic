@@ -1,0 +1,62 @@
+{
+  "id": "zpzj3y9rb7",
+  "name": {
+    "tr": "Organik Fettucine",
+    "en": "Organic Fettuccine",
+    "ar": "فيتوتشيني عضوية",
+    "de": "Bio-Fettuccine",
+    "ja": "有機フェットチーネ",
+    "ko": "유기농 페투치네"
+  },
+  "description": {
+    "tr": "Tufan Organik Fettucine, Makarna Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Fettuccine, from the Pasta Group range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik فيتوتشيني عضوية، من مجموعة مجموعة المعكرونة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Bio-Fettuccine aus der Gruppe Nudeln und Teigwaren – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 有機フェットチーネは、パスタカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 유기농 페투치네은(는) 파스타 그룹군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Organik Fettucine, Makarna Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Organic Fettuccine, Pasta Group",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, فيتوتشيني عضوية, مجموعة المعكرونة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Bio-Fettuccine, Nudeln und Teigwaren",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 有機フェットチーネ, パスタ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 유기농 페투치네, 파스타 그룹"
+  },
+  "path": "organik-fettucine",
+  "icon": "breakfast_dining",
+  "category": "c04yerfist",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 220,
+  "url": "",
+  "text": {
+    "tr": "<h2>Organik Fettucine</h2><p>Tufan Organik Fettucine, Makarna Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Organic Fettuccine</h2><p>Tufan Organik Fettuccine belongs to the Pasta Group range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>فيتوتشيني عضوية</h2><p>فيتوتشيني عضوية من توفان أورغانيك ضمن مجموعة مجموعة المعكرونة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Bio-Fettuccine</h2><p>Tufan Organik Bio-Fettuccine gehört zur Gruppe Nudeln und Teigwaren. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>有機フェットチーネ</h2><p>Tufan Organik 有機フェットチーネはパスタカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>유기농 페투치네</h2><p>Tufan Organik 유기농 페투치네은(는) 파스타 그룹군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Organik Fettucine | Tufan Organik",
+    "en": "Organic Fettuccine | Tufan Organik",
+    "ar": "فيتوتشيني عضوية | Tufan Organik",
+    "de": "Bio-Fettuccine | Tufan Organik",
+    "ja": "有機フェットチーネ | Tufan Organik",
+    "ko": "유기농 페투치네 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:27:00.832Z",
+  "update": "2026-11-06T07:33:50.803Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "0942myi85c",
+  "name": {
+    "tr": "Kayısı Pekmezi",
+    "en": "Apricot Molasses",
+    "ar": "دبس المشمش",
+    "de": "Aprikosensirup (Pekmez)",
+    "ja": "アプリコットペクメズ（濃縮果汁シロップ）",
+    "ko": "살구 페크메즈 (당밀)"
+  },
+  "description": {
+    "tr": "Tufan Organik Kayısı Pekmezi, Pekmez Çeşitleri, Tahin ve Helva grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Apricot Molasses, from the Molasses, Tahini and Halva range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik دبس المشمش، من مجموعة أنواع الدبس والطحينة والحلاوة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Aprikosensirup (Pekmez) aus der Gruppe Pekmez, Tahin und Halva – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik アプリコットペクメズ（濃縮果汁シロップ）は、ペクメズ、タヒニ、ハルヴァカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 살구 페크메즈 (당밀)은(는) 페크메즈, 타힌 및 할바군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Kayısı Pekmezi, Pekmez Çeşitleri, Tahin ve Helva",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Apricot Molasses, Molasses, Tahini and Halva",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, دبس المشمش, أنواع الدبس والطحينة والحلاوة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Aprikosensirup (Pekmez), Pekmez, Tahin und Halva",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, アプリコットペクメズ（濃縮果汁シロップ）, ペクメズ、タヒニ、ハルヴァ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 살구 페크메즈 (당밀), 페크메즈, 타힌 및 할바"
+  },
+  "path": "kayisi-pekmezi",
+  "icon": "water_drop",
+  "category": "c12sut",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 108,
+  "url": "",
+  "text": {
+    "tr": "<h2>Kayısı Pekmezi</h2><p>Tufan Organik Kayısı Pekmezi, Pekmez Çeşitleri, Tahin ve Helva grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Apricot Molasses</h2><p>Tufan Organik Apricot Molasses belongs to the Molasses, Tahini and Halva range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>دبس المشمش</h2><p>دبس المشمش من توفان أورغانيك ضمن مجموعة أنواع الدبس والطحينة والحلاوة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Aprikosensirup (Pekmez)</h2><p>Tufan Organik Aprikosensirup (Pekmez) gehört zur Gruppe Pekmez, Tahin und Halva. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>アプリコットペクメズ（濃縮果汁シロップ）</h2><p>Tufan Organik アプリコットペクメズ（濃縮果汁シロップ）はペクメズ、タヒニ、ハルヴァカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>살구 페크메즈 (당밀)</h2><p>Tufan Organik 살구 페크메즈 (당밀)은(는) 페크메즈, 타힌 및 할바군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Kayısı Pekmezi | Tufan Organik",
+    "en": "Apricot Molasses | Tufan Organik",
+    "ar": "دبس المشمش | Tufan Organik",
+    "de": "Aprikosensirup (Pekmez) | Tufan Organik",
+    "ja": "アプリコットペクメズ（濃縮果汁シロップ） | Tufan Organik",
+    "ko": "살구 페크메즈 (당밀) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:29:18.274Z",
+  "update": "2026-11-06T07:29:19.085Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

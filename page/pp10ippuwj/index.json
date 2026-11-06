@@ -1,0 +1,62 @@
+{
+  "id": "pp10ippuwj",
+  "name": {
+    "tr": "Organik Deniz Kabuğu",
+    "en": "Organic Conchiglie (Shell Pasta)",
+    "ar": "معكرونة صدفية عضوية (كونكيلي)",
+    "de": "Bio-Muschelnudeln (Conchiglie)",
+    "ja": "有機コンキリエ（貝殻形パスタ）",
+    "ko": "유기농 콘킬리에 (조개 모양 파스타)"
+  },
+  "description": {
+    "tr": "Tufan Organik Deniz Kabuğu, Makarna Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Conchiglie (Shell Pasta), from the Pasta Group range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik معكرونة صدفية عضوية (كونكيلي)، من مجموعة مجموعة المعكرونة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Bio-Muschelnudeln (Conchiglie) aus der Gruppe Nudeln und Teigwaren – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 有機コンキリエ（貝殻形パスタ）は、パスタカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 유기농 콘킬리에 (조개 모양 파스타)은(는) 파스타 그룹군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Organik Deniz Kabuğu, Makarna Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Organic Conchiglie (Shell Pasta), Pasta Group",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, معكرونة صدفية عضوية (كونكيلي), مجموعة المعكرونة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Bio-Muschelnudeln (Conchiglie), Nudeln und Teigwaren",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 有機コンキリエ（貝殻形パスタ）, パスタ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 유기농 콘킬리에 (조개 모양 파스타), 파스타 그룹"
+  },
+  "path": "organik-deniz-kabugu",
+  "icon": "breakfast_dining",
+  "category": "c04yerfist",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 209,
+  "url": "",
+  "text": {
+    "tr": "<h2>Organik Deniz Kabuğu</h2><p>Tufan Organik Deniz Kabuğu, Makarna Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Organic Conchiglie (Shell Pasta)</h2><p>Tufan Organik Conchiglie (Shell Pasta) belongs to the Pasta Group range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>معكرونة صدفية عضوية (كونكيلي)</h2><p>معكرونة صدفية عضوية (كونكيلي) من توفان أورغانيك ضمن مجموعة مجموعة المعكرونة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Bio-Muschelnudeln (Conchiglie)</h2><p>Tufan Organik Bio-Muschelnudeln (Conchiglie) gehört zur Gruppe Nudeln und Teigwaren. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>有機コンキリエ（貝殻形パスタ）</h2><p>Tufan Organik 有機コンキリエ（貝殻形パスタ）はパスタカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>유기농 콘킬리에 (조개 모양 파스타)</h2><p>Tufan Organik 유기농 콘킬리에 (조개 모양 파스타)은(는) 파스타 그룹군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Organik Deniz Kabuğu | Tufan Organik",
+    "en": "Organic Conchiglie (Shell Pasta) | Tufan Organik",
+    "ar": "معكرونة صدفية عضوية (كونكيلي) | Tufan Organik",
+    "de": "Bio-Muschelnudeln (Conchiglie) | Tufan Organik",
+    "ja": "有機コンキリエ（貝殻形パスタ） | Tufan Organik",
+    "ko": "유기농 콘킬리에 (조개 모양 파스타) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:27:11.037Z",
+  "update": "2026-11-06T07:34:04.159Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

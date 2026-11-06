@@ -27,13 +27,13 @@
   "path": "makarnalik-bugday-irmigi",
   "icon": "breakfast_dining",
   "category": "c04yerfist",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 48,
+  "index": 300,
   "url": "",
   "text": {
     "tr": "<h2>Makarnalık Buğday İrmiği: Evde Açılan Makarnanın Temeli</h2><p>Sert yapılı durum buğdayından elde edilen makarnalık irmik, altın sarısı rengi ve taneli dokusuyla normal undan hemen ayrılır. Daha iri ve kumlu yapısı sayesinde suyla yoğrulduğunda sıkı, esnek ve kolay şekil alan bir hamur oluşturur. Bu özelliği onu evde makarna yapanların ilk tercih ettiği malzemelerden biri yapar.</p><p>Makarnanın yanı sıra irmik helvası, revani, bazı ekmek ve pizza hamurları ile kızartmalarda çıtır bir kaplama için de kullanılır. Hamur açarken tezgâha serpilen irmik yapışmayı önler ve makarnanın yüzeyine hoş bir pürüz kazandırır. Tufan Organik makarna grubunda bu irmiği, kendi hamurunu hazırlamayı sevenler için sunuyor.</p><h3>Kullanım Önerileri</h3><ul><li>İrmik, su ve bir tutam tuzla yoğurduğunuz hamurdan erişte ya da kulak makarna şekillendirin.</li><li>Ev pizzası hamurunda unun bir kısmını irmikle değiştirerek tabana çıtırlık katın.</li><li>Balık ya da sebze dilimlerini kızartmadan önce irmiğe bulayarak altın renkli bir kabuk elde edin.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "パスタ用デュラム小麦セモリナ | Tufan Organik"
   },
   "date": "2026-10-28T08:16:23.754Z",
-  "update": "2026-10-28T09:07:24.153Z",
+  "update": "2026-11-06T07:35:11.204Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

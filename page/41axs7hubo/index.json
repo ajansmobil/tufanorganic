@@ -1,0 +1,62 @@
+{
+  "id": "41axs7hubo",
+  "name": {
+    "tr": "Organik Mantı",
+    "en": "Organic Mantı (Turkish Dumplings)",
+    "ar": "مانطي عضوية (فطائر محشوة تركية)",
+    "de": "Bio-Mantı (türkische Teigtaschen)",
+    "ja": "有機マントゥ（トルコ風水餃子）",
+    "ko": "유기농 만트 (터키식 만두)"
+  },
+  "description": {
+    "tr": "Tufan Organik Mantı, Makarna Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Mantı (Turkish Dumplings), from the Pasta Group range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik مانطي عضوية (فطائر محشوة تركية)، من مجموعة مجموعة المعكرونة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Bio-Mantı (türkische Teigtaschen) aus der Gruppe Nudeln und Teigwaren – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 有機マントゥ（トルコ風水餃子）は、パスタカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 유기농 만트 (터키식 만두)은(는) 파스타 그룹군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Organik Mantı, Makarna Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Organic Mantı (Turkish Dumplings), Pasta Group",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, مانطي عضوية (فطائر محشوة تركية), مجموعة المعكرونة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Bio-Mantı (türkische Teigtaschen), Nudeln und Teigwaren",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 有機マントゥ（トルコ風水餃子）, パスタ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 유기농 만트 (터키식 만두), 파스타 그룹"
+  },
+  "path": "organik-manti",
+  "icon": "breakfast_dining",
+  "category": "c04yerfist",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 213,
+  "url": "",
+  "text": {
+    "tr": "<h2>Organik Mantı</h2><p>Tufan Organik Mantı, Makarna Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Organic Mantı (Turkish Dumplings)</h2><p>Tufan Organik Mantı (Turkish Dumplings) belongs to the Pasta Group range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>مانطي عضوية (فطائر محشوة تركية)</h2><p>مانطي عضوية (فطائر محشوة تركية) من توفان أورغانيك ضمن مجموعة مجموعة المعكرونة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Bio-Mantı (türkische Teigtaschen)</h2><p>Tufan Organik Bio-Mantı (türkische Teigtaschen) gehört zur Gruppe Nudeln und Teigwaren. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>有機マントゥ（トルコ風水餃子）</h2><p>Tufan Organik 有機マントゥ（トルコ風水餃子）はパスタカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>유기농 만트 (터키식 만두)</h2><p>Tufan Organik 유기농 만트 (터키식 만두)은(는) 파스타 그룹군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Organik Mantı | Tufan Organik",
+    "en": "Organic Mantı (Turkish Dumplings) | Tufan Organik",
+    "ar": "مانطي عضوية (فطائر محشوة تركية) | Tufan Organik",
+    "de": "Bio-Mantı (türkische Teigtaschen) | Tufan Organik",
+    "ja": "有機マントゥ（トルコ風水餃子） | Tufan Organik",
+    "ko": "유기농 만트 (터키식 만두) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:27:07.350Z",
+  "update": "2026-11-06T07:33:59.245Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

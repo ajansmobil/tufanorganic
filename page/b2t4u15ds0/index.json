@@ -1,0 +1,62 @@
+{
+  "id": "b2t4u15ds0",
+  "name": {
+    "tr": "Hellim Peyniri",
+    "en": "Halloumi Cheese (Hellim)",
+    "ar": "جبنة حلوم",
+    "de": "Halloumi-Käse (Hellim)",
+    "ja": "ハルミチーズ（ヘッリム）",
+    "ko": "할루미 치즈 (헬림)"
+  },
+  "description": {
+    "tr": "Tufan Organik Hellim Peyniri, Süt ve Süt Ürünleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Halloumi Cheese (Hellim), from the Milk and Dairy Products range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik جبنة حلوم، من مجموعة الحليب ومنتجات الألبان، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Halloumi-Käse (Hellim) aus der Gruppe Milch und Milchprodukte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik ハルミチーズ（ヘッリム）は、乳製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 할루미 치즈 (헬림)은(는) 우유 및 유제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Hellim Peyniri, Süt ve Süt Ürünleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Halloumi Cheese (Hellim), Milk and Dairy Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, جبنة حلوم, الحليب ومنتجات الألبان",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Halloumi-Käse (Hellim), Milch und Milchprodukte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, ハルミチーズ（ヘッリム）, 乳製品",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 할루미 치즈 (헬림), 우유 및 유제품"
+  },
+  "path": "hellim-peyniri",
+  "icon": "egg",
+  "category": "c07kuruseb",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 185,
+  "url": "",
+  "text": {
+    "tr": "<h2>Hellim Peyniri</h2><p>Tufan Organik Hellim Peyniri, Süt ve Süt Ürünleri grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Halloumi Cheese (Hellim)</h2><p>Tufan Organik Halloumi Cheese (Hellim) belongs to the Milk and Dairy Products range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>جبنة حلوم</h2><p>جبنة حلوم من توفان أورغانيك ضمن مجموعة الحليب ومنتجات الألبان. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Halloumi-Käse (Hellim)</h2><p>Tufan Organik Halloumi-Käse (Hellim) gehört zur Gruppe Milch und Milchprodukte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>ハルミチーズ（ヘッリム）</h2><p>Tufan Organik ハルミチーズ（ヘッリム）は乳製品カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>할루미 치즈 (헬림)</h2><p>Tufan Organik 할루미 치즈 (헬림)은(는) 우유 및 유제품군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Hellim Peyniri | Tufan Organik",
+    "en": "Halloumi Cheese (Hellim) | Tufan Organik",
+    "ar": "جبنة حلوم | Tufan Organik",
+    "de": "Halloumi-Käse (Hellim) | Tufan Organik",
+    "ja": "ハルミチーズ（ヘッリム） | Tufan Organik",
+    "ko": "할루미 치즈 (헬림) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:27:35.205Z",
+  "update": "2026-11-06T07:27:35.796Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

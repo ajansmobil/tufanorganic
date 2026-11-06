@@ -27,13 +27,13 @@
   "path": "kuru-kizilcik",
   "icon": "breakfast_dining",
   "category": "c13konserve",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 26,
+  "index": 278,
   "url": "",
   "text": {
     "tr": "<h2>Kuru Kızılcık: Yaban Meyvesinin Kurutulmuş Hali</h2>\n<p>Kuru kızılcık, yaban meyvesi kızılcığın kurutulmuş halidir. Koyu kırmızı renkli, hafif buruşuk taneleri çiğnendiğinde ekşiyle tatlı arasında gidip gelen yoğun bir tat bırakır. Kendi başına atıştırmalık olarak yenebildiği gibi hoşaf, komposto ve tatlılarda da sıklıkla kullanılır; kuruyemiş tabaklarına da renk katar.</p>\n<p>Tufan Organik kurutulmuş meyve grubundaki kuru kızılcığı, mevsimi kısa olan bu yaban meyvesinin tadını yılın her döneminde sofraya getirmek için sunar. Ilık suda bir süre bekletildiğinde yumuşar ve hamur işlerine, pilavlara ya da et yemeklerine kolayca eklenebilir. Ceviz ve fındıkla karıştırıldığında renkli bir çerez tabağı oluşur.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Kuru kızılcığı karanfil ve tarçınla kaynatıp ekşimsi bir hoşaf yapın.</li>\n<li>İç pilava kuş üzümü yerine doğranmış kuru kızılcık ekleyin.</li>\n<li>Yoğurdun üzerine ceviz ve kuru kızılcık serperek kahvaltı kasesi hazırlayın.</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "乾燥コーネリアンチェリー | Tufan Organik"
   },
   "date": "2026-10-28T08:16:27.945Z",
-  "update": "2026-10-28T09:07:19.654Z",
+  "update": "2026-11-06T07:34:50.171Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

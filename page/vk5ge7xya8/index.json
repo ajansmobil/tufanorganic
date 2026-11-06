@@ -27,13 +27,13 @@
   "path": "pilavlik-bulgur",
   "icon": "breakfast_dining",
   "category": "c01fistik",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 66,
+  "index": 318,
   "url": "",
   "text": {
     "tr": "<h2>Pilavlık Bulgur: Tane Tane Pilavın Temeli</h2>\n<p>Bulgur, buğdaydan hazırlanan ve Anadolu sofralarının temel taşlarından biri olan bir tahıl ürünüdür. Pilavlık bulgur, pilava uygun tanelerden oluşur; piştiğinde taneleri birbirine yapışmaz, suyunu çekerek kabarır ve hafif fındıksı bir aroma bırakır. Domatesli, sebzeli ya da sade pilavların vazgeçilmez malzemesidir.</p>\n<p>Tufan Organik pilavlık bulguru ince ve iri olmak üzere iki seçenekle sunar; ince olan daha yumuşak ve çabuk pişen bir pilav verirken iri olan dolgun, tane tane bir sonuç bırakır. Tereyağında kavrulup sıcak suyla demlendiğinde mutfağı saran o tanıdık koku, sofradaki pek çok yemeğe eşlik eder.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Soğan, biber salçası ve domatesle klasik bulgur pilavı yapın.</li>\n<li>İri bulguru nohut ve şehriyeyle birlikte pişirerek doyurucu bir pilav hazırlayın.</li>\n<li>Patlıcan ya da kabak gibi sebzeleri pilavla aynı tencerede pişirerek tek kap bir yemek elde edin.</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "ピラフ用ブルグル | Tufan Organik"
   },
   "date": "2026-10-28T08:16:20.877Z",
-  "update": "2026-10-28T09:08:06.451Z",
+  "update": "2026-11-06T07:35:28.496Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

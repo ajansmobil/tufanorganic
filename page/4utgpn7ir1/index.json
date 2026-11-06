@@ -27,13 +27,13 @@
   "path": "koftelik-bulgur",
   "icon": "breakfast_dining",
   "category": "c01fistik",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 65,
+  "index": 317,
   "url": "",
   "text": {
     "tr": "<h2>İnce Taneli Köftelik Bulgur</h2>\n<p>Köftelik Bulgur, ince taneleriyle çiğ köfte, içli köfte ve kısır gibi tariflerin temel malzemesidir. Kaynatma gerektirmez; sıcak su ya da salçalı bir karışımla ıslatıldığında kısa sürede yumuşar ve kolayca yoğrulur. Tanelerin inceliği sayesinde baharatı ve salçayı iyice içine çeker, harca bütünlük kazandırır.</p>\n<p>Gaziantep mutfağında köftelik bulgur hemen her evin kilerinde bulunur; Tufan Organik olarak biz de bu alışkanlığa yakın duruyoruz. Yoğururken küçük dokunuşlarla su eklemek, hamurun dağılmadan şekil almasını sağlar. Kuru ve serin bir yerde, ağzı kapalı bir kapta saklamak tazeliğini korumanıza yardımcı olur.</p>\n<h3>Kullanım Önerileri</h3>\n<ul>\n<li>Bol isotlu, nar ekşili mercimekli köfte yoğurup marul yaprağıyla servis edin.</li>\n<li>Taze nane, maydanoz ve taze soğanla ferah bir kısır hazırlayın.</li>\n<li>İçli köftenin dış hamurunda irmikle birlikte kullanarak ince ve sağlam bir kabuk elde edin.</li>\n</ul>\n<p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "コフテ用細粒ブルグル | Tufan Organik"
   },
   "date": "2026-10-28T08:16:21.013Z",
-  "update": "2026-10-28T09:07:24.708Z",
+  "update": "2026-11-06T07:35:27.282Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

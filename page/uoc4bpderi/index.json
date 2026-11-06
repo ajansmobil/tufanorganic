@@ -1,0 +1,62 @@
+{
+  "id": "uoc4bpderi",
+  "name": {
+    "tr": "Ceviz Ezmesi (%100 Esmer ve Beyaz, Katkısız, Koruyucusuz, Şekersiz ve Doğal)",
+    "en": "Walnut Butter (100% Brown and White Walnuts, No Additives, No Preservatives, No Added Sugar and Natural)",
+    "ar": "زبدة الجوز (جوز أسمر وأبيض 100%، بدون إضافات، بدون مواد حافظة، بدون سكر وطبيعية)",
+    "de": "Walnussmus (100 % braune und helle Walnüsse, ohne Zusatzstoffe, ohne Konservierungsstoffe, ohne Zucker und natürlich)",
+    "ja": "クルミペースト（ブラウン・ホワイトクルミ100％、無添加・保存料不使用・砂糖不使用・天然）",
+    "ko": "호두 버터 (갈색 및 흰색 호두 100%, 무첨가, 무방부제, 무설탕, 천연)"
+  },
+  "description": {
+    "tr": "Tufan Organik Ceviz Ezmesi (%100 Esmer ve Beyaz, Katkısız, Koruyucusuz, Şekersiz ve Doğal), Kahvaltılık Ürünler grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Walnut Butter (100% Brown and White Walnuts, No Additives, No Preservatives, No Added Sugar and Natural), from the Breakfast Products range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik زبدة الجوز (جوز أسمر وأبيض 100%، بدون إضافات، بدون مواد حافظة، بدون سكر وطبيعية)، من مجموعة منتجات الإفطار، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Walnussmus (100 % braune und helle Walnüsse, ohne Zusatzstoffe, ohne Konservierungsstoffe, ohne Zucker und natürlich) aus der Gruppe Frühstücksprodukte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik クルミペースト（ブラウン・ホワイトクルミ100％、無添加・保存料不使用・砂糖不使用・天然）は、朝食メニューカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 호두 버터 (갈색 및 흰색 호두 100%, 무첨가, 무방부제, 무설탕, 천연)은(는) 아침식사 제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Ceviz Ezmesi (%100 Esmer ve Beyaz, Katkısız, Koruyucusuz, Şekersiz ve Doğal), Kahvaltılık Ürünler",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Walnut Butter (100% Brown and White Walnuts, No Additives, No Preservatives, No Added Sugar and Natural), Breakfast Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, زبدة الجوز (جوز أسمر وأبيض 100%، بدون إضافات، بدون مواد حافظة، بدون سكر وطبيعية), منتجات الإفطار",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Walnussmus (100 % braune und helle Walnüsse, ohne Zusatzstoffe, ohne Konservierungsstoffe, ohne Zucker und natürlich), Frühstücksprodukte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, クルミペースト（ブラウン・ホワイトクルミ100％、無添加・保存料不使用・砂糖不使用・天然）, 朝食メニュー",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 호두 버터 (갈색 및 흰색 호두 100%, 무첨가, 무방부제, 무설탕, 천연), 아침식사 제품"
+  },
+  "path": "ceviz-ezmesi",
+  "icon": "nutrition",
+  "category": "c06meycip",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 194,
+  "url": "",
+  "text": {
+    "tr": "<h2>Ceviz Ezmesi (%100 Esmer ve Beyaz, Katkısız, Koruyucusuz, Şekersiz ve Doğal)</h2><p>Tufan Organik Ceviz Ezmesi (%100 Esmer ve Beyaz, Katkısız, Koruyucusuz, Şekersiz ve Doğal), Kahvaltılık Ürünler grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Walnut Butter (100% Brown and White Walnuts, No Additives, No Preservatives, No Added Sugar and Natural)</h2><p>Tufan Organik Walnut Butter (100% Brown and White Walnuts, No Additives, No Preservatives, No Added Sugar and Natural) belongs to the Breakfast Products range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>زبدة الجوز (جوز أسمر وأبيض 100%، بدون إضافات، بدون مواد حافظة، بدون سكر وطبيعية)</h2><p>زبدة الجوز (جوز أسمر وأبيض 100%، بدون إضافات، بدون مواد حافظة، بدون سكر وطبيعية) من توفان أورغانيك ضمن مجموعة منتجات الإفطار. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Walnussmus (100 % braune und helle Walnüsse, ohne Zusatzstoffe, ohne Konservierungsstoffe, ohne Zucker und natürlich)</h2><p>Tufan Organik Walnussmus (100 % braune und helle Walnüsse, ohne Zusatzstoffe, ohne Konservierungsstoffe, ohne Zucker und natürlich) gehört zur Gruppe Frühstücksprodukte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>クルミペースト（ブラウン・ホワイトクルミ100％、無添加・保存料不使用・砂糖不使用・天然）</h2><p>Tufan Organik クルミペースト（ブラウン・ホワイトクルミ100％、無添加・保存料不使用・砂糖不使用・天然）は朝食メニューカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>호두 버터 (갈색 및 흰색 호두 100%, 무첨가, 무방부제, 무설탕, 천연)</h2><p>Tufan Organik 호두 버터 (갈색 및 흰색 호두 100%, 무첨가, 무방부제, 무설탕, 천연)은(는) 아침식사 제품군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Ceviz Ezmesi (%100 Esmer ve Beyaz, Katkısız, Koruyucusuz, Şekersiz ve Doğal) | Tufan Organik",
+    "en": "Walnut Butter (100% Brown and White Walnuts, No Additives, No Preservatives, No Added Sugar and Natural) | Tufan Organik",
+    "ar": "زبدة الجوز (جوز أسمر وأبيض 100%، بدون إضافات، بدون مواد حافظة، بدون سكر وطبيعية) | Tufan Organik",
+    "de": "Walnussmus (100 % braune und helle Walnüsse, ohne Zusatzstoffe, ohne Konservierungsstoffe, ohne Zucker und natürlich) | Tufan Organik",
+    "ja": "クルミペースト（ブラウン・ホワイトクルミ100％、無添加・保存料不使用・砂糖不使用・天然） | Tufan Organik",
+    "ko": "호두 버터 (갈색 및 흰색 호두 100%, 무첨가, 무방부제, 무설탕, 천연) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:27:25.324Z",
+  "update": "2026-11-06T07:27:25.891Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "pfq2slbbq5",
+  "name": {
+    "tr": "Organik Fasulye",
+    "en": "Organic Dry Beans",
+    "ar": "فاصوليا جافة عضوية",
+    "de": "Bio-Bohnen (getrocknet)",
+    "ja": "有機乾燥いんげん豆",
+    "ko": "유기농 강낭콩 (건조)"
+  },
+  "description": {
+    "tr": "Tufan Organik Fasulye, Bakliyat Grubu ve Ürünleri grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Dry Beans, from the Pulses and Pulse Products range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik فاصوليا جافة عضوية، من مجموعة البقوليات ومنتجاتها، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Bio-Bohnen (getrocknet) aus der Gruppe Hülsenfrüchte und Produkte – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik 有機乾燥いんげん豆は、豆類とその製品カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 유기농 강낭콩 (건조)은(는) 두류 및 두류 제품군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Organik Fasulye, Bakliyat Grubu ve Ürünleri",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Organic Dry Beans, Pulses and Pulse Products",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, فاصوليا جافة عضوية, البقوليات ومنتجاتها",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Bio-Bohnen (getrocknet), Hülsenfrüchte und Produkte",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, 有機乾燥いんげん豆, 豆類とその製品",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 유기농 강낭콩 (건조), 두류 및 두류 제품"
+  },
+  "path": "organik-fasulye",
+  "icon": "breakfast_dining",
+  "category": "c02findik",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 233,
+  "url": "",
+  "text": {
+    "tr": "<h2>Organik Fasulye</h2><p>Tufan Organik Fasulye, Bakliyat Grubu ve Ürünleri grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Organic Dry Beans</h2><p>Tufan Organik Dry Beans belongs to the Pulses and Pulse Products range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>فاصوليا جافة عضوية</h2><p>فاصوليا جافة عضوية من توفان أورغانيك ضمن مجموعة البقوليات ومنتجاتها. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Bio-Bohnen (getrocknet)</h2><p>Tufan Organik Bio-Bohnen (getrocknet) gehört zur Gruppe Hülsenfrüchte und Produkte. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>有機乾燥いんげん豆</h2><p>Tufan Organik 有機乾燥いんげん豆は豆類とその製品カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>유기농 강낭콩 (건조)</h2><p>Tufan Organik 유기농 강낭콩 (건조)은(는) 두류 및 두류 제품군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Organik Fasulye | Tufan Organik",
+    "en": "Organic Dry Beans | Tufan Organik",
+    "ar": "فاصوليا جافة عضوية | Tufan Organik",
+    "de": "Bio-Bohnen (getrocknet) | Tufan Organik",
+    "ja": "有機乾燥いんげん豆 | Tufan Organik",
+    "ko": "유기농 강낭콩 (건조) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:26:49.827Z",
+  "update": "2026-11-06T07:33:34.449Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

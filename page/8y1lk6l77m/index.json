@@ -1,0 +1,62 @@
+{
+  "id": "8y1lk6l77m",
+  "name": {
+    "tr": "Demirhindi Şerbeti",
+    "en": "Tamarind Sherbet (Şerbet)",
+    "ar": "شربات التمر هندي",
+    "de": "Tamarinden-Şerbet",
+    "ja": "タマリンドのシェルベット",
+    "ko": "타마린드 셰르베트"
+  },
+  "description": {
+    "tr": "Tufan Organik Demirhindi Şerbeti, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik Tamarind Sherbet (Şerbet), from the Sour, Hot and Sweet Special Sauces, Vinegars and Beverages range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik شربات التمر هندي، من مجموعة الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik Tamarinden-Şerbet aus der Gruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik タマリンドのシェルベットは、酸味・辛味・甘味の特別ソース、酢、飲料カテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik 타마린드 셰르베트은(는) 새콤·매콤·달콤 특선 소스, 식초 및 음료군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Demirhindi Şerbeti, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, Tamarind Sherbet (Şerbet), Sour, Hot and Sweet Special Sauces, Vinegars and Beverages",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, شربات التمر هندي, الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, Tamarinden-Şerbet, Saure, scharfe und süße Spezialsaucen, Essig und Getränke",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, タマリンドのシェルベット, 酸味・辛味・甘味の特別ソース、酢、飲料",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, 타마린드 셰르베트, 새콤·매콤·달콤 특선 소스, 식초 및 음료"
+  },
+  "path": "demirhindi-serbeti",
+  "icon": "lunch_dining",
+  "category": "obbkh64oa1",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 10,
+  "url": "",
+  "text": {
+    "tr": "<h2>Demirhindi Şerbeti</h2><p>Tufan Organik Demirhindi Şerbeti, Ekşi, Acı ve Tatlı Özel Soslar, Sirke ve İçecekler grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Tamarind Sherbet (Şerbet)</h2><p>Tufan Organik Tamarind Sherbet (Şerbet) belongs to the Sour, Hot and Sweet Special Sauces, Vinegars and Beverages range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>شربات التمر هندي</h2><p>شربات التمر هندي من توفان أورغانيك ضمن مجموعة الصلصات الخاصة الحامضة والحارة والحلوة والخل والمشروبات. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>Tamarinden-Şerbet</h2><p>Tufan Organik Tamarinden-Şerbet gehört zur Gruppe Saure, scharfe und süße Spezialsaucen, Essig und Getränke. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>タマリンドのシェルベット</h2><p>Tufan Organik タマリンドのシェルベットは酸味・辛味・甘味の特別ソース、酢、飲料カテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>타마린드 셰르베트</h2><p>Tufan Organik 타마린드 셰르베트은(는) 새콤·매콤·달콤 특선 소스, 식초 및 음료군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Demirhindi Şerbeti | Tufan Organik",
+    "en": "Tamarind Sherbet (Şerbet) | Tufan Organik",
+    "ar": "شربات التمر هندي | Tufan Organik",
+    "de": "Tamarinden-Şerbet | Tufan Organik",
+    "ja": "タマリンドのシェルベット | Tufan Organik",
+    "ko": "타마린드 셰르베트 | Tufan Organik"
+  },
+  "date": "2026-11-06T07:32:32.619Z",
+  "update": "2026-11-06T07:32:33.851Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}

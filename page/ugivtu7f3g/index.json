@@ -27,13 +27,13 @@
   "path": "mercimek-unu",
   "icon": "breakfast_dining",
   "category": "c02findik",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 56,
+  "index": 308,
   "url": "",
   "text": {
     "tr": "<h2>Mercimek Unu: Hamura ve Kıvama Yeni Bir Seçenek</h2><p>Kurutulmuş mercimek tanelerinin ince bir toz haline getirilmesiyle elde edilen mercimek unu, buğday unundan oldukça farklı bir karakter taşır. Açık sarımsı rengi, hafif topraksı kokusu ve yumuşak dokusuyla dikkat çeker. Sıvıyla birleştiğinde kolayca koyulaşır, pişince ise hoş ve hafif kavrulmuş bir tat bırakır.</p><p>Krep, pankek ve gözleme gibi tavada pişen hamurlarda, köfte ve mücver harçlarında bağlayıcı olarak kullanılabilir. Çorba ve soslara az miktarda eklendiğinde kıvam verir. Hamur işlerinde önce buğday unuyla karıştırarak başlamak, dokusunu tanımak için iyi bir yoldur. Tufan Organik bu unu, bakliyat grubunun pratik bir uzantısı olarak kataloğuna ekledi.</p><h3>Kullanım Önerileri</h3><ul><li>Su, tuz ve baharatla akışkan bir hamur hazırlayıp tavada ince mercimek krepleri pişirin.</li><li>Mücver harcında buğday unu yerine kullanarak kabak ve dereotunu bir arada tutun.</li><li>Sebze çorbalarına bir iki kaşık ekleyerek daha koyu bir kıvam elde edin.</li></ul><p><strong>Ambalaj:</strong> Farklı gramajlarda, talebe göre sunulur.</p>",
@@ -52,7 +52,7 @@
     "ja": "レンズ豆粉 | Tufan Organik"
   },
   "date": "2026-10-28T08:16:22.414Z",
-  "update": "2026-10-28T09:08:04.227Z",
+  "update": "2026-11-06T07:35:20.048Z",
   "desc": {
     "gramaj": "",
     "ambalaj": "",

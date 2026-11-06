@@ -1,0 +1,62 @@
+{
+  "id": "bqe9k5zwbv",
+  "name": {
+    "tr": "Tane Dondurulmuş Üzüm (Çekirdekli / Çekirdeksiz)",
+    "en": "IQF Frozen Grapes (Seeded / Seedless)",
+    "ar": "عنب مجمد فردياً (IQF) (بالبذور / بدون بذور)",
+    "de": "IQF-tiefgefrorene Weintrauben (mit Kernen / kernlos)",
+    "ja": "IQF冷凍ブドウ（種あり／種なし）",
+    "ko": "IQF 개별 급속 냉동 포도 (씨 있음 / 씨 없음)"
+  },
+  "description": {
+    "tr": "Tufan Organik Tane Dondurulmuş Üzüm (Çekirdekli / Çekirdeksiz), Dondurulmuş Meyve Grubu grubunda. Gürün/Sivas kökenli doğal gıda.",
+    "en": "Tufan Organik IQF Frozen Grapes (Seeded / Seedless), from the Frozen Fruits range, is a natural food with roots in Gürün/Sivas.",
+    "ar": "Tufan Organik عنب مجمد فردياً (IQF) (بالبذور / بدون بذور)، من مجموعة الفواكه المجمدة، غذاء طبيعي أصله من غورون/سيواس.",
+    "de": "Tufan Organik IQF-tiefgefrorene Weintrauben (mit Kernen / kernlos) aus der Gruppe Tiefkühl-Obst – ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas.",
+    "ja": "Tufan Organik IQF冷凍ブドウ（種あり／種なし）は、凍結フルーツカテゴリーに属する、ギュルン／スィヴァス産の自然食品です。",
+    "ko": "Tufan Organik IQF 개별 급속 냉동 포도 (씨 있음 / 씨 없음)은(는) 냉동 과일군에 속하는 귀륀/시바스 출신의 천연 식품입니다."
+  },
+  "keyword": {
+    "tr": "Tufan Organik, Gürün/Sivas, doğal gıda, Tane Dondurulmuş Üzüm (Çekirdekli / Çekirdeksiz), Dondurulmuş Meyve Grubu",
+    "en": "Tufan Organik, Gürün/Sivas, natural food, IQF Frozen Grapes (Seeded / Seedless), Frozen Fruits",
+    "ar": "Tufan Organik, غورون/سيواس, غذاء طبيعي, عنب مجمد فردياً (IQF) (بالبذور / بدون بذور), الفواكه المجمدة",
+    "de": "Tufan Organik, Gürün/Sivas, natürliche Lebensmittel, IQF-tiefgefrorene Weintrauben (mit Kernen / kernlos), Tiefkühl-Obst",
+    "ja": "Tufan Organik, ギュルン／スィヴァス, 自然食品, IQF冷凍ブドウ（種あり／種なし）, 凍結フルーツ",
+    "ko": "Tufan Organik, 귀륀/시바스, 천연 식품, IQF 개별 급속 냉동 포도 (씨 있음 / 씨 없음), 냉동 과일"
+  },
+  "path": "tane-dondurulmus-uzum",
+  "icon": "ac_unit",
+  "category": "c14siviya",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 74,
+  "url": "",
+  "text": {
+    "tr": "<h2>Tane Dondurulmuş Üzüm (Çekirdekli / Çekirdeksiz)</h2><p>Tufan Organik Tane Dondurulmuş Üzüm (Çekirdekli / Çekirdeksiz), Dondurulmuş Meyve Grubu grubunda yer alır. Gürün/Sivas kökenli doğal gıdadır; ürün, ambalaj ve sipariş bilgisi için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>IQF Frozen Grapes (Seeded / Seedless)</h2><p>Tufan Organik IQF Frozen Grapes (Seeded / Seedless) belongs to the Frozen Fruits range. It is a natural food with roots in Gürün/Sivas; contact us for product, packaging and order details.</p>",
+    "ar": "<h2>عنب مجمد فردياً (IQF) (بالبذور / بدون بذور)</h2><p>عنب مجمد فردياً (IQF) (بالبذور / بدون بذور) من توفان أورغانيك ضمن مجموعة الفواكه المجمدة. غذاء طبيعي أصله من غورون/سيواس؛ تواصلوا معنا للحصول على معلومات المنتج والتعبئة والطلب.</p>",
+    "de": "<h2>IQF-tiefgefrorene Weintrauben (mit Kernen / kernlos)</h2><p>Tufan Organik IQF-tiefgefrorene Weintrauben (mit Kernen / kernlos) gehört zur Gruppe Tiefkühl-Obst. Ein natürliches Lebensmittel mit Wurzeln in Gürün/Sivas; für Produkt-, Verpackungs- und Bestellinformationen kontaktieren Sie uns.</p>",
+    "ja": "<h2>IQF冷凍ブドウ（種あり／種なし）</h2><p>Tufan Organik IQF冷凍ブドウ（種あり／種なし）は凍結フルーツカテゴリーの製品です。ギュルン／スィヴァス産の自然食品です。製品・包装・ご注文の詳細はお問い合わせください。</p>",
+    "ko": "<h2>IQF 개별 급속 냉동 포도 (씨 있음 / 씨 없음)</h2><p>Tufan Organik IQF 개별 급속 냉동 포도 (씨 있음 / 씨 없음)은(는) 냉동 과일군에 속합니다. 귀륀/시바스 출신의 천연 식품이며, 제품·포장·주문 정보는 문의해 주세요.</p>"
+  },
+  "title": {
+    "tr": "Tane Dondurulmuş Üzüm (Çekirdekli / Çekirdeksiz) | Tufan Organik",
+    "en": "IQF Frozen Grapes (Seeded / Seedless) | Tufan Organik",
+    "ar": "عنب مجمد فردياً (IQF) (بالبذور / بدون بذور) | Tufan Organik",
+    "de": "IQF-tiefgefrorene Weintrauben (mit Kernen / kernlos) | Tufan Organik",
+    "ja": "IQF冷凍ブドウ（種あり／種なし） | Tufan Organik",
+    "ko": "IQF 개별 급속 냉동 포도 (씨 있음 / 씨 없음) | Tufan Organik"
+  },
+  "date": "2026-11-06T07:30:15.891Z",
+  "update": "2026-11-06T07:30:16.820Z",
+  "desc": {
+    "gramaj": "",
+    "ambalaj": "",
+    "mensei": ""
+  },
+  "img": "index.webp"
+}
