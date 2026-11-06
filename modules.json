@@ -45,7 +45,8 @@
         "logopadmobil": "0",
         "logomaxh": "84px",
         "langcolor": "currentColor",
-        "langbg": "transparent"
+        "langbg": "transparent",
+        "tekSatir": ""
       },
       "version": "1.0.0",
       "icon": "menu"
@@ -1348,6 +1349,38 @@
       "path": "slider-kenburns",
       "local": "header",
       "index": 16
+    },
+    {
+      "name": "Kategori Görsel + QR",
+      "desing": {
+        "height": "120",
+        "opacity": "0.5",
+        "font-size": "42",
+        "backgroundcolor": "#F3ECDD",
+        "textcolor": "#0E2347",
+        "imgpattern": "/img/kategori/{path}.webp",
+        "caption": {
+          "tr": "Bu kategoriye ulaşmak için QR kodu telefonunuzla okutun",
+          "en": "Scan the QR code with your phone to open this category",
+          "ar": "امسح رمز QR بهاتفك للوصول إلى هذه الفئة",
+          "de": "Scannen Sie den QR-Code mit Ihrem Telefon, um diese Kategorie zu öffnen",
+          "ja": "スマートフォンでQRコードを読み取ると、このカテゴリに移動します",
+          "ko": "휴대폰으로 QR 코드를 스캔하면 이 카테고리로 이동합니다"
+        },
+        "category": "page"
+      },
+      "category": "page",
+      "description": "Kategori sayfası için başlık bandı, kategori görseli ve sayfa adresinden RENDER ANINDA üretilen QR kodu (bağımlılıksız ISO 18004 üreticisi, SVG). QR aktif dilin sayfa adresine gider; görsel page.img ya da desing.imgpattern ({path} = sayfa yolu) ile gelir.",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "v2sxod",
+      "path": "page-qr-img",
+      "local": "body",
+      "data": [],
+      "index": 17
     }
   ]
 }

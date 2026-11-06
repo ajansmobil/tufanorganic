@@ -45,14 +45,14 @@
     "ko": "아침식사 제품 | Tufan Organik"
   },
   "text": {
-    "tr": "<section class=\"kategori-qr\" style=\"display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center;margin:10px 0 20px\"><a href=\"https://tufanorganic.com/tr/kahvaltilik-urunler/\"><img src=\"/img/qr/kahvaltilik-urunler.png\" alt=\"Kahvaltılık Ürünler - QR kodu\" width=\"180\" height=\"180\" loading=\"lazy\" style=\"background:#fff;padding:8px;border-radius:10px;border:1px solid #ddd\"></a><p>Bu kategoriye doğrudan ulaşmak için QR kodu telefonunuzla okutun.</p></section>",
-    "en": "<section class=\"kategori-qr\" style=\"display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center;margin:10px 0 20px\"><a href=\"https://tufanorganic.com/tr/kahvaltilik-urunler/\"><img src=\"/img/qr/kahvaltilik-urunler.png\" alt=\"Breakfast Products - QR code\" width=\"180\" height=\"180\" loading=\"lazy\" style=\"background:#fff;padding:8px;border-radius:10px;border:1px solid #ddd\"></a><p>Scan the QR code with your phone to go straight to this category.</p></section>",
-    "ar": "<section class=\"kategori-qr\" dir=\"rtl\" style=\"display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center;margin:10px 0 20px\"><a href=\"https://tufanorganic.com/tr/kahvaltilik-urunler/\"><img src=\"/img/qr/kahvaltilik-urunler.png\" alt=\"منتجات الإفطار - رمز QR\" width=\"180\" height=\"180\" loading=\"lazy\" style=\"background:#fff;padding:8px;border-radius:10px;border:1px solid #ddd\"></a><p>امسح رمز QR بهاتفك للوصول مباشرة إلى هذه الفئة.</p></section>",
-    "de": "<section class=\"kategori-qr\" style=\"display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center;margin:10px 0 20px\"><a href=\"https://tufanorganic.com/tr/kahvaltilik-urunler/\"><img src=\"/img/qr/kahvaltilik-urunler.png\" alt=\"Frühstücksprodukte - QR-Code\" width=\"180\" height=\"180\" loading=\"lazy\" style=\"background:#fff;padding:8px;border-radius:10px;border:1px solid #ddd\"></a><p>Scannen Sie den QR-Code mit Ihrem Telefon, um direkt zu dieser Kategorie zu gelangen.</p></section>",
-    "ja": "<section class=\"kategori-qr\" style=\"display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center;margin:10px 0 20px\"><a href=\"https://tufanorganic.com/tr/kahvaltilik-urunler/\"><img src=\"/img/qr/kahvaltilik-urunler.png\" alt=\"朝食メニュー - QRコード\" width=\"180\" height=\"180\" loading=\"lazy\" style=\"background:#fff;padding:8px;border-radius:10px;border:1px solid #ddd\"></a><p>スマートフォンでQRコードを読み取ると、このカテゴリーに直接移動できます。</p></section>",
-    "ko": "<section class=\"kategori-qr\" style=\"display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center;margin:10px 0 20px\"><a href=\"https://tufanorganic.com/tr/kahvaltilik-urunler/\"><img src=\"/img/qr/kahvaltilik-urunler.png\" alt=\"아침식사 제품 - QR 코드\" width=\"180\" height=\"180\" loading=\"lazy\" style=\"background:#fff;padding:8px;border-radius:10px;border:1px solid #ddd\"></a><p>휴대폰으로 QR 코드를 스캔하면 이 카테고리로 바로 이동합니다.</p></section>"
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ja": "",
+    "ko": ""
   },
-  "update": "2026-11-06T07:12:21.739Z",
+  "update": "2026-11-06T08:36:17.383Z",
   "date": "2026-05-20T09:54:46.189Z",
   "categorypage": "products",
   "slider": []
